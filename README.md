@@ -1,14 +1,17 @@
 # Quiz en familia
-Web móvil estática para GitHub Pages con tres juegos: Friends, Stranger Things y La Patrulla Canina.
+Aplicación móvil estática para GitHub Pages con Friends, Stranger Things y La Patrulla Canina.
 
-## Funciones
-- Portada común para seleccionar quiz.
-- 300 registros de preguntas por serie, organizados por personajes, lugares y eventos.
-- Dificultad fácil, media y difícil.
-- Modo individual y 1 contra 1 por turnos en el mismo móvil.
+## Versión revisada
+- 500 formulaciones por serie.
+- Preguntas reescritas para mencionar expresamente el personaje o asunto y evitar pronombres ambiguos.
+- Friends y Stranger Things dan más peso al nivel difícil.
+- La Patrulla Canina da más peso al nivel fácil.
+- Dificultades fácil, media y difícil.
+- Individual y 1 contra 1 por turnos.
 - Partidas de 10, 20 o 30 preguntas.
 
-## Publicación
-Sube todos los archivos del ZIP a la raíz del repositorio y activa GitHub Pages desde la rama `main`, carpeta `/ (root)`.
+## Imágenes
+Las tres imágenes incluidas son ilustraciones originales. Puedes sustituir `friends.webp`, `stranger.webp` y `patrulla.webp` por imágenes que tengas derecho a usar, conservando exactamente esos nombres.
 
-Proyecto privado no oficial. Las imágenes incluidas son ilustraciones originales generadas para la aplicación y no son fotogramas ni material promocional oficial.
+## GitHub Pages
+Sube los archivos a la raíz del repositorio y activa Pages desde `main`, carpeta `/ (root)`.

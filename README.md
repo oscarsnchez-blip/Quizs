@@ -1,12 +1,18 @@
-# Quiz en familia
-Versión revisada para evitar repeticiones entre partidas.
+# Quiz en familia v5
 
-## Cambios
-- Barajado Fisher-Yates con `crypto.getRandomValues`.
-- Historial local independiente para cada serie y dificultad.
-- Una pregunta contestada no vuelve a aparecer en partidas posteriores hasta agotar el conjunto elegido.
-- Al agotarse el conjunto, comienza automáticamente una ronda nueva.
-- Friends y Stranger Things incorporan 30 preguntas difíciles nuevas por serie, repartidas entre temporadas y escenas distintas.
-- Se eliminaron las variantes artificiales que repetían el mismo hecho con otro encabezado.
+Aplicación web progresiva instalable desde Chrome en Android y ordenador.
 
-Sube todos los archivos a la raíz de GitHub Pages.
+## Instalación en Android con Chrome
+1. Abre la dirección de GitHub Pages.
+2. Pulsa el menú de los tres puntos.
+3. Elige **Instalar aplicación** o **Añadir a pantalla de inicio**.
+4. Confirma la instalación.
+
+## Cambios técnicos
+- `manifest.webmanifest` con modo `standalone` y orientación vertical.
+- Iconos PWA de 192 y 512 píxeles.
+- `sw.js` para instalación y uso sin conexión después de la primera carga.
+- Caché `quiz-en-familia-v5` y referencias `?v=5` para retirar la versión anterior.
+- Se conserva la baraja persistente antirrepetición v4.
+
+GitHub Pages sirve por HTTPS, requisito necesario para instalar una PWA. Sustituye todos los archivos del repositorio por los incluidos en este ZIP.

@@ -1,1 +1,4252 @@
-window.BANK_STRANGER=[{"block":"Eleven","difficulty":"Fácil","q":"¿Cuál es número de Eleven?","a":"011","d":["001","008","013"],"x":"El/la número de Eleven es 011.","season":"General","id":"stranger-v7-0-directa","fact":"stranger-v7-0-directa","show":"stranger","kind":"directa"},{"block":"Eleven","difficulty":"Fácil","q":"¿Cuál es comida favorita de Eleven?","a":"Gofres Eggo","d":["Pizza","Hamburguesas","Cereales"],"x":"El/la comida favorita de Eleven es Gofres Eggo.","season":"General","id":"stranger-v7-1-directa","fact":"stranger-v7-1-directa","show":"stranger","kind":"directa"},{"block":"Eleven","difficulty":"Media","q":"¿Cuál es padre adoptivo de Eleven?","a":"Jim Hopper","d":["Martin Brenner","Sam Owens","Bob Newby"],"x":"El/la padre adoptivo de Eleven es Jim Hopper.","season":"General","id":"stranger-v7-2-directa","fact":"stranger-v7-2-directa","show":"stranger","kind":"directa"},{"block":"Eleven","difficulty":"Difícil","q":"¿Cuál es nombre legal de Eleven?","a":"Jane Hopper","d":["Jane Wheeler","El Byers","Sara Hopper"],"x":"El/la nombre legal de Eleven es Jane Hopper.","season":"General","id":"stranger-v7-3-directa","fact":"stranger-v7-3-directa","show":"stranger","kind":"directa"},{"block":"Mike","difficulty":"Fácil","q":"¿Cuál es apellido de Mike?","a":"Wheeler","d":["Byers","Henderson","Sinclair"],"x":"El/la apellido de Mike es Wheeler.","season":"General","id":"stranger-v7-4-directa","fact":"stranger-v7-4-directa","show":"stranger","kind":"directa"},{"block":"Mike","difficulty":"Media","q":"¿Cuál es hermana mayor de Mike?","a":"Nancy","d":["Erica","Robin","Chrissy"],"x":"El/la hermana mayor de Mike es Nancy.","season":"General","id":"stranger-v7-5-directa","fact":"stranger-v7-5-directa","show":"stranger","kind":"directa"},{"block":"Dustin","difficulty":"Fácil","q":"¿Cuál es apellido de Dustin?","a":"Henderson","d":["Sinclair","Wheeler","Byers"],"x":"El/la apellido de Dustin es Henderson.","season":"General","id":"stranger-v7-6-directa","fact":"stranger-v7-6-directa","show":"stranger","kind":"directa"},{"block":"Dustin","difficulty":"Media","q":"¿Cuál es novia de Dustin?","a":"Suzie","d":["Robin","Max","Chrissy"],"x":"El/la novia de Dustin es Suzie.","season":"General","id":"stranger-v7-7-directa","fact":"stranger-v7-7-directa","show":"stranger","kind":"directa"},{"block":"Dustin","difficulty":"Difícil","q":"¿Cuál es campamento científico de Dustin?","a":"Camp Know Where","d":["Camp Hawkins","Camp Cerebro","Camp Starcourt"],"x":"El/la campamento científico de Dustin es Camp Know Where.","season":"General","id":"stranger-v7-8-directa","fact":"stranger-v7-8-directa","show":"stranger","kind":"directa"},{"block":"Lucas","difficulty":"Fácil","q":"¿Cuál es apellido de Lucas?","a":"Sinclair","d":["Henderson","Wheeler","Byers"],"x":"El/la apellido de Lucas es Sinclair.","season":"General","id":"stranger-v7-9-directa","fact":"stranger-v7-9-directa","show":"stranger","kind":"directa"},{"block":"Lucas","difficulty":"Media","q":"¿Cuál es hermana de Lucas?","a":"Erica","d":["Nancy","Holly","Robin"],"x":"El/la hermana de Lucas es Erica.","season":"General","id":"stranger-v7-10-directa","fact":"stranger-v7-10-directa","show":"stranger","kind":"directa"},{"block":"Lucas","difficulty":"Difícil","q":"¿Cuál es equipo escolar de Lucas?","a":"Baloncesto","d":["Béisbol","Hockey","Atletismo"],"x":"El/la equipo escolar de Lucas es Baloncesto.","season":"General","id":"stranger-v7-11-directa","fact":"stranger-v7-11-directa","show":"stranger","kind":"directa"},{"block":"Will","difficulty":"Fácil","q":"¿Cuál es apellido de Will?","a":"Byers","d":["Wheeler","Henderson","Sinclair"],"x":"El/la apellido de Will es Byers.","season":"General","id":"stranger-v7-12-directa","fact":"stranger-v7-12-directa","show":"stranger","kind":"directa"},{"block":"Will","difficulty":"Media","q":"¿Cuál es hermano de Will?","a":"Jonathan","d":["Steve","Eddie","Billy"],"x":"El/la hermano de Will es Jonathan.","season":"General","id":"stranger-v7-13-directa","fact":"stranger-v7-13-directa","show":"stranger","kind":"directa"},{"block":"Max","difficulty":"Fácil","q":"¿Cuál es apellido de Max?","a":"Mayfield","d":["Hargrove","Cunningham","Buckley"],"x":"El/la apellido de Max es Mayfield.","season":"General","id":"stranger-v7-14-directa","fact":"stranger-v7-14-directa","show":"stranger","kind":"directa"},{"block":"Max","difficulty":"Media","q":"¿Cuál es hermanastro de Max?","a":"Billy","d":["Steve","Eddie","Jason"],"x":"El/la hermanastro de Max es Billy.","season":"General","id":"stranger-v7-15-directa","fact":"stranger-v7-15-directa","show":"stranger","kind":"directa"},{"block":"Max","difficulty":"Difícil","q":"¿Cuál es apodo en el arcade de Max?","a":"MADMAX","d":["ZOOMER","REDMAX","SKATER"],"x":"El/la apodo en el arcade de Max es MADMAX.","season":"General","id":"stranger-v7-16-directa","fact":"stranger-v7-16-directa","show":"stranger","kind":"directa"},{"block":"Steve","difficulty":"Fácil","q":"¿Cuál es trabajo en Starcourt de Steve?","a":"Scoops Ahoy","d":["Family Video","Melvald’s","Hawkins Post"],"x":"El/la trabajo en Starcourt de Steve es Scoops Ahoy.","season":"General","id":"stranger-v7-17-directa","fact":"stranger-v7-17-directa","show":"stranger","kind":"directa"},{"block":"Robin","difficulty":"Media","q":"¿Cuál es compañero en Scoops Ahoy de Robin?","a":"Steve","d":["Jonathan","Eddie","Billy"],"x":"El/la compañero en Scoops Ahoy de Robin es Steve.","season":"General","id":"stranger-v7-18-directa","fact":"stranger-v7-18-directa","show":"stranger","kind":"directa"},{"block":"Eddie","difficulty":"Media","q":"¿Cuál es club que dirige de Eddie?","a":"Hellfire Club","d":["Tiger Club","Dungeon Masters","Hawkins Metal"],"x":"El/la club que dirige de Eddie es Hellfire Club.","season":"General","id":"stranger-v7-19-directa","fact":"stranger-v7-19-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Quién desaparece al comienzo de la serie?","a":"Will Byers","d":["Mike Wheeler","Dustin Henderson","Lucas Sinclair"],"x":"Will Byers es la respuesta correcta.","season":"T1","id":"stranger-v7-20-directa","fact":"stranger-v7-20-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué usa Joyce para comunicarse con Will?","a":"Luces de Navidad","d":["Una televisión","Velas","Una radio de coche"],"x":"Luces de Navidad es la respuesta correcta.","season":"T1","id":"stranger-v7-21-directa","fact":"stranger-v7-21-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué plato prepara Benny Hammond para Eleven?","a":"Hamburguesa y patatas","d":["Gofres","Pizza","Tortitas"],"x":"Hamburguesa y patatas es la respuesta correcta.","season":"T1","id":"stranger-v7-22-directa","fact":"stranger-v7-22-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descubre Hopper dentro del supuesto cuerpo de Will?","a":"Relleno artificial","d":["Un dispositivo","Hielo","Una criatura"],"x":"Relleno artificial es la respuesta correcta.","season":"T1","id":"stranger-v7-23-directa","fact":"stranger-v7-23-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo explica el señor Clarke una dimensión paralela?","a":"Con la metáfora del acróbata y la pulga","d":["Con un tren","Con dos espejos","Con cartas"],"x":"Con la metáfora del acróbata y la pulga es la respuesta correcta.","season":"T1","id":"stranger-v7-24-directa","fact":"stranger-v7-24-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿De qué se disfrazan los chicos en Halloween?","a":"Cazafantasmas","d":["Star Wars","Los Goonies","Superhéroes"],"x":"Cazafantasmas es la respuesta correcta.","season":"T2","id":"stranger-v7-25-directa","fact":"stranger-v7-25-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Cómo llama Dustin a su criatura mascota?","a":"Dart","d":["Mews","Tews","Yertle"],"x":"Dart es la respuesta correcta.","season":"T2","id":"stranger-v7-26-directa","fact":"stranger-v7-26-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué chocolatina usa Dustin para atraer a Dart?","a":"Three Musketeers","d":["M&M’s","Reese’s Pieces","Kit Kat"],"x":"Three Musketeers es la respuesta correcta.","season":"T2","id":"stranger-v7-27-directa","fact":"stranger-v7-27-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué número lleva Kali en la muñeca?","a":"008","d":["006","009","012"],"x":"008 es la respuesta correcta.","season":"T2","id":"stranger-v7-28-directa","fact":"stranger-v7-28-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo se llama el baile escolar final?","a":"Snow Ball","d":["Winter Prom","Hawkins Dance","Starcourt Ball"],"x":"Snow Ball es la respuesta correcta.","season":"T2","id":"stranger-v7-29-directa","fact":"stranger-v7-29-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cómo se llama el centro comercial?","a":"Starcourt Mall","d":["Hawkins Plaza","Palace Mall","Lenora Center"],"x":"Starcourt Mall es la respuesta correcta.","season":"T3","id":"stranger-v7-30-directa","fact":"stranger-v7-30-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál es la constante que Suzie comunica por radio?","a":"La constante de Planck","d":["El número de Avogadro","La velocidad de la luz","La constante de Boltzmann"],"x":"La constante de Planck es la respuesta correcta.","season":"T3","id":"stranger-v7-31-directa","fact":"stranger-v7-31-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué frase del código ruso permite reconocer Starcourt?","a":"Cuando el azul y el amarillo se encuentren en el oeste","d":["La sombra cruza el río","La torre abre al amanecer","El rojo llama al negro"],"x":"Cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.","season":"T3","id":"stranger-v7-32-directa","fact":"stranger-v7-32-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué sustancia administran a Steve y Robin durante el interrogatorio?","a":"Un suero de la verdad","d":["Un sedante","Un veneno","Un estimulante"],"x":"Un suero de la verdad es la respuesta correcta.","season":"T3","id":"stranger-v7-33-directa","fact":"stranger-v7-33-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué canción cantan Dustin y Suzie?","a":"The NeverEnding Story","d":["Africa","Running Up That Hill","Every Breath You Take"],"x":"The NeverEnding Story es la respuesta correcta.","season":"T3","id":"stranger-v7-34-directa","fact":"stranger-v7-34-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué canción ayuda a Max frente a Vecna?","a":"Running Up That Hill","d":["Africa","Material Girl","Time After Time"],"x":"Running Up That Hill es la respuesta correcta.","season":"T4","id":"stranger-v7-35-directa","fact":"stranger-v7-35-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Cómo se llama el proyecto que recupera los poderes de Eleven?","a":"Proyecto Nina","d":["Proyecto Indigo","Proyecto Rainbow","Proyecto Kali"],"x":"Proyecto Nina es la respuesta correcta.","season":"T4","id":"stranger-v7-36-directa","fact":"stranger-v7-36-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué canción toca Eddie en el Mundo del Revés?","a":"Master of Puppets","d":["Enter Sandman","The Trooper","Paranoid"],"x":"Master of Puppets es la respuesta correcta.","season":"T4","id":"stranger-v7-37-directa","fact":"stranger-v7-37-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo bautiza Dustin el portal de Lover’s Lake?","a":"Watergate","d":["Lakegate","Starcourt Gate","Blue Gate"],"x":"Watergate es la respuesta correcta.","season":"T4","id":"stranger-v7-38-directa","fact":"stranger-v7-38-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo se llama la campaña final de Eddie?","a":"The Cult of Vecna","d":["The Rise of Kas","The Lost Knight","The Demogorgon Returns"],"x":"The Cult of Vecna es la respuesta correcta.","season":"T4","id":"stranger-v7-39-directa","fact":"stranger-v7-39-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué comida estadounidense trafica Yuri?","a":"Mantequilla de cacahuete","d":["Gofres","Pizza congelada","Caviar"],"x":"Mantequilla de cacahuete es la respuesta correcta.","season":"T4","id":"stranger-v7-40-directa","fact":"stranger-v7-40-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuántas puertas necesita Vecna para fracturar Hawkins?","a":"Cuatro","d":["Dos","Tres","Cinco"],"x":"Cuatro es la respuesta correcta.","season":"T4","id":"stranger-v7-41-directa","fact":"stranger-v7-41-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué canción escucha Chrissy antes de un ataque de Vecna?","a":"Dream a Little Dream of Me","d":["Running Up That Hill","Pass the Dutchie","Separate Ways"],"x":"Dream a Little Dream of Me es la respuesta correcta.","season":"T4","id":"stranger-v7-42-directa","fact":"stranger-v7-42-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Dónde está la entrada acuática al Mundo del Revés?","a":"Lover’s Lake","d":["La piscina de Hawkins","El río Brimborn","La cantera"],"x":"Lover’s Lake es la respuesta correcta.","season":"T4","id":"stranger-v7-43-directa","fact":"stranger-v7-43-directa","show":"stranger","kind":"directa"},{"block":"Criaturas","difficulty":"Fácil","q":"¿Cómo llaman al primer monstruo?","a":"Demogorgon","d":["Vecna","Azotamentes","Demoperro"],"x":"Demogorgon es la respuesta correcta.","season":"General","id":"stranger-v7-44-directa","fact":"stranger-v7-44-directa","show":"stranger","kind":"directa"},{"block":"Criaturas","difficulty":"Media","q":"¿Cómo llaman a la entidad de humo?","a":"Azotamentes","d":["Demogorgon","Vecna","Sombra Roja"],"x":"Azotamentes es la respuesta correcta.","season":"General","id":"stranger-v7-45-directa","fact":"stranger-v7-45-directa","show":"stranger","kind":"directa"},{"block":"Criaturas","difficulty":"Difícil","q":"¿Quién era Vecna antes de transformarse?","a":"Henry Creel","d":["Billy Hargrove","Victor Creel","Martin Brenner"],"x":"Henry Creel es la respuesta correcta.","season":"General","id":"stranger-v7-46-directa","fact":"stranger-v7-46-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cómo se llama el pueblo principal?","a":"Hawkins","d":["Derry","Sunnydale","Riverdale"],"x":"Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-47-directa","fact":"stranger-v7-47-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Media","q":"¿Cómo se llama la heladería de Starcourt?","a":"Scoops Ahoy","d":["Surfer Boy Pizza","Benny’s Burgers","Family Video"],"x":"Scoops Ahoy es la respuesta correcta.","season":"General","id":"stranger-v7-48-directa","fact":"stranger-v7-48-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Difícil","q":"¿Cómo se llama la pizzería donde trabaja Argyle?","a":"Surfer Boy Pizza","d":["Benny’s Pizza","Hawkins Slice","California Pie"],"x":"Surfer Boy Pizza es la respuesta correcta.","season":"General","id":"stranger-v7-49-directa","fact":"stranger-v7-49-directa","show":"stranger","kind":"directa"},{"block":"Objetos","difficulty":"Media","q":"¿Cómo se llama la radio de Dustin?","a":"Cerebro","d":["Nina","Castle Byers","Pollywog"],"x":"Cerebro es la respuesta correcta.","season":"General","id":"stranger-v7-50-directa","fact":"stranger-v7-50-directa","show":"stranger","kind":"directa"},{"block":"Objetos","difficulty":"Difícil","q":"¿Qué reloj anuncia la llegada de Vecna?","a":"Un reloj de pie antiguo","d":["Un reloj digital","Un cuco","Un despertador rojo"],"x":"Un reloj de pie antiguo es la respuesta correcta.","season":"General","id":"stranger-v7-51-directa","fact":"stranger-v7-51-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Media","q":"¿Quién ayuda a Joyce a traducir ruso?","a":"Murray Bauman","d":["Ted Wheeler","Scott Clarke","Lonnie Byers"],"x":"Murray Bauman es la respuesta correcta.","season":"General","id":"stranger-v7-52-directa","fact":"stranger-v7-52-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama el doctor que ayuda a Hopper tras Brenner?","a":"Sam Owens","d":["Alexei","Martin Brenner","Victor Creel"],"x":"Sam Owens es la respuesta correcta.","season":"General","id":"stranger-v7-53-directa","fact":"stranger-v7-53-directa","show":"stranger","kind":"directa"},{"block":"Eventos","difficulty":"Media","q":"¿Qué cierra Eleven al final de la segunda temporada?","a":"El portal","d":["Starcourt","La escuela","El laboratorio entero"],"x":"El portal es la respuesta correcta.","season":"General","id":"stranger-v7-54-directa","fact":"stranger-v7-54-directa","show":"stranger","kind":"directa"},{"block":"Eventos","difficulty":"Difícil","q":"¿Qué transmite Cerebro al volver Dustin del campamento?","a":"Una señal rusa","d":["Una noticia local","Una canción de Will","Un mensaje de Hopper"],"x":"Una señal rusa es la respuesta correcta.","season":"General","id":"stranger-v7-55-directa","fact":"stranger-v7-55-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Will Byers es la respuesta correcta.","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-56-directa","fact":"stranger-v7-56-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Luces de Navidad es la respuesta correcta.","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-57-directa","fact":"stranger-v7-57-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Hamburguesa y patatas es la respuesta correcta.","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-58-directa","fact":"stranger-v7-58-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Relleno artificial es la respuesta correcta.","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-59-directa","fact":"stranger-v7-59-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Con la metáfora del acróbata y la pulga es la respuesta correcta.","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-60-directa","fact":"stranger-v7-60-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Cazafantasmas es la respuesta correcta.","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-61-directa","fact":"stranger-v7-61-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Dart es la respuesta correcta.","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-62-directa","fact":"stranger-v7-62-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Three Musketeers es la respuesta correcta.","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-63-directa","fact":"stranger-v7-63-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: 008 es la respuesta correcta.","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-64-directa","fact":"stranger-v7-64-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Snow Ball es la respuesta correcta.","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-65-directa","fact":"stranger-v7-65-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Starcourt Mall es la respuesta correcta.","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-66-directa","fact":"stranger-v7-66-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: La constante de Planck es la respuesta correcta.","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-67-directa","fact":"stranger-v7-67-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-68-directa","fact":"stranger-v7-68-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Un suero de la verdad es la respuesta correcta.","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-69-directa","fact":"stranger-v7-69-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: The NeverEnding Story es la respuesta correcta.","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-70-directa","fact":"stranger-v7-70-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Running Up That Hill es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-71-directa","fact":"stranger-v7-71-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Proyecto Nina es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-72-directa","fact":"stranger-v7-72-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Master of Puppets es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-73-directa","fact":"stranger-v7-73-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Watergate es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-74-directa","fact":"stranger-v7-74-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: The Cult of Vecna es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-75-directa","fact":"stranger-v7-75-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Mantequilla de cacahuete es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-76-directa","fact":"stranger-v7-76-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Cuatro es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-77-directa","fact":"stranger-v7-77-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Dream a Little Dream of Me es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-78-directa","fact":"stranger-v7-78-directa","show":"stranger","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Lover’s Lake es la respuesta correcta.","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-79-directa","fact":"stranger-v7-79-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Cómo se llama la madre de Will y Jonathan?","a":"Joyce Byers","d":["Karen Wheeler","Claudia Henderson","Susan Hargrove"],"x":"Joyce Byers es la respuesta correcta.","season":"General","id":"stranger-v7-80-directa","fact":"stranger-v7-80-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Quién es el jefe de policía de Hawkins?","a":"Jim Hopper","d":["Sam Owens","Murray Bauman","Bob Newby"],"x":"Jim Hopper es la respuesta correcta.","season":"General","id":"stranger-v7-81-directa","fact":"stranger-v7-81-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Cómo se llama la amiga de Nancy que desaparece en la primera temporada?","a":"Barb Holland","d":["Chrissy Cunningham","Heather Holloway","Becky Ives"],"x":"Barb Holland es la respuesta correcta.","season":"General","id":"stranger-v7-82-directa","fact":"stranger-v7-82-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Media","q":"¿Cómo se llama el novio de Joyce que trabaja en RadioShack?","a":"Bob Newby","d":["Lonnie Byers","Scott Clarke","Murray Bauman"],"x":"Bob Newby es la respuesta correcta.","season":"General","id":"stranger-v7-83-directa","fact":"stranger-v7-83-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Media","q":"¿Cómo se llama el periodista conspiranoico amigo de Hopper?","a":"Murray Bauman","d":["Ted Wheeler","Powell","Callahan"],"x":"Murray Bauman es la respuesta correcta.","season":"General","id":"stranger-v7-84-directa","fact":"stranger-v7-84-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Media","q":"¿Quién es el director del laboratorio de Hawkins al principio?","a":"Martin Brenner","d":["Sam Owens","Victor Creel","Alexei"],"x":"Martin Brenner es la respuesta correcta.","season":"General","id":"stranger-v7-85-directa","fact":"stranger-v7-85-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama el científico ruso que ayuda a Hopper y Joyce?","a":"Alexei","d":["Yuri","Grigori","Dmitri"],"x":"Alexei es la respuesta correcta.","season":"General","id":"stranger-v7-86-directa","fact":"stranger-v7-86-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama el guardia ruso conocido como Enzo?","a":"Dmitri Antonov","d":["Yuri Ismaylov","Grigori","Alexei"],"x":"Dmitri Antonov es la respuesta correcta.","season":"General","id":"stranger-v7-87-directa","fact":"stranger-v7-87-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama el piloto ruso que traiciona a Joyce y Murray?","a":"Yuri Ismaylov","d":["Dmitri Antonov","Alexei","Grigori"],"x":"Yuri Ismaylov es la respuesta correcta.","season":"General","id":"stranger-v7-88-directa","fact":"stranger-v7-88-directa","show":"stranger","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama la consejera escolar relacionada con las víctimas de Vecna?","a":"Ms. Kelly","d":["Ms. Driscoll","Ms. Holland","Ms. Wheeler"],"x":"Ms. Kelly es la respuesta correcta.","season":"General","id":"stranger-v7-89-directa","fact":"stranger-v7-89-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cómo se llama el laboratorio donde estuvo Eleven?","a":"Laboratorio Nacional de Hawkins","d":["Laboratorio de Lenora","Proyecto Starcourt","Centro Nina"],"x":"Laboratorio Nacional de Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-90-directa","fact":"stranger-v7-90-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Media","q":"¿Cómo se llama la cabaña donde viven Hopper y Eleven?","a":"La cabaña de Hopper","d":["Castle Byers","Casa Creel","Benny’s"],"x":"La cabaña de Hopper es la respuesta correcta.","season":"General","id":"stranger-v7-91-directa","fact":"stranger-v7-91-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Media","q":"¿Cómo se llama el castillo de madera de Will?","a":"Castle Byers","d":["Castle Hawkins","Fort Wheeler","Camp Know Where"],"x":"Castle Byers es la respuesta correcta.","season":"General","id":"stranger-v7-92-directa","fact":"stranger-v7-92-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Difícil","q":"¿Cómo se llama el periódico donde trabajan Nancy y Jonathan?","a":"The Hawkins Post","d":["The Hawkins Times","The Indiana Sun","The Starcourt News"],"x":"The Hawkins Post es la respuesta correcta.","season":"General","id":"stranger-v7-93-directa","fact":"stranger-v7-93-directa","show":"stranger","kind":"directa"},{"block":"Lugares","difficulty":"Difícil","q":"¿Cómo se llama el videoclub donde trabajan Steve y Robin?","a":"Family Video","d":["Video Palace","Hawkins Video","Starcourt Movies"],"x":"Family Video es la respuesta correcta.","season":"General","id":"stranger-v7-94-directa","fact":"stranger-v7-94-directa","show":"stranger","kind":"directa"},{"block":"T1","difficulty":"Media","q":"¿Qué canción escucha Jonathan y comparte con Will?","a":"Should I Stay or Should I Go","d":["Africa","Every Breath You Take","Heroes"],"x":"Should I Stay or Should I Go es la respuesta correcta.","season":"T1","id":"stranger-v7-95-directa","fact":"stranger-v7-95-directa","show":"stranger","kind":"directa"},{"block":"T1","difficulty":"Difícil","q":"¿Qué juego están jugando los chicos cuando Will desaparece?","a":"Dungeons & Dragons","d":["Risk","Monopoly","Cluedo"],"x":"Dungeons & Dragons es la respuesta correcta.","season":"T1","id":"stranger-v7-96-directa","fact":"stranger-v7-96-directa","show":"stranger","kind":"directa"},{"block":"T1","difficulty":"Difícil","q":"¿Dónde aparece Eleven por primera vez tras escapar?","a":"En Benny’s Burgers","d":["En casa de Mike","En la escuela","En la cantera"],"x":"En Benny’s Burgers es la respuesta correcta.","season":"T1","id":"stranger-v7-97-directa","fact":"stranger-v7-97-directa","show":"stranger","kind":"directa"},{"block":"T2","difficulty":"Media","q":"¿Qué evento mata a Bob Newby?","a":"El ataque de los demoperros","d":["Un accidente de coche","Un incendio","El Demogorgon"],"x":"El ataque de los demoperros es la respuesta correcta.","season":"T2","id":"stranger-v7-98-directa","fact":"stranger-v7-98-directa","show":"stranger","kind":"directa"},{"block":"T2","difficulty":"Difícil","q":"¿Qué dibujos usa Will para representar los túneles?","a":"Muchísimas hojas unidas como un mapa","d":["Fotografías","Planos del laboratorio","Mapas de carreteras"],"x":"Muchísimas hojas unidas como un mapa es la respuesta correcta.","season":"T2","id":"stranger-v7-99-directa","fact":"stranger-v7-99-directa","show":"stranger","kind":"directa"},{"block":"T2","difficulty":"Difícil","q":"¿Quién reconoce que los dibujos de Will forman un mapa?","a":"Bob Newby","d":["Dustin","Hopper","Mike"],"x":"Bob Newby es la respuesta correcta.","season":"T2","id":"stranger-v7-100-directa","fact":"stranger-v7-100-directa","show":"stranger","kind":"directa"},{"block":"T3","difficulty":"Media","q":"¿Dónde trabajan Nancy y Jonathan durante el verano?","a":"The Hawkins Post","d":["Family Video","Scoops Ahoy","Melvald’s"],"x":"The Hawkins Post es la respuesta correcta.","season":"T3","id":"stranger-v7-101-directa","fact":"stranger-v7-101-directa","show":"stranger","kind":"directa"},{"block":"T3","difficulty":"Difícil","q":"¿Cómo se llama la socorrista controlada por el Azotamentes?","a":"Heather Holloway","d":["Chrissy Cunningham","Barb Holland","Becky Ives"],"x":"Heather Holloway es la respuesta correcta.","season":"T3","id":"stranger-v7-102-directa","fact":"stranger-v7-102-directa","show":"stranger","kind":"directa"},{"block":"T3","difficulty":"Difícil","q":"¿Qué animal empieza a comportarse de forma extraña y explota?","a":"Ratas","d":["Gatos","Cuervos","Perros"],"x":"Ratas es la respuesta correcta.","season":"T3","id":"stranger-v7-103-directa","fact":"stranger-v7-103-directa","show":"stranger","kind":"directa"},{"block":"T3","difficulty":"Difícil","q":"¿Qué nombre tiene la máquina rusa que intenta abrir el portal?","a":"La Llave","d":["Nina","Cerebro","La Sombra"],"x":"La Llave es la respuesta correcta.","season":"T3","id":"stranger-v7-104-directa","fact":"stranger-v7-104-directa","show":"stranger","kind":"directa"},{"block":"T4","difficulty":"Media","q":"¿Cómo se llama la primera víctima adolescente de Vecna?","a":"Chrissy Cunningham","d":["Fred Benson","Patrick McKinney","Max Mayfield"],"x":"Chrissy Cunningham es la respuesta correcta.","season":"T4","id":"stranger-v7-105-directa","fact":"stranger-v7-105-directa","show":"stranger","kind":"directa"},{"block":"T4","difficulty":"Difícil","q":"¿Cómo se llama el periodista escolar asesinado por Vecna?","a":"Fred Benson","d":["Jason Carver","Patrick McKinney","Eddie Munson"],"x":"Fred Benson es la respuesta correcta.","season":"T4","id":"stranger-v7-106-directa","fact":"stranger-v7-106-directa","show":"stranger","kind":"directa"},{"block":"T4","difficulty":"Difícil","q":"¿Cómo se llama el jugador de baloncesto asesinado en el lago?","a":"Patrick McKinney","d":["Jason Carver","Lucas Sinclair","Fred Benson"],"x":"Patrick McKinney es la respuesta correcta.","season":"T4","id":"stranger-v7-107-directa","fact":"stranger-v7-107-directa","show":"stranger","kind":"directa"},{"block":"T4","difficulty":"Difícil","q":"¿Quién acusa públicamente a Eddie de dirigir una secta?","a":"Jason Carver","d":["Lucas Sinclair","Dustin Henderson","Wayne Munson"],"x":"Jason Carver es la respuesta correcta.","season":"T4","id":"stranger-v7-108-directa","fact":"stranger-v7-108-directa","show":"stranger","kind":"directa"},{"block":"T4","difficulty":"Difícil","q":"¿Cómo se llama el padre de Henry Creel?","a":"Victor Creel","d":["Martin Brenner","Wayne Munson","Ted Wheeler"],"x":"Victor Creel es la respuesta correcta.","season":"T4","id":"stranger-v7-109-directa","fact":"stranger-v7-109-directa","show":"stranger","kind":"directa"},{"block":"Objetos","difficulty":"Fácil","q":"¿Qué medio de transporte usan a menudo los chicos?","a":"Bicicletas","d":["Patinetes","Motos","Caballos"],"x":"Bicicletas es la respuesta correcta.","season":"General","id":"stranger-v7-110-directa","fact":"stranger-v7-110-directa","show":"stranger","kind":"directa"},{"block":"Objetos","difficulty":"Media","q":"¿Qué arma característica utiliza Lucas al principio?","a":"Un tirachinas","d":["Un arco","Una espada","Un bumerán"],"x":"Un tirachinas es la respuesta correcta.","season":"General","id":"stranger-v7-111-directa","fact":"stranger-v7-111-directa","show":"stranger","kind":"directa"},{"block":"Objetos","difficulty":"Difícil","q":"¿Qué máquina recreativa tiene la puntuación de MADMAX?","a":"Dig Dug","d":["Pac-Man","Galaga","Dragon’s Lair"],"x":"Dig Dug es la respuesta correcta.","season":"General","id":"stranger-v7-112-directa","fact":"stranger-v7-112-directa","show":"stranger","kind":"directa"},{"block":"Criaturas","difficulty":"Media","q":"¿Cómo llaman a las criaturas jóvenes parecidas al Demogorgon?","a":"Demoperros","d":["Demomurciélagos","Pollywogs","Sombras"],"x":"Demoperros es la respuesta correcta.","season":"General","id":"stranger-v7-113-directa","fact":"stranger-v7-113-directa","show":"stranger","kind":"directa"},{"block":"Criaturas","difficulty":"Difícil","q":"¿Qué criaturas voladoras atacan a Steve en el Mundo del Revés?","a":"Demomurciélagos","d":["Demoperros","Cuervos de Vecna","Mind Bats"],"x":"Demomurciélagos es la respuesta correcta.","season":"General","id":"stranger-v7-114-directa","fact":"stranger-v7-114-directa","show":"stranger","kind":"directa"},{"block":"Eleven","difficulty":"Fácil","q":"¿Qué descripción corresponde a “011” en este quiz de Eleven?","a":"Cuál es número de Eleven","d":["001","008","013"],"x":"El/la número de Eleven es 011.","season":"General","id":"stranger-v7-0-reconocimiento","fact":"stranger-v7-0-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eleven","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Gofres Eggo” en este quiz de Eleven?","a":"Cuál es comida favorita de Eleven","d":["Pizza","Hamburguesas","Cereales"],"x":"El/la comida favorita de Eleven es Gofres Eggo.","season":"General","id":"stranger-v7-1-reconocimiento","fact":"stranger-v7-1-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eleven","difficulty":"Media","q":"¿Qué descripción corresponde a “Jim Hopper” en este quiz de Eleven?","a":"Cuál es padre adoptivo de Eleven","d":["Martin Brenner","Sam Owens","Bob Newby"],"x":"El/la padre adoptivo de Eleven es Jim Hopper.","season":"General","id":"stranger-v7-2-reconocimiento","fact":"stranger-v7-2-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eleven","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Jane Hopper” en este quiz de Eleven?","a":"Cuál es nombre legal de Eleven","d":["Jane Wheeler","El Byers","Sara Hopper"],"x":"El/la nombre legal de Eleven es Jane Hopper.","season":"General","id":"stranger-v7-3-reconocimiento","fact":"stranger-v7-3-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Mike","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Wheeler” en este quiz de Mike?","a":"Cuál es apellido de Mike","d":["Byers","Henderson","Sinclair"],"x":"El/la apellido de Mike es Wheeler.","season":"General","id":"stranger-v7-4-reconocimiento","fact":"stranger-v7-4-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Mike","difficulty":"Media","q":"¿Qué descripción corresponde a “Nancy” en este quiz de Mike?","a":"Cuál es hermana mayor de Mike","d":["Erica","Robin","Chrissy"],"x":"El/la hermana mayor de Mike es Nancy.","season":"General","id":"stranger-v7-5-reconocimiento","fact":"stranger-v7-5-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Dustin","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Henderson” en este quiz de Dustin?","a":"Cuál es apellido de Dustin","d":["Sinclair","Wheeler","Byers"],"x":"El/la apellido de Dustin es Henderson.","season":"General","id":"stranger-v7-6-reconocimiento","fact":"stranger-v7-6-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Dustin","difficulty":"Media","q":"¿Qué descripción corresponde a “Suzie” en este quiz de Dustin?","a":"Cuál es novia de Dustin","d":["Robin","Max","Chrissy"],"x":"El/la novia de Dustin es Suzie.","season":"General","id":"stranger-v7-7-reconocimiento","fact":"stranger-v7-7-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Dustin","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Camp Know Where” en este quiz de Dustin?","a":"Cuál es campamento científico de Dustin","d":["Camp Hawkins","Camp Cerebro","Camp Starcourt"],"x":"El/la campamento científico de Dustin es Camp Know Where.","season":"General","id":"stranger-v7-8-reconocimiento","fact":"stranger-v7-8-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lucas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Sinclair” en este quiz de Lucas?","a":"Cuál es apellido de Lucas","d":["Henderson","Wheeler","Byers"],"x":"El/la apellido de Lucas es Sinclair.","season":"General","id":"stranger-v7-9-reconocimiento","fact":"stranger-v7-9-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lucas","difficulty":"Media","q":"¿Qué descripción corresponde a “Erica” en este quiz de Lucas?","a":"Cuál es hermana de Lucas","d":["Nancy","Holly","Robin"],"x":"El/la hermana de Lucas es Erica.","season":"General","id":"stranger-v7-10-reconocimiento","fact":"stranger-v7-10-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lucas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Baloncesto” en este quiz de Lucas?","a":"Cuál es equipo escolar de Lucas","d":["Béisbol","Hockey","Atletismo"],"x":"El/la equipo escolar de Lucas es Baloncesto.","season":"General","id":"stranger-v7-11-reconocimiento","fact":"stranger-v7-11-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Will","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Byers” en este quiz de Will?","a":"Cuál es apellido de Will","d":["Wheeler","Henderson","Sinclair"],"x":"El/la apellido de Will es Byers.","season":"General","id":"stranger-v7-12-reconocimiento","fact":"stranger-v7-12-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Will","difficulty":"Media","q":"¿Qué descripción corresponde a “Jonathan” en este quiz de Will?","a":"Cuál es hermano de Will","d":["Steve","Eddie","Billy"],"x":"El/la hermano de Will es Jonathan.","season":"General","id":"stranger-v7-13-reconocimiento","fact":"stranger-v7-13-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Max","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Mayfield” en este quiz de Max?","a":"Cuál es apellido de Max","d":["Hargrove","Cunningham","Buckley"],"x":"El/la apellido de Max es Mayfield.","season":"General","id":"stranger-v7-14-reconocimiento","fact":"stranger-v7-14-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Max","difficulty":"Media","q":"¿Qué descripción corresponde a “Billy” en este quiz de Max?","a":"Cuál es hermanastro de Max","d":["Steve","Eddie","Jason"],"x":"El/la hermanastro de Max es Billy.","season":"General","id":"stranger-v7-15-reconocimiento","fact":"stranger-v7-15-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Max","difficulty":"Difícil","q":"¿Qué descripción corresponde a “MADMAX” en este quiz de Max?","a":"Cuál es apodo en el arcade de Max","d":["ZOOMER","REDMAX","SKATER"],"x":"El/la apodo en el arcade de Max es MADMAX.","season":"General","id":"stranger-v7-16-reconocimiento","fact":"stranger-v7-16-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Steve","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Scoops Ahoy” en este quiz de Steve?","a":"Cuál es trabajo en Starcourt de Steve","d":["Family Video","Melvald’s","Hawkins Post"],"x":"El/la trabajo en Starcourt de Steve es Scoops Ahoy.","season":"General","id":"stranger-v7-17-reconocimiento","fact":"stranger-v7-17-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Robin","difficulty":"Media","q":"¿Qué descripción corresponde a “Steve” en este quiz de Robin?","a":"Cuál es compañero en Scoops Ahoy de Robin","d":["Jonathan","Eddie","Billy"],"x":"El/la compañero en Scoops Ahoy de Robin es Steve.","season":"General","id":"stranger-v7-18-reconocimiento","fact":"stranger-v7-18-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eddie","difficulty":"Media","q":"¿Qué descripción corresponde a “Hellfire Club” en este quiz de Eddie?","a":"Cuál es club que dirige de Eddie","d":["Tiger Club","Dungeon Masters","Hawkins Metal"],"x":"El/la club que dirige de Eddie es Hellfire Club.","season":"General","id":"stranger-v7-19-reconocimiento","fact":"stranger-v7-19-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Will Byers” en este quiz de Temporadas?","a":"Quién desaparece al comienzo de la serie","d":["Mike Wheeler","Dustin Henderson","Lucas Sinclair"],"x":"Will Byers es la respuesta correcta.","season":"T1","id":"stranger-v7-20-reconocimiento","fact":"stranger-v7-20-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Luces de Navidad” en este quiz de Temporadas?","a":"Qué usa Joyce para comunicarse con Will","d":["Una televisión","Velas","Una radio de coche"],"x":"Luces de Navidad es la respuesta correcta.","season":"T1","id":"stranger-v7-21-reconocimiento","fact":"stranger-v7-21-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Hamburguesa y patatas” en este quiz de Temporadas?","a":"Qué plato prepara Benny Hammond para Eleven","d":["Gofres","Pizza","Tortitas"],"x":"Hamburguesa y patatas es la respuesta correcta.","season":"T1","id":"stranger-v7-22-reconocimiento","fact":"stranger-v7-22-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Relleno artificial” en este quiz de Temporadas?","a":"Qué descubre Hopper dentro del supuesto cuerpo de Will","d":["Un dispositivo","Hielo","Una criatura"],"x":"Relleno artificial es la respuesta correcta.","season":"T1","id":"stranger-v7-23-reconocimiento","fact":"stranger-v7-23-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Con la metáfora del acróbata y la pulga” en este quiz de Temporadas?","a":"Cómo explica el señor Clarke una dimensión paralela","d":["Con un tren","Con dos espejos","Con cartas"],"x":"Con la metáfora del acróbata y la pulga es la respuesta correcta.","season":"T1","id":"stranger-v7-24-reconocimiento","fact":"stranger-v7-24-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Cazafantasmas” en este quiz de Temporadas?","a":"De qué se disfrazan los chicos en Halloween","d":["Star Wars","Los Goonies","Superhéroes"],"x":"Cazafantasmas es la respuesta correcta.","season":"T2","id":"stranger-v7-25-reconocimiento","fact":"stranger-v7-25-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Dart” en este quiz de Temporadas?","a":"Cómo llama Dustin a su criatura mascota","d":["Mews","Tews","Yertle"],"x":"Dart es la respuesta correcta.","season":"T2","id":"stranger-v7-26-reconocimiento","fact":"stranger-v7-26-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Three Musketeers” en este quiz de Temporadas?","a":"Qué chocolatina usa Dustin para atraer a Dart","d":["M&M’s","Reese’s Pieces","Kit Kat"],"x":"Three Musketeers es la respuesta correcta.","season":"T2","id":"stranger-v7-27-reconocimiento","fact":"stranger-v7-27-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “008” en este quiz de Temporadas?","a":"Qué número lleva Kali en la muñeca","d":["006","009","012"],"x":"008 es la respuesta correcta.","season":"T2","id":"stranger-v7-28-reconocimiento","fact":"stranger-v7-28-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Snow Ball” en este quiz de Temporadas?","a":"Cómo se llama el baile escolar final","d":["Winter Prom","Hawkins Dance","Starcourt Ball"],"x":"Snow Ball es la respuesta correcta.","season":"T2","id":"stranger-v7-29-reconocimiento","fact":"stranger-v7-29-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Starcourt Mall” en este quiz de Temporadas?","a":"Cómo se llama el centro comercial","d":["Hawkins Plaza","Palace Mall","Lenora Center"],"x":"Starcourt Mall es la respuesta correcta.","season":"T3","id":"stranger-v7-30-reconocimiento","fact":"stranger-v7-30-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “La constante de Planck” en este quiz de Temporadas?","a":"Cuál es la constante que Suzie comunica por radio","d":["El número de Avogadro","La velocidad de la luz","La constante de Boltzmann"],"x":"La constante de Planck es la respuesta correcta.","season":"T3","id":"stranger-v7-31-reconocimiento","fact":"stranger-v7-31-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Cuando el azul y el amarillo se encuentren en el oeste” en este quiz de Temporadas?","a":"Qué frase del código ruso permite reconocer Starcourt","d":["La sombra cruza el río","La torre abre al amanecer","El rojo llama al negro"],"x":"Cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.","season":"T3","id":"stranger-v7-32-reconocimiento","fact":"stranger-v7-32-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Un suero de la verdad” en este quiz de Temporadas?","a":"Qué sustancia administran a Steve y Robin durante el interrogatorio","d":["Un sedante","Un veneno","Un estimulante"],"x":"Un suero de la verdad es la respuesta correcta.","season":"T3","id":"stranger-v7-33-reconocimiento","fact":"stranger-v7-33-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “The NeverEnding Story” en este quiz de Temporadas?","a":"Qué canción cantan Dustin y Suzie","d":["Africa","Running Up That Hill","Every Breath You Take"],"x":"The NeverEnding Story es la respuesta correcta.","season":"T3","id":"stranger-v7-34-reconocimiento","fact":"stranger-v7-34-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Running Up That Hill” en este quiz de Temporadas?","a":"Qué canción ayuda a Max frente a Vecna","d":["Africa","Material Girl","Time After Time"],"x":"Running Up That Hill es la respuesta correcta.","season":"T4","id":"stranger-v7-35-reconocimiento","fact":"stranger-v7-35-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Proyecto Nina” en este quiz de Temporadas?","a":"Cómo se llama el proyecto que recupera los poderes de Eleven","d":["Proyecto Indigo","Proyecto Rainbow","Proyecto Kali"],"x":"Proyecto Nina es la respuesta correcta.","season":"T4","id":"stranger-v7-36-reconocimiento","fact":"stranger-v7-36-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Master of Puppets” en este quiz de Temporadas?","a":"Qué canción toca Eddie en el Mundo del Revés","d":["Enter Sandman","The Trooper","Paranoid"],"x":"Master of Puppets es la respuesta correcta.","season":"T4","id":"stranger-v7-37-reconocimiento","fact":"stranger-v7-37-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Watergate” en este quiz de Temporadas?","a":"Cómo bautiza Dustin el portal de Lover’s Lake","d":["Lakegate","Starcourt Gate","Blue Gate"],"x":"Watergate es la respuesta correcta.","season":"T4","id":"stranger-v7-38-reconocimiento","fact":"stranger-v7-38-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “The Cult of Vecna” en este quiz de Temporadas?","a":"Cómo se llama la campaña final de Eddie","d":["The Rise of Kas","The Lost Knight","The Demogorgon Returns"],"x":"The Cult of Vecna es la respuesta correcta.","season":"T4","id":"stranger-v7-39-reconocimiento","fact":"stranger-v7-39-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Mantequilla de cacahuete” en este quiz de Temporadas?","a":"Qué comida estadounidense trafica Yuri","d":["Gofres","Pizza congelada","Caviar"],"x":"Mantequilla de cacahuete es la respuesta correcta.","season":"T4","id":"stranger-v7-40-reconocimiento","fact":"stranger-v7-40-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Cuatro” en este quiz de Temporadas?","a":"Cuántas puertas necesita Vecna para fracturar Hawkins","d":["Dos","Tres","Cinco"],"x":"Cuatro es la respuesta correcta.","season":"T4","id":"stranger-v7-41-reconocimiento","fact":"stranger-v7-41-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Dream a Little Dream of Me” en este quiz de Temporadas?","a":"Qué canción escucha Chrissy antes de un ataque de Vecna","d":["Running Up That Hill","Pass the Dutchie","Separate Ways"],"x":"Dream a Little Dream of Me es la respuesta correcta.","season":"T4","id":"stranger-v7-42-reconocimiento","fact":"stranger-v7-42-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Lover’s Lake” en este quiz de Temporadas?","a":"Dónde está la entrada acuática al Mundo del Revés","d":["La piscina de Hawkins","El río Brimborn","La cantera"],"x":"Lover’s Lake es la respuesta correcta.","season":"T4","id":"stranger-v7-43-reconocimiento","fact":"stranger-v7-43-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Criaturas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Demogorgon” en este quiz de Criaturas?","a":"Cómo llaman al primer monstruo","d":["Vecna","Azotamentes","Demoperro"],"x":"Demogorgon es la respuesta correcta.","season":"General","id":"stranger-v7-44-reconocimiento","fact":"stranger-v7-44-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Criaturas","difficulty":"Media","q":"¿Qué descripción corresponde a “Azotamentes” en este quiz de Criaturas?","a":"Cómo llaman a la entidad de humo","d":["Demogorgon","Vecna","Sombra Roja"],"x":"Azotamentes es la respuesta correcta.","season":"General","id":"stranger-v7-45-reconocimiento","fact":"stranger-v7-45-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Criaturas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Henry Creel” en este quiz de Criaturas?","a":"Quién era Vecna antes de transformarse","d":["Billy Hargrove","Victor Creel","Martin Brenner"],"x":"Henry Creel es la respuesta correcta.","season":"General","id":"stranger-v7-46-reconocimiento","fact":"stranger-v7-46-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Hawkins” en este quiz de Lugares?","a":"Cómo se llama el pueblo principal","d":["Derry","Sunnydale","Riverdale"],"x":"Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-47-reconocimiento","fact":"stranger-v7-47-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Media","q":"¿Qué descripción corresponde a “Scoops Ahoy” en este quiz de Lugares?","a":"Cómo se llama la heladería de Starcourt","d":["Surfer Boy Pizza","Benny’s Burgers","Family Video"],"x":"Scoops Ahoy es la respuesta correcta.","season":"General","id":"stranger-v7-48-reconocimiento","fact":"stranger-v7-48-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Surfer Boy Pizza” en este quiz de Lugares?","a":"Cómo se llama la pizzería donde trabaja Argyle","d":["Benny’s Pizza","Hawkins Slice","California Pie"],"x":"Surfer Boy Pizza es la respuesta correcta.","season":"General","id":"stranger-v7-49-reconocimiento","fact":"stranger-v7-49-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Media","q":"¿Qué descripción corresponde a “Cerebro” en este quiz de Objetos?","a":"Cómo se llama la radio de Dustin","d":["Nina","Castle Byers","Pollywog"],"x":"Cerebro es la respuesta correcta.","season":"General","id":"stranger-v7-50-reconocimiento","fact":"stranger-v7-50-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Un reloj de pie antiguo” en este quiz de Objetos?","a":"Qué reloj anuncia la llegada de Vecna","d":["Un reloj digital","Un cuco","Un despertador rojo"],"x":"Un reloj de pie antiguo es la respuesta correcta.","season":"General","id":"stranger-v7-51-reconocimiento","fact":"stranger-v7-51-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué descripción corresponde a “Murray Bauman” en este quiz de Secundarios?","a":"Quién ayuda a Joyce a traducir ruso","d":["Ted Wheeler","Scott Clarke","Lonnie Byers"],"x":"Murray Bauman es la respuesta correcta.","season":"General","id":"stranger-v7-52-reconocimiento","fact":"stranger-v7-52-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Sam Owens” en este quiz de Secundarios?","a":"Cómo se llama el doctor que ayuda a Hopper tras Brenner","d":["Alexei","Martin Brenner","Victor Creel"],"x":"Sam Owens es la respuesta correcta.","season":"General","id":"stranger-v7-53-reconocimiento","fact":"stranger-v7-53-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eventos","difficulty":"Media","q":"¿Qué descripción corresponde a “El portal” en este quiz de Eventos?","a":"Qué cierra Eleven al final de la segunda temporada","d":["Starcourt","La escuela","El laboratorio entero"],"x":"El portal es la respuesta correcta.","season":"General","id":"stranger-v7-54-reconocimiento","fact":"stranger-v7-54-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eventos","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Una señal rusa” en este quiz de Eventos?","a":"Qué transmite Cerebro al volver Dustin del campamento","d":["Una noticia local","Una canción de Will","Un mensaje de Hopper"],"x":"Una señal rusa es la respuesta correcta.","season":"General","id":"stranger-v7-55-reconocimiento","fact":"stranger-v7-55-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T1” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Will Byers es la respuesta correcta.","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-56-reconocimiento","fact":"stranger-v7-56-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T2” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Cazafantasmas es la respuesta correcta.","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-61-reconocimiento","fact":"stranger-v7-61-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T3” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Starcourt Mall es la respuesta correcta.","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-66-reconocimiento","fact":"stranger-v7-66-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T4” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Running Up That Hill es la respuesta correcta.","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-71-reconocimiento","fact":"stranger-v7-71-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Joyce Byers” en este quiz de Secundarios?","a":"Cómo se llama la madre de Will y Jonathan","d":["Karen Wheeler","Claudia Henderson","Susan Hargrove"],"x":"Joyce Byers es la respuesta correcta.","season":"General","id":"stranger-v7-80-reconocimiento","fact":"stranger-v7-80-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Jim Hopper” en este quiz de Secundarios?","a":"Quién es el jefe de policía de Hawkins","d":["Sam Owens","Murray Bauman","Bob Newby"],"x":"Jim Hopper es la respuesta correcta.","season":"General","id":"stranger-v7-81-reconocimiento","fact":"stranger-v7-81-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Barb Holland” en este quiz de Secundarios?","a":"Cómo se llama la amiga de Nancy que desaparece en la primera temporada","d":["Chrissy Cunningham","Heather Holloway","Becky Ives"],"x":"Barb Holland es la respuesta correcta.","season":"General","id":"stranger-v7-82-reconocimiento","fact":"stranger-v7-82-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué descripción corresponde a “Bob Newby” en este quiz de Secundarios?","a":"Cómo se llama el novio de Joyce que trabaja en RadioShack","d":["Lonnie Byers","Scott Clarke","Murray Bauman"],"x":"Bob Newby es la respuesta correcta.","season":"General","id":"stranger-v7-83-reconocimiento","fact":"stranger-v7-83-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué descripción corresponde a “Martin Brenner” en este quiz de Secundarios?","a":"Quién es el director del laboratorio de Hawkins al principio","d":["Sam Owens","Victor Creel","Alexei"],"x":"Martin Brenner es la respuesta correcta.","season":"General","id":"stranger-v7-85-reconocimiento","fact":"stranger-v7-85-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Alexei” en este quiz de Secundarios?","a":"Cómo se llama el científico ruso que ayuda a Hopper y Joyce","d":["Yuri","Grigori","Dmitri"],"x":"Alexei es la respuesta correcta.","season":"General","id":"stranger-v7-86-reconocimiento","fact":"stranger-v7-86-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Dmitri Antonov” en este quiz de Secundarios?","a":"Cómo se llama el guardia ruso conocido como Enzo","d":["Yuri Ismaylov","Grigori","Alexei"],"x":"Dmitri Antonov es la respuesta correcta.","season":"General","id":"stranger-v7-87-reconocimiento","fact":"stranger-v7-87-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Yuri Ismaylov” en este quiz de Secundarios?","a":"Cómo se llama el piloto ruso que traiciona a Joyce y Murray","d":["Dmitri Antonov","Alexei","Grigori"],"x":"Yuri Ismaylov es la respuesta correcta.","season":"General","id":"stranger-v7-88-reconocimiento","fact":"stranger-v7-88-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Ms. Kelly” en este quiz de Secundarios?","a":"Cómo se llama la consejera escolar relacionada con las víctimas de Vecna","d":["Ms. Driscoll","Ms. Holland","Ms. Wheeler"],"x":"Ms. Kelly es la respuesta correcta.","season":"General","id":"stranger-v7-89-reconocimiento","fact":"stranger-v7-89-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Laboratorio Nacional de Hawkins” en este quiz de Lugares?","a":"Cómo se llama el laboratorio donde estuvo Eleven","d":["Laboratorio de Lenora","Proyecto Starcourt","Centro Nina"],"x":"Laboratorio Nacional de Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-90-reconocimiento","fact":"stranger-v7-90-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Media","q":"¿Qué descripción corresponde a “La cabaña de Hopper” en este quiz de Lugares?","a":"Cómo se llama la cabaña donde viven Hopper y Eleven","d":["Castle Byers","Casa Creel","Benny’s"],"x":"La cabaña de Hopper es la respuesta correcta.","season":"General","id":"stranger-v7-91-reconocimiento","fact":"stranger-v7-91-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Media","q":"¿Qué descripción corresponde a “Castle Byers” en este quiz de Lugares?","a":"Cómo se llama el castillo de madera de Will","d":["Castle Hawkins","Fort Wheeler","Camp Know Where"],"x":"Castle Byers es la respuesta correcta.","season":"General","id":"stranger-v7-92-reconocimiento","fact":"stranger-v7-92-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Difícil","q":"¿Qué descripción corresponde a “The Hawkins Post” en este quiz de Lugares?","a":"Cómo se llama el periódico donde trabajan Nancy y Jonathan","d":["The Hawkins Times","The Indiana Sun","The Starcourt News"],"x":"The Hawkins Post es la respuesta correcta.","season":"General","id":"stranger-v7-93-reconocimiento","fact":"stranger-v7-93-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Family Video” en este quiz de Lugares?","a":"Cómo se llama el videoclub donde trabajan Steve y Robin","d":["Video Palace","Hawkins Video","Starcourt Movies"],"x":"Family Video es la respuesta correcta.","season":"General","id":"stranger-v7-94-reconocimiento","fact":"stranger-v7-94-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T1","difficulty":"Media","q":"¿Qué descripción corresponde a “Should I Stay or Should I Go” en este quiz de T1?","a":"Qué canción escucha Jonathan y comparte con Will","d":["Africa","Every Breath You Take","Heroes"],"x":"Should I Stay or Should I Go es la respuesta correcta.","season":"T1","id":"stranger-v7-95-reconocimiento","fact":"stranger-v7-95-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T1","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Dungeons & Dragons” en este quiz de T1?","a":"Qué juego están jugando los chicos cuando Will desaparece","d":["Risk","Monopoly","Cluedo"],"x":"Dungeons & Dragons es la respuesta correcta.","season":"T1","id":"stranger-v7-96-reconocimiento","fact":"stranger-v7-96-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T1","difficulty":"Difícil","q":"¿Qué descripción corresponde a “En Benny’s Burgers” en este quiz de T1?","a":"Dónde aparece Eleven por primera vez tras escapar","d":["En casa de Mike","En la escuela","En la cantera"],"x":"En Benny’s Burgers es la respuesta correcta.","season":"T1","id":"stranger-v7-97-reconocimiento","fact":"stranger-v7-97-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T2","difficulty":"Media","q":"¿Qué descripción corresponde a “El ataque de los demoperros” en este quiz de T2?","a":"Qué evento mata a Bob Newby","d":["Un accidente de coche","Un incendio","El Demogorgon"],"x":"El ataque de los demoperros es la respuesta correcta.","season":"T2","id":"stranger-v7-98-reconocimiento","fact":"stranger-v7-98-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T2","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Muchísimas hojas unidas como un mapa” en este quiz de T2?","a":"Qué dibujos usa Will para representar los túneles","d":["Fotografías","Planos del laboratorio","Mapas de carreteras"],"x":"Muchísimas hojas unidas como un mapa es la respuesta correcta.","season":"T2","id":"stranger-v7-99-reconocimiento","fact":"stranger-v7-99-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T2","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Bob Newby” en este quiz de T2?","a":"Quién reconoce que los dibujos de Will forman un mapa","d":["Dustin","Hopper","Mike"],"x":"Bob Newby es la respuesta correcta.","season":"T2","id":"stranger-v7-100-reconocimiento","fact":"stranger-v7-100-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T3","difficulty":"Media","q":"¿Qué descripción corresponde a “The Hawkins Post” en este quiz de T3?","a":"Dónde trabajan Nancy y Jonathan durante el verano","d":["Family Video","Scoops Ahoy","Melvald’s"],"x":"The Hawkins Post es la respuesta correcta.","season":"T3","id":"stranger-v7-101-reconocimiento","fact":"stranger-v7-101-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T3","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Heather Holloway” en este quiz de T3?","a":"Cómo se llama la socorrista controlada por el Azotamentes","d":["Chrissy Cunningham","Barb Holland","Becky Ives"],"x":"Heather Holloway es la respuesta correcta.","season":"T3","id":"stranger-v7-102-reconocimiento","fact":"stranger-v7-102-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T3","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Ratas” en este quiz de T3?","a":"Qué animal empieza a comportarse de forma extraña y explota","d":["Gatos","Cuervos","Perros"],"x":"Ratas es la respuesta correcta.","season":"T3","id":"stranger-v7-103-reconocimiento","fact":"stranger-v7-103-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T3","difficulty":"Difícil","q":"¿Qué descripción corresponde a “La Llave” en este quiz de T3?","a":"Qué nombre tiene la máquina rusa que intenta abrir el portal","d":["Nina","Cerebro","La Sombra"],"x":"La Llave es la respuesta correcta.","season":"T3","id":"stranger-v7-104-reconocimiento","fact":"stranger-v7-104-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T4","difficulty":"Media","q":"¿Qué descripción corresponde a “Chrissy Cunningham” en este quiz de T4?","a":"Cómo se llama la primera víctima adolescente de Vecna","d":["Fred Benson","Patrick McKinney","Max Mayfield"],"x":"Chrissy Cunningham es la respuesta correcta.","season":"T4","id":"stranger-v7-105-reconocimiento","fact":"stranger-v7-105-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T4","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Fred Benson” en este quiz de T4?","a":"Cómo se llama el periodista escolar asesinado por Vecna","d":["Jason Carver","Patrick McKinney","Eddie Munson"],"x":"Fred Benson es la respuesta correcta.","season":"T4","id":"stranger-v7-106-reconocimiento","fact":"stranger-v7-106-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T4","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Patrick McKinney” en este quiz de T4?","a":"Cómo se llama el jugador de baloncesto asesinado en el lago","d":["Jason Carver","Lucas Sinclair","Fred Benson"],"x":"Patrick McKinney es la respuesta correcta.","season":"T4","id":"stranger-v7-107-reconocimiento","fact":"stranger-v7-107-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T4","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Jason Carver” en este quiz de T4?","a":"Quién acusa públicamente a Eddie de dirigir una secta","d":["Lucas Sinclair","Dustin Henderson","Wayne Munson"],"x":"Jason Carver es la respuesta correcta.","season":"T4","id":"stranger-v7-108-reconocimiento","fact":"stranger-v7-108-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"T4","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Victor Creel” en este quiz de T4?","a":"Cómo se llama el padre de Henry Creel","d":["Martin Brenner","Wayne Munson","Ted Wheeler"],"x":"Victor Creel es la respuesta correcta.","season":"T4","id":"stranger-v7-109-reconocimiento","fact":"stranger-v7-109-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Bicicletas” en este quiz de Objetos?","a":"Qué medio de transporte usan a menudo los chicos","d":["Patinetes","Motos","Caballos"],"x":"Bicicletas es la respuesta correcta.","season":"General","id":"stranger-v7-110-reconocimiento","fact":"stranger-v7-110-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Media","q":"¿Qué descripción corresponde a “Un tirachinas” en este quiz de Objetos?","a":"Qué arma característica utiliza Lucas al principio","d":["Un arco","Una espada","Un bumerán"],"x":"Un tirachinas es la respuesta correcta.","season":"General","id":"stranger-v7-111-reconocimiento","fact":"stranger-v7-111-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Dig Dug” en este quiz de Objetos?","a":"Qué máquina recreativa tiene la puntuación de MADMAX","d":["Pac-Man","Galaga","Dragon’s Lair"],"x":"Dig Dug es la respuesta correcta.","season":"General","id":"stranger-v7-112-reconocimiento","fact":"stranger-v7-112-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Criaturas","difficulty":"Media","q":"¿Qué descripción corresponde a “Demoperros” en este quiz de Criaturas?","a":"Cómo llaman a las criaturas jóvenes parecidas al Demogorgon","d":["Demomurciélagos","Pollywogs","Sombras"],"x":"Demoperros es la respuesta correcta.","season":"General","id":"stranger-v7-113-reconocimiento","fact":"stranger-v7-113-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Criaturas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Demomurciélagos” en este quiz de Criaturas?","a":"Qué criaturas voladoras atacan a Steve en el Mundo del Revés","d":["Demoperros","Cuervos de Vecna","Mind Bats"],"x":"Demomurciélagos es la respuesta correcta.","season":"General","id":"stranger-v7-114-reconocimiento","fact":"stranger-v7-114-reconocimiento","show":"stranger","kind":"reconocimiento"},{"block":"Eleven","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es número de eleven?","a":"011","d":["001","008","013"],"x":"El/la número de Eleven es 011.","season":"General","id":"stranger-v7-0-relacion","fact":"stranger-v7-0-relacion","show":"stranger","kind":"relacion"},{"block":"Eleven","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es comida favorita de eleven?","a":"Gofres Eggo","d":["Pizza","Hamburguesas","Cereales"],"x":"El/la comida favorita de Eleven es Gofres Eggo.","season":"General","id":"stranger-v7-1-relacion","fact":"stranger-v7-1-relacion","show":"stranger","kind":"relacion"},{"block":"Eleven","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es padre adoptivo de eleven?","a":"Jim Hopper","d":["Martin Brenner","Sam Owens","Bob Newby"],"x":"El/la padre adoptivo de Eleven es Jim Hopper.","season":"General","id":"stranger-v7-2-relacion","fact":"stranger-v7-2-relacion","show":"stranger","kind":"relacion"},{"block":"Eleven","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es nombre legal de eleven?","a":"Jane Hopper","d":["Jane Wheeler","El Byers","Sara Hopper"],"x":"El/la nombre legal de Eleven es Jane Hopper.","season":"General","id":"stranger-v7-3-relacion","fact":"stranger-v7-3-relacion","show":"stranger","kind":"relacion"},{"block":"Mike","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de mike?","a":"Wheeler","d":["Byers","Henderson","Sinclair"],"x":"El/la apellido de Mike es Wheeler.","season":"General","id":"stranger-v7-4-relacion","fact":"stranger-v7-4-relacion","show":"stranger","kind":"relacion"},{"block":"Mike","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hermana mayor de mike?","a":"Nancy","d":["Erica","Robin","Chrissy"],"x":"El/la hermana mayor de Mike es Nancy.","season":"General","id":"stranger-v7-5-relacion","fact":"stranger-v7-5-relacion","show":"stranger","kind":"relacion"},{"block":"Dustin","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de dustin?","a":"Henderson","d":["Sinclair","Wheeler","Byers"],"x":"El/la apellido de Dustin es Henderson.","season":"General","id":"stranger-v7-6-relacion","fact":"stranger-v7-6-relacion","show":"stranger","kind":"relacion"},{"block":"Dustin","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es novia de dustin?","a":"Suzie","d":["Robin","Max","Chrissy"],"x":"El/la novia de Dustin es Suzie.","season":"General","id":"stranger-v7-7-relacion","fact":"stranger-v7-7-relacion","show":"stranger","kind":"relacion"},{"block":"Dustin","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es campamento científico de dustin?","a":"Camp Know Where","d":["Camp Hawkins","Camp Cerebro","Camp Starcourt"],"x":"El/la campamento científico de Dustin es Camp Know Where.","season":"General","id":"stranger-v7-8-relacion","fact":"stranger-v7-8-relacion","show":"stranger","kind":"relacion"},{"block":"Lucas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de lucas?","a":"Sinclair","d":["Henderson","Wheeler","Byers"],"x":"El/la apellido de Lucas es Sinclair.","season":"General","id":"stranger-v7-9-relacion","fact":"stranger-v7-9-relacion","show":"stranger","kind":"relacion"},{"block":"Lucas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hermana de lucas?","a":"Erica","d":["Nancy","Holly","Robin"],"x":"El/la hermana de Lucas es Erica.","season":"General","id":"stranger-v7-10-relacion","fact":"stranger-v7-10-relacion","show":"stranger","kind":"relacion"},{"block":"Lucas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es equipo escolar de lucas?","a":"Baloncesto","d":["Béisbol","Hockey","Atletismo"],"x":"El/la equipo escolar de Lucas es Baloncesto.","season":"General","id":"stranger-v7-11-relacion","fact":"stranger-v7-11-relacion","show":"stranger","kind":"relacion"},{"block":"Will","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de will?","a":"Byers","d":["Wheeler","Henderson","Sinclair"],"x":"El/la apellido de Will es Byers.","season":"General","id":"stranger-v7-12-relacion","fact":"stranger-v7-12-relacion","show":"stranger","kind":"relacion"},{"block":"Will","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hermano de will?","a":"Jonathan","d":["Steve","Eddie","Billy"],"x":"El/la hermano de Will es Jonathan.","season":"General","id":"stranger-v7-13-relacion","fact":"stranger-v7-13-relacion","show":"stranger","kind":"relacion"},{"block":"Max","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de max?","a":"Mayfield","d":["Hargrove","Cunningham","Buckley"],"x":"El/la apellido de Max es Mayfield.","season":"General","id":"stranger-v7-14-relacion","fact":"stranger-v7-14-relacion","show":"stranger","kind":"relacion"},{"block":"Max","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hermanastro de max?","a":"Billy","d":["Steve","Eddie","Jason"],"x":"El/la hermanastro de Max es Billy.","season":"General","id":"stranger-v7-15-relacion","fact":"stranger-v7-15-relacion","show":"stranger","kind":"relacion"},{"block":"Max","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apodo en el arcade de max?","a":"MADMAX","d":["ZOOMER","REDMAX","SKATER"],"x":"El/la apodo en el arcade de Max es MADMAX.","season":"General","id":"stranger-v7-16-relacion","fact":"stranger-v7-16-relacion","show":"stranger","kind":"relacion"},{"block":"Steve","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es trabajo en starcourt de steve?","a":"Scoops Ahoy","d":["Family Video","Melvald’s","Hawkins Post"],"x":"El/la trabajo en Starcourt de Steve es Scoops Ahoy.","season":"General","id":"stranger-v7-17-relacion","fact":"stranger-v7-17-relacion","show":"stranger","kind":"relacion"},{"block":"Robin","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es compañero en scoops ahoy de robin?","a":"Steve","d":["Jonathan","Eddie","Billy"],"x":"El/la compañero en Scoops Ahoy de Robin es Steve.","season":"General","id":"stranger-v7-18-relacion","fact":"stranger-v7-18-relacion","show":"stranger","kind":"relacion"},{"block":"Eddie","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es club que dirige de eddie?","a":"Hellfire Club","d":["Tiger Club","Dungeon Masters","Hawkins Metal"],"x":"El/la club que dirige de Eddie es Hellfire Club.","season":"General","id":"stranger-v7-19-relacion","fact":"stranger-v7-19-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién desaparece al comienzo de la serie?","a":"Will Byers","d":["Mike Wheeler","Dustin Henderson","Lucas Sinclair"],"x":"Will Byers es la respuesta correcta.","season":"T1","id":"stranger-v7-20-relacion","fact":"stranger-v7-20-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué usa joyce para comunicarse con will?","a":"Luces de Navidad","d":["Una televisión","Velas","Una radio de coche"],"x":"Luces de Navidad es la respuesta correcta.","season":"T1","id":"stranger-v7-21-relacion","fact":"stranger-v7-21-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué plato prepara benny hammond para eleven?","a":"Hamburguesa y patatas","d":["Gofres","Pizza","Tortitas"],"x":"Hamburguesa y patatas es la respuesta correcta.","season":"T1","id":"stranger-v7-22-relacion","fact":"stranger-v7-22-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué descubre hopper dentro del supuesto cuerpo de will?","a":"Relleno artificial","d":["Un dispositivo","Hielo","Una criatura"],"x":"Relleno artificial es la respuesta correcta.","season":"T1","id":"stranger-v7-23-relacion","fact":"stranger-v7-23-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo explica el señor clarke una dimensión paralela?","a":"Con la metáfora del acróbata y la pulga","d":["Con un tren","Con dos espejos","Con cartas"],"x":"Con la metáfora del acróbata y la pulga es la respuesta correcta.","season":"T1","id":"stranger-v7-24-relacion","fact":"stranger-v7-24-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: de qué se disfrazan los chicos en halloween?","a":"Cazafantasmas","d":["Star Wars","Los Goonies","Superhéroes"],"x":"Cazafantasmas es la respuesta correcta.","season":"T2","id":"stranger-v7-25-relacion","fact":"stranger-v7-25-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo llama dustin a su criatura mascota?","a":"Dart","d":["Mews","Tews","Yertle"],"x":"Dart es la respuesta correcta.","season":"T2","id":"stranger-v7-26-relacion","fact":"stranger-v7-26-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué chocolatina usa dustin para atraer a dart?","a":"Three Musketeers","d":["M&M’s","Reese’s Pieces","Kit Kat"],"x":"Three Musketeers es la respuesta correcta.","season":"T2","id":"stranger-v7-27-relacion","fact":"stranger-v7-27-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué número lleva kali en la muñeca?","a":"008","d":["006","009","012"],"x":"008 es la respuesta correcta.","season":"T2","id":"stranger-v7-28-relacion","fact":"stranger-v7-28-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el baile escolar final?","a":"Snow Ball","d":["Winter Prom","Hawkins Dance","Starcourt Ball"],"x":"Snow Ball es la respuesta correcta.","season":"T2","id":"stranger-v7-29-relacion","fact":"stranger-v7-29-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el centro comercial?","a":"Starcourt Mall","d":["Hawkins Plaza","Palace Mall","Lenora Center"],"x":"Starcourt Mall es la respuesta correcta.","season":"T3","id":"stranger-v7-30-relacion","fact":"stranger-v7-30-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es la constante que suzie comunica por radio?","a":"La constante de Planck","d":["El número de Avogadro","La velocidad de la luz","La constante de Boltzmann"],"x":"La constante de Planck es la respuesta correcta.","season":"T3","id":"stranger-v7-31-relacion","fact":"stranger-v7-31-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué frase del código ruso permite reconocer starcourt?","a":"Cuando el azul y el amarillo se encuentren en el oeste","d":["La sombra cruza el río","La torre abre al amanecer","El rojo llama al negro"],"x":"Cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.","season":"T3","id":"stranger-v7-32-relacion","fact":"stranger-v7-32-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué sustancia administran a steve y robin durante el interrogatorio?","a":"Un suero de la verdad","d":["Un sedante","Un veneno","Un estimulante"],"x":"Un suero de la verdad es la respuesta correcta.","season":"T3","id":"stranger-v7-33-relacion","fact":"stranger-v7-33-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción cantan dustin y suzie?","a":"The NeverEnding Story","d":["Africa","Running Up That Hill","Every Breath You Take"],"x":"The NeverEnding Story es la respuesta correcta.","season":"T3","id":"stranger-v7-34-relacion","fact":"stranger-v7-34-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción ayuda a max frente a vecna?","a":"Running Up That Hill","d":["Africa","Material Girl","Time After Time"],"x":"Running Up That Hill es la respuesta correcta.","season":"T4","id":"stranger-v7-35-relacion","fact":"stranger-v7-35-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el proyecto que recupera los poderes de eleven?","a":"Proyecto Nina","d":["Proyecto Indigo","Proyecto Rainbow","Proyecto Kali"],"x":"Proyecto Nina es la respuesta correcta.","season":"T4","id":"stranger-v7-36-relacion","fact":"stranger-v7-36-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción toca eddie en el mundo del revés?","a":"Master of Puppets","d":["Enter Sandman","The Trooper","Paranoid"],"x":"Master of Puppets es la respuesta correcta.","season":"T4","id":"stranger-v7-37-relacion","fact":"stranger-v7-37-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo bautiza dustin el portal de lover’s lake?","a":"Watergate","d":["Lakegate","Starcourt Gate","Blue Gate"],"x":"Watergate es la respuesta correcta.","season":"T4","id":"stranger-v7-38-relacion","fact":"stranger-v7-38-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la campaña final de eddie?","a":"The Cult of Vecna","d":["The Rise of Kas","The Lost Knight","The Demogorgon Returns"],"x":"The Cult of Vecna es la respuesta correcta.","season":"T4","id":"stranger-v7-39-relacion","fact":"stranger-v7-39-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué comida estadounidense trafica yuri?","a":"Mantequilla de cacahuete","d":["Gofres","Pizza congelada","Caviar"],"x":"Mantequilla de cacahuete es la respuesta correcta.","season":"T4","id":"stranger-v7-40-relacion","fact":"stranger-v7-40-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuántas puertas necesita vecna para fracturar hawkins?","a":"Cuatro","d":["Dos","Tres","Cinco"],"x":"Cuatro es la respuesta correcta.","season":"T4","id":"stranger-v7-41-relacion","fact":"stranger-v7-41-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción escucha chrissy antes de un ataque de vecna?","a":"Dream a Little Dream of Me","d":["Running Up That Hill","Pass the Dutchie","Separate Ways"],"x":"Dream a Little Dream of Me es la respuesta correcta.","season":"T4","id":"stranger-v7-42-relacion","fact":"stranger-v7-42-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: dónde está la entrada acuática al mundo del revés?","a":"Lover’s Lake","d":["La piscina de Hawkins","El río Brimborn","La cantera"],"x":"Lover’s Lake es la respuesta correcta.","season":"T4","id":"stranger-v7-43-relacion","fact":"stranger-v7-43-relacion","show":"stranger","kind":"relacion"},{"block":"Criaturas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo llaman al primer monstruo?","a":"Demogorgon","d":["Vecna","Azotamentes","Demoperro"],"x":"Demogorgon es la respuesta correcta.","season":"General","id":"stranger-v7-44-relacion","fact":"stranger-v7-44-relacion","show":"stranger","kind":"relacion"},{"block":"Criaturas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo llaman a la entidad de humo?","a":"Azotamentes","d":["Demogorgon","Vecna","Sombra Roja"],"x":"Azotamentes es la respuesta correcta.","season":"General","id":"stranger-v7-45-relacion","fact":"stranger-v7-45-relacion","show":"stranger","kind":"relacion"},{"block":"Criaturas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién era vecna antes de transformarse?","a":"Henry Creel","d":["Billy Hargrove","Victor Creel","Martin Brenner"],"x":"Henry Creel es la respuesta correcta.","season":"General","id":"stranger-v7-46-relacion","fact":"stranger-v7-46-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el pueblo principal?","a":"Hawkins","d":["Derry","Sunnydale","Riverdale"],"x":"Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-47-relacion","fact":"stranger-v7-47-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la heladería de starcourt?","a":"Scoops Ahoy","d":["Surfer Boy Pizza","Benny’s Burgers","Family Video"],"x":"Scoops Ahoy es la respuesta correcta.","season":"General","id":"stranger-v7-48-relacion","fact":"stranger-v7-48-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la pizzería donde trabaja argyle?","a":"Surfer Boy Pizza","d":["Benny’s Pizza","Hawkins Slice","California Pie"],"x":"Surfer Boy Pizza es la respuesta correcta.","season":"General","id":"stranger-v7-49-relacion","fact":"stranger-v7-49-relacion","show":"stranger","kind":"relacion"},{"block":"Objetos","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la radio de dustin?","a":"Cerebro","d":["Nina","Castle Byers","Pollywog"],"x":"Cerebro es la respuesta correcta.","season":"General","id":"stranger-v7-50-relacion","fact":"stranger-v7-50-relacion","show":"stranger","kind":"relacion"},{"block":"Objetos","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué reloj anuncia la llegada de vecna?","a":"Un reloj de pie antiguo","d":["Un reloj digital","Un cuco","Un despertador rojo"],"x":"Un reloj de pie antiguo es la respuesta correcta.","season":"General","id":"stranger-v7-51-relacion","fact":"stranger-v7-51-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién ayuda a joyce a traducir ruso?","a":"Murray Bauman","d":["Ted Wheeler","Scott Clarke","Lonnie Byers"],"x":"Murray Bauman es la respuesta correcta.","season":"General","id":"stranger-v7-52-relacion","fact":"stranger-v7-52-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el doctor que ayuda a hopper tras brenner?","a":"Sam Owens","d":["Alexei","Martin Brenner","Victor Creel"],"x":"Sam Owens es la respuesta correcta.","season":"General","id":"stranger-v7-53-relacion","fact":"stranger-v7-53-relacion","show":"stranger","kind":"relacion"},{"block":"Eventos","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué cierra eleven al final de la segunda temporada?","a":"El portal","d":["Starcourt","La escuela","El laboratorio entero"],"x":"El portal es la respuesta correcta.","season":"General","id":"stranger-v7-54-relacion","fact":"stranger-v7-54-relacion","show":"stranger","kind":"relacion"},{"block":"Eventos","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué transmite cerebro al volver dustin del campamento?","a":"Una señal rusa","d":["Una noticia local","Una canción de Will","Un mensaje de Hopper"],"x":"Una señal rusa es la respuesta correcta.","season":"General","id":"stranger-v7-55-relacion","fact":"stranger-v7-55-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: will byers es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-56-relacion","fact":"stranger-v7-56-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: luces de navidad es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-57-relacion","fact":"stranger-v7-57-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: hamburguesa y patatas es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-58-relacion","fact":"stranger-v7-58-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: relleno artificial es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-59-relacion","fact":"stranger-v7-59-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: con la metáfora del acróbata y la pulga es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-60-relacion","fact":"stranger-v7-60-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: cazafantasmas es la respuesta correcta.?","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-61-relacion","fact":"stranger-v7-61-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: dart es la respuesta correcta.?","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-62-relacion","fact":"stranger-v7-62-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: three musketeers es la respuesta correcta.?","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-63-relacion","fact":"stranger-v7-63-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: 008 es la respuesta correcta.?","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-64-relacion","fact":"stranger-v7-64-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: snow ball es la respuesta correcta.?","a":"T2","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-65-relacion","fact":"stranger-v7-65-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: starcourt mall es la respuesta correcta.?","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-66-relacion","fact":"stranger-v7-66-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: la constante de planck es la respuesta correcta.?","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-67-relacion","fact":"stranger-v7-67-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.?","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-68-relacion","fact":"stranger-v7-68-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: un suero de la verdad es la respuesta correcta.?","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-69-relacion","fact":"stranger-v7-69-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: the neverending story es la respuesta correcta.?","a":"T3","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-70-relacion","fact":"stranger-v7-70-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: running up that hill es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-71-relacion","fact":"stranger-v7-71-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: proyecto nina es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-72-relacion","fact":"stranger-v7-72-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: master of puppets es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-73-relacion","fact":"stranger-v7-73-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: watergate es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-74-relacion","fact":"stranger-v7-74-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: the cult of vecna es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-75-relacion","fact":"stranger-v7-75-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: mantequilla de cacahuete es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-76-relacion","fact":"stranger-v7-76-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: cuatro es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-77-relacion","fact":"stranger-v7-77-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: dream a little dream of me es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-78-relacion","fact":"stranger-v7-78-relacion","show":"stranger","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: lover’s lake es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-79-relacion","fact":"stranger-v7-79-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la madre de will y jonathan?","a":"Joyce Byers","d":["Karen Wheeler","Claudia Henderson","Susan Hargrove"],"x":"Joyce Byers es la respuesta correcta.","season":"General","id":"stranger-v7-80-relacion","fact":"stranger-v7-80-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién es el jefe de policía de hawkins?","a":"Jim Hopper","d":["Sam Owens","Murray Bauman","Bob Newby"],"x":"Jim Hopper es la respuesta correcta.","season":"General","id":"stranger-v7-81-relacion","fact":"stranger-v7-81-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la amiga de nancy que desaparece en la primera temporada?","a":"Barb Holland","d":["Chrissy Cunningham","Heather Holloway","Becky Ives"],"x":"Barb Holland es la respuesta correcta.","season":"General","id":"stranger-v7-82-relacion","fact":"stranger-v7-82-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el novio de joyce que trabaja en radioshack?","a":"Bob Newby","d":["Lonnie Byers","Scott Clarke","Murray Bauman"],"x":"Bob Newby es la respuesta correcta.","season":"General","id":"stranger-v7-83-relacion","fact":"stranger-v7-83-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el periodista conspiranoico amigo de hopper?","a":"Murray Bauman","d":["Ted Wheeler","Powell","Callahan"],"x":"Murray Bauman es la respuesta correcta.","season":"General","id":"stranger-v7-84-relacion","fact":"stranger-v7-84-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién es el director del laboratorio de hawkins al principio?","a":"Martin Brenner","d":["Sam Owens","Victor Creel","Alexei"],"x":"Martin Brenner es la respuesta correcta.","season":"General","id":"stranger-v7-85-relacion","fact":"stranger-v7-85-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el científico ruso que ayuda a hopper y joyce?","a":"Alexei","d":["Yuri","Grigori","Dmitri"],"x":"Alexei es la respuesta correcta.","season":"General","id":"stranger-v7-86-relacion","fact":"stranger-v7-86-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el guardia ruso conocido como enzo?","a":"Dmitri Antonov","d":["Yuri Ismaylov","Grigori","Alexei"],"x":"Dmitri Antonov es la respuesta correcta.","season":"General","id":"stranger-v7-87-relacion","fact":"stranger-v7-87-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el piloto ruso que traiciona a joyce y murray?","a":"Yuri Ismaylov","d":["Dmitri Antonov","Alexei","Grigori"],"x":"Yuri Ismaylov es la respuesta correcta.","season":"General","id":"stranger-v7-88-relacion","fact":"stranger-v7-88-relacion","show":"stranger","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la consejera escolar relacionada con las víctimas de vecna?","a":"Ms. Kelly","d":["Ms. Driscoll","Ms. Holland","Ms. Wheeler"],"x":"Ms. Kelly es la respuesta correcta.","season":"General","id":"stranger-v7-89-relacion","fact":"stranger-v7-89-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el laboratorio donde estuvo eleven?","a":"Laboratorio Nacional de Hawkins","d":["Laboratorio de Lenora","Proyecto Starcourt","Centro Nina"],"x":"Laboratorio Nacional de Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-90-relacion","fact":"stranger-v7-90-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la cabaña donde viven hopper y eleven?","a":"La cabaña de Hopper","d":["Castle Byers","Casa Creel","Benny’s"],"x":"La cabaña de Hopper es la respuesta correcta.","season":"General","id":"stranger-v7-91-relacion","fact":"stranger-v7-91-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el castillo de madera de will?","a":"Castle Byers","d":["Castle Hawkins","Fort Wheeler","Camp Know Where"],"x":"Castle Byers es la respuesta correcta.","season":"General","id":"stranger-v7-92-relacion","fact":"stranger-v7-92-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el periódico donde trabajan nancy y jonathan?","a":"The Hawkins Post","d":["The Hawkins Times","The Indiana Sun","The Starcourt News"],"x":"The Hawkins Post es la respuesta correcta.","season":"General","id":"stranger-v7-93-relacion","fact":"stranger-v7-93-relacion","show":"stranger","kind":"relacion"},{"block":"Lugares","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el videoclub donde trabajan steve y robin?","a":"Family Video","d":["Video Palace","Hawkins Video","Starcourt Movies"],"x":"Family Video es la respuesta correcta.","season":"General","id":"stranger-v7-94-relacion","fact":"stranger-v7-94-relacion","show":"stranger","kind":"relacion"},{"block":"T1","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción escucha jonathan y comparte con will?","a":"Should I Stay or Should I Go","d":["Africa","Every Breath You Take","Heroes"],"x":"Should I Stay or Should I Go es la respuesta correcta.","season":"T1","id":"stranger-v7-95-relacion","fact":"stranger-v7-95-relacion","show":"stranger","kind":"relacion"},{"block":"T1","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué juego están jugando los chicos cuando will desaparece?","a":"Dungeons & Dragons","d":["Risk","Monopoly","Cluedo"],"x":"Dungeons & Dragons es la respuesta correcta.","season":"T1","id":"stranger-v7-96-relacion","fact":"stranger-v7-96-relacion","show":"stranger","kind":"relacion"},{"block":"T1","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: dónde aparece eleven por primera vez tras escapar?","a":"En Benny’s Burgers","d":["En casa de Mike","En la escuela","En la cantera"],"x":"En Benny’s Burgers es la respuesta correcta.","season":"T1","id":"stranger-v7-97-relacion","fact":"stranger-v7-97-relacion","show":"stranger","kind":"relacion"},{"block":"T2","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué evento mata a bob newby?","a":"El ataque de los demoperros","d":["Un accidente de coche","Un incendio","El Demogorgon"],"x":"El ataque de los demoperros es la respuesta correcta.","season":"T2","id":"stranger-v7-98-relacion","fact":"stranger-v7-98-relacion","show":"stranger","kind":"relacion"},{"block":"T2","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué dibujos usa will para representar los túneles?","a":"Muchísimas hojas unidas como un mapa","d":["Fotografías","Planos del laboratorio","Mapas de carreteras"],"x":"Muchísimas hojas unidas como un mapa es la respuesta correcta.","season":"T2","id":"stranger-v7-99-relacion","fact":"stranger-v7-99-relacion","show":"stranger","kind":"relacion"},{"block":"T2","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién reconoce que los dibujos de will forman un mapa?","a":"Bob Newby","d":["Dustin","Hopper","Mike"],"x":"Bob Newby es la respuesta correcta.","season":"T2","id":"stranger-v7-100-relacion","fact":"stranger-v7-100-relacion","show":"stranger","kind":"relacion"},{"block":"T3","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: dónde trabajan nancy y jonathan durante el verano?","a":"The Hawkins Post","d":["Family Video","Scoops Ahoy","Melvald’s"],"x":"The Hawkins Post es la respuesta correcta.","season":"T3","id":"stranger-v7-101-relacion","fact":"stranger-v7-101-relacion","show":"stranger","kind":"relacion"},{"block":"T3","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la socorrista controlada por el azotamentes?","a":"Heather Holloway","d":["Chrissy Cunningham","Barb Holland","Becky Ives"],"x":"Heather Holloway es la respuesta correcta.","season":"T3","id":"stranger-v7-102-relacion","fact":"stranger-v7-102-relacion","show":"stranger","kind":"relacion"},{"block":"T3","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué animal empieza a comportarse de forma extraña y explota?","a":"Ratas","d":["Gatos","Cuervos","Perros"],"x":"Ratas es la respuesta correcta.","season":"T3","id":"stranger-v7-103-relacion","fact":"stranger-v7-103-relacion","show":"stranger","kind":"relacion"},{"block":"T3","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué nombre tiene la máquina rusa que intenta abrir el portal?","a":"La Llave","d":["Nina","Cerebro","La Sombra"],"x":"La Llave es la respuesta correcta.","season":"T3","id":"stranger-v7-104-relacion","fact":"stranger-v7-104-relacion","show":"stranger","kind":"relacion"},{"block":"T4","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la primera víctima adolescente de vecna?","a":"Chrissy Cunningham","d":["Fred Benson","Patrick McKinney","Max Mayfield"],"x":"Chrissy Cunningham es la respuesta correcta.","season":"T4","id":"stranger-v7-105-relacion","fact":"stranger-v7-105-relacion","show":"stranger","kind":"relacion"},{"block":"T4","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el periodista escolar asesinado por vecna?","a":"Fred Benson","d":["Jason Carver","Patrick McKinney","Eddie Munson"],"x":"Fred Benson es la respuesta correcta.","season":"T4","id":"stranger-v7-106-relacion","fact":"stranger-v7-106-relacion","show":"stranger","kind":"relacion"},{"block":"T4","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el jugador de baloncesto asesinado en el lago?","a":"Patrick McKinney","d":["Jason Carver","Lucas Sinclair","Fred Benson"],"x":"Patrick McKinney es la respuesta correcta.","season":"T4","id":"stranger-v7-107-relacion","fact":"stranger-v7-107-relacion","show":"stranger","kind":"relacion"},{"block":"T4","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién acusa públicamente a eddie de dirigir una secta?","a":"Jason Carver","d":["Lucas Sinclair","Dustin Henderson","Wayne Munson"],"x":"Jason Carver es la respuesta correcta.","season":"T4","id":"stranger-v7-108-relacion","fact":"stranger-v7-108-relacion","show":"stranger","kind":"relacion"},{"block":"T4","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el padre de henry creel?","a":"Victor Creel","d":["Martin Brenner","Wayne Munson","Ted Wheeler"],"x":"Victor Creel es la respuesta correcta.","season":"T4","id":"stranger-v7-109-relacion","fact":"stranger-v7-109-relacion","show":"stranger","kind":"relacion"},{"block":"Objetos","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué medio de transporte usan a menudo los chicos?","a":"Bicicletas","d":["Patinetes","Motos","Caballos"],"x":"Bicicletas es la respuesta correcta.","season":"General","id":"stranger-v7-110-relacion","fact":"stranger-v7-110-relacion","show":"stranger","kind":"relacion"},{"block":"Objetos","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué arma característica utiliza lucas al principio?","a":"Un tirachinas","d":["Un arco","Una espada","Un bumerán"],"x":"Un tirachinas es la respuesta correcta.","season":"General","id":"stranger-v7-111-relacion","fact":"stranger-v7-111-relacion","show":"stranger","kind":"relacion"},{"block":"Objetos","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué máquina recreativa tiene la puntuación de madmax?","a":"Dig Dug","d":["Pac-Man","Galaga","Dragon’s Lair"],"x":"Dig Dug es la respuesta correcta.","season":"General","id":"stranger-v7-112-relacion","fact":"stranger-v7-112-relacion","show":"stranger","kind":"relacion"},{"block":"Criaturas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo llaman a las criaturas jóvenes parecidas al demogorgon?","a":"Demoperros","d":["Demomurciélagos","Pollywogs","Sombras"],"x":"Demoperros es la respuesta correcta.","season":"General","id":"stranger-v7-113-relacion","fact":"stranger-v7-113-relacion","show":"stranger","kind":"relacion"},{"block":"Criaturas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué criaturas voladoras atacan a steve en el mundo del revés?","a":"Demomurciélagos","d":["Demoperros","Cuervos de Vecna","Mind Bats"],"x":"Demomurciélagos es la respuesta correcta.","season":"General","id":"stranger-v7-114-relacion","fact":"stranger-v7-114-relacion","show":"stranger","kind":"relacion"},{"block":"Eleven","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Eleven?","a":"011: cuál es número de eleven","d":["001: cuál es número de eleven","008: cuál es número de eleven","013: cuál es número de eleven"],"x":"El/la número de Eleven es 011.","season":"General","id":"stranger-v7-0-emparejar","fact":"stranger-v7-0-emparejar","show":"stranger","kind":"emparejar"},{"block":"Mike","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Mike?","a":"Wheeler: cuál es apellido de mike","d":["Byers: cuál es apellido de mike","Henderson: cuál es apellido de mike","Sinclair: cuál es apellido de mike"],"x":"El/la apellido de Mike es Wheeler.","season":"General","id":"stranger-v7-4-emparejar","fact":"stranger-v7-4-emparejar","show":"stranger","kind":"emparejar"},{"block":"Dustin","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Dustin?","a":"Henderson: cuál es apellido de dustin","d":["Sinclair: cuál es apellido de dustin","Wheeler: cuál es apellido de dustin","Byers: cuál es apellido de dustin"],"x":"El/la apellido de Dustin es Henderson.","season":"General","id":"stranger-v7-6-emparejar","fact":"stranger-v7-6-emparejar","show":"stranger","kind":"emparejar"},{"block":"Lucas","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Lucas?","a":"Sinclair: cuál es apellido de lucas","d":["Henderson: cuál es apellido de lucas","Wheeler: cuál es apellido de lucas","Byers: cuál es apellido de lucas"],"x":"El/la apellido de Lucas es Sinclair.","season":"General","id":"stranger-v7-9-emparejar","fact":"stranger-v7-9-emparejar","show":"stranger","kind":"emparejar"},{"block":"Will","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Will?","a":"Byers: cuál es apellido de will","d":["Wheeler: cuál es apellido de will","Henderson: cuál es apellido de will","Sinclair: cuál es apellido de will"],"x":"El/la apellido de Will es Byers.","season":"General","id":"stranger-v7-12-emparejar","fact":"stranger-v7-12-emparejar","show":"stranger","kind":"emparejar"},{"block":"Max","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Max?","a":"Mayfield: cuál es apellido de max","d":["Hargrove: cuál es apellido de max","Cunningham: cuál es apellido de max","Buckley: cuál es apellido de max"],"x":"El/la apellido de Max es Mayfield.","season":"General","id":"stranger-v7-14-emparejar","fact":"stranger-v7-14-emparejar","show":"stranger","kind":"emparejar"},{"block":"Steve","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Steve?","a":"Scoops Ahoy: cuál es trabajo en starcourt de steve","d":["Family Video: cuál es trabajo en starcourt de steve","Melvald’s: cuál es trabajo en starcourt de steve","Hawkins Post: cuál es trabajo en starcourt de steve"],"x":"El/la trabajo en Starcourt de Steve es Scoops Ahoy.","season":"General","id":"stranger-v7-17-emparejar","fact":"stranger-v7-17-emparejar","show":"stranger","kind":"emparejar"},{"block":"Robin","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Robin?","a":"Steve: cuál es compañero en scoops ahoy de robin","d":["Jonathan: cuál es compañero en scoops ahoy de robin","Eddie: cuál es compañero en scoops ahoy de robin","Billy: cuál es compañero en scoops ahoy de robin"],"x":"El/la compañero en Scoops Ahoy de Robin es Steve.","season":"General","id":"stranger-v7-18-emparejar","fact":"stranger-v7-18-emparejar","show":"stranger","kind":"emparejar"},{"block":"Eddie","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Eddie?","a":"Hellfire Club: cuál es club que dirige de eddie","d":["Tiger Club: cuál es club que dirige de eddie","Dungeon Masters: cuál es club que dirige de eddie","Hawkins Metal: cuál es club que dirige de eddie"],"x":"El/la club que dirige de Eddie es Hellfire Club.","season":"General","id":"stranger-v7-19-emparejar","fact":"stranger-v7-19-emparejar","show":"stranger","kind":"emparejar"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Temporadas?","a":"Will Byers: quién desaparece al comienzo de la serie","d":["Mike Wheeler: quién desaparece al comienzo de la serie","Dustin Henderson: quién desaparece al comienzo de la serie","Lucas Sinclair: quién desaparece al comienzo de la serie"],"x":"Will Byers es la respuesta correcta.","season":"T1","id":"stranger-v7-20-emparejar","fact":"stranger-v7-20-emparejar","show":"stranger","kind":"emparejar"},{"block":"Criaturas","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Criaturas?","a":"Demogorgon: cómo llaman al primer monstruo","d":["Vecna: cómo llaman al primer monstruo","Azotamentes: cómo llaman al primer monstruo","Demoperro: cómo llaman al primer monstruo"],"x":"Demogorgon es la respuesta correcta.","season":"General","id":"stranger-v7-44-emparejar","fact":"stranger-v7-44-emparejar","show":"stranger","kind":"emparejar"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Lugares?","a":"Hawkins: cómo se llama el pueblo principal","d":["Derry: cómo se llama el pueblo principal","Sunnydale: cómo se llama el pueblo principal","Riverdale: cómo se llama el pueblo principal"],"x":"Hawkins es la respuesta correcta.","season":"General","id":"stranger-v7-47-emparejar","fact":"stranger-v7-47-emparejar","show":"stranger","kind":"emparejar"},{"block":"Objetos","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Objetos?","a":"Cerebro: cómo se llama la radio de dustin","d":["Nina: cómo se llama la radio de dustin","Castle Byers: cómo se llama la radio de dustin","Pollywog: cómo se llama la radio de dustin"],"x":"Cerebro es la respuesta correcta.","season":"General","id":"stranger-v7-50-emparejar","fact":"stranger-v7-50-emparejar","show":"stranger","kind":"emparejar"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Secundarios?","a":"Murray Bauman: quién ayuda a joyce a traducir ruso","d":["Ted Wheeler: quién ayuda a joyce a traducir ruso","Scott Clarke: quién ayuda a joyce a traducir ruso","Lonnie Byers: quién ayuda a joyce a traducir ruso"],"x":"Murray Bauman es la respuesta correcta.","season":"General","id":"stranger-v7-52-emparejar","fact":"stranger-v7-52-emparejar","show":"stranger","kind":"emparejar"},{"block":"Eventos","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Eventos?","a":"El portal: qué cierra eleven al final de la segunda temporada","d":["Starcourt: qué cierra eleven al final de la segunda temporada","La escuela: qué cierra eleven al final de la segunda temporada","El laboratorio entero: qué cierra eleven al final de la segunda temporada"],"x":"El portal es la respuesta correcta.","season":"General","id":"stranger-v7-54-emparejar","fact":"stranger-v7-54-emparejar","show":"stranger","kind":"emparejar"},{"block":"T1","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de T1?","a":"Should I Stay or Should I Go: qué canción escucha jonathan y comparte con will","d":["Africa: qué canción escucha jonathan y comparte con will","Every Breath You Take: qué canción escucha jonathan y comparte con will","Heroes: qué canción escucha jonathan y comparte con will"],"x":"Should I Stay or Should I Go es la respuesta correcta.","season":"T1","id":"stranger-v7-95-emparejar","fact":"stranger-v7-95-emparejar","show":"stranger","kind":"emparejar"},{"block":"T2","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de T2?","a":"El ataque de los demoperros: qué evento mata a bob newby","d":["Un accidente de coche: qué evento mata a bob newby","Un incendio: qué evento mata a bob newby","El Demogorgon: qué evento mata a bob newby"],"x":"El ataque de los demoperros es la respuesta correcta.","season":"T2","id":"stranger-v7-98-emparejar","fact":"stranger-v7-98-emparejar","show":"stranger","kind":"emparejar"},{"block":"T3","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de T3?","a":"The Hawkins Post: dónde trabajan nancy y jonathan durante el verano","d":["Family Video: dónde trabajan nancy y jonathan durante el verano","Scoops Ahoy: dónde trabajan nancy y jonathan durante el verano","Melvald’s: dónde trabajan nancy y jonathan durante el verano"],"x":"The Hawkins Post es la respuesta correcta.","season":"T3","id":"stranger-v7-101-emparejar","fact":"stranger-v7-101-emparejar","show":"stranger","kind":"emparejar"},{"block":"T4","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de T4?","a":"Chrissy Cunningham: cómo se llama la primera víctima adolescente de vecna","d":["Fred Benson: cómo se llama la primera víctima adolescente de vecna","Patrick McKinney: cómo se llama la primera víctima adolescente de vecna","Max Mayfield: cómo se llama la primera víctima adolescente de vecna"],"x":"Chrissy Cunningham es la respuesta correcta.","season":"T4","id":"stranger-v7-105-emparejar","fact":"stranger-v7-105-emparejar","show":"stranger","kind":"emparejar"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: quién desaparece al comienzo de la serie?","a":"T1","d":["T2","T3","T4"],"x":"Will Byers es la respuesta correcta.","season":"T1","id":"stranger-v7-20-temporada","fact":"stranger-v7-20-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué usa joyce para comunicarse con will?","a":"T1","d":["T2","T3","T4"],"x":"Luces de Navidad es la respuesta correcta.","season":"T1","id":"stranger-v7-21-temporada","fact":"stranger-v7-21-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué plato prepara benny hammond para eleven?","a":"T1","d":["T2","T3","T4"],"x":"Hamburguesa y patatas es la respuesta correcta.","season":"T1","id":"stranger-v7-22-temporada","fact":"stranger-v7-22-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué descubre hopper dentro del supuesto cuerpo de will?","a":"T1","d":["T2","T3","T4"],"x":"Relleno artificial es la respuesta correcta.","season":"T1","id":"stranger-v7-23-temporada","fact":"stranger-v7-23-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo explica el señor clarke una dimensión paralela?","a":"T1","d":["T2","T3","T4"],"x":"Con la metáfora del acróbata y la pulga es la respuesta correcta.","season":"T1","id":"stranger-v7-24-temporada","fact":"stranger-v7-24-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: de qué se disfrazan los chicos en halloween?","a":"T2","d":["T1","T3","T4"],"x":"Cazafantasmas es la respuesta correcta.","season":"T2","id":"stranger-v7-25-temporada","fact":"stranger-v7-25-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cómo llama dustin a su criatura mascota?","a":"T2","d":["T1","T3","T4"],"x":"Dart es la respuesta correcta.","season":"T2","id":"stranger-v7-26-temporada","fact":"stranger-v7-26-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué chocolatina usa dustin para atraer a dart?","a":"T2","d":["T1","T3","T4"],"x":"Three Musketeers es la respuesta correcta.","season":"T2","id":"stranger-v7-27-temporada","fact":"stranger-v7-27-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué número lleva kali en la muñeca?","a":"T2","d":["T1","T3","T4"],"x":"008 es la respuesta correcta.","season":"T2","id":"stranger-v7-28-temporada","fact":"stranger-v7-28-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el baile escolar final?","a":"T2","d":["T1","T3","T4"],"x":"Snow Ball es la respuesta correcta.","season":"T2","id":"stranger-v7-29-temporada","fact":"stranger-v7-29-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el centro comercial?","a":"T3","d":["T1","T2","T4"],"x":"Starcourt Mall es la respuesta correcta.","season":"T3","id":"stranger-v7-30-temporada","fact":"stranger-v7-30-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cuál es la constante que suzie comunica por radio?","a":"T3","d":["T1","T2","T4"],"x":"La constante de Planck es la respuesta correcta.","season":"T3","id":"stranger-v7-31-temporada","fact":"stranger-v7-31-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué frase del código ruso permite reconocer starcourt?","a":"T3","d":["T1","T2","T4"],"x":"Cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.","season":"T3","id":"stranger-v7-32-temporada","fact":"stranger-v7-32-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué sustancia administran a steve y robin durante el interrogatorio?","a":"T3","d":["T1","T2","T4"],"x":"Un suero de la verdad es la respuesta correcta.","season":"T3","id":"stranger-v7-33-temporada","fact":"stranger-v7-33-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué canción cantan dustin y suzie?","a":"T3","d":["T1","T2","T4"],"x":"The NeverEnding Story es la respuesta correcta.","season":"T3","id":"stranger-v7-34-temporada","fact":"stranger-v7-34-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué canción ayuda a max frente a vecna?","a":"T4","d":["T1","T2","T3"],"x":"Running Up That Hill es la respuesta correcta.","season":"T4","id":"stranger-v7-35-temporada","fact":"stranger-v7-35-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cómo se llama el proyecto que recupera los poderes de eleven?","a":"T4","d":["T1","T2","T3"],"x":"Proyecto Nina es la respuesta correcta.","season":"T4","id":"stranger-v7-36-temporada","fact":"stranger-v7-36-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué canción toca eddie en el mundo del revés?","a":"T4","d":["T1","T2","T3"],"x":"Master of Puppets es la respuesta correcta.","season":"T4","id":"stranger-v7-37-temporada","fact":"stranger-v7-37-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo bautiza dustin el portal de lover’s lake?","a":"T4","d":["T1","T2","T3"],"x":"Watergate es la respuesta correcta.","season":"T4","id":"stranger-v7-38-temporada","fact":"stranger-v7-38-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama la campaña final de eddie?","a":"T4","d":["T1","T2","T3"],"x":"The Cult of Vecna es la respuesta correcta.","season":"T4","id":"stranger-v7-39-temporada","fact":"stranger-v7-39-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué comida estadounidense trafica yuri?","a":"T4","d":["T1","T2","T3"],"x":"Mantequilla de cacahuete es la respuesta correcta.","season":"T4","id":"stranger-v7-40-temporada","fact":"stranger-v7-40-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cuántas puertas necesita vecna para fracturar hawkins?","a":"T4","d":["T1","T2","T3"],"x":"Cuatro es la respuesta correcta.","season":"T4","id":"stranger-v7-41-temporada","fact":"stranger-v7-41-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué canción escucha chrissy antes de un ataque de vecna?","a":"T4","d":["T1","T2","T3"],"x":"Dream a Little Dream of Me es la respuesta correcta.","season":"T4","id":"stranger-v7-42-temporada","fact":"stranger-v7-42-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: dónde está la entrada acuática al mundo del revés?","a":"T4","d":["T1","T2","T3"],"x":"Lover’s Lake es la respuesta correcta.","season":"T4","id":"stranger-v7-43-temporada","fact":"stranger-v7-43-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: will byers es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-56-temporada","fact":"stranger-v7-56-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: luces de navidad es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-57-temporada","fact":"stranger-v7-57-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: hamburguesa y patatas es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-58-temporada","fact":"stranger-v7-58-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: relleno artificial es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-59-temporada","fact":"stranger-v7-59-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: con la metáfora del acróbata y la pulga es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T1","id":"stranger-v7-60-temporada","fact":"stranger-v7-60-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: cazafantasmas es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-61-temporada","fact":"stranger-v7-61-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: dart es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-62-temporada","fact":"stranger-v7-62-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: three musketeers es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-63-temporada","fact":"stranger-v7-63-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: 008 es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-64-temporada","fact":"stranger-v7-64-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: snow ball es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T2","id":"stranger-v7-65-temporada","fact":"stranger-v7-65-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: starcourt mall es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-66-temporada","fact":"stranger-v7-66-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: la constante de planck es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-67-temporada","fact":"stranger-v7-67-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: cuando el azul y el amarillo se encuentren en el oeste es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-68-temporada","fact":"stranger-v7-68-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: un suero de la verdad es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-69-temporada","fact":"stranger-v7-69-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: the neverending story es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T3","id":"stranger-v7-70-temporada","fact":"stranger-v7-70-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: running up that hill es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-71-temporada","fact":"stranger-v7-71-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: proyecto nina es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-72-temporada","fact":"stranger-v7-72-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: master of puppets es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-73-temporada","fact":"stranger-v7-73-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: watergate es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-74-temporada","fact":"stranger-v7-74-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: the cult of vecna es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-75-temporada","fact":"stranger-v7-75-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: mantequilla de cacahuete es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-76-temporada","fact":"stranger-v7-76-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: cuatro es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-77-temporada","fact":"stranger-v7-77-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: dream a little dream of me es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-78-temporada","fact":"stranger-v7-78-temporada","show":"stranger","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: lover’s lake es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Recordar la temporada exige ubicar la escena en la historia.","season":"T4","id":"stranger-v7-79-temporada","fact":"stranger-v7-79-temporada","show":"stranger","kind":"temporada"},{"block":"T1","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué canción escucha jonathan y comparte con will?","a":"T1","d":["T2","T3","T4"],"x":"Should I Stay or Should I Go es la respuesta correcta.","season":"T1","id":"stranger-v7-95-temporada","fact":"stranger-v7-95-temporada","show":"stranger","kind":"temporada"},{"block":"T1","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué juego están jugando los chicos cuando will desaparece?","a":"T1","d":["T2","T3","T4"],"x":"Dungeons & Dragons es la respuesta correcta.","season":"T1","id":"stranger-v7-96-temporada","fact":"stranger-v7-96-temporada","show":"stranger","kind":"temporada"},{"block":"T1","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: dónde aparece eleven por primera vez tras escapar?","a":"T1","d":["T2","T3","T4"],"x":"En Benny’s Burgers es la respuesta correcta.","season":"T1","id":"stranger-v7-97-temporada","fact":"stranger-v7-97-temporada","show":"stranger","kind":"temporada"},{"block":"T2","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué evento mata a bob newby?","a":"T2","d":["T1","T3","T4"],"x":"El ataque de los demoperros es la respuesta correcta.","season":"T2","id":"stranger-v7-98-temporada","fact":"stranger-v7-98-temporada","show":"stranger","kind":"temporada"},{"block":"T2","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué dibujos usa will para representar los túneles?","a":"T2","d":["T1","T3","T4"],"x":"Muchísimas hojas unidas como un mapa es la respuesta correcta.","season":"T2","id":"stranger-v7-99-temporada","fact":"stranger-v7-99-temporada","show":"stranger","kind":"temporada"},{"block":"T2","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: quién reconoce que los dibujos de will forman un mapa?","a":"T2","d":["T1","T3","T4"],"x":"Bob Newby es la respuesta correcta.","season":"T2","id":"stranger-v7-100-temporada","fact":"stranger-v7-100-temporada","show":"stranger","kind":"temporada"},{"block":"T3","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: dónde trabajan nancy y jonathan durante el verano?","a":"T3","d":["T1","T2","T4"],"x":"The Hawkins Post es la respuesta correcta.","season":"T3","id":"stranger-v7-101-temporada","fact":"stranger-v7-101-temporada","show":"stranger","kind":"temporada"},{"block":"T3","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama la socorrista controlada por el azotamentes?","a":"T3","d":["T1","T2","T4"],"x":"Heather Holloway es la respuesta correcta.","season":"T3","id":"stranger-v7-102-temporada","fact":"stranger-v7-102-temporada","show":"stranger","kind":"temporada"},{"block":"T3","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué animal empieza a comportarse de forma extraña y explota?","a":"T3","d":["T1","T2","T4"],"x":"Ratas es la respuesta correcta.","season":"T3","id":"stranger-v7-103-temporada","fact":"stranger-v7-103-temporada","show":"stranger","kind":"temporada"},{"block":"T3","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué nombre tiene la máquina rusa que intenta abrir el portal?","a":"T3","d":["T1","T2","T4"],"x":"La Llave es la respuesta correcta.","season":"T3","id":"stranger-v7-104-temporada","fact":"stranger-v7-104-temporada","show":"stranger","kind":"temporada"},{"block":"T4","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cómo se llama la primera víctima adolescente de vecna?","a":"T4","d":["T1","T2","T3"],"x":"Chrissy Cunningham es la respuesta correcta.","season":"T4","id":"stranger-v7-105-temporada","fact":"stranger-v7-105-temporada","show":"stranger","kind":"temporada"},{"block":"T4","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el periodista escolar asesinado por vecna?","a":"T4","d":["T1","T2","T3"],"x":"Fred Benson es la respuesta correcta.","season":"T4","id":"stranger-v7-106-temporada","fact":"stranger-v7-106-temporada","show":"stranger","kind":"temporada"},{"block":"T4","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el jugador de baloncesto asesinado en el lago?","a":"T4","d":["T1","T2","T3"],"x":"Patrick McKinney es la respuesta correcta.","season":"T4","id":"stranger-v7-107-temporada","fact":"stranger-v7-107-temporada","show":"stranger","kind":"temporada"},{"block":"T4","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: quién acusa públicamente a eddie de dirigir una secta?","a":"T4","d":["T1","T2","T3"],"x":"Jason Carver es la respuesta correcta.","season":"T4","id":"stranger-v7-108-temporada","fact":"stranger-v7-108-temporada","show":"stranger","kind":"temporada"},{"block":"T4","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el padre de henry creel?","a":"T4","d":["T1","T2","T3"],"x":"Victor Creel es la respuesta correcta.","season":"T4","id":"stranger-v7-109-temporada","fact":"stranger-v7-109-temporada","show":"stranger","kind":"temporada"},{"block":"Eleven","difficulty":"Fácil","q":"¿Cuál de estas dos asociaciones es correcta: “011” con cuál es número de eleven, o “Jane Hopper” con cuál es nombre legal de eleven?","a":"011 con cuál es número de eleven","d":["001 con cuál es número de eleven","008 con cuál es número de eleven","013 con cuál es número de eleven"],"x":"El/la número de Eleven es 011.","season":"General","id":"stranger-v7-pair-1","fact":"stranger-v7-pair-1","show":"stranger","kind":"comparacion"},{"block":"Eleven","difficulty":"Fácil","q":"¿Cuál de estas dos asociaciones es correcta: “Gofres Eggo” con cuál es comida favorita de eleven, o “Erica” con cuál es hermana de lucas?","a":"Gofres Eggo con cuál es comida favorita de eleven","d":["Pizza con cuál es comida favorita de eleven","Hamburguesas con cuál es comida favorita de eleven","Cereales con cuál es comida favorita de eleven"],"x":"El/la comida favorita de Eleven es Gofres Eggo.","season":"General","id":"stranger-v7-pair-2","fact":"stranger-v7-pair-2","show":"stranger","kind":"comparacion"},{"block":"Eleven","difficulty":"Media","q":"¿Cuál de estas dos asociaciones es correcta: “Jim Hopper” con cuál es padre adoptivo de eleven, o “Scoops Ahoy” con cuál es trabajo en starcourt de steve?","a":"Jim Hopper con cuál es padre adoptivo de eleven","d":["Martin Brenner con cuál es padre adoptivo de eleven","Sam Owens con cuál es padre adoptivo de eleven","Bob Newby con cuál es padre adoptivo de eleven"],"x":"El/la padre adoptivo de Eleven es Jim Hopper.","season":"General","id":"stranger-v7-pair-3","fact":"stranger-v7-pair-3","show":"stranger","kind":"comparacion"},{"block":"Eleven","difficulty":"Difícil","q":"¿Cuál de estas dos asociaciones es correcta: “Jane Hopper” con cuál es nombre legal de eleven, o “Con la metáfora del acróbata y la pulga” con cómo explica el señor clarke una dimensión paralela?","a":"Jane Hopper con cuál es nombre legal de eleven","d":["Jane Wheeler con cuál es nombre legal de eleven","El Byers con cuál es nombre legal de eleven","Sara Hopper con cuál es nombre legal de eleven"],"x":"El/la nombre legal de Eleven es Jane Hopper.","season":"General","id":"stranger-v7-pair-4","fact":"stranger-v7-pair-4","show":"stranger","kind":"comparacion"},{"block":"Mike","difficulty":"Fácil","q":"¿Cuál de estas dos asociaciones es correcta: “Wheeler” con cuál es apellido de mike, o “La constante de Planck” con cuál es la constante que suzie comunica por radio?","a":"Wheeler con cuál es apellido de mike","d":["Byers con cuál es apellido de mike","Henderson con cuál es apellido de mike","Sinclair con cuál es apellido de mike"],"x":"El/la apellido de Mike es Wheeler.","season":"General","id":"stranger-v7-pair-5","fact":"stranger-v7-pair-5","show":"stranger","kind":"comparacion"},{"block":"Mike","difficulty":"Media","q":"¿Cuál de estas dos asociaciones es correcta: “Nancy” con cuál es hermana mayor de mike, o “Watergate” con cómo bautiza dustin el portal de lover’s lake?","a":"Nancy con cuál es hermana mayor de mike","d":["Erica con cuál es hermana mayor de mike","Robin con cuál es hermana mayor de mike","Chrissy con cuál es hermana mayor de mike"],"x":"El/la hermana mayor de Mike es Nancy.","season":"General","id":"stranger-v7-pair-6","fact":"stranger-v7-pair-6","show":"stranger","kind":"comparacion"},{"block":"Dustin","difficulty":"Fácil","q":"¿Cuál de estas dos asociaciones es correcta: “Henderson” con cuál es apellido de dustin, o “Azotamentes” con cómo llaman a la entidad de humo?","a":"Henderson con cuál es apellido de dustin","d":["Sinclair con cuál es apellido de dustin","Wheeler con cuál es apellido de dustin","Byers con cuál es apellido de dustin"],"x":"El/la apellido de Dustin es Henderson.","season":"General","id":"stranger-v7-pair-7","fact":"stranger-v7-pair-7","show":"stranger","kind":"comparacion"},{"block":"Dustin","difficulty":"Media","q":"¿Cuál de estas dos asociaciones es correcta: “Suzie” con cuál es novia de dustin, o “Murray Bauman” con quién ayuda a joyce a traducir ruso?","a":"Suzie con cuál es novia de dustin","d":["Robin con cuál es novia de dustin","Max con cuál es novia de dustin","Chrissy con cuál es novia de dustin"],"x":"El/la novia de Dustin es Suzie.","season":"General","id":"stranger-v7-pair-8","fact":"stranger-v7-pair-8","show":"stranger","kind":"comparacion"},{"block":"Dustin","difficulty":"Difícil","q":"¿Cuál de estas dos asociaciones es correcta: “Camp Know Where” con cuál es campamento científico de dustin, o “T1” con en qué temporada ocurre esta escena: relleno artificial es la respuesta correcta.?","a":"Camp Know Where con cuál es campamento científico de dustin","d":["Camp Hawkins con cuál es campamento científico de dustin","Camp Cerebro con cuál es campamento científico de dustin","Camp Starcourt con cuál es campamento científico de dustin"],"x":"El/la campamento científico de Dustin es Camp Know Where.","season":"General","id":"stranger-v7-pair-9","fact":"stranger-v7-pair-9","show":"stranger","kind":"comparacion"},{"block":"Lucas","difficulty":"Fácil","q":"¿Cuál de estas dos asociaciones es correcta: “Sinclair” con cuál es apellido de lucas, o “T3” con en qué temporada ocurre esta escena: starcourt mall es la respuesta correcta.?","a":"Sinclair con cuál es apellido de lucas","d":["Henderson con cuál es apellido de lucas","Wheeler con cuál es apellido de lucas","Byers con cuál es apellido de lucas"],"x":"El/la apellido de Lucas es Sinclair.","season":"General","id":"stranger-v7-pair-10","fact":"stranger-v7-pair-10","show":"stranger","kind":"comparacion"},{"block":"Lucas","difficulty":"Media","q":"¿Cuál de estas dos asociaciones es correcta: “Erica” con cuál es hermana de lucas, o “T4” con en qué temporada ocurre esta escena: master of puppets es la respuesta correcta.?","a":"Erica con cuál es hermana de lucas","d":["Nancy con cuál es hermana de lucas","Holly con cuál es hermana de lucas","Robin con cuál es hermana de lucas"],"x":"El/la hermana de Lucas es Erica.","season":"General","id":"stranger-v7-pair-11","fact":"stranger-v7-pair-11","show":"stranger","kind":"comparacion"},{"block":"Lucas","difficulty":"Difícil","q":"¿Cuál de estas dos asociaciones es correcta: “Baloncesto” con cuál es equipo escolar de lucas, o “Joyce Byers” con cómo se llama la madre de will y jonathan?","a":"Baloncesto con cuál es equipo escolar de lucas","d":["Béisbol con cuál es equipo escolar de lucas","Hockey con cuál es equipo escolar de lucas","Atletismo con cuál es equipo escolar de lucas"],"x":"El/la equipo escolar de Lucas es Baloncesto.","season":"General","id":"stranger-v7-pair-12","fact":"stranger-v7-pair-12","show":"stranger","kind":"comparacion"},{"block":"Will","difficulty":"Fácil","q":"¿Cuál de estas dos asociaciones es correcta: “Byers” con cuál es apellido de will, o “Dmitri Antonov” con cómo se llama el guardia ruso conocido como enzo?","a":"Byers con cuál es apellido de will","d":["Wheeler con cuál es apellido de will","Henderson con cuál es apellido de will","Sinclair con cuál es apellido de will"],"x":"El/la apellido de Will es Byers.","season":"General","id":"stranger-v7-pair-13","fact":"stranger-v7-pair-13","show":"stranger","kind":"comparacion"},{"block":"Will","difficulty":"Media","q":"¿Cuál de estas dos asociaciones es correcta: “Jonathan” con cuál es hermano de will, o “Family Video” con cómo se llama el videoclub donde trabajan steve y robin?","a":"Jonathan con cuál es hermano de will","d":["Steve con cuál es hermano de will","Eddie con cuál es hermano de will","Billy con cuál es hermano de will"],"x":"El/la hermano de Will es Jonathan.","season":"General","id":"stranger-v7-pair-14","fact":"stranger-v7-pair-14","show":"stranger","kind":"comparacion"}];
+window.BANK_STRANGER=[
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Holly?",
+    "a": "Wheeler",
+    "d": [
+      "Byers",
+      "Henderson",
+      "Sinclair"
+    ],
+    "x": "Holly pertenece a la familia Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-0",
+    "fact": "stranger-v12-0"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly pertenece a la familia Wheeler.",
+    "d": [
+      "Holly pertenece a la familia Byers.",
+      "Holly pertenece a la familia Henderson.",
+      "Holly pertenece a la familia Sinclair."
+    ],
+    "x": "Holly pertenece a la familia Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-1",
+    "fact": "stranger-v12-1"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Holly pertenece a la familia ________.",
+    "a": "Wheeler",
+    "d": [
+      "Byers",
+      "Henderson",
+      "Sinclair"
+    ],
+    "x": "Holly pertenece a la familia Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-2",
+    "fact": "stranger-v12-2"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Quién es el hermano mayor de Holly?",
+    "a": "Mike Wheeler",
+    "d": [
+      "Will Byers",
+      "Dustin Henderson",
+      "Lucas Sinclair"
+    ],
+    "x": "Mike Wheeler es el hermano mayor de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-3",
+    "fact": "stranger-v12-3"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Mike Wheeler es el hermano mayor de Holly.",
+    "d": [
+      "Will Byers es el hermano mayor de Holly.",
+      "Dustin Henderson es el hermano mayor de Holly.",
+      "Lucas Sinclair es el hermano mayor de Holly."
+    ],
+    "x": "Mike Wheeler es el hermano mayor de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-4",
+    "fact": "stranger-v12-4"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ es el hermano mayor de Holly.",
+    "a": "Mike Wheeler",
+    "d": [
+      "Will Byers",
+      "Dustin Henderson",
+      "Lucas Sinclair"
+    ],
+    "x": "Mike Wheeler es el hermano mayor de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-5",
+    "fact": "stranger-v12-5"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Quién es la hermana mayor de Holly?",
+    "a": "Nancy Wheeler",
+    "d": [
+      "Robin Buckley",
+      "Max Mayfield",
+      "Eleven"
+    ],
+    "x": "Nancy Wheeler es la hermana mayor de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-6",
+    "fact": "stranger-v12-6"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Nancy Wheeler es la hermana mayor de Holly.",
+    "d": [
+      "Robin Buckley es la hermana mayor de Holly.",
+      "Max Mayfield es la hermana mayor de Holly.",
+      "Eleven es la hermana mayor de Holly."
+    ],
+    "x": "Nancy Wheeler es la hermana mayor de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-7",
+    "fact": "stranger-v12-7"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ es la hermana mayor de Holly.",
+    "a": "Nancy Wheeler",
+    "d": [
+      "Robin Buckley",
+      "Max Mayfield",
+      "Eleven"
+    ],
+    "x": "Nancy Wheeler es la hermana mayor de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-8",
+    "fact": "stranger-v12-8"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la madre de Holly?",
+    "a": "Karen Wheeler",
+    "d": [
+      "Joyce Byers",
+      "Claudia Henderson",
+      "Susan Hargrove"
+    ],
+    "x": "Karen Wheeler es la madre de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-9",
+    "fact": "stranger-v12-9"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Karen Wheeler es la madre de Holly.",
+    "d": [
+      "Joyce Byers es la madre de Holly.",
+      "Claudia Henderson es la madre de Holly.",
+      "Susan Hargrove es la madre de Holly."
+    ],
+    "x": "Karen Wheeler es la madre de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-10",
+    "fact": "stranger-v12-10"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ es la madre de Holly.",
+    "a": "Karen Wheeler",
+    "d": [
+      "Joyce Byers",
+      "Claudia Henderson",
+      "Susan Hargrove"
+    ],
+    "x": "Karen Wheeler es la madre de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-11",
+    "fact": "stranger-v12-11"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama el padre de Holly?",
+    "a": "Ted Wheeler",
+    "d": [
+      "Jim Hopper",
+      "Lonnie Byers",
+      "Scott Clarke"
+    ],
+    "x": "Ted Wheeler es el padre de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-12",
+    "fact": "stranger-v12-12"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Ted Wheeler es el padre de Holly.",
+    "d": [
+      "Jim Hopper es el padre de Holly.",
+      "Lonnie Byers es el padre de Holly.",
+      "Scott Clarke es el padre de Holly."
+    ],
+    "x": "Ted Wheeler es el padre de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-13",
+    "fact": "stranger-v12-13"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ es el padre de Holly.",
+    "a": "Ted Wheeler",
+    "d": [
+      "Jim Hopper",
+      "Lonnie Byers",
+      "Scott Clarke"
+    ],
+    "x": "Ted Wheeler es el padre de Holly.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-14",
+    "fact": "stranger-v12-14"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿En qué pueblo vive Holly?",
+    "a": "Hawkins",
+    "d": [
+      "Lenora Hills",
+      "Chicago",
+      "Indianápolis"
+    ],
+    "x": "Holly vive en Hawkins, Indiana.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-15",
+    "fact": "stranger-v12-15"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly vive en Hawkins, Indiana.",
+    "d": [
+      "Holly vive en Lenora Hills, Indiana.",
+      "Holly vive en Chicago, Indiana.",
+      "Holly vive en Indianápolis, Indiana."
+    ],
+    "x": "Holly vive en Hawkins, Indiana.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-16",
+    "fact": "stranger-v12-16"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Holly vive en ________, Indiana.",
+    "a": "Hawkins",
+    "d": [
+      "Lenora Hills",
+      "Chicago",
+      "Indianápolis"
+    ],
+    "x": "Holly vive en Hawkins, Indiana.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-17",
+    "fact": "stranger-v12-17"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se apellida la familia con la que vive Holly?",
+    "a": "Wheeler",
+    "d": [
+      "Byers",
+      "Mayfield",
+      "Hargrove"
+    ],
+    "x": "Holly vive con la familia Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-18",
+    "fact": "stranger-v12-18"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly vive con la familia Wheeler.",
+    "d": [
+      "Holly vive con la familia Byers.",
+      "Holly vive con la familia Mayfield.",
+      "Holly vive con la familia Hargrove."
+    ],
+    "x": "Holly vive con la familia Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-19",
+    "fact": "stranger-v12-19"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Holly vive con la familia ________.",
+    "a": "Wheeler",
+    "d": [
+      "Byers",
+      "Mayfield",
+      "Hargrove"
+    ],
+    "x": "Holly vive con la familia Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-20",
+    "fact": "stranger-v12-20"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Quién acompaña a Holly cuando visita la casa de Joyce en la primera temporada?",
+    "a": "Karen Wheeler",
+    "d": [
+      "Nancy Wheeler",
+      "Eleven",
+      "Max Mayfield"
+    ],
+    "x": "Karen acompaña a Holly a la casa de Joyce.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-21",
+    "fact": "stranger-v12-21"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Karen Wheeler.",
+    "d": [
+      "Holly: Nancy Wheeler.",
+      "Holly: Eleven.",
+      "Holly: Max Mayfield."
+    ],
+    "x": "Holly: Karen Wheeler.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-22",
+    "fact": "stranger-v12-22"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Karen Wheeler",
+    "d": [
+      "Nancy Wheeler",
+      "Eleven",
+      "Max Mayfield"
+    ],
+    "x": "Holly: Karen Wheeler.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-23",
+    "fact": "stranger-v12-23"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Qué sigue Holly dentro de la casa de Joyce?",
+    "a": "Las luces de Navidad",
+    "d": [
+      "Un mapa",
+      "Un rastro de pintura",
+      "Unas huellas"
+    ],
+    "x": "Holly sigue las luces de Navidad que parpadean.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-24",
+    "fact": "stranger-v12-24"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Las luces de Navidad.",
+    "d": [
+      "Holly: Un mapa.",
+      "Holly: Un rastro de pintura.",
+      "Holly: Unas huellas."
+    ],
+    "x": "Holly: Las luces de Navidad.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-25",
+    "fact": "stranger-v12-25"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Las luces de Navidad",
+    "d": [
+      "Un mapa",
+      "Un rastro de pintura",
+      "Unas huellas"
+    ],
+    "x": "Holly: Las luces de Navidad.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-26",
+    "fact": "stranger-v12-26"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿En qué habitación ve Holly algo extraño detrás de la pared?",
+    "a": "En la habitación de Will",
+    "d": [
+      "En la cocina",
+      "En el sótano de Mike",
+      "En el garaje"
+    ],
+    "x": "Holly ve algo extraño en la habitación de Will.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-27",
+    "fact": "stranger-v12-27"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: En la habitación de Will.",
+    "d": [
+      "Holly: En la cocina.",
+      "Holly: En el sótano de Mike.",
+      "Holly: En el garaje."
+    ],
+    "x": "Holly: En la habitación de Will.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-28",
+    "fact": "stranger-v12-28"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "En la habitación de Will",
+    "d": [
+      "En la cocina",
+      "En el sótano de Mike",
+      "En el garaje"
+    ],
+    "x": "Holly: En la habitación de Will.",
+    "season": "T1",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-29",
+    "fact": "stranger-v12-29"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Qué familiar de Holly forma parte del grupo principal de amigos?",
+    "a": "Mike Wheeler",
+    "d": [
+      "Ted Wheeler",
+      "Karen Wheeler",
+      "Holly Wheeler"
+    ],
+    "x": "Mike forma parte del grupo principal de amigos.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-30",
+    "fact": "stranger-v12-30"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Mike Wheeler.",
+    "d": [
+      "Holly: Ted Wheeler.",
+      "Holly: Karen Wheeler.",
+      "Holly: Holly Wheeler."
+    ],
+    "x": "Holly: Mike Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-31",
+    "fact": "stranger-v12-31"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Mike Wheeler",
+    "d": [
+      "Ted Wheeler",
+      "Karen Wheeler",
+      "Holly Wheeler"
+    ],
+    "x": "Holly: Mike Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-32",
+    "fact": "stranger-v12-32"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Qué edad ocupa Holly dentro de los tres hermanos Wheeler?",
+    "a": "Es la menor",
+    "d": [
+      "Es la mayor",
+      "Es la mediana",
+      "Son trillizos"
+    ],
+    "x": "Holly es la menor de los tres hermanos Wheeler.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-33",
+    "fact": "stranger-v12-33"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Es la menor.",
+    "d": [
+      "Holly: Es la mayor.",
+      "Holly: Es la mediana.",
+      "Holly: Son trillizos."
+    ],
+    "x": "Holly: Es la menor.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-34",
+    "fact": "stranger-v12-34"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Es la menor",
+    "d": [
+      "Es la mayor",
+      "Es la mediana",
+      "Son trillizos"
+    ],
+    "x": "Holly: Es la menor.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-35",
+    "fact": "stranger-v12-35"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿En qué temporada Holly pasa de personaje recurrente a tener un papel principal?",
+    "a": "Temporada 5",
+    "d": [
+      "Temporada 1",
+      "Temporada 2",
+      "Temporada 3"
+    ],
+    "x": "Holly adquiere un papel principal en la temporada 5.",
+    "season": "T5",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-36",
+    "fact": "stranger-v12-36"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Temporada 5.",
+    "d": [
+      "Holly: Temporada 1.",
+      "Holly: Temporada 2.",
+      "Holly: Temporada 3."
+    ],
+    "x": "Holly: Temporada 5.",
+    "season": "T5",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-37",
+    "fact": "stranger-v12-37"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Temporada 5",
+    "d": [
+      "Temporada 1",
+      "Temporada 2",
+      "Temporada 3"
+    ],
+    "x": "Holly: Temporada 5.",
+    "season": "T5",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-38",
+    "fact": "stranger-v12-38"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "¿Quién interpreta a Holly en la quinta temporada?",
+    "a": "Nell Fisher",
+    "d": [
+      "Sadie Sink",
+      "Maya Hawke",
+      "Priah Ferguson"
+    ],
+    "x": "Nell Fisher interpreta a Holly en la quinta temporada.",
+    "season": "T5",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-39",
+    "fact": "stranger-v12-39"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Nell Fisher interpreta a Holly en la quinta temporada.",
+    "d": [
+      "Sadie Sink interpreta a Holly en la quinta temporada.",
+      "Maya Hawke interpreta a Holly en la quinta temporada.",
+      "Priah Ferguson interpreta a Holly en la quinta temporada."
+    ],
+    "x": "Nell Fisher interpreta a Holly en la quinta temporada.",
+    "season": "T5",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-40",
+    "fact": "stranger-v12-40"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: ________ interpreta a Holly en la quinta temporada.",
+    "a": "Nell Fisher",
+    "d": [
+      "Sadie Sink",
+      "Maya Hawke",
+      "Priah Ferguson"
+    ],
+    "x": "Nell Fisher interpreta a Holly en la quinta temporada.",
+    "season": "T5",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-41",
+    "fact": "stranger-v12-41"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "¿Quiénes interpretaron a Holly durante las cuatro primeras temporadas?",
+    "a": "Anniston y Tinsley Price",
+    "d": [
+      "Millie y Ava Brown",
+      "Natalia y Maya Dyer",
+      "Sadie y Robin Sink"
+    ],
+    "x": "Anniston y Tinsley Price interpretaron a Holly durante las cuatro primeras temporadas.",
+    "season": "T1-T4",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-42",
+    "fact": "stranger-v12-42"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Anniston y Tinsley Price interpretaron a Holly durante las cuatro primeras temporadas.",
+    "d": [
+      "Millie y Ava Brown interpretaron a Holly durante las cuatro primeras temporadas.",
+      "Natalia y Maya Dyer interpretaron a Holly durante las cuatro primeras temporadas.",
+      "Sadie y Robin Sink interpretaron a Holly durante las cuatro primeras temporadas."
+    ],
+    "x": "Anniston y Tinsley Price interpretaron a Holly durante las cuatro primeras temporadas.",
+    "season": "T1-T4",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-43",
+    "fact": "stranger-v12-43"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: ________ interpretaron a Holly durante las cuatro primeras temporadas.",
+    "a": "Anniston y Tinsley Price",
+    "d": [
+      "Millie y Ava Brown",
+      "Natalia y Maya Dyer",
+      "Sadie y Robin Sink"
+    ],
+    "x": "Anniston y Tinsley Price interpretaron a Holly durante las cuatro primeras temporadas.",
+    "season": "T1-T4",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-44",
+    "fact": "stranger-v12-44"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "¿En qué calle se encuentra la casa de la familia Wheeler?",
+    "a": "Maple Street",
+    "d": [
+      "Cherry Lane",
+      "Mirkwood Road",
+      "Cornwallis Road"
+    ],
+    "x": "La casa de la familia Wheeler está en Maple Street.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-45",
+    "fact": "stranger-v12-45"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "La casa de la familia Wheeler está en Maple Street.",
+    "d": [
+      "La casa de la familia Wheeler está en Cherry Lane.",
+      "La casa de la familia Wheeler está en Mirkwood Road.",
+      "La casa de la familia Wheeler está en Cornwallis Road."
+    ],
+    "x": "La casa de la familia Wheeler está en Maple Street.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-46",
+    "fact": "stranger-v12-46"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: La casa de la familia Wheeler está en ________.",
+    "a": "Maple Street",
+    "d": [
+      "Cherry Lane",
+      "Mirkwood Road",
+      "Cornwallis Road"
+    ],
+    "x": "La casa de la familia Wheeler está en Maple Street.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-47",
+    "fact": "stranger-v12-47"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿A qué centro escolar asiste Holly?",
+    "a": "La escuela primaria de Hawkins",
+    "d": [
+      "El instituto de Hawkins",
+      "La universidad de Hawkins",
+      "La escuela de Lenora"
+    ],
+    "x": "Holly estudia en la escuela primaria de Hawkins.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-48",
+    "fact": "stranger-v12-48"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: La escuela primaria de Hawkins.",
+    "d": [
+      "Holly: El instituto de Hawkins.",
+      "Holly: La universidad de Hawkins.",
+      "Holly: La escuela de Lenora."
+    ],
+    "x": "Holly: La escuela primaria de Hawkins.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-49",
+    "fact": "stranger-v12-49"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "La escuela primaria de Hawkins",
+    "d": [
+      "El instituto de Hawkins",
+      "La universidad de Hawkins",
+      "La escuela de Lenora"
+    ],
+    "x": "Holly: La escuela primaria de Hawkins.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-50",
+    "fact": "stranger-v12-50"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿De qué serie es el personaje Holly Wheeler?",
+    "a": "Stranger Things",
+    "d": [
+      "Friends",
+      "La Patrulla Canina",
+      "Miércoles"
+    ],
+    "x": "Holly Wheeler es un personaje de Stranger Things.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-51",
+    "fact": "stranger-v12-51"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly Wheeler es un personaje de Stranger Things.",
+    "d": [
+      "Holly Wheeler es un personaje de Friends.",
+      "Holly Wheeler es un personaje de La Patrulla Canina.",
+      "Holly Wheeler es un personaje de Miércoles."
+    ],
+    "x": "Holly Wheeler es un personaje de Stranger Things.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-52",
+    "fact": "stranger-v12-52"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Holly Wheeler es un personaje de ________.",
+    "a": "Stranger Things",
+    "d": [
+      "Friends",
+      "La Patrulla Canina",
+      "Miércoles"
+    ],
+    "x": "Holly Wheeler es un personaje de Stranger Things.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-53",
+    "fact": "stranger-v12-53"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Qué relación tiene Holly con Nancy?",
+    "a": "Es su hermana pequeña",
+    "d": [
+      "Es su prima",
+      "Es su hija",
+      "Es su profesora"
+    ],
+    "x": "Holly es la hermana pequeña de Nancy.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-54",
+    "fact": "stranger-v12-54"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Es su hermana pequeña.",
+    "d": [
+      "Holly: Es su prima.",
+      "Holly: Es su hija.",
+      "Holly: Es su profesora."
+    ],
+    "x": "Holly: Es su hermana pequeña.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-55",
+    "fact": "stranger-v12-55"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Es su hermana pequeña",
+    "d": [
+      "Es su prima",
+      "Es su hija",
+      "Es su profesora"
+    ],
+    "x": "Holly: Es su hermana pequeña.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-56",
+    "fact": "stranger-v12-56"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Qué relación tiene Holly con Mike?",
+    "a": "Es su hermana pequeña",
+    "d": [
+      "Es su prima",
+      "Es su compañera de clase",
+      "Es su hija"
+    ],
+    "x": "Holly es la hermana pequeña de Mike.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "directa",
+    "id": "stranger-v12-57",
+    "fact": "stranger-v12-57"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Holly es correcta?",
+    "a": "Holly: Es su hermana pequeña.",
+    "d": [
+      "Holly: Es su prima.",
+      "Holly: Es su compañera de clase.",
+      "Holly: Es su hija."
+    ],
+    "x": "Holly: Es su hermana pequeña.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "afirmacion",
+    "id": "stranger-v12-58",
+    "fact": "stranger-v12-58"
+  },
+  {
+    "block": "Holly",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Holly: ________.",
+    "a": "Es su hermana pequeña",
+    "d": [
+      "Es su prima",
+      "Es su compañera de clase",
+      "Es su hija"
+    ],
+    "x": "Holly: Es su hermana pequeña.",
+    "season": "General",
+    "show": "stranger",
+    "kind": "completar",
+    "id": "stranger-v12-59",
+    "fact": "stranger-v12-59"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Fácil",
+    "q": "¿Qué número lleva Eleven?",
+    "a": "011",
+    "d": [
+      "001",
+      "008",
+      "013"
+    ],
+    "x": "número de Eleven: 011.",
+    "season": "General",
+    "id": "stranger-v12-60",
+    "fact": "stranger-v12-60",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Eleven es correcta?",
+    "a": "número de Eleven: 011.",
+    "d": [
+      "número de Eleven: 001.",
+      "número de Eleven: 008.",
+      "número de Eleven: 013."
+    ],
+    "x": "número de Eleven: 011.",
+    "season": "General",
+    "id": "stranger-v12-61",
+    "fact": "stranger-v12-61",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: número de Eleven: ________.",
+    "a": "011",
+    "d": [
+      "001",
+      "008",
+      "013"
+    ],
+    "x": "número de Eleven: 011.",
+    "season": "General",
+    "id": "stranger-v12-62",
+    "fact": "stranger-v12-62",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la comida favorita de Eleven?",
+    "a": "Gofres Eggo",
+    "d": [
+      "Pizza",
+      "Hamburguesas",
+      "Cereales"
+    ],
+    "x": "comida favorita de Eleven: Gofres Eggo.",
+    "season": "General",
+    "id": "stranger-v12-63",
+    "fact": "stranger-v12-63",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Eleven es correcta?",
+    "a": "comida favorita de Eleven: Gofres Eggo.",
+    "d": [
+      "comida favorita de Eleven: Pizza.",
+      "comida favorita de Eleven: Hamburguesas.",
+      "comida favorita de Eleven: Cereales."
+    ],
+    "x": "comida favorita de Eleven: Gofres Eggo.",
+    "season": "General",
+    "id": "stranger-v12-64",
+    "fact": "stranger-v12-64",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: comida favorita de Eleven: ________.",
+    "a": "Gofres Eggo",
+    "d": [
+      "Pizza",
+      "Hamburguesas",
+      "Cereales"
+    ],
+    "x": "comida favorita de Eleven: Gofres Eggo.",
+    "season": "General",
+    "id": "stranger-v12-65",
+    "fact": "stranger-v12-65",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Media",
+    "q": "¿Quién es el padre adoptivo de Eleven?",
+    "a": "Jim Hopper",
+    "d": [
+      "Martin Brenner",
+      "Sam Owens",
+      "Bob Newby"
+    ],
+    "x": "padre adoptivo de Eleven: Jim Hopper.",
+    "season": "General",
+    "id": "stranger-v12-66",
+    "fact": "stranger-v12-66",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Eleven es correcta?",
+    "a": "padre adoptivo de Eleven: Jim Hopper.",
+    "d": [
+      "padre adoptivo de Eleven: Martin Brenner.",
+      "padre adoptivo de Eleven: Sam Owens.",
+      "padre adoptivo de Eleven: Bob Newby."
+    ],
+    "x": "padre adoptivo de Eleven: Jim Hopper.",
+    "season": "General",
+    "id": "stranger-v12-67",
+    "fact": "stranger-v12-67",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Media",
+    "q": "Completa correctamente: padre adoptivo de Eleven: ________.",
+    "a": "Jim Hopper",
+    "d": [
+      "Martin Brenner",
+      "Sam Owens",
+      "Bob Newby"
+    ],
+    "x": "padre adoptivo de Eleven: Jim Hopper.",
+    "season": "General",
+    "id": "stranger-v12-68",
+    "fact": "stranger-v12-68",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Difícil",
+    "q": "¿Cuál es el nombre legal de Eleven?",
+    "a": "Jane Hopper",
+    "d": [
+      "Jane Wheeler",
+      "El Byers",
+      "Sara Hopper"
+    ],
+    "x": "nombre legal de Eleven: Jane Hopper.",
+    "season": "General",
+    "id": "stranger-v12-69",
+    "fact": "stranger-v12-69",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Eleven es correcta?",
+    "a": "nombre legal de Eleven: Jane Hopper.",
+    "d": [
+      "nombre legal de Eleven: Jane Wheeler.",
+      "nombre legal de Eleven: El Byers.",
+      "nombre legal de Eleven: Sara Hopper."
+    ],
+    "x": "nombre legal de Eleven: Jane Hopper.",
+    "season": "General",
+    "id": "stranger-v12-70",
+    "fact": "stranger-v12-70",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eleven",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: nombre legal de Eleven: ________.",
+    "a": "Jane Hopper",
+    "d": [
+      "Jane Wheeler",
+      "El Byers",
+      "Sara Hopper"
+    ],
+    "x": "nombre legal de Eleven: Jane Hopper.",
+    "season": "General",
+    "id": "stranger-v12-71",
+    "fact": "stranger-v12-71",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Mike",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Mike?",
+    "a": "Wheeler",
+    "d": [
+      "Byers",
+      "Henderson",
+      "Sinclair"
+    ],
+    "x": "apellido de Mike: Wheeler.",
+    "season": "General",
+    "id": "stranger-v12-72",
+    "fact": "stranger-v12-72",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Mike",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Mike es correcta?",
+    "a": "apellido de Mike: Wheeler.",
+    "d": [
+      "apellido de Mike: Byers.",
+      "apellido de Mike: Henderson.",
+      "apellido de Mike: Sinclair."
+    ],
+    "x": "apellido de Mike: Wheeler.",
+    "season": "General",
+    "id": "stranger-v12-73",
+    "fact": "stranger-v12-73",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Mike",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Mike: ________.",
+    "a": "Wheeler",
+    "d": [
+      "Byers",
+      "Henderson",
+      "Sinclair"
+    ],
+    "x": "apellido de Mike: Wheeler.",
+    "season": "General",
+    "id": "stranger-v12-74",
+    "fact": "stranger-v12-74",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Mike",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la hermana mayor de Mike?",
+    "a": "Nancy",
+    "d": [
+      "Erica",
+      "Robin",
+      "Chrissy"
+    ],
+    "x": "hermana mayor de Mike: Nancy.",
+    "season": "General",
+    "id": "stranger-v12-75",
+    "fact": "stranger-v12-75",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Mike",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Mike es correcta?",
+    "a": "hermana mayor de Mike: Nancy.",
+    "d": [
+      "hermana mayor de Mike: Erica.",
+      "hermana mayor de Mike: Robin.",
+      "hermana mayor de Mike: Chrissy."
+    ],
+    "x": "hermana mayor de Mike: Nancy.",
+    "season": "General",
+    "id": "stranger-v12-76",
+    "fact": "stranger-v12-76",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Mike",
+    "difficulty": "Media",
+    "q": "Completa correctamente: hermana mayor de Mike: ________.",
+    "a": "Nancy",
+    "d": [
+      "Erica",
+      "Robin",
+      "Chrissy"
+    ],
+    "x": "hermana mayor de Mike: Nancy.",
+    "season": "General",
+    "id": "stranger-v12-77",
+    "fact": "stranger-v12-77",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Dustin?",
+    "a": "Henderson",
+    "d": [
+      "Sinclair",
+      "Wheeler",
+      "Byers"
+    ],
+    "x": "apellido de Dustin: Henderson.",
+    "season": "General",
+    "id": "stranger-v12-78",
+    "fact": "stranger-v12-78",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Dustin es correcta?",
+    "a": "apellido de Dustin: Henderson.",
+    "d": [
+      "apellido de Dustin: Sinclair.",
+      "apellido de Dustin: Wheeler.",
+      "apellido de Dustin: Byers."
+    ],
+    "x": "apellido de Dustin: Henderson.",
+    "season": "General",
+    "id": "stranger-v12-79",
+    "fact": "stranger-v12-79",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Dustin: ________.",
+    "a": "Henderson",
+    "d": [
+      "Sinclair",
+      "Wheeler",
+      "Byers"
+    ],
+    "x": "apellido de Dustin: Henderson.",
+    "season": "General",
+    "id": "stranger-v12-80",
+    "fact": "stranger-v12-80",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la novia de Dustin?",
+    "a": "Suzie",
+    "d": [
+      "Robin",
+      "Max",
+      "Chrissy"
+    ],
+    "x": "novia de Dustin: Suzie.",
+    "season": "General",
+    "id": "stranger-v12-81",
+    "fact": "stranger-v12-81",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Dustin es correcta?",
+    "a": "novia de Dustin: Suzie.",
+    "d": [
+      "novia de Dustin: Robin.",
+      "novia de Dustin: Max.",
+      "novia de Dustin: Chrissy."
+    ],
+    "x": "novia de Dustin: Suzie.",
+    "season": "General",
+    "id": "stranger-v12-82",
+    "fact": "stranger-v12-82",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Media",
+    "q": "Completa correctamente: novia de Dustin: ________.",
+    "a": "Suzie",
+    "d": [
+      "Robin",
+      "Max",
+      "Chrissy"
+    ],
+    "x": "novia de Dustin: Suzie.",
+    "season": "General",
+    "id": "stranger-v12-83",
+    "fact": "stranger-v12-83",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el campamento científico de Dustin?",
+    "a": "Camp Know Where",
+    "d": [
+      "Camp Hawkins",
+      "Camp Cerebro",
+      "Camp Starcourt"
+    ],
+    "x": "campamento científico de Dustin: Camp Know Where.",
+    "season": "General",
+    "id": "stranger-v12-84",
+    "fact": "stranger-v12-84",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Dustin es correcta?",
+    "a": "campamento científico de Dustin: Camp Know Where.",
+    "d": [
+      "campamento científico de Dustin: Camp Hawkins.",
+      "campamento científico de Dustin: Camp Cerebro.",
+      "campamento científico de Dustin: Camp Starcourt."
+    ],
+    "x": "campamento científico de Dustin: Camp Know Where.",
+    "season": "General",
+    "id": "stranger-v12-85",
+    "fact": "stranger-v12-85",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Dustin",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: campamento científico de Dustin: ________.",
+    "a": "Camp Know Where",
+    "d": [
+      "Camp Hawkins",
+      "Camp Cerebro",
+      "Camp Starcourt"
+    ],
+    "x": "campamento científico de Dustin: Camp Know Where.",
+    "season": "General",
+    "id": "stranger-v12-86",
+    "fact": "stranger-v12-86",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Lucas?",
+    "a": "Sinclair",
+    "d": [
+      "Henderson",
+      "Wheeler",
+      "Byers"
+    ],
+    "x": "apellido de Lucas: Sinclair.",
+    "season": "General",
+    "id": "stranger-v12-87",
+    "fact": "stranger-v12-87",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Lucas es correcta?",
+    "a": "apellido de Lucas: Sinclair.",
+    "d": [
+      "apellido de Lucas: Henderson.",
+      "apellido de Lucas: Wheeler.",
+      "apellido de Lucas: Byers."
+    ],
+    "x": "apellido de Lucas: Sinclair.",
+    "season": "General",
+    "id": "stranger-v12-88",
+    "fact": "stranger-v12-88",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Lucas: ________.",
+    "a": "Sinclair",
+    "d": [
+      "Henderson",
+      "Wheeler",
+      "Byers"
+    ],
+    "x": "apellido de Lucas: Sinclair.",
+    "season": "General",
+    "id": "stranger-v12-89",
+    "fact": "stranger-v12-89",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la hermana de Lucas?",
+    "a": "Erica",
+    "d": [
+      "Nancy",
+      "Holly",
+      "Robin"
+    ],
+    "x": "hermana de Lucas: Erica.",
+    "season": "General",
+    "id": "stranger-v12-90",
+    "fact": "stranger-v12-90",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Lucas es correcta?",
+    "a": "hermana de Lucas: Erica.",
+    "d": [
+      "hermana de Lucas: Nancy.",
+      "hermana de Lucas: Holly.",
+      "hermana de Lucas: Robin."
+    ],
+    "x": "hermana de Lucas: Erica.",
+    "season": "General",
+    "id": "stranger-v12-91",
+    "fact": "stranger-v12-91",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: hermana de Lucas: ________.",
+    "a": "Erica",
+    "d": [
+      "Nancy",
+      "Holly",
+      "Robin"
+    ],
+    "x": "hermana de Lucas: Erica.",
+    "season": "General",
+    "id": "stranger-v12-92",
+    "fact": "stranger-v12-92",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Difícil",
+    "q": "¿En qué equipo escolar juega Lucas?",
+    "a": "Baloncesto",
+    "d": [
+      "Béisbol",
+      "Hockey",
+      "Atletismo"
+    ],
+    "x": "equipo escolar de Lucas: Baloncesto.",
+    "season": "General",
+    "id": "stranger-v12-93",
+    "fact": "stranger-v12-93",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Lucas es correcta?",
+    "a": "equipo escolar de Lucas: Baloncesto.",
+    "d": [
+      "equipo escolar de Lucas: Béisbol.",
+      "equipo escolar de Lucas: Hockey.",
+      "equipo escolar de Lucas: Atletismo."
+    ],
+    "x": "equipo escolar de Lucas: Baloncesto.",
+    "season": "General",
+    "id": "stranger-v12-94",
+    "fact": "stranger-v12-94",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lucas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: equipo escolar de Lucas: ________.",
+    "a": "Baloncesto",
+    "d": [
+      "Béisbol",
+      "Hockey",
+      "Atletismo"
+    ],
+    "x": "equipo escolar de Lucas: Baloncesto.",
+    "season": "General",
+    "id": "stranger-v12-95",
+    "fact": "stranger-v12-95",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Will",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Will?",
+    "a": "Byers",
+    "d": [
+      "Wheeler",
+      "Henderson",
+      "Sinclair"
+    ],
+    "x": "apellido de Will: Byers.",
+    "season": "General",
+    "id": "stranger-v12-96",
+    "fact": "stranger-v12-96",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Will",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Will es correcta?",
+    "a": "apellido de Will: Byers.",
+    "d": [
+      "apellido de Will: Wheeler.",
+      "apellido de Will: Henderson.",
+      "apellido de Will: Sinclair."
+    ],
+    "x": "apellido de Will: Byers.",
+    "season": "General",
+    "id": "stranger-v12-97",
+    "fact": "stranger-v12-97",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Will",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Will: ________.",
+    "a": "Byers",
+    "d": [
+      "Wheeler",
+      "Henderson",
+      "Sinclair"
+    ],
+    "x": "apellido de Will: Byers.",
+    "season": "General",
+    "id": "stranger-v12-98",
+    "fact": "stranger-v12-98",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Will",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el hermano de Will?",
+    "a": "Jonathan",
+    "d": [
+      "Steve",
+      "Eddie",
+      "Billy"
+    ],
+    "x": "hermano de Will: Jonathan.",
+    "season": "General",
+    "id": "stranger-v12-99",
+    "fact": "stranger-v12-99",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Will",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Will es correcta?",
+    "a": "hermano de Will: Jonathan.",
+    "d": [
+      "hermano de Will: Steve.",
+      "hermano de Will: Eddie.",
+      "hermano de Will: Billy."
+    ],
+    "x": "hermano de Will: Jonathan.",
+    "season": "General",
+    "id": "stranger-v12-100",
+    "fact": "stranger-v12-100",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Will",
+    "difficulty": "Media",
+    "q": "Completa correctamente: hermano de Will: ________.",
+    "a": "Jonathan",
+    "d": [
+      "Steve",
+      "Eddie",
+      "Billy"
+    ],
+    "x": "hermano de Will: Jonathan.",
+    "season": "General",
+    "id": "stranger-v12-101",
+    "fact": "stranger-v12-101",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Max",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Max?",
+    "a": "Mayfield",
+    "d": [
+      "Hargrove",
+      "Cunningham",
+      "Buckley"
+    ],
+    "x": "apellido de Max: Mayfield.",
+    "season": "General",
+    "id": "stranger-v12-102",
+    "fact": "stranger-v12-102",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Max",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Max es correcta?",
+    "a": "apellido de Max: Mayfield.",
+    "d": [
+      "apellido de Max: Hargrove.",
+      "apellido de Max: Cunningham.",
+      "apellido de Max: Buckley."
+    ],
+    "x": "apellido de Max: Mayfield.",
+    "season": "General",
+    "id": "stranger-v12-103",
+    "fact": "stranger-v12-103",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Max",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Max: ________.",
+    "a": "Mayfield",
+    "d": [
+      "Hargrove",
+      "Cunningham",
+      "Buckley"
+    ],
+    "x": "apellido de Max: Mayfield.",
+    "season": "General",
+    "id": "stranger-v12-104",
+    "fact": "stranger-v12-104",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Max",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el hermanastro de Max?",
+    "a": "Billy",
+    "d": [
+      "Steve",
+      "Eddie",
+      "Jason"
+    ],
+    "x": "hermanastro de Max: Billy.",
+    "season": "General",
+    "id": "stranger-v12-105",
+    "fact": "stranger-v12-105",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Max",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Max es correcta?",
+    "a": "hermanastro de Max: Billy.",
+    "d": [
+      "hermanastro de Max: Steve.",
+      "hermanastro de Max: Eddie.",
+      "hermanastro de Max: Jason."
+    ],
+    "x": "hermanastro de Max: Billy.",
+    "season": "General",
+    "id": "stranger-v12-106",
+    "fact": "stranger-v12-106",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Max",
+    "difficulty": "Media",
+    "q": "Completa correctamente: hermanastro de Max: ________.",
+    "a": "Billy",
+    "d": [
+      "Steve",
+      "Eddie",
+      "Jason"
+    ],
+    "x": "hermanastro de Max: Billy.",
+    "season": "General",
+    "id": "stranger-v12-107",
+    "fact": "stranger-v12-107",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Steve",
+    "difficulty": "Fácil",
+    "q": "¿Dónde trabaja Steve en el centro comercial Starcourt?",
+    "a": "Scoops Ahoy",
+    "d": [
+      "Family Video",
+      "Melvald’s",
+      "Hawkins Post"
+    ],
+    "x": "trabajo en Starcourt de Steve: Scoops Ahoy.",
+    "season": "General",
+    "id": "stranger-v12-108",
+    "fact": "stranger-v12-108",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Steve",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Steve es correcta?",
+    "a": "trabajo en Starcourt de Steve: Scoops Ahoy.",
+    "d": [
+      "trabajo en Starcourt de Steve: Family Video.",
+      "trabajo en Starcourt de Steve: Melvald’s.",
+      "trabajo en Starcourt de Steve: Hawkins Post."
+    ],
+    "x": "trabajo en Starcourt de Steve: Scoops Ahoy.",
+    "season": "General",
+    "id": "stranger-v12-109",
+    "fact": "stranger-v12-109",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Steve",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: trabajo en Starcourt de Steve: ________.",
+    "a": "Scoops Ahoy",
+    "d": [
+      "Family Video",
+      "Melvald’s",
+      "Hawkins Post"
+    ],
+    "x": "trabajo en Starcourt de Steve: Scoops Ahoy.",
+    "season": "General",
+    "id": "stranger-v12-110",
+    "fact": "stranger-v12-110",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Robin",
+    "difficulty": "Media",
+    "q": "¿Quién trabaja con Robin en Scoops Ahoy?",
+    "a": "Steve",
+    "d": [
+      "Jonathan",
+      "Eddie",
+      "Billy"
+    ],
+    "x": "compañero en Scoops Ahoy de Robin: Steve.",
+    "season": "General",
+    "id": "stranger-v12-111",
+    "fact": "stranger-v12-111",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Robin",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Robin es correcta?",
+    "a": "compañero en Scoops Ahoy de Robin: Steve.",
+    "d": [
+      "compañero en Scoops Ahoy de Robin: Jonathan.",
+      "compañero en Scoops Ahoy de Robin: Eddie.",
+      "compañero en Scoops Ahoy de Robin: Billy."
+    ],
+    "x": "compañero en Scoops Ahoy de Robin: Steve.",
+    "season": "General",
+    "id": "stranger-v12-112",
+    "fact": "stranger-v12-112",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Robin",
+    "difficulty": "Media",
+    "q": "Completa correctamente: compañero en Scoops Ahoy de Robin: ________.",
+    "a": "Steve",
+    "d": [
+      "Jonathan",
+      "Eddie",
+      "Billy"
+    ],
+    "x": "compañero en Scoops Ahoy de Robin: Steve.",
+    "season": "General",
+    "id": "stranger-v12-113",
+    "fact": "stranger-v12-113",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Eddie",
+    "difficulty": "Media",
+    "q": "¿Qué club dirige Eddie?",
+    "a": "Hellfire Club",
+    "d": [
+      "Tiger Club",
+      "Dungeon Masters",
+      "Hawkins Metal"
+    ],
+    "x": "club que dirige de Eddie: Hellfire Club.",
+    "season": "General",
+    "id": "stranger-v12-114",
+    "fact": "stranger-v12-114",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eddie",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Eddie es correcta?",
+    "a": "club que dirige de Eddie: Hellfire Club.",
+    "d": [
+      "club que dirige de Eddie: Tiger Club.",
+      "club que dirige de Eddie: Dungeon Masters.",
+      "club que dirige de Eddie: Hawkins Metal."
+    ],
+    "x": "club que dirige de Eddie: Hellfire Club.",
+    "season": "General",
+    "id": "stranger-v12-115",
+    "fact": "stranger-v12-115",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eddie",
+    "difficulty": "Media",
+    "q": "Completa correctamente: club que dirige de Eddie: ________.",
+    "a": "Hellfire Club",
+    "d": [
+      "Tiger Club",
+      "Dungeon Masters",
+      "Hawkins Metal"
+    ],
+    "x": "club que dirige de Eddie: Hellfire Club.",
+    "season": "General",
+    "id": "stranger-v12-116",
+    "fact": "stranger-v12-116",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Quién desaparece al comienzo de la serie?",
+    "a": "Will Byers",
+    "d": [
+      "Mike Wheeler",
+      "Dustin Henderson",
+      "Lucas Sinclair"
+    ],
+    "x": "Solución: Will Byers.",
+    "season": "T1",
+    "id": "stranger-v12-117",
+    "fact": "stranger-v12-117",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Will Byers.",
+    "d": [
+      "Solución: Mike Wheeler.",
+      "Solución: Dustin Henderson.",
+      "Solución: Lucas Sinclair."
+    ],
+    "x": "Solución: Will Byers.",
+    "season": "T1",
+    "id": "stranger-v12-118",
+    "fact": "stranger-v12-118",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Will Byers",
+    "d": [
+      "Mike Wheeler",
+      "Dustin Henderson",
+      "Lucas Sinclair"
+    ],
+    "x": "Solución: Will Byers.",
+    "season": "T1",
+    "id": "stranger-v12-119",
+    "fact": "stranger-v12-119",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Qué usa Joyce para comunicarse con Will?",
+    "a": "Luces de Navidad",
+    "d": [
+      "Una televisión",
+      "Velas",
+      "Una radio de coche"
+    ],
+    "x": "Solución: Luces de Navidad.",
+    "season": "T1",
+    "id": "stranger-v12-120",
+    "fact": "stranger-v12-120",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Luces de Navidad.",
+    "d": [
+      "Solución: Una televisión.",
+      "Solución: Velas.",
+      "Solución: Una radio de coche."
+    ],
+    "x": "Solución: Luces de Navidad.",
+    "season": "T1",
+    "id": "stranger-v12-121",
+    "fact": "stranger-v12-121",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Luces de Navidad",
+    "d": [
+      "Una televisión",
+      "Velas",
+      "Una radio de coche"
+    ],
+    "x": "Solución: Luces de Navidad.",
+    "season": "T1",
+    "id": "stranger-v12-122",
+    "fact": "stranger-v12-122",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué plato prepara Benny Hammond para Eleven?",
+    "a": "Hamburguesa y patatas",
+    "d": [
+      "Gofres",
+      "Pizza",
+      "Tortitas"
+    ],
+    "x": "Solución: Hamburguesa y patatas.",
+    "season": "T1",
+    "id": "stranger-v12-123",
+    "fact": "stranger-v12-123",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Hamburguesa y patatas.",
+    "d": [
+      "Solución: Gofres.",
+      "Solución: Pizza.",
+      "Solución: Tortitas."
+    ],
+    "x": "Solución: Hamburguesa y patatas.",
+    "season": "T1",
+    "id": "stranger-v12-124",
+    "fact": "stranger-v12-124",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Hamburguesa y patatas",
+    "d": [
+      "Gofres",
+      "Pizza",
+      "Tortitas"
+    ],
+    "x": "Solución: Hamburguesa y patatas.",
+    "season": "T1",
+    "id": "stranger-v12-125",
+    "fact": "stranger-v12-125",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué descubre Hopper dentro del supuesto cuerpo de Will?",
+    "a": "Relleno artificial",
+    "d": [
+      "Un dispositivo",
+      "Hielo",
+      "Una criatura"
+    ],
+    "x": "Solución: Relleno artificial.",
+    "season": "T1",
+    "id": "stranger-v12-126",
+    "fact": "stranger-v12-126",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Relleno artificial.",
+    "d": [
+      "Solución: Un dispositivo.",
+      "Solución: Hielo.",
+      "Solución: Una criatura."
+    ],
+    "x": "Solución: Relleno artificial.",
+    "season": "T1",
+    "id": "stranger-v12-127",
+    "fact": "stranger-v12-127",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Relleno artificial",
+    "d": [
+      "Un dispositivo",
+      "Hielo",
+      "Una criatura"
+    ],
+    "x": "Solución: Relleno artificial.",
+    "season": "T1",
+    "id": "stranger-v12-128",
+    "fact": "stranger-v12-128",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo explica el señor Clarke una dimensión paralela?",
+    "a": "Con la metáfora del acróbata y la pulga",
+    "d": [
+      "Con un tren",
+      "Con dos espejos",
+      "Con cartas"
+    ],
+    "x": "Solución: Con la metáfora del acróbata y la pulga.",
+    "season": "T1",
+    "id": "stranger-v12-129",
+    "fact": "stranger-v12-129",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Con la metáfora del acróbata y la pulga.",
+    "d": [
+      "Solución: Con un tren.",
+      "Solución: Con dos espejos.",
+      "Solución: Con cartas."
+    ],
+    "x": "Solución: Con la metáfora del acróbata y la pulga.",
+    "season": "T1",
+    "id": "stranger-v12-130",
+    "fact": "stranger-v12-130",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Con la metáfora del acróbata y la pulga",
+    "d": [
+      "Con un tren",
+      "Con dos espejos",
+      "Con cartas"
+    ],
+    "x": "Solución: Con la metáfora del acróbata y la pulga.",
+    "season": "T1",
+    "id": "stranger-v12-131",
+    "fact": "stranger-v12-131",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿De qué se disfrazan los chicos en Halloween?",
+    "a": "Cazafantasmas",
+    "d": [
+      "Star Wars",
+      "Los Goonies",
+      "Superhéroes"
+    ],
+    "x": "Solución: Cazafantasmas.",
+    "season": "T2",
+    "id": "stranger-v12-132",
+    "fact": "stranger-v12-132",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Cazafantasmas.",
+    "d": [
+      "Solución: Star Wars.",
+      "Solución: Los Goonies.",
+      "Solución: Superhéroes."
+    ],
+    "x": "Solución: Cazafantasmas.",
+    "season": "T2",
+    "id": "stranger-v12-133",
+    "fact": "stranger-v12-133",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Cazafantasmas",
+    "d": [
+      "Star Wars",
+      "Los Goonies",
+      "Superhéroes"
+    ],
+    "x": "Solución: Cazafantasmas.",
+    "season": "T2",
+    "id": "stranger-v12-134",
+    "fact": "stranger-v12-134",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cómo llama Dustin a su criatura mascota?",
+    "a": "Dart",
+    "d": [
+      "Mews",
+      "Tews",
+      "Yertle"
+    ],
+    "x": "Solución: Dart.",
+    "season": "T2",
+    "id": "stranger-v12-135",
+    "fact": "stranger-v12-135",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Dart.",
+    "d": [
+      "Solución: Mews.",
+      "Solución: Tews.",
+      "Solución: Yertle."
+    ],
+    "x": "Solución: Dart.",
+    "season": "T2",
+    "id": "stranger-v12-136",
+    "fact": "stranger-v12-136",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Dart",
+    "d": [
+      "Mews",
+      "Tews",
+      "Yertle"
+    ],
+    "x": "Solución: Dart.",
+    "season": "T2",
+    "id": "stranger-v12-137",
+    "fact": "stranger-v12-137",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué chocolatina usa Dustin para atraer a Dart?",
+    "a": "Three Musketeers",
+    "d": [
+      "M&M’s",
+      "Reese’s Pieces",
+      "Kit Kat"
+    ],
+    "x": "Solución: Three Musketeers.",
+    "season": "T2",
+    "id": "stranger-v12-138",
+    "fact": "stranger-v12-138",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Three Musketeers.",
+    "d": [
+      "Solución: M&M’s.",
+      "Solución: Reese’s Pieces.",
+      "Solución: Kit Kat."
+    ],
+    "x": "Solución: Three Musketeers.",
+    "season": "T2",
+    "id": "stranger-v12-139",
+    "fact": "stranger-v12-139",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Three Musketeers",
+    "d": [
+      "M&M’s",
+      "Reese’s Pieces",
+      "Kit Kat"
+    ],
+    "x": "Solución: Three Musketeers.",
+    "season": "T2",
+    "id": "stranger-v12-140",
+    "fact": "stranger-v12-140",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué número lleva Kali en la muñeca?",
+    "a": "008",
+    "d": [
+      "006",
+      "009",
+      "012"
+    ],
+    "x": "Solución: 008.",
+    "season": "T2",
+    "id": "stranger-v12-141",
+    "fact": "stranger-v12-141",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: 008.",
+    "d": [
+      "Solución: 006.",
+      "Solución: 009.",
+      "Solución: 012."
+    ],
+    "x": "Solución: 008.",
+    "season": "T2",
+    "id": "stranger-v12-142",
+    "fact": "stranger-v12-142",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "008",
+    "d": [
+      "006",
+      "009",
+      "012"
+    ],
+    "x": "Solución: 008.",
+    "season": "T2",
+    "id": "stranger-v12-143",
+    "fact": "stranger-v12-143",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el baile escolar final?",
+    "a": "Snow Ball",
+    "d": [
+      "Winter Prom",
+      "Hawkins Dance",
+      "Starcourt Ball"
+    ],
+    "x": "Solución: Snow Ball.",
+    "season": "T2",
+    "id": "stranger-v12-144",
+    "fact": "stranger-v12-144",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Snow Ball.",
+    "d": [
+      "Solución: Winter Prom.",
+      "Solución: Hawkins Dance.",
+      "Solución: Starcourt Ball."
+    ],
+    "x": "Solución: Snow Ball.",
+    "season": "T2",
+    "id": "stranger-v12-145",
+    "fact": "stranger-v12-145",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Snow Ball",
+    "d": [
+      "Winter Prom",
+      "Hawkins Dance",
+      "Starcourt Ball"
+    ],
+    "x": "Solución: Snow Ball.",
+    "season": "T2",
+    "id": "stranger-v12-146",
+    "fact": "stranger-v12-146",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama el centro comercial?",
+    "a": "Starcourt Mall",
+    "d": [
+      "Hawkins Plaza",
+      "Palace Mall",
+      "Lenora Center"
+    ],
+    "x": "Solución: Starcourt Mall.",
+    "season": "T3",
+    "id": "stranger-v12-147",
+    "fact": "stranger-v12-147",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Starcourt Mall.",
+    "d": [
+      "Solución: Hawkins Plaza.",
+      "Solución: Palace Mall.",
+      "Solución: Lenora Center."
+    ],
+    "x": "Solución: Starcourt Mall.",
+    "season": "T3",
+    "id": "stranger-v12-148",
+    "fact": "stranger-v12-148",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Starcourt Mall",
+    "d": [
+      "Hawkins Plaza",
+      "Palace Mall",
+      "Lenora Center"
+    ],
+    "x": "Solución: Starcourt Mall.",
+    "season": "T3",
+    "id": "stranger-v12-149",
+    "fact": "stranger-v12-149",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál es la constante que Suzie comunica por radio?",
+    "a": "La constante de Planck",
+    "d": [
+      "El número de Avogadro",
+      "La velocidad de la luz",
+      "La constante de Boltzmann"
+    ],
+    "x": "Solución: La constante de Planck.",
+    "season": "T3",
+    "id": "stranger-v12-150",
+    "fact": "stranger-v12-150",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: La constante de Planck.",
+    "d": [
+      "Solución: El número de Avogadro.",
+      "Solución: La velocidad de la luz.",
+      "Solución: La constante de Boltzmann."
+    ],
+    "x": "Solución: La constante de Planck.",
+    "season": "T3",
+    "id": "stranger-v12-151",
+    "fact": "stranger-v12-151",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "La constante de Planck",
+    "d": [
+      "El número de Avogadro",
+      "La velocidad de la luz",
+      "La constante de Boltzmann"
+    ],
+    "x": "Solución: La constante de Planck.",
+    "season": "T3",
+    "id": "stranger-v12-152",
+    "fact": "stranger-v12-152",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué frase del código ruso permite reconocer Starcourt?",
+    "a": "Cuando el azul y el amarillo se encuentren en el oeste",
+    "d": [
+      "La sombra cruza el río",
+      "La torre abre al amanecer",
+      "El rojo llama al negro"
+    ],
+    "x": "Solución: Cuando el azul y el amarillo se encuentren en el oeste.",
+    "season": "T3",
+    "id": "stranger-v12-153",
+    "fact": "stranger-v12-153",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Cuando el azul y el amarillo se encuentren en el oeste.",
+    "d": [
+      "Solución: La sombra cruza el río.",
+      "Solución: La torre abre al amanecer.",
+      "Solución: El rojo llama al negro."
+    ],
+    "x": "Solución: Cuando el azul y el amarillo se encuentren en el oeste.",
+    "season": "T3",
+    "id": "stranger-v12-154",
+    "fact": "stranger-v12-154",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Cuando el azul y el amarillo se encuentren en el oeste",
+    "d": [
+      "La sombra cruza el río",
+      "La torre abre al amanecer",
+      "El rojo llama al negro"
+    ],
+    "x": "Solución: Cuando el azul y el amarillo se encuentren en el oeste.",
+    "season": "T3",
+    "id": "stranger-v12-155",
+    "fact": "stranger-v12-155",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué sustancia administran a Steve y Robin durante el interrogatorio?",
+    "a": "Un suero de la verdad",
+    "d": [
+      "Un sedante",
+      "Un veneno",
+      "Un estimulante"
+    ],
+    "x": "Solución: Un suero de la verdad.",
+    "season": "T3",
+    "id": "stranger-v12-156",
+    "fact": "stranger-v12-156",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Un suero de la verdad.",
+    "d": [
+      "Solución: Un sedante.",
+      "Solución: Un veneno.",
+      "Solución: Un estimulante."
+    ],
+    "x": "Solución: Un suero de la verdad.",
+    "season": "T3",
+    "id": "stranger-v12-157",
+    "fact": "stranger-v12-157",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Un suero de la verdad",
+    "d": [
+      "Un sedante",
+      "Un veneno",
+      "Un estimulante"
+    ],
+    "x": "Solución: Un suero de la verdad.",
+    "season": "T3",
+    "id": "stranger-v12-158",
+    "fact": "stranger-v12-158",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué canción cantan Dustin y Suzie?",
+    "a": "The NeverEnding Story",
+    "d": [
+      "Africa",
+      "Running Up That Hill",
+      "Every Breath You Take"
+    ],
+    "x": "Solución: The NeverEnding Story.",
+    "season": "T3",
+    "id": "stranger-v12-159",
+    "fact": "stranger-v12-159",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: The NeverEnding Story.",
+    "d": [
+      "Solución: Africa.",
+      "Solución: Running Up That Hill.",
+      "Solución: Every Breath You Take."
+    ],
+    "x": "Solución: The NeverEnding Story.",
+    "season": "T3",
+    "id": "stranger-v12-160",
+    "fact": "stranger-v12-160",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "The NeverEnding Story",
+    "d": [
+      "Africa",
+      "Running Up That Hill",
+      "Every Breath You Take"
+    ],
+    "x": "Solución: The NeverEnding Story.",
+    "season": "T3",
+    "id": "stranger-v12-161",
+    "fact": "stranger-v12-161",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué canción ayuda a Max frente a Vecna?",
+    "a": "Running Up That Hill",
+    "d": [
+      "Africa",
+      "Material Girl",
+      "Time After Time"
+    ],
+    "x": "Solución: Running Up That Hill.",
+    "season": "T4",
+    "id": "stranger-v12-162",
+    "fact": "stranger-v12-162",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Running Up That Hill.",
+    "d": [
+      "Solución: Africa.",
+      "Solución: Material Girl.",
+      "Solución: Time After Time."
+    ],
+    "x": "Solución: Running Up That Hill.",
+    "season": "T4",
+    "id": "stranger-v12-163",
+    "fact": "stranger-v12-163",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Running Up That Hill",
+    "d": [
+      "Africa",
+      "Material Girl",
+      "Time After Time"
+    ],
+    "x": "Solución: Running Up That Hill.",
+    "season": "T4",
+    "id": "stranger-v12-164",
+    "fact": "stranger-v12-164",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el proyecto que recupera los poderes de Eleven?",
+    "a": "Proyecto Nina",
+    "d": [
+      "Proyecto Indigo",
+      "Proyecto Rainbow",
+      "Proyecto Kali"
+    ],
+    "x": "Solución: Proyecto Nina.",
+    "season": "T4",
+    "id": "stranger-v12-165",
+    "fact": "stranger-v12-165",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Proyecto Nina.",
+    "d": [
+      "Solución: Proyecto Indigo.",
+      "Solución: Proyecto Rainbow.",
+      "Solución: Proyecto Kali."
+    ],
+    "x": "Solución: Proyecto Nina.",
+    "season": "T4",
+    "id": "stranger-v12-166",
+    "fact": "stranger-v12-166",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Proyecto Nina",
+    "d": [
+      "Proyecto Indigo",
+      "Proyecto Rainbow",
+      "Proyecto Kali"
+    ],
+    "x": "Solución: Proyecto Nina.",
+    "season": "T4",
+    "id": "stranger-v12-167",
+    "fact": "stranger-v12-167",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Qué canción toca Eddie en el Mundo del Revés?",
+    "a": "Master of Puppets",
+    "d": [
+      "Enter Sandman",
+      "The Trooper",
+      "Paranoid"
+    ],
+    "x": "Solución: Master of Puppets.",
+    "season": "T4",
+    "id": "stranger-v12-168",
+    "fact": "stranger-v12-168",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Master of Puppets.",
+    "d": [
+      "Solución: Enter Sandman.",
+      "Solución: The Trooper.",
+      "Solución: Paranoid."
+    ],
+    "x": "Solución: Master of Puppets.",
+    "season": "T4",
+    "id": "stranger-v12-169",
+    "fact": "stranger-v12-169",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Master of Puppets",
+    "d": [
+      "Enter Sandman",
+      "The Trooper",
+      "Paranoid"
+    ],
+    "x": "Solución: Master of Puppets.",
+    "season": "T4",
+    "id": "stranger-v12-170",
+    "fact": "stranger-v12-170",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo bautiza Dustin el portal de Lover’s Lake?",
+    "a": "Watergate",
+    "d": [
+      "Lakegate",
+      "Starcourt Gate",
+      "Blue Gate"
+    ],
+    "x": "Solución: Watergate.",
+    "season": "T4",
+    "id": "stranger-v12-171",
+    "fact": "stranger-v12-171",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Watergate.",
+    "d": [
+      "Solución: Lakegate.",
+      "Solución: Starcourt Gate.",
+      "Solución: Blue Gate."
+    ],
+    "x": "Solución: Watergate.",
+    "season": "T4",
+    "id": "stranger-v12-172",
+    "fact": "stranger-v12-172",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Watergate",
+    "d": [
+      "Lakegate",
+      "Starcourt Gate",
+      "Blue Gate"
+    ],
+    "x": "Solución: Watergate.",
+    "season": "T4",
+    "id": "stranger-v12-173",
+    "fact": "stranger-v12-173",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la campaña final de Eddie?",
+    "a": "The Cult of Vecna",
+    "d": [
+      "The Rise of Kas",
+      "The Lost Knight",
+      "The Demogorgon Returns"
+    ],
+    "x": "Solución: The Cult of Vecna.",
+    "season": "T4",
+    "id": "stranger-v12-174",
+    "fact": "stranger-v12-174",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: The Cult of Vecna.",
+    "d": [
+      "Solución: The Rise of Kas.",
+      "Solución: The Lost Knight.",
+      "Solución: The Demogorgon Returns."
+    ],
+    "x": "Solución: The Cult of Vecna.",
+    "season": "T4",
+    "id": "stranger-v12-175",
+    "fact": "stranger-v12-175",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "The Cult of Vecna",
+    "d": [
+      "The Rise of Kas",
+      "The Lost Knight",
+      "The Demogorgon Returns"
+    ],
+    "x": "Solución: The Cult of Vecna.",
+    "season": "T4",
+    "id": "stranger-v12-176",
+    "fact": "stranger-v12-176",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué comida estadounidense trafica Yuri?",
+    "a": "Mantequilla de cacahuete",
+    "d": [
+      "Gofres",
+      "Pizza congelada",
+      "Caviar"
+    ],
+    "x": "Solución: Mantequilla de cacahuete.",
+    "season": "T4",
+    "id": "stranger-v12-177",
+    "fact": "stranger-v12-177",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Mantequilla de cacahuete.",
+    "d": [
+      "Solución: Gofres.",
+      "Solución: Pizza congelada.",
+      "Solución: Caviar."
+    ],
+    "x": "Solución: Mantequilla de cacahuete.",
+    "season": "T4",
+    "id": "stranger-v12-178",
+    "fact": "stranger-v12-178",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Mantequilla de cacahuete",
+    "d": [
+      "Gofres",
+      "Pizza congelada",
+      "Caviar"
+    ],
+    "x": "Solución: Mantequilla de cacahuete.",
+    "season": "T4",
+    "id": "stranger-v12-179",
+    "fact": "stranger-v12-179",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuántas puertas necesita Vecna para fracturar Hawkins?",
+    "a": "Cuatro",
+    "d": [
+      "Dos",
+      "Tres",
+      "Cinco"
+    ],
+    "x": "Solución: Cuatro.",
+    "season": "T4",
+    "id": "stranger-v12-180",
+    "fact": "stranger-v12-180",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Cuatro.",
+    "d": [
+      "Solución: Dos.",
+      "Solución: Tres.",
+      "Solución: Cinco."
+    ],
+    "x": "Solución: Cuatro.",
+    "season": "T4",
+    "id": "stranger-v12-181",
+    "fact": "stranger-v12-181",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Cuatro",
+    "d": [
+      "Dos",
+      "Tres",
+      "Cinco"
+    ],
+    "x": "Solución: Cuatro.",
+    "season": "T4",
+    "id": "stranger-v12-182",
+    "fact": "stranger-v12-182",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué canción escucha Chrissy antes de un ataque de Vecna?",
+    "a": "Dream a Little Dream of Me",
+    "d": [
+      "Running Up That Hill",
+      "Pass the Dutchie",
+      "Separate Ways"
+    ],
+    "x": "Solución: Dream a Little Dream of Me.",
+    "season": "T4",
+    "id": "stranger-v12-183",
+    "fact": "stranger-v12-183",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Dream a Little Dream of Me.",
+    "d": [
+      "Solución: Running Up That Hill.",
+      "Solución: Pass the Dutchie.",
+      "Solución: Separate Ways."
+    ],
+    "x": "Solución: Dream a Little Dream of Me.",
+    "season": "T4",
+    "id": "stranger-v12-184",
+    "fact": "stranger-v12-184",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Dream a Little Dream of Me",
+    "d": [
+      "Running Up That Hill",
+      "Pass the Dutchie",
+      "Separate Ways"
+    ],
+    "x": "Solución: Dream a Little Dream of Me.",
+    "season": "T4",
+    "id": "stranger-v12-185",
+    "fact": "stranger-v12-185",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Dónde está la entrada acuática al Mundo del Revés?",
+    "a": "Lover’s Lake",
+    "d": [
+      "La piscina de Hawkins",
+      "El río Brimborn",
+      "La cantera"
+    ],
+    "x": "Solución: Lover’s Lake.",
+    "season": "T4",
+    "id": "stranger-v12-186",
+    "fact": "stranger-v12-186",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Lover’s Lake.",
+    "d": [
+      "Solución: La piscina de Hawkins.",
+      "Solución: El río Brimborn.",
+      "Solución: La cantera."
+    ],
+    "x": "Solución: Lover’s Lake.",
+    "season": "T4",
+    "id": "stranger-v12-187",
+    "fact": "stranger-v12-187",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Lover’s Lake",
+    "d": [
+      "La piscina de Hawkins",
+      "El río Brimborn",
+      "La cantera"
+    ],
+    "x": "Solución: Lover’s Lake.",
+    "season": "T4",
+    "id": "stranger-v12-188",
+    "fact": "stranger-v12-188",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Fácil",
+    "q": "¿Cómo llaman al primer monstruo?",
+    "a": "Demogorgon",
+    "d": [
+      "Vecna",
+      "Azotamentes",
+      "Demoperro"
+    ],
+    "x": "Solución: Demogorgon.",
+    "season": "General",
+    "id": "stranger-v12-189",
+    "fact": "stranger-v12-189",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Criaturas es correcta?",
+    "a": "Solución: Demogorgon.",
+    "d": [
+      "Solución: Vecna.",
+      "Solución: Azotamentes.",
+      "Solución: Demoperro."
+    ],
+    "x": "Solución: Demogorgon.",
+    "season": "General",
+    "id": "stranger-v12-190",
+    "fact": "stranger-v12-190",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Demogorgon",
+    "d": [
+      "Vecna",
+      "Azotamentes",
+      "Demoperro"
+    ],
+    "x": "Solución: Demogorgon.",
+    "season": "General",
+    "id": "stranger-v12-191",
+    "fact": "stranger-v12-191",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Media",
+    "q": "¿Cómo llaman a la entidad de humo?",
+    "a": "Azotamentes",
+    "d": [
+      "Demogorgon",
+      "Vecna",
+      "Sombra Roja"
+    ],
+    "x": "Solución: Azotamentes.",
+    "season": "General",
+    "id": "stranger-v12-192",
+    "fact": "stranger-v12-192",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Criaturas es correcta?",
+    "a": "Solución: Azotamentes.",
+    "d": [
+      "Solución: Demogorgon.",
+      "Solución: Vecna.",
+      "Solución: Sombra Roja."
+    ],
+    "x": "Solución: Azotamentes.",
+    "season": "General",
+    "id": "stranger-v12-193",
+    "fact": "stranger-v12-193",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Azotamentes",
+    "d": [
+      "Demogorgon",
+      "Vecna",
+      "Sombra Roja"
+    ],
+    "x": "Solución: Azotamentes.",
+    "season": "General",
+    "id": "stranger-v12-194",
+    "fact": "stranger-v12-194",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Difícil",
+    "q": "¿Quién era Vecna antes de transformarse?",
+    "a": "Henry Creel",
+    "d": [
+      "Billy Hargrove",
+      "Victor Creel",
+      "Martin Brenner"
+    ],
+    "x": "Solución: Henry Creel.",
+    "season": "General",
+    "id": "stranger-v12-195",
+    "fact": "stranger-v12-195",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Criaturas es correcta?",
+    "a": "Solución: Henry Creel.",
+    "d": [
+      "Solución: Billy Hargrove.",
+      "Solución: Victor Creel.",
+      "Solución: Martin Brenner."
+    ],
+    "x": "Solución: Henry Creel.",
+    "season": "General",
+    "id": "stranger-v12-196",
+    "fact": "stranger-v12-196",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Criaturas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Henry Creel",
+    "d": [
+      "Billy Hargrove",
+      "Victor Creel",
+      "Martin Brenner"
+    ],
+    "x": "Solución: Henry Creel.",
+    "season": "General",
+    "id": "stranger-v12-197",
+    "fact": "stranger-v12-197",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama el pueblo principal?",
+    "a": "Hawkins",
+    "d": [
+      "Derry",
+      "Sunnydale",
+      "Riverdale"
+    ],
+    "x": "Solución: Hawkins.",
+    "season": "General",
+    "id": "stranger-v12-198",
+    "fact": "stranger-v12-198",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Lugares es correcta?",
+    "a": "Solución: Hawkins.",
+    "d": [
+      "Solución: Derry.",
+      "Solución: Sunnydale.",
+      "Solución: Riverdale."
+    ],
+    "x": "Solución: Hawkins.",
+    "season": "General",
+    "id": "stranger-v12-199",
+    "fact": "stranger-v12-199",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Hawkins",
+    "d": [
+      "Derry",
+      "Sunnydale",
+      "Riverdale"
+    ],
+    "x": "Solución: Hawkins.",
+    "season": "General",
+    "id": "stranger-v12-200",
+    "fact": "stranger-v12-200",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la heladería de Starcourt?",
+    "a": "Scoops Ahoy",
+    "d": [
+      "Surfer Boy Pizza",
+      "Benny’s Burgers",
+      "Family Video"
+    ],
+    "x": "Solución: Scoops Ahoy.",
+    "season": "General",
+    "id": "stranger-v12-201",
+    "fact": "stranger-v12-201",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Lugares es correcta?",
+    "a": "Solución: Scoops Ahoy.",
+    "d": [
+      "Solución: Surfer Boy Pizza.",
+      "Solución: Benny’s Burgers.",
+      "Solución: Family Video."
+    ],
+    "x": "Solución: Scoops Ahoy.",
+    "season": "General",
+    "id": "stranger-v12-202",
+    "fact": "stranger-v12-202",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Scoops Ahoy",
+    "d": [
+      "Surfer Boy Pizza",
+      "Benny’s Burgers",
+      "Family Video"
+    ],
+    "x": "Solución: Scoops Ahoy.",
+    "season": "General",
+    "id": "stranger-v12-203",
+    "fact": "stranger-v12-203",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la pizzería donde trabaja Argyle?",
+    "a": "Surfer Boy Pizza",
+    "d": [
+      "Benny’s Pizza",
+      "Hawkins Slice",
+      "California Pie"
+    ],
+    "x": "Solución: Surfer Boy Pizza.",
+    "season": "General",
+    "id": "stranger-v12-204",
+    "fact": "stranger-v12-204",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Lugares es correcta?",
+    "a": "Solución: Surfer Boy Pizza.",
+    "d": [
+      "Solución: Benny’s Pizza.",
+      "Solución: Hawkins Slice.",
+      "Solución: California Pie."
+    ],
+    "x": "Solución: Surfer Boy Pizza.",
+    "season": "General",
+    "id": "stranger-v12-205",
+    "fact": "stranger-v12-205",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Surfer Boy Pizza",
+    "d": [
+      "Benny’s Pizza",
+      "Hawkins Slice",
+      "California Pie"
+    ],
+    "x": "Solución: Surfer Boy Pizza.",
+    "season": "General",
+    "id": "stranger-v12-206",
+    "fact": "stranger-v12-206",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la radio de Dustin?",
+    "a": "Cerebro",
+    "d": [
+      "Nina",
+      "Castle Byers",
+      "Pollywog"
+    ],
+    "x": "Solución: Cerebro.",
+    "season": "General",
+    "id": "stranger-v12-207",
+    "fact": "stranger-v12-207",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Objetos es correcta?",
+    "a": "Solución: Cerebro.",
+    "d": [
+      "Solución: Nina.",
+      "Solución: Castle Byers.",
+      "Solución: Pollywog."
+    ],
+    "x": "Solución: Cerebro.",
+    "season": "General",
+    "id": "stranger-v12-208",
+    "fact": "stranger-v12-208",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Cerebro",
+    "d": [
+      "Nina",
+      "Castle Byers",
+      "Pollywog"
+    ],
+    "x": "Solución: Cerebro.",
+    "season": "General",
+    "id": "stranger-v12-209",
+    "fact": "stranger-v12-209",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Difícil",
+    "q": "¿Qué reloj anuncia la llegada de Vecna?",
+    "a": "Un reloj de pie antiguo",
+    "d": [
+      "Un reloj digital",
+      "Un cuco",
+      "Un despertador rojo"
+    ],
+    "x": "Solución: Un reloj de pie antiguo.",
+    "season": "General",
+    "id": "stranger-v12-210",
+    "fact": "stranger-v12-210",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Objetos es correcta?",
+    "a": "Solución: Un reloj de pie antiguo.",
+    "d": [
+      "Solución: Un reloj digital.",
+      "Solución: Un cuco.",
+      "Solución: Un despertador rojo."
+    ],
+    "x": "Solución: Un reloj de pie antiguo.",
+    "season": "General",
+    "id": "stranger-v12-211",
+    "fact": "stranger-v12-211",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Un reloj de pie antiguo",
+    "d": [
+      "Un reloj digital",
+      "Un cuco",
+      "Un despertador rojo"
+    ],
+    "x": "Solución: Un reloj de pie antiguo.",
+    "season": "General",
+    "id": "stranger-v12-212",
+    "fact": "stranger-v12-212",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Quién ayuda a Joyce a traducir ruso?",
+    "a": "Murray Bauman",
+    "d": [
+      "Ted Wheeler",
+      "Scott Clarke",
+      "Lonnie Byers"
+    ],
+    "x": "Solución: Murray Bauman.",
+    "season": "General",
+    "id": "stranger-v12-213",
+    "fact": "stranger-v12-213",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Murray Bauman.",
+    "d": [
+      "Solución: Ted Wheeler.",
+      "Solución: Scott Clarke.",
+      "Solución: Lonnie Byers."
+    ],
+    "x": "Solución: Murray Bauman.",
+    "season": "General",
+    "id": "stranger-v12-214",
+    "fact": "stranger-v12-214",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Murray Bauman",
+    "d": [
+      "Ted Wheeler",
+      "Scott Clarke",
+      "Lonnie Byers"
+    ],
+    "x": "Solución: Murray Bauman.",
+    "season": "General",
+    "id": "stranger-v12-215",
+    "fact": "stranger-v12-215",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el doctor que ayuda a Hopper tras Brenner?",
+    "a": "Sam Owens",
+    "d": [
+      "Alexei",
+      "Martin Brenner",
+      "Victor Creel"
+    ],
+    "x": "Solución: Sam Owens.",
+    "season": "General",
+    "id": "stranger-v12-216",
+    "fact": "stranger-v12-216",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Sam Owens.",
+    "d": [
+      "Solución: Alexei.",
+      "Solución: Martin Brenner.",
+      "Solución: Victor Creel."
+    ],
+    "x": "Solución: Sam Owens.",
+    "season": "General",
+    "id": "stranger-v12-217",
+    "fact": "stranger-v12-217",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Sam Owens",
+    "d": [
+      "Alexei",
+      "Martin Brenner",
+      "Victor Creel"
+    ],
+    "x": "Solución: Sam Owens.",
+    "season": "General",
+    "id": "stranger-v12-218",
+    "fact": "stranger-v12-218",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Media",
+    "q": "¿Qué cierra Eleven al final de la segunda temporada?",
+    "a": "El portal",
+    "d": [
+      "Starcourt",
+      "La escuela",
+      "El laboratorio entero"
+    ],
+    "x": "Solución: El portal.",
+    "season": "General",
+    "id": "stranger-v12-219",
+    "fact": "stranger-v12-219",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Eventos es correcta?",
+    "a": "Solución: El portal.",
+    "d": [
+      "Solución: Starcourt.",
+      "Solución: La escuela.",
+      "Solución: El laboratorio entero."
+    ],
+    "x": "Solución: El portal.",
+    "season": "General",
+    "id": "stranger-v12-220",
+    "fact": "stranger-v12-220",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "El portal",
+    "d": [
+      "Starcourt",
+      "La escuela",
+      "El laboratorio entero"
+    ],
+    "x": "Solución: El portal.",
+    "season": "General",
+    "id": "stranger-v12-221",
+    "fact": "stranger-v12-221",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Difícil",
+    "q": "¿Qué transmite Cerebro al volver Dustin del campamento?",
+    "a": "Una señal rusa",
+    "d": [
+      "Una noticia local",
+      "Una canción de Will",
+      "Un mensaje de Hopper"
+    ],
+    "x": "Solución: Una señal rusa.",
+    "season": "General",
+    "id": "stranger-v12-222",
+    "fact": "stranger-v12-222",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Eventos es correcta?",
+    "a": "Solución: Una señal rusa.",
+    "d": [
+      "Solución: Una noticia local.",
+      "Solución: Una canción de Will.",
+      "Solución: Un mensaje de Hopper."
+    ],
+    "x": "Solución: Una señal rusa.",
+    "season": "General",
+    "id": "stranger-v12-223",
+    "fact": "stranger-v12-223",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Una señal rusa",
+    "d": [
+      "Una noticia local",
+      "Una canción de Will",
+      "Un mensaje de Hopper"
+    ],
+    "x": "Solución: Una señal rusa.",
+    "season": "General",
+    "id": "stranger-v12-224",
+    "fact": "stranger-v12-224",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la madre de Will y Jonathan?",
+    "a": "Joyce Byers",
+    "d": [
+      "Karen Wheeler",
+      "Claudia Henderson",
+      "Susan Hargrove"
+    ],
+    "x": "Solución: Joyce Byers.",
+    "season": "General",
+    "id": "stranger-v12-225",
+    "fact": "stranger-v12-225",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Joyce Byers.",
+    "d": [
+      "Solución: Karen Wheeler.",
+      "Solución: Claudia Henderson.",
+      "Solución: Susan Hargrove."
+    ],
+    "x": "Solución: Joyce Byers.",
+    "season": "General",
+    "id": "stranger-v12-226",
+    "fact": "stranger-v12-226",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Joyce Byers",
+    "d": [
+      "Karen Wheeler",
+      "Claudia Henderson",
+      "Susan Hargrove"
+    ],
+    "x": "Solución: Joyce Byers.",
+    "season": "General",
+    "id": "stranger-v12-227",
+    "fact": "stranger-v12-227",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "¿Quién es el jefe de policía de Hawkins?",
+    "a": "Jim Hopper",
+    "d": [
+      "Sam Owens",
+      "Murray Bauman",
+      "Bob Newby"
+    ],
+    "x": "Solución: Jim Hopper.",
+    "season": "General",
+    "id": "stranger-v12-228",
+    "fact": "stranger-v12-228",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Jim Hopper.",
+    "d": [
+      "Solución: Sam Owens.",
+      "Solución: Murray Bauman.",
+      "Solución: Bob Newby."
+    ],
+    "x": "Solución: Jim Hopper.",
+    "season": "General",
+    "id": "stranger-v12-229",
+    "fact": "stranger-v12-229",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Jim Hopper",
+    "d": [
+      "Sam Owens",
+      "Murray Bauman",
+      "Bob Newby"
+    ],
+    "x": "Solución: Jim Hopper.",
+    "season": "General",
+    "id": "stranger-v12-230",
+    "fact": "stranger-v12-230",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la amiga de Nancy que desaparece en la primera temporada?",
+    "a": "Barb Holland",
+    "d": [
+      "Chrissy Cunningham",
+      "Heather Holloway",
+      "Becky Ives"
+    ],
+    "x": "Solución: Barb Holland.",
+    "season": "General",
+    "id": "stranger-v12-231",
+    "fact": "stranger-v12-231",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Barb Holland.",
+    "d": [
+      "Solución: Chrissy Cunningham.",
+      "Solución: Heather Holloway.",
+      "Solución: Becky Ives."
+    ],
+    "x": "Solución: Barb Holland.",
+    "season": "General",
+    "id": "stranger-v12-232",
+    "fact": "stranger-v12-232",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Barb Holland",
+    "d": [
+      "Chrissy Cunningham",
+      "Heather Holloway",
+      "Becky Ives"
+    ],
+    "x": "Solución: Barb Holland.",
+    "season": "General",
+    "id": "stranger-v12-233",
+    "fact": "stranger-v12-233",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el novio de Joyce que trabaja en RadioShack?",
+    "a": "Bob Newby",
+    "d": [
+      "Lonnie Byers",
+      "Scott Clarke",
+      "Murray Bauman"
+    ],
+    "x": "Solución: Bob Newby.",
+    "season": "General",
+    "id": "stranger-v12-234",
+    "fact": "stranger-v12-234",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Bob Newby.",
+    "d": [
+      "Solución: Lonnie Byers.",
+      "Solución: Scott Clarke.",
+      "Solución: Murray Bauman."
+    ],
+    "x": "Solución: Bob Newby.",
+    "season": "General",
+    "id": "stranger-v12-235",
+    "fact": "stranger-v12-235",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Bob Newby",
+    "d": [
+      "Lonnie Byers",
+      "Scott Clarke",
+      "Murray Bauman"
+    ],
+    "x": "Solución: Bob Newby.",
+    "season": "General",
+    "id": "stranger-v12-236",
+    "fact": "stranger-v12-236",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el periodista conspiranoico amigo de Hopper?",
+    "a": "Murray Bauman",
+    "d": [
+      "Ted Wheeler",
+      "Powell",
+      "Callahan"
+    ],
+    "x": "Solución: Murray Bauman.",
+    "season": "General",
+    "id": "stranger-v12-237",
+    "fact": "stranger-v12-237",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Murray Bauman.",
+    "d": [
+      "Solución: Ted Wheeler.",
+      "Solución: Powell.",
+      "Solución: Callahan."
+    ],
+    "x": "Solución: Murray Bauman.",
+    "season": "General",
+    "id": "stranger-v12-238",
+    "fact": "stranger-v12-238",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Murray Bauman",
+    "d": [
+      "Ted Wheeler",
+      "Powell",
+      "Callahan"
+    ],
+    "x": "Solución: Murray Bauman.",
+    "season": "General",
+    "id": "stranger-v12-239",
+    "fact": "stranger-v12-239",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Quién es el director del laboratorio de Hawkins al principio?",
+    "a": "Martin Brenner",
+    "d": [
+      "Sam Owens",
+      "Victor Creel",
+      "Alexei"
+    ],
+    "x": "Solución: Martin Brenner.",
+    "season": "General",
+    "id": "stranger-v12-240",
+    "fact": "stranger-v12-240",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Martin Brenner.",
+    "d": [
+      "Solución: Sam Owens.",
+      "Solución: Victor Creel.",
+      "Solución: Alexei."
+    ],
+    "x": "Solución: Martin Brenner.",
+    "season": "General",
+    "id": "stranger-v12-241",
+    "fact": "stranger-v12-241",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Martin Brenner",
+    "d": [
+      "Sam Owens",
+      "Victor Creel",
+      "Alexei"
+    ],
+    "x": "Solución: Martin Brenner.",
+    "season": "General",
+    "id": "stranger-v12-242",
+    "fact": "stranger-v12-242",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el científico ruso que ayuda a Hopper y Joyce?",
+    "a": "Alexei",
+    "d": [
+      "Yuri",
+      "Grigori",
+      "Dmitri"
+    ],
+    "x": "Solución: Alexei.",
+    "season": "General",
+    "id": "stranger-v12-243",
+    "fact": "stranger-v12-243",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Alexei.",
+    "d": [
+      "Solución: Yuri.",
+      "Solución: Grigori.",
+      "Solución: Dmitri."
+    ],
+    "x": "Solución: Alexei.",
+    "season": "General",
+    "id": "stranger-v12-244",
+    "fact": "stranger-v12-244",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Alexei",
+    "d": [
+      "Yuri",
+      "Grigori",
+      "Dmitri"
+    ],
+    "x": "Solución: Alexei.",
+    "season": "General",
+    "id": "stranger-v12-245",
+    "fact": "stranger-v12-245",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el guardia ruso conocido como Enzo?",
+    "a": "Dmitri Antonov",
+    "d": [
+      "Yuri Ismaylov",
+      "Grigori",
+      "Alexei"
+    ],
+    "x": "Solución: Dmitri Antonov.",
+    "season": "General",
+    "id": "stranger-v12-246",
+    "fact": "stranger-v12-246",
+    "show": "stranger",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Dmitri Antonov.",
+    "d": [
+      "Solución: Yuri Ismaylov.",
+      "Solución: Grigori.",
+      "Solución: Alexei."
+    ],
+    "x": "Solución: Dmitri Antonov.",
+    "season": "General",
+    "id": "stranger-v12-247",
+    "fact": "stranger-v12-247",
+    "show": "stranger",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Dmitri Antonov",
+    "d": [
+      "Yuri Ismaylov",
+      "Grigori",
+      "Alexei"
+    ],
+    "x": "Solución: Dmitri Antonov.",
+    "season": "General",
+    "id": "stranger-v12-248",
+    "fact": "stranger-v12-248",
+    "show": "stranger",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el piloto ruso que traiciona a Joyce y Murray?",
+    "a": "Yuri Ismaylov",
+    "d": [
+      "Dmitri Antonov",
+      "Alexei",
+      "Grigori"
+    ],
+    "x": "Solución: Yuri Ismaylov.",
+    "season": "General",
+    "id": "stranger-v12-249",
+    "fact": "stranger-v12-249",
+    "show": "stranger",
+    "kind": "directa"
+  }
+];

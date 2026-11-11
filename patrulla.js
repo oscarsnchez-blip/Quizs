@@ -1,1 +1,3402 @@
-window.BANK_PATRULLA=[{"block":"Chase","difficulty":"Fácil","q":"¿Qué tipo de perro es Chase?","a":"Pastor alemán","d":["Dálmata","Cockapoo","Bulldog inglés"],"x":"Chase es Pastor alemán.","season":"General","id":"patrulla-v7-0","fact":"patrulla-v7-0","show":"patrulla","kind":"directa"},{"block":"Chase","difficulty":"Fácil","q":"¿Cuál es la especialidad de Chase?","a":"Policía","d":["Bombero y sanitario","Aviación","Construcción"],"x":"Chase se ocupa de Policía.","season":"General","id":"patrulla-v7-1","fact":"patrulla-v7-1","show":"patrulla","kind":"directa"},{"block":"Chase","difficulty":"Fácil","q":"¿De qué color es el uniforme de Chase?","a":"Azul","d":["Rojo","Rosa","Amarillo"],"x":"El uniforme de Chase es Azul.","season":"General","id":"patrulla-v7-2","fact":"patrulla-v7-2","show":"patrulla","kind":"directa"},{"block":"Chase","difficulty":"Media","q":"¿Qué vehículo usa Chase?","a":"Coche policial","d":["Camión de bomberos","Helicóptero","Excavadora"],"x":"Chase utiliza Coche policial.","season":"General","id":"patrulla-v7-3","fact":"patrulla-v7-3","show":"patrulla","kind":"directa"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué tipo de perro es Marshall?","a":"Dálmata","d":["Pastor alemán","Cockapoo","Bulldog inglés"],"x":"Marshall es Dálmata.","season":"General","id":"patrulla-v7-4","fact":"patrulla-v7-4","show":"patrulla","kind":"directa"},{"block":"Marshall","difficulty":"Fácil","q":"¿Cuál es la especialidad de Marshall?","a":"Bombero y sanitario","d":["Policía","Aviación","Construcción"],"x":"Marshall se ocupa de Bombero y sanitario.","season":"General","id":"patrulla-v7-5","fact":"patrulla-v7-5","show":"patrulla","kind":"directa"},{"block":"Marshall","difficulty":"Fácil","q":"¿De qué color es el uniforme de Marshall?","a":"Rojo","d":["Azul","Rosa","Amarillo"],"x":"El uniforme de Marshall es Rojo.","season":"General","id":"patrulla-v7-6","fact":"patrulla-v7-6","show":"patrulla","kind":"directa"},{"block":"Marshall","difficulty":"Media","q":"¿Qué vehículo usa Marshall?","a":"Camión de bomberos","d":["Coche policial","Helicóptero","Excavadora"],"x":"Marshall utiliza Camión de bomberos.","season":"General","id":"patrulla-v7-7","fact":"patrulla-v7-7","show":"patrulla","kind":"directa"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué tipo de perro es Skye?","a":"Cockapoo","d":["Pastor alemán","Dálmata","Bulldog inglés"],"x":"Skye es Cockapoo.","season":"General","id":"patrulla-v7-8","fact":"patrulla-v7-8","show":"patrulla","kind":"directa"},{"block":"Skye","difficulty":"Fácil","q":"¿Cuál es la especialidad de Skye?","a":"Aviación","d":["Policía","Bombero y sanitario","Construcción"],"x":"Skye se ocupa de Aviación.","season":"General","id":"patrulla-v7-9","fact":"patrulla-v7-9","show":"patrulla","kind":"directa"},{"block":"Skye","difficulty":"Fácil","q":"¿De qué color es el uniforme de Skye?","a":"Rosa","d":["Azul","Rojo","Amarillo"],"x":"El uniforme de Skye es Rosa.","season":"General","id":"patrulla-v7-10","fact":"patrulla-v7-10","show":"patrulla","kind":"directa"},{"block":"Skye","difficulty":"Media","q":"¿Qué vehículo usa Skye?","a":"Helicóptero","d":["Coche policial","Camión de bomberos","Excavadora"],"x":"Skye utiliza Helicóptero.","season":"General","id":"patrulla-v7-11","fact":"patrulla-v7-11","show":"patrulla","kind":"directa"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué tipo de perro es Rubble?","a":"Bulldog inglés","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Rubble es Bulldog inglés.","season":"General","id":"patrulla-v7-12","fact":"patrulla-v7-12","show":"patrulla","kind":"directa"},{"block":"Rubble","difficulty":"Fácil","q":"¿Cuál es la especialidad de Rubble?","a":"Construcción","d":["Policía","Bombero y sanitario","Aviación"],"x":"Rubble se ocupa de Construcción.","season":"General","id":"patrulla-v7-13","fact":"patrulla-v7-13","show":"patrulla","kind":"directa"},{"block":"Rubble","difficulty":"Fácil","q":"¿De qué color es el uniforme de Rubble?","a":"Amarillo","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Rubble es Amarillo.","season":"General","id":"patrulla-v7-14","fact":"patrulla-v7-14","show":"patrulla","kind":"directa"},{"block":"Rubble","difficulty":"Media","q":"¿Qué vehículo usa Rubble?","a":"Excavadora","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Rubble utiliza Excavadora.","season":"General","id":"patrulla-v7-15","fact":"patrulla-v7-15","show":"patrulla","kind":"directa"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué tipo de perro es Rocky?","a":"Mestizo","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Rocky es Mestizo.","season":"General","id":"patrulla-v7-16","fact":"patrulla-v7-16","show":"patrulla","kind":"directa"},{"block":"Rocky","difficulty":"Fácil","q":"¿Cuál es la especialidad de Rocky?","a":"Reciclaje y reparaciones","d":["Policía","Bombero y sanitario","Aviación"],"x":"Rocky se ocupa de Reciclaje y reparaciones.","season":"General","id":"patrulla-v7-17","fact":"patrulla-v7-17","show":"patrulla","kind":"directa"},{"block":"Rocky","difficulty":"Fácil","q":"¿De qué color es el uniforme de Rocky?","a":"Verde","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Rocky es Verde.","season":"General","id":"patrulla-v7-18","fact":"patrulla-v7-18","show":"patrulla","kind":"directa"},{"block":"Rocky","difficulty":"Media","q":"¿Qué vehículo usa Rocky?","a":"Camión de reciclaje","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Rocky utiliza Camión de reciclaje.","season":"General","id":"patrulla-v7-19","fact":"patrulla-v7-19","show":"patrulla","kind":"directa"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué tipo de perro es Zuma?","a":"Labrador chocolate","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Zuma es Labrador chocolate.","season":"General","id":"patrulla-v7-20","fact":"patrulla-v7-20","show":"patrulla","kind":"directa"},{"block":"Zuma","difficulty":"Fácil","q":"¿Cuál es la especialidad de Zuma?","a":"Rescate acuático","d":["Policía","Bombero y sanitario","Aviación"],"x":"Zuma se ocupa de Rescate acuático.","season":"General","id":"patrulla-v7-21","fact":"patrulla-v7-21","show":"patrulla","kind":"directa"},{"block":"Zuma","difficulty":"Fácil","q":"¿De qué color es el uniforme de Zuma?","a":"Naranja","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Zuma es Naranja.","season":"General","id":"patrulla-v7-22","fact":"patrulla-v7-22","show":"patrulla","kind":"directa"},{"block":"Zuma","difficulty":"Media","q":"¿Qué vehículo usa Zuma?","a":"Aerodeslizador","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Zuma utiliza Aerodeslizador.","season":"General","id":"patrulla-v7-23","fact":"patrulla-v7-23","show":"patrulla","kind":"directa"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué tipo de perro es Everest?","a":"Husky","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Everest es Husky.","season":"General","id":"patrulla-v7-24","fact":"patrulla-v7-24","show":"patrulla","kind":"directa"},{"block":"Everest","difficulty":"Fácil","q":"¿Cuál es la especialidad de Everest?","a":"Rescate en nieve","d":["Policía","Bombero y sanitario","Aviación"],"x":"Everest se ocupa de Rescate en nieve.","season":"General","id":"patrulla-v7-25","fact":"patrulla-v7-25","show":"patrulla","kind":"directa"},{"block":"Everest","difficulty":"Fácil","q":"¿De qué color es el uniforme de Everest?","a":"Turquesa","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Everest es Turquesa.","season":"General","id":"patrulla-v7-26","fact":"patrulla-v7-26","show":"patrulla","kind":"directa"},{"block":"Everest","difficulty":"Media","q":"¿Qué vehículo usa Everest?","a":"Moto de nieve","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Everest utiliza Moto de nieve.","season":"General","id":"patrulla-v7-27","fact":"patrulla-v7-27","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para un incendio?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall tiene la especialidad adecuada para un incendio.","season":"General","id":"patrulla-v7-28","fact":"patrulla-v7-28","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para un barco averiado?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma tiene la especialidad adecuada para un barco averiado.","season":"General","id":"patrulla-v7-29","fact":"patrulla-v7-29","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para un puente roto?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble tiene la especialidad adecuada para un puente roto.","season":"General","id":"patrulla-v7-30","fact":"patrulla-v7-30","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para una carretera nevada?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest tiene la especialidad adecuada para una carretera nevada.","season":"General","id":"patrulla-v7-31","fact":"patrulla-v7-31","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para un rescate aéreo?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye tiene la especialidad adecuada para un rescate aéreo.","season":"General","id":"patrulla-v7-32","fact":"patrulla-v7-32","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para una investigación policial?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase tiene la especialidad adecuada para una investigación policial.","season":"General","id":"patrulla-v7-33","fact":"patrulla-v7-33","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para reutilizar piezas?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky tiene la especialidad adecuada para reutilizar piezas.","season":"General","id":"patrulla-v7-34","fact":"patrulla-v7-34","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para un gato en un tejado?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall tiene la especialidad adecuada para un gato en un tejado.","season":"General","id":"patrulla-v7-35","fact":"patrulla-v7-35","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para un vehículo atrapado en barro?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.","season":"General","id":"patrulla-v7-36","fact":"patrulla-v7-36","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para una boya a la deriva?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma tiene la especialidad adecuada para una boya a la deriva.","season":"General","id":"patrulla-v7-37","fact":"patrulla-v7-37","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para buscar desde el cielo?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye tiene la especialidad adecuada para buscar desde el cielo.","season":"General","id":"patrulla-v7-38","fact":"patrulla-v7-38","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para seguir huellas?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase tiene la especialidad adecuada para seguir huellas.","season":"General","id":"patrulla-v7-39","fact":"patrulla-v7-39","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para arreglar una máquina con chatarra?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.","season":"General","id":"patrulla-v7-40","fact":"patrulla-v7-40","show":"patrulla","kind":"directa"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué cachorro es la mejor elección para rescatar en una ventisca?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest tiene la especialidad adecuada para rescatar en una ventisca.","season":"General","id":"patrulla-v7-41","fact":"patrulla-v7-41","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Quién dirige la Patrulla Canina?","a":"Ryder","d":["Humdinger","Turbot","Jake"],"x":"Ryder es la respuesta correcta.","season":"General","id":"patrulla-v7-42","fact":"patrulla-v7-42","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Quién es la alcaldesa de Bahía Aventura?","a":"Alcaldesa Goodway","d":["Alcalde Humdinger","Katie","Mandy"],"x":"Alcaldesa Goodway es la respuesta correcta.","season":"General","id":"patrulla-v7-43","fact":"patrulla-v7-43","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Cómo se llama la gallina de la alcaldesa?","a":"Chickaletta","d":["Cali","Mittens","Ella"],"x":"Chickaletta es la respuesta correcta.","season":"General","id":"patrulla-v7-44","fact":"patrulla-v7-44","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Quién es el rival travieso de Goodway?","a":"Alcalde Humdinger","d":["Capitán Turbot","Jake","Farmer Al"],"x":"Alcalde Humdinger es la respuesta correcta.","season":"General","id":"patrulla-v7-45","fact":"patrulla-v7-45","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Quién cuida animales en su salón?","a":"Katie","d":["Goodway","Mandy","Julia"],"x":"Katie es la respuesta correcta.","season":"General","id":"patrulla-v7-46","fact":"patrulla-v7-46","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Quién es experto en el mar y el faro?","a":"Capitán Turbot","d":["Jake","Danny","Travis"],"x":"Capitán Turbot es la respuesta correcta.","season":"General","id":"patrulla-v7-47","fact":"patrulla-v7-47","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Dónde se reúne el equipo?","a":"En la torre de control","d":["En el ayuntamiento","En una escuela","En un castillo"],"x":"En la torre de control es la respuesta correcta.","season":"General","id":"patrulla-v7-48","fact":"patrulla-v7-48","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Cómo se llama la ciudad principal?","a":"Bahía Aventura","d":["Ciudad Aventura","Bahía Niebla","Hawkins"],"x":"Bahía Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-49","fact":"patrulla-v7-49","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Qué vehículo usa Ryder?","a":"Un quad","d":["Un tren","Un tractor","Un globo"],"x":"Un quad es la respuesta correcta.","season":"General","id":"patrulla-v7-50","fact":"patrulla-v7-50","show":"patrulla","kind":"directa"},{"block":"General","difficulty":"Fácil","q":"¿Cómo avisa Ryder a los cachorros?","a":"Con sus Pup-Pads","d":["Con cartas","Con una campana","Con señales de humo"],"x":"Con sus Pup-Pads es la respuesta correcta.","season":"General","id":"patrulla-v7-51","fact":"patrulla-v7-51","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Coche policial”?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"El Coche policial pertenece a Chase.","season":"General","id":"patrulla-v7-52","fact":"patrulla-v7-52","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Azul?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase viste principalmente de Azul.","season":"General","id":"patrulla-v7-53","fact":"patrulla-v7-53","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en policía?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase destaca en policía.","season":"General","id":"patrulla-v7-54","fact":"patrulla-v7-54","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Camión de bomberos”?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"El Camión de bomberos pertenece a Marshall.","season":"General","id":"patrulla-v7-55","fact":"patrulla-v7-55","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Rojo?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall viste principalmente de Rojo.","season":"General","id":"patrulla-v7-56","fact":"patrulla-v7-56","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en bombero y sanitario?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall destaca en bombero y sanitario.","season":"General","id":"patrulla-v7-57","fact":"patrulla-v7-57","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Helicóptero”?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"El Helicóptero pertenece a Skye.","season":"General","id":"patrulla-v7-58","fact":"patrulla-v7-58","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Rosa?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye viste principalmente de Rosa.","season":"General","id":"patrulla-v7-59","fact":"patrulla-v7-59","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en aviación?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye destaca en aviación.","season":"General","id":"patrulla-v7-60","fact":"patrulla-v7-60","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Excavadora”?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"El Excavadora pertenece a Rubble.","season":"General","id":"patrulla-v7-61","fact":"patrulla-v7-61","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Amarillo?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble viste principalmente de Amarillo.","season":"General","id":"patrulla-v7-62","fact":"patrulla-v7-62","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en construcción?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble destaca en construcción.","season":"General","id":"patrulla-v7-63","fact":"patrulla-v7-63","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Camión de reciclaje”?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"El Camión de reciclaje pertenece a Rocky.","season":"General","id":"patrulla-v7-64","fact":"patrulla-v7-64","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Verde?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky viste principalmente de Verde.","season":"General","id":"patrulla-v7-65","fact":"patrulla-v7-65","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en reciclaje y reparaciones?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky destaca en reciclaje y reparaciones.","season":"General","id":"patrulla-v7-66","fact":"patrulla-v7-66","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Aerodeslizador”?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"El Aerodeslizador pertenece a Zuma.","season":"General","id":"patrulla-v7-67","fact":"patrulla-v7-67","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Naranja?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma viste principalmente de Naranja.","season":"General","id":"patrulla-v7-68","fact":"patrulla-v7-68","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en rescate acuático?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma destaca en rescate acuático.","season":"General","id":"patrulla-v7-69","fact":"patrulla-v7-69","show":"patrulla","kind":"directa"},{"block":"Vehículos","difficulty":"Media","q":"¿A qué cachorro pertenece el vehículo “Moto de nieve”?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"El Moto de nieve pertenece a Everest.","season":"General","id":"patrulla-v7-70","fact":"patrulla-v7-70","show":"patrulla","kind":"directa"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué cachorro viste principalmente de Turquesa?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest viste principalmente de Turquesa.","season":"General","id":"patrulla-v7-71","fact":"patrulla-v7-71","show":"patrulla","kind":"directa"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué cachorro destaca en rescate en nieve?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest destaca en rescate en nieve.","season":"General","id":"patrulla-v7-72","fact":"patrulla-v7-72","show":"patrulla","kind":"directa"},{"block":"Lugares","difficulty":"Fácil","q":"¿Dónde vive Everest?","a":"En la montaña con Jake","d":["En el faro","En la torre","En la granja"],"x":"En la montaña con Jake es la respuesta correcta.","season":"General","id":"patrulla-v7-73","fact":"patrulla-v7-73","show":"patrulla","kind":"directa"},{"block":"Lugares","difficulty":"Fácil","q":"¿Dónde trabaja Katie?","a":"En el salón de mascotas","d":["En el faro","En la torre","En una mina"],"x":"En el salón de mascotas es la respuesta correcta.","season":"General","id":"patrulla-v7-74","fact":"patrulla-v7-74","show":"patrulla","kind":"directa"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cómo se llama la gran ciudad de las películas?","a":"Ciudad Aventura","d":["Bahía Aventura","Foggy Bottom","Barkingburg"],"x":"Ciudad Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-75","fact":"patrulla-v7-75","show":"patrulla","kind":"directa"},{"block":"Chase","difficulty":"Media","q":"¿Qué cachorro combina uniforme azul y especialidad de policía?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Las dos pistas corresponden a Chase.","season":"General","id":"patrulla-v7-76","fact":"patrulla-v7-76","show":"patrulla","kind":"directa"},{"block":"Chase","difficulty":"Difícil","q":"¿Qué cachorro es pastor alemán y conduce un/a coche policial?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"La raza y el vehículo identifican a Chase.","season":"General","id":"patrulla-v7-77","fact":"patrulla-v7-77","show":"patrulla","kind":"directa"},{"block":"Marshall","difficulty":"Media","q":"¿Qué cachorro combina uniforme rojo y especialidad de bombero y sanitario?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Las dos pistas corresponden a Marshall.","season":"General","id":"patrulla-v7-78","fact":"patrulla-v7-78","show":"patrulla","kind":"directa"},{"block":"Marshall","difficulty":"Difícil","q":"¿Qué cachorro es dálmata y conduce un/a camión de bomberos?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"La raza y el vehículo identifican a Marshall.","season":"General","id":"patrulla-v7-79","fact":"patrulla-v7-79","show":"patrulla","kind":"directa"},{"block":"Skye","difficulty":"Media","q":"¿Qué cachorro combina uniforme rosa y especialidad de aviación?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Las dos pistas corresponden a Skye.","season":"General","id":"patrulla-v7-80","fact":"patrulla-v7-80","show":"patrulla","kind":"directa"},{"block":"Skye","difficulty":"Difícil","q":"¿Qué cachorro es cockapoo y conduce un/a helicóptero?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"La raza y el vehículo identifican a Skye.","season":"General","id":"patrulla-v7-81","fact":"patrulla-v7-81","show":"patrulla","kind":"directa"},{"block":"Rubble","difficulty":"Media","q":"¿Qué cachorro combina uniforme amarillo y especialidad de construcción?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Rubble.","season":"General","id":"patrulla-v7-82","fact":"patrulla-v7-82","show":"patrulla","kind":"directa"},{"block":"Rubble","difficulty":"Difícil","q":"¿Qué cachorro es bulldog inglés y conduce un/a excavadora?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Rubble.","season":"General","id":"patrulla-v7-83","fact":"patrulla-v7-83","show":"patrulla","kind":"directa"},{"block":"Rocky","difficulty":"Media","q":"¿Qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Rocky.","season":"General","id":"patrulla-v7-84","fact":"patrulla-v7-84","show":"patrulla","kind":"directa"},{"block":"Rocky","difficulty":"Difícil","q":"¿Qué cachorro es mestizo y conduce un/a camión de reciclaje?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Rocky.","season":"General","id":"patrulla-v7-85","fact":"patrulla-v7-85","show":"patrulla","kind":"directa"},{"block":"Zuma","difficulty":"Media","q":"¿Qué cachorro combina uniforme naranja y especialidad de rescate acuático?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Zuma.","season":"General","id":"patrulla-v7-86","fact":"patrulla-v7-86","show":"patrulla","kind":"directa"},{"block":"Zuma","difficulty":"Difícil","q":"¿Qué cachorro es labrador chocolate y conduce un/a aerodeslizador?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Zuma.","season":"General","id":"patrulla-v7-87","fact":"patrulla-v7-87","show":"patrulla","kind":"directa"},{"block":"Everest","difficulty":"Media","q":"¿Qué cachorro combina uniforme turquesa y especialidad de rescate en nieve?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Everest.","season":"General","id":"patrulla-v7-88","fact":"patrulla-v7-88","show":"patrulla","kind":"directa"},{"block":"Everest","difficulty":"Difícil","q":"¿Qué cachorro es husky y conduce un/a moto de nieve?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Everest.","season":"General","id":"patrulla-v7-89","fact":"patrulla-v7-89","show":"patrulla","kind":"directa"},{"block":"Chase","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Chase: qué tipo de perro es chase?","a":"Pastor alemán","d":["Dálmata","Cockapoo","Bulldog inglés"],"x":"Chase es Pastor alemán.","season":"General","id":"patrulla-v7-90","fact":"patrulla-v7-90","show":"patrulla","kind":"pista"},{"block":"Chase","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Chase: cuál es la especialidad de chase?","a":"Policía","d":["Bombero y sanitario","Aviación","Construcción"],"x":"Chase se ocupa de Policía.","season":"General","id":"patrulla-v7-91","fact":"patrulla-v7-91","show":"patrulla","kind":"pista"},{"block":"Chase","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Chase: de qué color es el uniforme de chase?","a":"Azul","d":["Rojo","Rosa","Amarillo"],"x":"El uniforme de Chase es Azul.","season":"General","id":"patrulla-v7-92","fact":"patrulla-v7-92","show":"patrulla","kind":"pista"},{"block":"Chase","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Chase: qué vehículo usa chase?","a":"Coche policial","d":["Camión de bomberos","Helicóptero","Excavadora"],"x":"Chase utiliza Coche policial.","season":"General","id":"patrulla-v7-93","fact":"patrulla-v7-93","show":"patrulla","kind":"pista"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Marshall: qué tipo de perro es marshall?","a":"Dálmata","d":["Pastor alemán","Cockapoo","Bulldog inglés"],"x":"Marshall es Dálmata.","season":"General","id":"patrulla-v7-94","fact":"patrulla-v7-94","show":"patrulla","kind":"pista"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Marshall: cuál es la especialidad de marshall?","a":"Bombero y sanitario","d":["Policía","Aviación","Construcción"],"x":"Marshall se ocupa de Bombero y sanitario.","season":"General","id":"patrulla-v7-95","fact":"patrulla-v7-95","show":"patrulla","kind":"pista"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Marshall: de qué color es el uniforme de marshall?","a":"Rojo","d":["Azul","Rosa","Amarillo"],"x":"El uniforme de Marshall es Rojo.","season":"General","id":"patrulla-v7-96","fact":"patrulla-v7-96","show":"patrulla","kind":"pista"},{"block":"Marshall","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Marshall: qué vehículo usa marshall?","a":"Camión de bomberos","d":["Coche policial","Helicóptero","Excavadora"],"x":"Marshall utiliza Camión de bomberos.","season":"General","id":"patrulla-v7-97","fact":"patrulla-v7-97","show":"patrulla","kind":"pista"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Skye: qué tipo de perro es skye?","a":"Cockapoo","d":["Pastor alemán","Dálmata","Bulldog inglés"],"x":"Skye es Cockapoo.","season":"General","id":"patrulla-v7-98","fact":"patrulla-v7-98","show":"patrulla","kind":"pista"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Skye: cuál es la especialidad de skye?","a":"Aviación","d":["Policía","Bombero y sanitario","Construcción"],"x":"Skye se ocupa de Aviación.","season":"General","id":"patrulla-v7-99","fact":"patrulla-v7-99","show":"patrulla","kind":"pista"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Skye: de qué color es el uniforme de skye?","a":"Rosa","d":["Azul","Rojo","Amarillo"],"x":"El uniforme de Skye es Rosa.","season":"General","id":"patrulla-v7-100","fact":"patrulla-v7-100","show":"patrulla","kind":"pista"},{"block":"Skye","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Skye: qué vehículo usa skye?","a":"Helicóptero","d":["Coche policial","Camión de bomberos","Excavadora"],"x":"Skye utiliza Helicóptero.","season":"General","id":"patrulla-v7-101","fact":"patrulla-v7-101","show":"patrulla","kind":"pista"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Rubble: qué tipo de perro es rubble?","a":"Bulldog inglés","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Rubble es Bulldog inglés.","season":"General","id":"patrulla-v7-102","fact":"patrulla-v7-102","show":"patrulla","kind":"pista"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Rubble: cuál es la especialidad de rubble?","a":"Construcción","d":["Policía","Bombero y sanitario","Aviación"],"x":"Rubble se ocupa de Construcción.","season":"General","id":"patrulla-v7-103","fact":"patrulla-v7-103","show":"patrulla","kind":"pista"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Rubble: de qué color es el uniforme de rubble?","a":"Amarillo","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Rubble es Amarillo.","season":"General","id":"patrulla-v7-104","fact":"patrulla-v7-104","show":"patrulla","kind":"pista"},{"block":"Rubble","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Rubble: qué vehículo usa rubble?","a":"Excavadora","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Rubble utiliza Excavadora.","season":"General","id":"patrulla-v7-105","fact":"patrulla-v7-105","show":"patrulla","kind":"pista"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Rocky: qué tipo de perro es rocky?","a":"Mestizo","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Rocky es Mestizo.","season":"General","id":"patrulla-v7-106","fact":"patrulla-v7-106","show":"patrulla","kind":"pista"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Rocky: cuál es la especialidad de rocky?","a":"Reciclaje y reparaciones","d":["Policía","Bombero y sanitario","Aviación"],"x":"Rocky se ocupa de Reciclaje y reparaciones.","season":"General","id":"patrulla-v7-107","fact":"patrulla-v7-107","show":"patrulla","kind":"pista"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Rocky: de qué color es el uniforme de rocky?","a":"Verde","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Rocky es Verde.","season":"General","id":"patrulla-v7-108","fact":"patrulla-v7-108","show":"patrulla","kind":"pista"},{"block":"Rocky","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Rocky: qué vehículo usa rocky?","a":"Camión de reciclaje","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Rocky utiliza Camión de reciclaje.","season":"General","id":"patrulla-v7-109","fact":"patrulla-v7-109","show":"patrulla","kind":"pista"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Zuma: qué tipo de perro es zuma?","a":"Labrador chocolate","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Zuma es Labrador chocolate.","season":"General","id":"patrulla-v7-110","fact":"patrulla-v7-110","show":"patrulla","kind":"pista"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Zuma: cuál es la especialidad de zuma?","a":"Rescate acuático","d":["Policía","Bombero y sanitario","Aviación"],"x":"Zuma se ocupa de Rescate acuático.","season":"General","id":"patrulla-v7-111","fact":"patrulla-v7-111","show":"patrulla","kind":"pista"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Zuma: de qué color es el uniforme de zuma?","a":"Naranja","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Zuma es Naranja.","season":"General","id":"patrulla-v7-112","fact":"patrulla-v7-112","show":"patrulla","kind":"pista"},{"block":"Zuma","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Zuma: qué vehículo usa zuma?","a":"Aerodeslizador","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Zuma utiliza Aerodeslizador.","season":"General","id":"patrulla-v7-113","fact":"patrulla-v7-113","show":"patrulla","kind":"pista"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Everest: qué tipo de perro es everest?","a":"Husky","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Everest es Husky.","season":"General","id":"patrulla-v7-114","fact":"patrulla-v7-114","show":"patrulla","kind":"pista"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Everest: cuál es la especialidad de everest?","a":"Rescate en nieve","d":["Policía","Bombero y sanitario","Aviación"],"x":"Everest se ocupa de Rescate en nieve.","season":"General","id":"patrulla-v7-115","fact":"patrulla-v7-115","show":"patrulla","kind":"pista"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Everest: de qué color es el uniforme de everest?","a":"Turquesa","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Everest es Turquesa.","season":"General","id":"patrulla-v7-116","fact":"patrulla-v7-116","show":"patrulla","kind":"pista"},{"block":"Everest","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Everest: qué vehículo usa everest?","a":"Moto de nieve","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Everest utiliza Moto de nieve.","season":"General","id":"patrulla-v7-117","fact":"patrulla-v7-117","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para un incendio?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall tiene la especialidad adecuada para un incendio.","season":"General","id":"patrulla-v7-118","fact":"patrulla-v7-118","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para un barco averiado?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma tiene la especialidad adecuada para un barco averiado.","season":"General","id":"patrulla-v7-119","fact":"patrulla-v7-119","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para un puente roto?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble tiene la especialidad adecuada para un puente roto.","season":"General","id":"patrulla-v7-120","fact":"patrulla-v7-120","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para una carretera nevada?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest tiene la especialidad adecuada para una carretera nevada.","season":"General","id":"patrulla-v7-121","fact":"patrulla-v7-121","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para un rescate aéreo?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye tiene la especialidad adecuada para un rescate aéreo.","season":"General","id":"patrulla-v7-122","fact":"patrulla-v7-122","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para una investigación policial?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase tiene la especialidad adecuada para una investigación policial.","season":"General","id":"patrulla-v7-123","fact":"patrulla-v7-123","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para reutilizar piezas?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky tiene la especialidad adecuada para reutilizar piezas.","season":"General","id":"patrulla-v7-124","fact":"patrulla-v7-124","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para un gato en un tejado?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall tiene la especialidad adecuada para un gato en un tejado.","season":"General","id":"patrulla-v7-125","fact":"patrulla-v7-125","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para un vehículo atrapado en barro?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.","season":"General","id":"patrulla-v7-126","fact":"patrulla-v7-126","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para una boya a la deriva?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma tiene la especialidad adecuada para una boya a la deriva.","season":"General","id":"patrulla-v7-127","fact":"patrulla-v7-127","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para buscar desde el cielo?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye tiene la especialidad adecuada para buscar desde el cielo.","season":"General","id":"patrulla-v7-128","fact":"patrulla-v7-128","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para seguir huellas?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase tiene la especialidad adecuada para seguir huellas.","season":"General","id":"patrulla-v7-129","fact":"patrulla-v7-129","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para arreglar una máquina con chatarra?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.","season":"General","id":"patrulla-v7-130","fact":"patrulla-v7-130","show":"patrulla","kind":"pista"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Misiones: qué cachorro es la mejor elección para rescatar en una ventisca?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest tiene la especialidad adecuada para rescatar en una ventisca.","season":"General","id":"patrulla-v7-131","fact":"patrulla-v7-131","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: quién dirige la patrulla canina?","a":"Ryder","d":["Humdinger","Turbot","Jake"],"x":"Ryder es la respuesta correcta.","season":"General","id":"patrulla-v7-132","fact":"patrulla-v7-132","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: quién es la alcaldesa de bahía aventura?","a":"Alcaldesa Goodway","d":["Alcalde Humdinger","Katie","Mandy"],"x":"Alcaldesa Goodway es la respuesta correcta.","season":"General","id":"patrulla-v7-133","fact":"patrulla-v7-133","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: cómo se llama la gallina de la alcaldesa?","a":"Chickaletta","d":["Cali","Mittens","Ella"],"x":"Chickaletta es la respuesta correcta.","season":"General","id":"patrulla-v7-134","fact":"patrulla-v7-134","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: quién es el rival travieso de goodway?","a":"Alcalde Humdinger","d":["Capitán Turbot","Jake","Farmer Al"],"x":"Alcalde Humdinger es la respuesta correcta.","season":"General","id":"patrulla-v7-135","fact":"patrulla-v7-135","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: quién cuida animales en su salón?","a":"Katie","d":["Goodway","Mandy","Julia"],"x":"Katie es la respuesta correcta.","season":"General","id":"patrulla-v7-136","fact":"patrulla-v7-136","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: quién es experto en el mar y el faro?","a":"Capitán Turbot","d":["Jake","Danny","Travis"],"x":"Capitán Turbot es la respuesta correcta.","season":"General","id":"patrulla-v7-137","fact":"patrulla-v7-137","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: dónde se reúne el equipo?","a":"En la torre de control","d":["En el ayuntamiento","En una escuela","En un castillo"],"x":"En la torre de control es la respuesta correcta.","season":"General","id":"patrulla-v7-138","fact":"patrulla-v7-138","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: cómo se llama la ciudad principal?","a":"Bahía Aventura","d":["Ciudad Aventura","Bahía Niebla","Hawkins"],"x":"Bahía Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-139","fact":"patrulla-v7-139","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: qué vehículo usa ryder?","a":"Un quad","d":["Un tren","Un tractor","Un globo"],"x":"Un quad es la respuesta correcta.","season":"General","id":"patrulla-v7-140","fact":"patrulla-v7-140","show":"patrulla","kind":"pista"},{"block":"General","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de General: cómo avisa ryder a los cachorros?","a":"Con sus Pup-Pads","d":["Con cartas","Con una campana","Con señales de humo"],"x":"Con sus Pup-Pads es la respuesta correcta.","season":"General","id":"patrulla-v7-141","fact":"patrulla-v7-141","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “coche policial”?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"El Coche policial pertenece a Chase.","season":"General","id":"patrulla-v7-142","fact":"patrulla-v7-142","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de azul?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase viste principalmente de Azul.","season":"General","id":"patrulla-v7-143","fact":"patrulla-v7-143","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en policía?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase destaca en policía.","season":"General","id":"patrulla-v7-144","fact":"patrulla-v7-144","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “camión de bomberos”?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"El Camión de bomberos pertenece a Marshall.","season":"General","id":"patrulla-v7-145","fact":"patrulla-v7-145","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de rojo?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall viste principalmente de Rojo.","season":"General","id":"patrulla-v7-146","fact":"patrulla-v7-146","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en bombero y sanitario?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall destaca en bombero y sanitario.","season":"General","id":"patrulla-v7-147","fact":"patrulla-v7-147","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “helicóptero”?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"El Helicóptero pertenece a Skye.","season":"General","id":"patrulla-v7-148","fact":"patrulla-v7-148","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de rosa?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye viste principalmente de Rosa.","season":"General","id":"patrulla-v7-149","fact":"patrulla-v7-149","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en aviación?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye destaca en aviación.","season":"General","id":"patrulla-v7-150","fact":"patrulla-v7-150","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “excavadora”?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"El Excavadora pertenece a Rubble.","season":"General","id":"patrulla-v7-151","fact":"patrulla-v7-151","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de amarillo?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble viste principalmente de Amarillo.","season":"General","id":"patrulla-v7-152","fact":"patrulla-v7-152","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en construcción?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble destaca en construcción.","season":"General","id":"patrulla-v7-153","fact":"patrulla-v7-153","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “camión de reciclaje”?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"El Camión de reciclaje pertenece a Rocky.","season":"General","id":"patrulla-v7-154","fact":"patrulla-v7-154","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de verde?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky viste principalmente de Verde.","season":"General","id":"patrulla-v7-155","fact":"patrulla-v7-155","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en reciclaje y reparaciones?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky destaca en reciclaje y reparaciones.","season":"General","id":"patrulla-v7-156","fact":"patrulla-v7-156","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “aerodeslizador”?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"El Aerodeslizador pertenece a Zuma.","season":"General","id":"patrulla-v7-157","fact":"patrulla-v7-157","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de naranja?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma viste principalmente de Naranja.","season":"General","id":"patrulla-v7-158","fact":"patrulla-v7-158","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en rescate acuático?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma destaca en rescate acuático.","season":"General","id":"patrulla-v7-159","fact":"patrulla-v7-159","show":"patrulla","kind":"pista"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Vehículos: a qué cachorro pertenece el vehículo “moto de nieve”?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"El Moto de nieve pertenece a Everest.","season":"General","id":"patrulla-v7-160","fact":"patrulla-v7-160","show":"patrulla","kind":"pista"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Colores: qué cachorro viste principalmente de turquesa?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest viste principalmente de Turquesa.","season":"General","id":"patrulla-v7-161","fact":"patrulla-v7-161","show":"patrulla","kind":"pista"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Especialidades: qué cachorro destaca en rescate en nieve?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest destaca en rescate en nieve.","season":"General","id":"patrulla-v7-162","fact":"patrulla-v7-162","show":"patrulla","kind":"pista"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Lugares: dónde vive everest?","a":"En la montaña con Jake","d":["En el faro","En la torre","En la granja"],"x":"En la montaña con Jake es la respuesta correcta.","season":"General","id":"patrulla-v7-163","fact":"patrulla-v7-163","show":"patrulla","kind":"pista"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Lugares: dónde trabaja katie?","a":"En el salón de mascotas","d":["En el faro","En la torre","En una mina"],"x":"En el salón de mascotas es la respuesta correcta.","season":"General","id":"patrulla-v7-164","fact":"patrulla-v7-164","show":"patrulla","kind":"pista"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué respuesta corresponde a esta pista de Lugares: cómo se llama la gran ciudad de las películas?","a":"Ciudad Aventura","d":["Bahía Aventura","Foggy Bottom","Barkingburg"],"x":"Ciudad Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-165","fact":"patrulla-v7-165","show":"patrulla","kind":"pista"},{"block":"Chase","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Chase: qué cachorro combina uniforme azul y especialidad de policía?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Las dos pistas corresponden a Chase.","season":"General","id":"patrulla-v7-166","fact":"patrulla-v7-166","show":"patrulla","kind":"pista"},{"block":"Chase","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Chase: qué cachorro es pastor alemán y conduce un/a coche policial?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"La raza y el vehículo identifican a Chase.","season":"General","id":"patrulla-v7-167","fact":"patrulla-v7-167","show":"patrulla","kind":"pista"},{"block":"Marshall","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Marshall: qué cachorro combina uniforme rojo y especialidad de bombero y sanitario?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Las dos pistas corresponden a Marshall.","season":"General","id":"patrulla-v7-168","fact":"patrulla-v7-168","show":"patrulla","kind":"pista"},{"block":"Marshall","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Marshall: qué cachorro es dálmata y conduce un/a camión de bomberos?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"La raza y el vehículo identifican a Marshall.","season":"General","id":"patrulla-v7-169","fact":"patrulla-v7-169","show":"patrulla","kind":"pista"},{"block":"Skye","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Skye: qué cachorro combina uniforme rosa y especialidad de aviación?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Las dos pistas corresponden a Skye.","season":"General","id":"patrulla-v7-170","fact":"patrulla-v7-170","show":"patrulla","kind":"pista"},{"block":"Skye","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Skye: qué cachorro es cockapoo y conduce un/a helicóptero?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"La raza y el vehículo identifican a Skye.","season":"General","id":"patrulla-v7-171","fact":"patrulla-v7-171","show":"patrulla","kind":"pista"},{"block":"Rubble","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Rubble: qué cachorro combina uniforme amarillo y especialidad de construcción?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Rubble.","season":"General","id":"patrulla-v7-172","fact":"patrulla-v7-172","show":"patrulla","kind":"pista"},{"block":"Rubble","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Rubble: qué cachorro es bulldog inglés y conduce un/a excavadora?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Rubble.","season":"General","id":"patrulla-v7-173","fact":"patrulla-v7-173","show":"patrulla","kind":"pista"},{"block":"Rocky","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Rocky: qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Rocky.","season":"General","id":"patrulla-v7-174","fact":"patrulla-v7-174","show":"patrulla","kind":"pista"},{"block":"Rocky","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Rocky: qué cachorro es mestizo y conduce un/a camión de reciclaje?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Rocky.","season":"General","id":"patrulla-v7-175","fact":"patrulla-v7-175","show":"patrulla","kind":"pista"},{"block":"Zuma","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Zuma: qué cachorro combina uniforme naranja y especialidad de rescate acuático?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Zuma.","season":"General","id":"patrulla-v7-176","fact":"patrulla-v7-176","show":"patrulla","kind":"pista"},{"block":"Zuma","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Zuma: qué cachorro es labrador chocolate y conduce un/a aerodeslizador?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Zuma.","season":"General","id":"patrulla-v7-177","fact":"patrulla-v7-177","show":"patrulla","kind":"pista"},{"block":"Everest","difficulty":"Media","q":"¿Qué respuesta corresponde a esta pista de Everest: qué cachorro combina uniforme turquesa y especialidad de rescate en nieve?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Las dos pistas corresponden a Everest.","season":"General","id":"patrulla-v7-178","fact":"patrulla-v7-178","show":"patrulla","kind":"pista"},{"block":"Everest","difficulty":"Difícil","q":"¿Qué respuesta corresponde a esta pista de Everest: qué cachorro es husky y conduce un/a moto de nieve?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"La raza y el vehículo identifican a Everest.","season":"General","id":"patrulla-v7-179","fact":"patrulla-v7-179","show":"patrulla","kind":"pista"},{"block":"Chase","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Pastor alemán” dentro del bloque Chase?","a":"Qué tipo de perro es Chase","d":["Opción incorrecta sobre Dálmata","Opción incorrecta sobre Cockapoo","Opción incorrecta sobre Bulldog inglés"],"x":"Chase es Pastor alemán.","season":"General","id":"patrulla-v7-180","fact":"patrulla-v7-180","show":"patrulla","kind":"relacion"},{"block":"Chase","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Policía” dentro del bloque Chase?","a":"Cuál es la especialidad de Chase","d":["Opción incorrecta sobre Bombero y sanitario","Opción incorrecta sobre Aviación","Opción incorrecta sobre Construcción"],"x":"Chase se ocupa de Policía.","season":"General","id":"patrulla-v7-181","fact":"patrulla-v7-181","show":"patrulla","kind":"relacion"},{"block":"Chase","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Azul” dentro del bloque Chase?","a":"De qué color es el uniforme de Chase","d":["Opción incorrecta sobre Rojo","Opción incorrecta sobre Rosa","Opción incorrecta sobre Amarillo"],"x":"El uniforme de Chase es Azul.","season":"General","id":"patrulla-v7-182","fact":"patrulla-v7-182","show":"patrulla","kind":"relacion"},{"block":"Chase","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Coche policial” dentro del bloque Chase?","a":"Qué vehículo usa Chase","d":["Opción incorrecta sobre Camión de bomberos","Opción incorrecta sobre Helicóptero","Opción incorrecta sobre Excavadora"],"x":"Chase utiliza Coche policial.","season":"General","id":"patrulla-v7-183","fact":"patrulla-v7-183","show":"patrulla","kind":"relacion"},{"block":"Marshall","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Dálmata” dentro del bloque Marshall?","a":"Qué tipo de perro es Marshall","d":["Opción incorrecta sobre Pastor alemán","Opción incorrecta sobre Cockapoo","Opción incorrecta sobre Bulldog inglés"],"x":"Marshall es Dálmata.","season":"General","id":"patrulla-v7-184","fact":"patrulla-v7-184","show":"patrulla","kind":"relacion"},{"block":"Marshall","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Bombero y sanitario” dentro del bloque Marshall?","a":"Cuál es la especialidad de Marshall","d":["Opción incorrecta sobre Policía","Opción incorrecta sobre Aviación","Opción incorrecta sobre Construcción"],"x":"Marshall se ocupa de Bombero y sanitario.","season":"General","id":"patrulla-v7-185","fact":"patrulla-v7-185","show":"patrulla","kind":"relacion"},{"block":"Marshall","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rojo” dentro del bloque Marshall?","a":"De qué color es el uniforme de Marshall","d":["Opción incorrecta sobre Azul","Opción incorrecta sobre Rosa","Opción incorrecta sobre Amarillo"],"x":"El uniforme de Marshall es Rojo.","season":"General","id":"patrulla-v7-186","fact":"patrulla-v7-186","show":"patrulla","kind":"relacion"},{"block":"Marshall","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Camión de bomberos” dentro del bloque Marshall?","a":"Qué vehículo usa Marshall","d":["Opción incorrecta sobre Coche policial","Opción incorrecta sobre Helicóptero","Opción incorrecta sobre Excavadora"],"x":"Marshall utiliza Camión de bomberos.","season":"General","id":"patrulla-v7-187","fact":"patrulla-v7-187","show":"patrulla","kind":"relacion"},{"block":"Skye","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Cockapoo” dentro del bloque Skye?","a":"Qué tipo de perro es Skye","d":["Opción incorrecta sobre Pastor alemán","Opción incorrecta sobre Dálmata","Opción incorrecta sobre Bulldog inglés"],"x":"Skye es Cockapoo.","season":"General","id":"patrulla-v7-188","fact":"patrulla-v7-188","show":"patrulla","kind":"relacion"},{"block":"Skye","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Aviación” dentro del bloque Skye?","a":"Cuál es la especialidad de Skye","d":["Opción incorrecta sobre Policía","Opción incorrecta sobre Bombero y sanitario","Opción incorrecta sobre Construcción"],"x":"Skye se ocupa de Aviación.","season":"General","id":"patrulla-v7-189","fact":"patrulla-v7-189","show":"patrulla","kind":"relacion"},{"block":"Skye","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rosa” dentro del bloque Skye?","a":"De qué color es el uniforme de Skye","d":["Opción incorrecta sobre Azul","Opción incorrecta sobre Rojo","Opción incorrecta sobre Amarillo"],"x":"El uniforme de Skye es Rosa.","season":"General","id":"patrulla-v7-190","fact":"patrulla-v7-190","show":"patrulla","kind":"relacion"},{"block":"Skye","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Helicóptero” dentro del bloque Skye?","a":"Qué vehículo usa Skye","d":["Opción incorrecta sobre Coche policial","Opción incorrecta sobre Camión de bomberos","Opción incorrecta sobre Excavadora"],"x":"Skye utiliza Helicóptero.","season":"General","id":"patrulla-v7-191","fact":"patrulla-v7-191","show":"patrulla","kind":"relacion"},{"block":"Rubble","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Bulldog inglés” dentro del bloque Rubble?","a":"Qué tipo de perro es Rubble","d":["Opción incorrecta sobre Pastor alemán","Opción incorrecta sobre Dálmata","Opción incorrecta sobre Cockapoo"],"x":"Rubble es Bulldog inglés.","season":"General","id":"patrulla-v7-192","fact":"patrulla-v7-192","show":"patrulla","kind":"relacion"},{"block":"Rubble","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Construcción” dentro del bloque Rubble?","a":"Cuál es la especialidad de Rubble","d":["Opción incorrecta sobre Policía","Opción incorrecta sobre Bombero y sanitario","Opción incorrecta sobre Aviación"],"x":"Rubble se ocupa de Construcción.","season":"General","id":"patrulla-v7-193","fact":"patrulla-v7-193","show":"patrulla","kind":"relacion"},{"block":"Rubble","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Amarillo” dentro del bloque Rubble?","a":"De qué color es el uniforme de Rubble","d":["Opción incorrecta sobre Azul","Opción incorrecta sobre Rojo","Opción incorrecta sobre Rosa"],"x":"El uniforme de Rubble es Amarillo.","season":"General","id":"patrulla-v7-194","fact":"patrulla-v7-194","show":"patrulla","kind":"relacion"},{"block":"Rubble","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Excavadora” dentro del bloque Rubble?","a":"Qué vehículo usa Rubble","d":["Opción incorrecta sobre Coche policial","Opción incorrecta sobre Camión de bomberos","Opción incorrecta sobre Helicóptero"],"x":"Rubble utiliza Excavadora.","season":"General","id":"patrulla-v7-195","fact":"patrulla-v7-195","show":"patrulla","kind":"relacion"},{"block":"Rocky","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Mestizo” dentro del bloque Rocky?","a":"Qué tipo de perro es Rocky","d":["Opción incorrecta sobre Pastor alemán","Opción incorrecta sobre Dálmata","Opción incorrecta sobre Cockapoo"],"x":"Rocky es Mestizo.","season":"General","id":"patrulla-v7-196","fact":"patrulla-v7-196","show":"patrulla","kind":"relacion"},{"block":"Rocky","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Reciclaje y reparaciones” dentro del bloque Rocky?","a":"Cuál es la especialidad de Rocky","d":["Opción incorrecta sobre Policía","Opción incorrecta sobre Bombero y sanitario","Opción incorrecta sobre Aviación"],"x":"Rocky se ocupa de Reciclaje y reparaciones.","season":"General","id":"patrulla-v7-197","fact":"patrulla-v7-197","show":"patrulla","kind":"relacion"},{"block":"Rocky","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Verde” dentro del bloque Rocky?","a":"De qué color es el uniforme de Rocky","d":["Opción incorrecta sobre Azul","Opción incorrecta sobre Rojo","Opción incorrecta sobre Rosa"],"x":"El uniforme de Rocky es Verde.","season":"General","id":"patrulla-v7-198","fact":"patrulla-v7-198","show":"patrulla","kind":"relacion"},{"block":"Rocky","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Camión de reciclaje” dentro del bloque Rocky?","a":"Qué vehículo usa Rocky","d":["Opción incorrecta sobre Coche policial","Opción incorrecta sobre Camión de bomberos","Opción incorrecta sobre Helicóptero"],"x":"Rocky utiliza Camión de reciclaje.","season":"General","id":"patrulla-v7-199","fact":"patrulla-v7-199","show":"patrulla","kind":"relacion"},{"block":"Zuma","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Labrador chocolate” dentro del bloque Zuma?","a":"Qué tipo de perro es Zuma","d":["Opción incorrecta sobre Pastor alemán","Opción incorrecta sobre Dálmata","Opción incorrecta sobre Cockapoo"],"x":"Zuma es Labrador chocolate.","season":"General","id":"patrulla-v7-200","fact":"patrulla-v7-200","show":"patrulla","kind":"relacion"},{"block":"Zuma","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rescate acuático” dentro del bloque Zuma?","a":"Cuál es la especialidad de Zuma","d":["Opción incorrecta sobre Policía","Opción incorrecta sobre Bombero y sanitario","Opción incorrecta sobre Aviación"],"x":"Zuma se ocupa de Rescate acuático.","season":"General","id":"patrulla-v7-201","fact":"patrulla-v7-201","show":"patrulla","kind":"relacion"},{"block":"Zuma","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Naranja” dentro del bloque Zuma?","a":"De qué color es el uniforme de Zuma","d":["Opción incorrecta sobre Azul","Opción incorrecta sobre Rojo","Opción incorrecta sobre Rosa"],"x":"El uniforme de Zuma es Naranja.","season":"General","id":"patrulla-v7-202","fact":"patrulla-v7-202","show":"patrulla","kind":"relacion"},{"block":"Zuma","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Aerodeslizador” dentro del bloque Zuma?","a":"Qué vehículo usa Zuma","d":["Opción incorrecta sobre Coche policial","Opción incorrecta sobre Camión de bomberos","Opción incorrecta sobre Helicóptero"],"x":"Zuma utiliza Aerodeslizador.","season":"General","id":"patrulla-v7-203","fact":"patrulla-v7-203","show":"patrulla","kind":"relacion"},{"block":"Everest","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Husky” dentro del bloque Everest?","a":"Qué tipo de perro es Everest","d":["Opción incorrecta sobre Pastor alemán","Opción incorrecta sobre Dálmata","Opción incorrecta sobre Cockapoo"],"x":"Everest es Husky.","season":"General","id":"patrulla-v7-204","fact":"patrulla-v7-204","show":"patrulla","kind":"relacion"},{"block":"Everest","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rescate en nieve” dentro del bloque Everest?","a":"Cuál es la especialidad de Everest","d":["Opción incorrecta sobre Policía","Opción incorrecta sobre Bombero y sanitario","Opción incorrecta sobre Aviación"],"x":"Everest se ocupa de Rescate en nieve.","season":"General","id":"patrulla-v7-205","fact":"patrulla-v7-205","show":"patrulla","kind":"relacion"},{"block":"Everest","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Turquesa” dentro del bloque Everest?","a":"De qué color es el uniforme de Everest","d":["Opción incorrecta sobre Azul","Opción incorrecta sobre Rojo","Opción incorrecta sobre Rosa"],"x":"El uniforme de Everest es Turquesa.","season":"General","id":"patrulla-v7-206","fact":"patrulla-v7-206","show":"patrulla","kind":"relacion"},{"block":"Everest","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Moto de nieve” dentro del bloque Everest?","a":"Qué vehículo usa Everest","d":["Opción incorrecta sobre Coche policial","Opción incorrecta sobre Camión de bomberos","Opción incorrecta sobre Helicóptero"],"x":"Everest utiliza Moto de nieve.","season":"General","id":"patrulla-v7-207","fact":"patrulla-v7-207","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para un incendio","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Marshall tiene la especialidad adecuada para un incendio.","season":"General","id":"patrulla-v7-208","fact":"patrulla-v7-208","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para un barco averiado","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Zuma tiene la especialidad adecuada para un barco averiado.","season":"General","id":"patrulla-v7-209","fact":"patrulla-v7-209","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para un puente roto","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rubble tiene la especialidad adecuada para un puente roto.","season":"General","id":"patrulla-v7-210","fact":"patrulla-v7-210","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para una carretera nevada","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Everest tiene la especialidad adecuada para una carretera nevada.","season":"General","id":"patrulla-v7-211","fact":"patrulla-v7-211","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para un rescate aéreo","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"Skye tiene la especialidad adecuada para un rescate aéreo.","season":"General","id":"patrulla-v7-212","fact":"patrulla-v7-212","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para una investigación policial","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Chase tiene la especialidad adecuada para una investigación policial.","season":"General","id":"patrulla-v7-213","fact":"patrulla-v7-213","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para reutilizar piezas","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rocky tiene la especialidad adecuada para reutilizar piezas.","season":"General","id":"patrulla-v7-214","fact":"patrulla-v7-214","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para un gato en un tejado","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Marshall tiene la especialidad adecuada para un gato en un tejado.","season":"General","id":"patrulla-v7-215","fact":"patrulla-v7-215","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para un vehículo atrapado en barro","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.","season":"General","id":"patrulla-v7-216","fact":"patrulla-v7-216","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para una boya a la deriva","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Zuma tiene la especialidad adecuada para una boya a la deriva.","season":"General","id":"patrulla-v7-217","fact":"patrulla-v7-217","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para buscar desde el cielo","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"Skye tiene la especialidad adecuada para buscar desde el cielo.","season":"General","id":"patrulla-v7-218","fact":"patrulla-v7-218","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para seguir huellas","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Chase tiene la especialidad adecuada para seguir huellas.","season":"General","id":"patrulla-v7-219","fact":"patrulla-v7-219","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para arreglar una máquina con chatarra","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.","season":"General","id":"patrulla-v7-220","fact":"patrulla-v7-220","show":"patrulla","kind":"relacion"},{"block":"Misiones","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Misiones?","a":"Qué cachorro es la mejor elección para rescatar en una ventisca","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Everest tiene la especialidad adecuada para rescatar en una ventisca.","season":"General","id":"patrulla-v7-221","fact":"patrulla-v7-221","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Ryder” dentro del bloque General?","a":"Quién dirige la Patrulla Canina","d":["Opción incorrecta sobre Humdinger","Opción incorrecta sobre Turbot","Opción incorrecta sobre Jake"],"x":"Ryder es la respuesta correcta.","season":"General","id":"patrulla-v7-222","fact":"patrulla-v7-222","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Alcaldesa Goodway” dentro del bloque General?","a":"Quién es la alcaldesa de Bahía Aventura","d":["Opción incorrecta sobre Alcalde Humdinger","Opción incorrecta sobre Katie","Opción incorrecta sobre Mandy"],"x":"Alcaldesa Goodway es la respuesta correcta.","season":"General","id":"patrulla-v7-223","fact":"patrulla-v7-223","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Chickaletta” dentro del bloque General?","a":"Cómo se llama la gallina de la alcaldesa","d":["Opción incorrecta sobre Cali","Opción incorrecta sobre Mittens","Opción incorrecta sobre Ella"],"x":"Chickaletta es la respuesta correcta.","season":"General","id":"patrulla-v7-224","fact":"patrulla-v7-224","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Alcalde Humdinger” dentro del bloque General?","a":"Quién es el rival travieso de Goodway","d":["Opción incorrecta sobre Capitán Turbot","Opción incorrecta sobre Jake","Opción incorrecta sobre Farmer Al"],"x":"Alcalde Humdinger es la respuesta correcta.","season":"General","id":"patrulla-v7-225","fact":"patrulla-v7-225","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Katie” dentro del bloque General?","a":"Quién cuida animales en su salón","d":["Opción incorrecta sobre Goodway","Opción incorrecta sobre Mandy","Opción incorrecta sobre Julia"],"x":"Katie es la respuesta correcta.","season":"General","id":"patrulla-v7-226","fact":"patrulla-v7-226","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Capitán Turbot” dentro del bloque General?","a":"Quién es experto en el mar y el faro","d":["Opción incorrecta sobre Jake","Opción incorrecta sobre Danny","Opción incorrecta sobre Travis"],"x":"Capitán Turbot es la respuesta correcta.","season":"General","id":"patrulla-v7-227","fact":"patrulla-v7-227","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “En la torre de control” dentro del bloque General?","a":"Dónde se reúne el equipo","d":["Opción incorrecta sobre En el ayuntamiento","Opción incorrecta sobre En una escuela","Opción incorrecta sobre En un castillo"],"x":"En la torre de control es la respuesta correcta.","season":"General","id":"patrulla-v7-228","fact":"patrulla-v7-228","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Bahía Aventura” dentro del bloque General?","a":"Cómo se llama la ciudad principal","d":["Opción incorrecta sobre Ciudad Aventura","Opción incorrecta sobre Bahía Niebla","Opción incorrecta sobre Hawkins"],"x":"Bahía Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-229","fact":"patrulla-v7-229","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Un quad” dentro del bloque General?","a":"Qué vehículo usa Ryder","d":["Opción incorrecta sobre Un tren","Opción incorrecta sobre Un tractor","Opción incorrecta sobre Un globo"],"x":"Un quad es la respuesta correcta.","season":"General","id":"patrulla-v7-230","fact":"patrulla-v7-230","show":"patrulla","kind":"relacion"},{"block":"General","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Con sus Pup-Pads” dentro del bloque General?","a":"Cómo avisa Ryder a los cachorros","d":["Opción incorrecta sobre Con cartas","Opción incorrecta sobre Con una campana","Opción incorrecta sobre Con señales de humo"],"x":"Con sus Pup-Pads es la respuesta correcta.","season":"General","id":"patrulla-v7-231","fact":"patrulla-v7-231","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Coche policial”","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"El Coche policial pertenece a Chase.","season":"General","id":"patrulla-v7-232","fact":"patrulla-v7-232","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Azul","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Chase viste principalmente de Azul.","season":"General","id":"patrulla-v7-233","fact":"patrulla-v7-233","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Especialidades?","a":"Qué cachorro destaca en policía","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Chase destaca en policía.","season":"General","id":"patrulla-v7-234","fact":"patrulla-v7-234","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Camión de bomberos”","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"El Camión de bomberos pertenece a Marshall.","season":"General","id":"patrulla-v7-235","fact":"patrulla-v7-235","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Rojo","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Marshall viste principalmente de Rojo.","season":"General","id":"patrulla-v7-236","fact":"patrulla-v7-236","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Especialidades?","a":"Qué cachorro destaca en bombero y sanitario","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Marshall destaca en bombero y sanitario.","season":"General","id":"patrulla-v7-237","fact":"patrulla-v7-237","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Helicóptero”","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"El Helicóptero pertenece a Skye.","season":"General","id":"patrulla-v7-238","fact":"patrulla-v7-238","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Rosa","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"Skye viste principalmente de Rosa.","season":"General","id":"patrulla-v7-239","fact":"patrulla-v7-239","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Especialidades?","a":"Qué cachorro destaca en aviación","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"Skye destaca en aviación.","season":"General","id":"patrulla-v7-240","fact":"patrulla-v7-240","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Excavadora”","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"El Excavadora pertenece a Rubble.","season":"General","id":"patrulla-v7-241","fact":"patrulla-v7-241","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Amarillo","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rubble viste principalmente de Amarillo.","season":"General","id":"patrulla-v7-242","fact":"patrulla-v7-242","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Especialidades?","a":"Qué cachorro destaca en construcción","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rubble destaca en construcción.","season":"General","id":"patrulla-v7-243","fact":"patrulla-v7-243","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Camión de reciclaje”","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"El Camión de reciclaje pertenece a Rocky.","season":"General","id":"patrulla-v7-244","fact":"patrulla-v7-244","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Verde","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rocky viste principalmente de Verde.","season":"General","id":"patrulla-v7-245","fact":"patrulla-v7-245","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Especialidades?","a":"Qué cachorro destaca en reciclaje y reparaciones","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Rocky destaca en reciclaje y reparaciones.","season":"General","id":"patrulla-v7-246","fact":"patrulla-v7-246","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Aerodeslizador”","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"El Aerodeslizador pertenece a Zuma.","season":"General","id":"patrulla-v7-247","fact":"patrulla-v7-247","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Naranja","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Zuma viste principalmente de Naranja.","season":"General","id":"patrulla-v7-248","fact":"patrulla-v7-248","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Especialidades?","a":"Qué cachorro destaca en rescate acuático","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Zuma destaca en rescate acuático.","season":"General","id":"patrulla-v7-249","fact":"patrulla-v7-249","show":"patrulla","kind":"relacion"},{"block":"Vehículos","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Vehículos?","a":"A qué cachorro pertenece el vehículo “Moto de nieve”","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"El Moto de nieve pertenece a Everest.","season":"General","id":"patrulla-v7-250","fact":"patrulla-v7-250","show":"patrulla","kind":"relacion"},{"block":"Colores","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Colores?","a":"Qué cachorro viste principalmente de Turquesa","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Everest viste principalmente de Turquesa.","season":"General","id":"patrulla-v7-251","fact":"patrulla-v7-251","show":"patrulla","kind":"relacion"},{"block":"Especialidades","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Especialidades?","a":"Qué cachorro destaca en rescate en nieve","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Everest destaca en rescate en nieve.","season":"General","id":"patrulla-v7-252","fact":"patrulla-v7-252","show":"patrulla","kind":"relacion"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “En la montaña con Jake” dentro del bloque Lugares?","a":"Dónde vive Everest","d":["Opción incorrecta sobre En el faro","Opción incorrecta sobre En la torre","Opción incorrecta sobre En la granja"],"x":"En la montaña con Jake es la respuesta correcta.","season":"General","id":"patrulla-v7-253","fact":"patrulla-v7-253","show":"patrulla","kind":"relacion"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “En el salón de mascotas” dentro del bloque Lugares?","a":"Dónde trabaja Katie","d":["Opción incorrecta sobre En el faro","Opción incorrecta sobre En la torre","Opción incorrecta sobre En una mina"],"x":"En el salón de mascotas es la respuesta correcta.","season":"General","id":"patrulla-v7-254","fact":"patrulla-v7-254","show":"patrulla","kind":"relacion"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cuál es la asociación correcta para “Ciudad Aventura” dentro del bloque Lugares?","a":"Cómo se llama la gran ciudad de las películas","d":["Opción incorrecta sobre Bahía Aventura","Opción incorrecta sobre Foggy Bottom","Opción incorrecta sobre Barkingburg"],"x":"Ciudad Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-255","fact":"patrulla-v7-255","show":"patrulla","kind":"relacion"},{"block":"Chase","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Chase?","a":"Qué cachorro combina uniforme azul y especialidad de policía","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Las dos pistas corresponden a Chase.","season":"General","id":"patrulla-v7-256","fact":"patrulla-v7-256","show":"patrulla","kind":"relacion"},{"block":"Chase","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Chase” dentro del bloque Chase?","a":"Qué cachorro es pastor alemán y conduce un/a coche policial","d":["Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"La raza y el vehículo identifican a Chase.","season":"General","id":"patrulla-v7-257","fact":"patrulla-v7-257","show":"patrulla","kind":"relacion"},{"block":"Marshall","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Marshall?","a":"Qué cachorro combina uniforme rojo y especialidad de bombero y sanitario","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"Las dos pistas corresponden a Marshall.","season":"General","id":"patrulla-v7-258","fact":"patrulla-v7-258","show":"patrulla","kind":"relacion"},{"block":"Marshall","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Marshall” dentro del bloque Marshall?","a":"Qué cachorro es dálmata y conduce un/a camión de bomberos","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Skye","Opción incorrecta sobre Rubble"],"x":"La raza y el vehículo identifican a Marshall.","season":"General","id":"patrulla-v7-259","fact":"patrulla-v7-259","show":"patrulla","kind":"relacion"},{"block":"Skye","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Skye?","a":"Qué cachorro combina uniforme rosa y especialidad de aviación","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"Las dos pistas corresponden a Skye.","season":"General","id":"patrulla-v7-260","fact":"patrulla-v7-260","show":"patrulla","kind":"relacion"},{"block":"Skye","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Skye” dentro del bloque Skye?","a":"Qué cachorro es cockapoo y conduce un/a helicóptero","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Rubble"],"x":"La raza y el vehículo identifican a Skye.","season":"General","id":"patrulla-v7-261","fact":"patrulla-v7-261","show":"patrulla","kind":"relacion"},{"block":"Rubble","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Rubble?","a":"Qué cachorro combina uniforme amarillo y especialidad de construcción","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Las dos pistas corresponden a Rubble.","season":"General","id":"patrulla-v7-262","fact":"patrulla-v7-262","show":"patrulla","kind":"relacion"},{"block":"Rubble","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Rubble” dentro del bloque Rubble?","a":"Qué cachorro es bulldog inglés y conduce un/a excavadora","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"La raza y el vehículo identifican a Rubble.","season":"General","id":"patrulla-v7-263","fact":"patrulla-v7-263","show":"patrulla","kind":"relacion"},{"block":"Rocky","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Rocky?","a":"Qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Las dos pistas corresponden a Rocky.","season":"General","id":"patrulla-v7-264","fact":"patrulla-v7-264","show":"patrulla","kind":"relacion"},{"block":"Rocky","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Rocky” dentro del bloque Rocky?","a":"Qué cachorro es mestizo y conduce un/a camión de reciclaje","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"La raza y el vehículo identifican a Rocky.","season":"General","id":"patrulla-v7-265","fact":"patrulla-v7-265","show":"patrulla","kind":"relacion"},{"block":"Zuma","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Zuma?","a":"Qué cachorro combina uniforme naranja y especialidad de rescate acuático","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Las dos pistas corresponden a Zuma.","season":"General","id":"patrulla-v7-266","fact":"patrulla-v7-266","show":"patrulla","kind":"relacion"},{"block":"Zuma","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Zuma” dentro del bloque Zuma?","a":"Qué cachorro es labrador chocolate y conduce un/a aerodeslizador","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"La raza y el vehículo identifican a Zuma.","season":"General","id":"patrulla-v7-267","fact":"patrulla-v7-267","show":"patrulla","kind":"relacion"},{"block":"Everest","difficulty":"Media","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Everest?","a":"Qué cachorro combina uniforme turquesa y especialidad de rescate en nieve","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"Las dos pistas corresponden a Everest.","season":"General","id":"patrulla-v7-268","fact":"patrulla-v7-268","show":"patrulla","kind":"relacion"},{"block":"Everest","difficulty":"Difícil","q":"¿Cuál es la asociación correcta para “Everest” dentro del bloque Everest?","a":"Qué cachorro es husky y conduce un/a moto de nieve","d":["Opción incorrecta sobre Chase","Opción incorrecta sobre Marshall","Opción incorrecta sobre Skye"],"x":"La raza y el vehículo identifican a Everest.","season":"General","id":"patrulla-v7-269","fact":"patrulla-v7-269","show":"patrulla","kind":"relacion"},{"block":"Chase","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Chase?","a":"Qué tipo de perro es Chase — Pastor alemán","d":["Qué tipo de perro es Chase — Dálmata","Qué tipo de perro es Chase — Cockapoo","Qué tipo de perro es Chase — Bulldog inglés"],"x":"Chase es Pastor alemán.","season":"General","id":"patrulla-v7-270","fact":"patrulla-v7-270","show":"patrulla","kind":"emparejar"},{"block":"Chase","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Chase?","a":"Cuál es la especialidad de Chase — Policía","d":["Cuál es la especialidad de Chase — Bombero y sanitario","Cuál es la especialidad de Chase — Aviación","Cuál es la especialidad de Chase — Construcción"],"x":"Chase se ocupa de Policía.","season":"General","id":"patrulla-v7-271","fact":"patrulla-v7-271","show":"patrulla","kind":"emparejar"},{"block":"Chase","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Chase?","a":"De qué color es el uniforme de Chase — Azul","d":["De qué color es el uniforme de Chase — Rojo","De qué color es el uniforme de Chase — Rosa","De qué color es el uniforme de Chase — Amarillo"],"x":"El uniforme de Chase es Azul.","season":"General","id":"patrulla-v7-272","fact":"patrulla-v7-272","show":"patrulla","kind":"emparejar"},{"block":"Chase","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Chase?","a":"Qué vehículo usa Chase — Coche policial","d":["Qué vehículo usa Chase — Camión de bomberos","Qué vehículo usa Chase — Helicóptero","Qué vehículo usa Chase — Excavadora"],"x":"Chase utiliza Coche policial.","season":"General","id":"patrulla-v7-273","fact":"patrulla-v7-273","show":"patrulla","kind":"emparejar"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Marshall?","a":"Qué tipo de perro es Marshall — Dálmata","d":["Qué tipo de perro es Marshall — Pastor alemán","Qué tipo de perro es Marshall — Cockapoo","Qué tipo de perro es Marshall — Bulldog inglés"],"x":"Marshall es Dálmata.","season":"General","id":"patrulla-v7-274","fact":"patrulla-v7-274","show":"patrulla","kind":"emparejar"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Marshall?","a":"Cuál es la especialidad de Marshall — Bombero y sanitario","d":["Cuál es la especialidad de Marshall — Policía","Cuál es la especialidad de Marshall — Aviación","Cuál es la especialidad de Marshall — Construcción"],"x":"Marshall se ocupa de Bombero y sanitario.","season":"General","id":"patrulla-v7-275","fact":"patrulla-v7-275","show":"patrulla","kind":"emparejar"},{"block":"Marshall","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Marshall?","a":"De qué color es el uniforme de Marshall — Rojo","d":["De qué color es el uniforme de Marshall — Azul","De qué color es el uniforme de Marshall — Rosa","De qué color es el uniforme de Marshall — Amarillo"],"x":"El uniforme de Marshall es Rojo.","season":"General","id":"patrulla-v7-276","fact":"patrulla-v7-276","show":"patrulla","kind":"emparejar"},{"block":"Marshall","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Marshall?","a":"Qué vehículo usa Marshall — Camión de bomberos","d":["Qué vehículo usa Marshall — Coche policial","Qué vehículo usa Marshall — Helicóptero","Qué vehículo usa Marshall — Excavadora"],"x":"Marshall utiliza Camión de bomberos.","season":"General","id":"patrulla-v7-277","fact":"patrulla-v7-277","show":"patrulla","kind":"emparejar"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Skye?","a":"Qué tipo de perro es Skye — Cockapoo","d":["Qué tipo de perro es Skye — Pastor alemán","Qué tipo de perro es Skye — Dálmata","Qué tipo de perro es Skye — Bulldog inglés"],"x":"Skye es Cockapoo.","season":"General","id":"patrulla-v7-278","fact":"patrulla-v7-278","show":"patrulla","kind":"emparejar"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Skye?","a":"Cuál es la especialidad de Skye — Aviación","d":["Cuál es la especialidad de Skye — Policía","Cuál es la especialidad de Skye — Bombero y sanitario","Cuál es la especialidad de Skye — Construcción"],"x":"Skye se ocupa de Aviación.","season":"General","id":"patrulla-v7-279","fact":"patrulla-v7-279","show":"patrulla","kind":"emparejar"},{"block":"Skye","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Skye?","a":"De qué color es el uniforme de Skye — Rosa","d":["De qué color es el uniforme de Skye — Azul","De qué color es el uniforme de Skye — Rojo","De qué color es el uniforme de Skye — Amarillo"],"x":"El uniforme de Skye es Rosa.","season":"General","id":"patrulla-v7-280","fact":"patrulla-v7-280","show":"patrulla","kind":"emparejar"},{"block":"Skye","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Skye?","a":"Qué vehículo usa Skye — Helicóptero","d":["Qué vehículo usa Skye — Coche policial","Qué vehículo usa Skye — Camión de bomberos","Qué vehículo usa Skye — Excavadora"],"x":"Skye utiliza Helicóptero.","season":"General","id":"patrulla-v7-281","fact":"patrulla-v7-281","show":"patrulla","kind":"emparejar"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Rubble?","a":"Qué tipo de perro es Rubble — Bulldog inglés","d":["Qué tipo de perro es Rubble — Pastor alemán","Qué tipo de perro es Rubble — Dálmata","Qué tipo de perro es Rubble — Cockapoo"],"x":"Rubble es Bulldog inglés.","season":"General","id":"patrulla-v7-282","fact":"patrulla-v7-282","show":"patrulla","kind":"emparejar"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Rubble?","a":"Cuál es la especialidad de Rubble — Construcción","d":["Cuál es la especialidad de Rubble — Policía","Cuál es la especialidad de Rubble — Bombero y sanitario","Cuál es la especialidad de Rubble — Aviación"],"x":"Rubble se ocupa de Construcción.","season":"General","id":"patrulla-v7-283","fact":"patrulla-v7-283","show":"patrulla","kind":"emparejar"},{"block":"Rubble","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Rubble?","a":"De qué color es el uniforme de Rubble — Amarillo","d":["De qué color es el uniforme de Rubble — Azul","De qué color es el uniforme de Rubble — Rojo","De qué color es el uniforme de Rubble — Rosa"],"x":"El uniforme de Rubble es Amarillo.","season":"General","id":"patrulla-v7-284","fact":"patrulla-v7-284","show":"patrulla","kind":"emparejar"},{"block":"Rubble","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Rubble?","a":"Qué vehículo usa Rubble — Excavadora","d":["Qué vehículo usa Rubble — Coche policial","Qué vehículo usa Rubble — Camión de bomberos","Qué vehículo usa Rubble — Helicóptero"],"x":"Rubble utiliza Excavadora.","season":"General","id":"patrulla-v7-285","fact":"patrulla-v7-285","show":"patrulla","kind":"emparejar"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Rocky?","a":"Qué tipo de perro es Rocky — Mestizo","d":["Qué tipo de perro es Rocky — Pastor alemán","Qué tipo de perro es Rocky — Dálmata","Qué tipo de perro es Rocky — Cockapoo"],"x":"Rocky es Mestizo.","season":"General","id":"patrulla-v7-286","fact":"patrulla-v7-286","show":"patrulla","kind":"emparejar"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Rocky?","a":"Cuál es la especialidad de Rocky — Reciclaje y reparaciones","d":["Cuál es la especialidad de Rocky — Policía","Cuál es la especialidad de Rocky — Bombero y sanitario","Cuál es la especialidad de Rocky — Aviación"],"x":"Rocky se ocupa de Reciclaje y reparaciones.","season":"General","id":"patrulla-v7-287","fact":"patrulla-v7-287","show":"patrulla","kind":"emparejar"},{"block":"Rocky","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Rocky?","a":"De qué color es el uniforme de Rocky — Verde","d":["De qué color es el uniforme de Rocky — Azul","De qué color es el uniforme de Rocky — Rojo","De qué color es el uniforme de Rocky — Rosa"],"x":"El uniforme de Rocky es Verde.","season":"General","id":"patrulla-v7-288","fact":"patrulla-v7-288","show":"patrulla","kind":"emparejar"},{"block":"Rocky","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Rocky?","a":"Qué vehículo usa Rocky — Camión de reciclaje","d":["Qué vehículo usa Rocky — Coche policial","Qué vehículo usa Rocky — Camión de bomberos","Qué vehículo usa Rocky — Helicóptero"],"x":"Rocky utiliza Camión de reciclaje.","season":"General","id":"patrulla-v7-289","fact":"patrulla-v7-289","show":"patrulla","kind":"emparejar"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Zuma?","a":"Qué tipo de perro es Zuma — Labrador chocolate","d":["Qué tipo de perro es Zuma — Pastor alemán","Qué tipo de perro es Zuma — Dálmata","Qué tipo de perro es Zuma — Cockapoo"],"x":"Zuma es Labrador chocolate.","season":"General","id":"patrulla-v7-290","fact":"patrulla-v7-290","show":"patrulla","kind":"emparejar"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Zuma?","a":"Cuál es la especialidad de Zuma — Rescate acuático","d":["Cuál es la especialidad de Zuma — Policía","Cuál es la especialidad de Zuma — Bombero y sanitario","Cuál es la especialidad de Zuma — Aviación"],"x":"Zuma se ocupa de Rescate acuático.","season":"General","id":"patrulla-v7-291","fact":"patrulla-v7-291","show":"patrulla","kind":"emparejar"},{"block":"Zuma","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Zuma?","a":"De qué color es el uniforme de Zuma — Naranja","d":["De qué color es el uniforme de Zuma — Azul","De qué color es el uniforme de Zuma — Rojo","De qué color es el uniforme de Zuma — Rosa"],"x":"El uniforme de Zuma es Naranja.","season":"General","id":"patrulla-v7-292","fact":"patrulla-v7-292","show":"patrulla","kind":"emparejar"},{"block":"Zuma","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Zuma?","a":"Qué vehículo usa Zuma — Aerodeslizador","d":["Qué vehículo usa Zuma — Coche policial","Qué vehículo usa Zuma — Camión de bomberos","Qué vehículo usa Zuma — Helicóptero"],"x":"Zuma utiliza Aerodeslizador.","season":"General","id":"patrulla-v7-293","fact":"patrulla-v7-293","show":"patrulla","kind":"emparejar"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Everest?","a":"Qué tipo de perro es Everest — Husky","d":["Qué tipo de perro es Everest — Pastor alemán","Qué tipo de perro es Everest — Dálmata","Qué tipo de perro es Everest — Cockapoo"],"x":"Everest es Husky.","season":"General","id":"patrulla-v7-294","fact":"patrulla-v7-294","show":"patrulla","kind":"emparejar"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Everest?","a":"Cuál es la especialidad de Everest — Rescate en nieve","d":["Cuál es la especialidad de Everest — Policía","Cuál es la especialidad de Everest — Bombero y sanitario","Cuál es la especialidad de Everest — Aviación"],"x":"Everest se ocupa de Rescate en nieve.","season":"General","id":"patrulla-v7-295","fact":"patrulla-v7-295","show":"patrulla","kind":"emparejar"},{"block":"Everest","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Everest?","a":"De qué color es el uniforme de Everest — Turquesa","d":["De qué color es el uniforme de Everest — Azul","De qué color es el uniforme de Everest — Rojo","De qué color es el uniforme de Everest — Rosa"],"x":"El uniforme de Everest es Turquesa.","season":"General","id":"patrulla-v7-296","fact":"patrulla-v7-296","show":"patrulla","kind":"emparejar"},{"block":"Everest","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Everest?","a":"Qué vehículo usa Everest — Moto de nieve","d":["Qué vehículo usa Everest — Coche policial","Qué vehículo usa Everest — Camión de bomberos","Qué vehículo usa Everest — Helicóptero"],"x":"Everest utiliza Moto de nieve.","season":"General","id":"patrulla-v7-297","fact":"patrulla-v7-297","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para un incendio — Marshall","d":["Qué cachorro es la mejor elección para un incendio — Chase","Qué cachorro es la mejor elección para un incendio — Skye","Qué cachorro es la mejor elección para un incendio — Rubble"],"x":"Marshall tiene la especialidad adecuada para un incendio.","season":"General","id":"patrulla-v7-298","fact":"patrulla-v7-298","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para un barco averiado — Zuma","d":["Qué cachorro es la mejor elección para un barco averiado — Chase","Qué cachorro es la mejor elección para un barco averiado — Marshall","Qué cachorro es la mejor elección para un barco averiado — Skye"],"x":"Zuma tiene la especialidad adecuada para un barco averiado.","season":"General","id":"patrulla-v7-299","fact":"patrulla-v7-299","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para un puente roto — Rubble","d":["Qué cachorro es la mejor elección para un puente roto — Chase","Qué cachorro es la mejor elección para un puente roto — Marshall","Qué cachorro es la mejor elección para un puente roto — Skye"],"x":"Rubble tiene la especialidad adecuada para un puente roto.","season":"General","id":"patrulla-v7-300","fact":"patrulla-v7-300","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para una carretera nevada — Everest","d":["Qué cachorro es la mejor elección para una carretera nevada — Chase","Qué cachorro es la mejor elección para una carretera nevada — Marshall","Qué cachorro es la mejor elección para una carretera nevada — Skye"],"x":"Everest tiene la especialidad adecuada para una carretera nevada.","season":"General","id":"patrulla-v7-301","fact":"patrulla-v7-301","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para un rescate aéreo — Skye","d":["Qué cachorro es la mejor elección para un rescate aéreo — Chase","Qué cachorro es la mejor elección para un rescate aéreo — Marshall","Qué cachorro es la mejor elección para un rescate aéreo — Rubble"],"x":"Skye tiene la especialidad adecuada para un rescate aéreo.","season":"General","id":"patrulla-v7-302","fact":"patrulla-v7-302","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para una investigación policial — Chase","d":["Qué cachorro es la mejor elección para una investigación policial — Marshall","Qué cachorro es la mejor elección para una investigación policial — Skye","Qué cachorro es la mejor elección para una investigación policial — Rubble"],"x":"Chase tiene la especialidad adecuada para una investigación policial.","season":"General","id":"patrulla-v7-303","fact":"patrulla-v7-303","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para reutilizar piezas — Rocky","d":["Qué cachorro es la mejor elección para reutilizar piezas — Chase","Qué cachorro es la mejor elección para reutilizar piezas — Marshall","Qué cachorro es la mejor elección para reutilizar piezas — Skye"],"x":"Rocky tiene la especialidad adecuada para reutilizar piezas.","season":"General","id":"patrulla-v7-304","fact":"patrulla-v7-304","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para un gato en un tejado — Marshall","d":["Qué cachorro es la mejor elección para un gato en un tejado — Chase","Qué cachorro es la mejor elección para un gato en un tejado — Skye","Qué cachorro es la mejor elección para un gato en un tejado — Rubble"],"x":"Marshall tiene la especialidad adecuada para un gato en un tejado.","season":"General","id":"patrulla-v7-305","fact":"patrulla-v7-305","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para un vehículo atrapado en barro — Rubble","d":["Qué cachorro es la mejor elección para un vehículo atrapado en barro — Chase","Qué cachorro es la mejor elección para un vehículo atrapado en barro — Marshall","Qué cachorro es la mejor elección para un vehículo atrapado en barro — Skye"],"x":"Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.","season":"General","id":"patrulla-v7-306","fact":"patrulla-v7-306","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para una boya a la deriva — Zuma","d":["Qué cachorro es la mejor elección para una boya a la deriva — Chase","Qué cachorro es la mejor elección para una boya a la deriva — Marshall","Qué cachorro es la mejor elección para una boya a la deriva — Skye"],"x":"Zuma tiene la especialidad adecuada para una boya a la deriva.","season":"General","id":"patrulla-v7-307","fact":"patrulla-v7-307","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para buscar desde el cielo — Skye","d":["Qué cachorro es la mejor elección para buscar desde el cielo — Chase","Qué cachorro es la mejor elección para buscar desde el cielo — Marshall","Qué cachorro es la mejor elección para buscar desde el cielo — Rubble"],"x":"Skye tiene la especialidad adecuada para buscar desde el cielo.","season":"General","id":"patrulla-v7-308","fact":"patrulla-v7-308","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para seguir huellas — Chase","d":["Qué cachorro es la mejor elección para seguir huellas — Marshall","Qué cachorro es la mejor elección para seguir huellas — Skye","Qué cachorro es la mejor elección para seguir huellas — Rubble"],"x":"Chase tiene la especialidad adecuada para seguir huellas.","season":"General","id":"patrulla-v7-309","fact":"patrulla-v7-309","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para arreglar una máquina con chatarra — Rocky","d":["Qué cachorro es la mejor elección para arreglar una máquina con chatarra — Chase","Qué cachorro es la mejor elección para arreglar una máquina con chatarra — Marshall","Qué cachorro es la mejor elección para arreglar una máquina con chatarra — Skye"],"x":"Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.","season":"General","id":"patrulla-v7-310","fact":"patrulla-v7-310","show":"patrulla","kind":"emparejar"},{"block":"Misiones","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Misiones?","a":"Qué cachorro es la mejor elección para rescatar en una ventisca — Everest","d":["Qué cachorro es la mejor elección para rescatar en una ventisca — Chase","Qué cachorro es la mejor elección para rescatar en una ventisca — Marshall","Qué cachorro es la mejor elección para rescatar en una ventisca — Skye"],"x":"Everest tiene la especialidad adecuada para rescatar en una ventisca.","season":"General","id":"patrulla-v7-311","fact":"patrulla-v7-311","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Quién dirige la Patrulla Canina — Ryder","d":["Quién dirige la Patrulla Canina — Humdinger","Quién dirige la Patrulla Canina — Turbot","Quién dirige la Patrulla Canina — Jake"],"x":"Ryder es la respuesta correcta.","season":"General","id":"patrulla-v7-312","fact":"patrulla-v7-312","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Quién es la alcaldesa de Bahía Aventura — Alcaldesa Goodway","d":["Quién es la alcaldesa de Bahía Aventura — Alcalde Humdinger","Quién es la alcaldesa de Bahía Aventura — Katie","Quién es la alcaldesa de Bahía Aventura — Mandy"],"x":"Alcaldesa Goodway es la respuesta correcta.","season":"General","id":"patrulla-v7-313","fact":"patrulla-v7-313","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Cómo se llama la gallina de la alcaldesa — Chickaletta","d":["Cómo se llama la gallina de la alcaldesa — Cali","Cómo se llama la gallina de la alcaldesa — Mittens","Cómo se llama la gallina de la alcaldesa — Ella"],"x":"Chickaletta es la respuesta correcta.","season":"General","id":"patrulla-v7-314","fact":"patrulla-v7-314","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Quién es el rival travieso de Goodway — Alcalde Humdinger","d":["Quién es el rival travieso de Goodway — Capitán Turbot","Quién es el rival travieso de Goodway — Jake","Quién es el rival travieso de Goodway — Farmer Al"],"x":"Alcalde Humdinger es la respuesta correcta.","season":"General","id":"patrulla-v7-315","fact":"patrulla-v7-315","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Quién cuida animales en su salón — Katie","d":["Quién cuida animales en su salón — Goodway","Quién cuida animales en su salón — Mandy","Quién cuida animales en su salón — Julia"],"x":"Katie es la respuesta correcta.","season":"General","id":"patrulla-v7-316","fact":"patrulla-v7-316","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Quién es experto en el mar y el faro — Capitán Turbot","d":["Quién es experto en el mar y el faro — Jake","Quién es experto en el mar y el faro — Danny","Quién es experto en el mar y el faro — Travis"],"x":"Capitán Turbot es la respuesta correcta.","season":"General","id":"patrulla-v7-317","fact":"patrulla-v7-317","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Dónde se reúne el equipo — En la torre de control","d":["Dónde se reúne el equipo — En el ayuntamiento","Dónde se reúne el equipo — En una escuela","Dónde se reúne el equipo — En un castillo"],"x":"En la torre de control es la respuesta correcta.","season":"General","id":"patrulla-v7-318","fact":"patrulla-v7-318","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Cómo se llama la ciudad principal — Bahía Aventura","d":["Cómo se llama la ciudad principal — Ciudad Aventura","Cómo se llama la ciudad principal — Bahía Niebla","Cómo se llama la ciudad principal — Hawkins"],"x":"Bahía Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-319","fact":"patrulla-v7-319","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Qué vehículo usa Ryder — Un quad","d":["Qué vehículo usa Ryder — Un tren","Qué vehículo usa Ryder — Un tractor","Qué vehículo usa Ryder — Un globo"],"x":"Un quad es la respuesta correcta.","season":"General","id":"patrulla-v7-320","fact":"patrulla-v7-320","show":"patrulla","kind":"emparejar"},{"block":"General","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en General?","a":"Cómo avisa Ryder a los cachorros — Con sus Pup-Pads","d":["Cómo avisa Ryder a los cachorros — Con cartas","Cómo avisa Ryder a los cachorros — Con una campana","Cómo avisa Ryder a los cachorros — Con señales de humo"],"x":"Con sus Pup-Pads es la respuesta correcta.","season":"General","id":"patrulla-v7-321","fact":"patrulla-v7-321","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Coche policial” — Chase","d":["A qué cachorro pertenece el vehículo “Coche policial” — Marshall","A qué cachorro pertenece el vehículo “Coche policial” — Skye","A qué cachorro pertenece el vehículo “Coche policial” — Rubble"],"x":"El Coche policial pertenece a Chase.","season":"General","id":"patrulla-v7-322","fact":"patrulla-v7-322","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Azul — Chase","d":["Qué cachorro viste principalmente de Azul — Marshall","Qué cachorro viste principalmente de Azul — Skye","Qué cachorro viste principalmente de Azul — Rubble"],"x":"Chase viste principalmente de Azul.","season":"General","id":"patrulla-v7-323","fact":"patrulla-v7-323","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en policía — Chase","d":["Qué cachorro destaca en policía — Marshall","Qué cachorro destaca en policía — Skye","Qué cachorro destaca en policía — Rubble"],"x":"Chase destaca en policía.","season":"General","id":"patrulla-v7-324","fact":"patrulla-v7-324","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Camión de bomberos” — Marshall","d":["A qué cachorro pertenece el vehículo “Camión de bomberos” — Chase","A qué cachorro pertenece el vehículo “Camión de bomberos” — Skye","A qué cachorro pertenece el vehículo “Camión de bomberos” — Rubble"],"x":"El Camión de bomberos pertenece a Marshall.","season":"General","id":"patrulla-v7-325","fact":"patrulla-v7-325","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Rojo — Marshall","d":["Qué cachorro viste principalmente de Rojo — Chase","Qué cachorro viste principalmente de Rojo — Skye","Qué cachorro viste principalmente de Rojo — Rubble"],"x":"Marshall viste principalmente de Rojo.","season":"General","id":"patrulla-v7-326","fact":"patrulla-v7-326","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en bombero y sanitario — Marshall","d":["Qué cachorro destaca en bombero y sanitario — Chase","Qué cachorro destaca en bombero y sanitario — Skye","Qué cachorro destaca en bombero y sanitario — Rubble"],"x":"Marshall destaca en bombero y sanitario.","season":"General","id":"patrulla-v7-327","fact":"patrulla-v7-327","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Helicóptero” — Skye","d":["A qué cachorro pertenece el vehículo “Helicóptero” — Chase","A qué cachorro pertenece el vehículo “Helicóptero” — Marshall","A qué cachorro pertenece el vehículo “Helicóptero” — Rubble"],"x":"El Helicóptero pertenece a Skye.","season":"General","id":"patrulla-v7-328","fact":"patrulla-v7-328","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Rosa — Skye","d":["Qué cachorro viste principalmente de Rosa — Chase","Qué cachorro viste principalmente de Rosa — Marshall","Qué cachorro viste principalmente de Rosa — Rubble"],"x":"Skye viste principalmente de Rosa.","season":"General","id":"patrulla-v7-329","fact":"patrulla-v7-329","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en aviación — Skye","d":["Qué cachorro destaca en aviación — Chase","Qué cachorro destaca en aviación — Marshall","Qué cachorro destaca en aviación — Rubble"],"x":"Skye destaca en aviación.","season":"General","id":"patrulla-v7-330","fact":"patrulla-v7-330","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Excavadora” — Rubble","d":["A qué cachorro pertenece el vehículo “Excavadora” — Chase","A qué cachorro pertenece el vehículo “Excavadora” — Marshall","A qué cachorro pertenece el vehículo “Excavadora” — Skye"],"x":"El Excavadora pertenece a Rubble.","season":"General","id":"patrulla-v7-331","fact":"patrulla-v7-331","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Amarillo — Rubble","d":["Qué cachorro viste principalmente de Amarillo — Chase","Qué cachorro viste principalmente de Amarillo — Marshall","Qué cachorro viste principalmente de Amarillo — Skye"],"x":"Rubble viste principalmente de Amarillo.","season":"General","id":"patrulla-v7-332","fact":"patrulla-v7-332","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en construcción — Rubble","d":["Qué cachorro destaca en construcción — Chase","Qué cachorro destaca en construcción — Marshall","Qué cachorro destaca en construcción — Skye"],"x":"Rubble destaca en construcción.","season":"General","id":"patrulla-v7-333","fact":"patrulla-v7-333","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Camión de reciclaje” — Rocky","d":["A qué cachorro pertenece el vehículo “Camión de reciclaje” — Chase","A qué cachorro pertenece el vehículo “Camión de reciclaje” — Marshall","A qué cachorro pertenece el vehículo “Camión de reciclaje” — Skye"],"x":"El Camión de reciclaje pertenece a Rocky.","season":"General","id":"patrulla-v7-334","fact":"patrulla-v7-334","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Verde — Rocky","d":["Qué cachorro viste principalmente de Verde — Chase","Qué cachorro viste principalmente de Verde — Marshall","Qué cachorro viste principalmente de Verde — Skye"],"x":"Rocky viste principalmente de Verde.","season":"General","id":"patrulla-v7-335","fact":"patrulla-v7-335","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en reciclaje y reparaciones — Rocky","d":["Qué cachorro destaca en reciclaje y reparaciones — Chase","Qué cachorro destaca en reciclaje y reparaciones — Marshall","Qué cachorro destaca en reciclaje y reparaciones — Skye"],"x":"Rocky destaca en reciclaje y reparaciones.","season":"General","id":"patrulla-v7-336","fact":"patrulla-v7-336","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Aerodeslizador” — Zuma","d":["A qué cachorro pertenece el vehículo “Aerodeslizador” — Chase","A qué cachorro pertenece el vehículo “Aerodeslizador” — Marshall","A qué cachorro pertenece el vehículo “Aerodeslizador” — Skye"],"x":"El Aerodeslizador pertenece a Zuma.","season":"General","id":"patrulla-v7-337","fact":"patrulla-v7-337","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Naranja — Zuma","d":["Qué cachorro viste principalmente de Naranja — Chase","Qué cachorro viste principalmente de Naranja — Marshall","Qué cachorro viste principalmente de Naranja — Skye"],"x":"Zuma viste principalmente de Naranja.","season":"General","id":"patrulla-v7-338","fact":"patrulla-v7-338","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en rescate acuático — Zuma","d":["Qué cachorro destaca en rescate acuático — Chase","Qué cachorro destaca en rescate acuático — Marshall","Qué cachorro destaca en rescate acuático — Skye"],"x":"Zuma destaca en rescate acuático.","season":"General","id":"patrulla-v7-339","fact":"patrulla-v7-339","show":"patrulla","kind":"emparejar"},{"block":"Vehículos","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Vehículos?","a":"A qué cachorro pertenece el vehículo “Moto de nieve” — Everest","d":["A qué cachorro pertenece el vehículo “Moto de nieve” — Chase","A qué cachorro pertenece el vehículo “Moto de nieve” — Marshall","A qué cachorro pertenece el vehículo “Moto de nieve” — Skye"],"x":"El Moto de nieve pertenece a Everest.","season":"General","id":"patrulla-v7-340","fact":"patrulla-v7-340","show":"patrulla","kind":"emparejar"},{"block":"Colores","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Colores?","a":"Qué cachorro viste principalmente de Turquesa — Everest","d":["Qué cachorro viste principalmente de Turquesa — Chase","Qué cachorro viste principalmente de Turquesa — Marshall","Qué cachorro viste principalmente de Turquesa — Skye"],"x":"Everest viste principalmente de Turquesa.","season":"General","id":"patrulla-v7-341","fact":"patrulla-v7-341","show":"patrulla","kind":"emparejar"},{"block":"Especialidades","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Especialidades?","a":"Qué cachorro destaca en rescate en nieve — Everest","d":["Qué cachorro destaca en rescate en nieve — Chase","Qué cachorro destaca en rescate en nieve — Marshall","Qué cachorro destaca en rescate en nieve — Skye"],"x":"Everest destaca en rescate en nieve.","season":"General","id":"patrulla-v7-342","fact":"patrulla-v7-342","show":"patrulla","kind":"emparejar"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Lugares?","a":"Dónde vive Everest — En la montaña con Jake","d":["Dónde vive Everest — En el faro","Dónde vive Everest — En la torre","Dónde vive Everest — En la granja"],"x":"En la montaña con Jake es la respuesta correcta.","season":"General","id":"patrulla-v7-343","fact":"patrulla-v7-343","show":"patrulla","kind":"emparejar"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Lugares?","a":"Dónde trabaja Katie — En el salón de mascotas","d":["Dónde trabaja Katie — En el faro","Dónde trabaja Katie — En la torre","Dónde trabaja Katie — En una mina"],"x":"En el salón de mascotas es la respuesta correcta.","season":"General","id":"patrulla-v7-344","fact":"patrulla-v7-344","show":"patrulla","kind":"emparejar"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué pareja de concepto y respuesta es correcta en Lugares?","a":"Cómo se llama la gran ciudad de las películas — Ciudad Aventura","d":["Cómo se llama la gran ciudad de las películas — Bahía Aventura","Cómo se llama la gran ciudad de las películas — Foggy Bottom","Cómo se llama la gran ciudad de las películas — Barkingburg"],"x":"Ciudad Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-345","fact":"patrulla-v7-345","show":"patrulla","kind":"emparejar"},{"block":"Chase","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Chase?","a":"Qué cachorro combina uniforme azul y especialidad de policía — Chase","d":["Qué cachorro combina uniforme azul y especialidad de policía — Marshall","Qué cachorro combina uniforme azul y especialidad de policía — Skye","Qué cachorro combina uniforme azul y especialidad de policía — Rubble"],"x":"Las dos pistas corresponden a Chase.","season":"General","id":"patrulla-v7-346","fact":"patrulla-v7-346","show":"patrulla","kind":"emparejar"},{"block":"Chase","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Chase?","a":"Qué cachorro es pastor alemán y conduce un/a coche policial — Chase","d":["Qué cachorro es pastor alemán y conduce un/a coche policial — Marshall","Qué cachorro es pastor alemán y conduce un/a coche policial — Skye","Qué cachorro es pastor alemán y conduce un/a coche policial — Rubble"],"x":"La raza y el vehículo identifican a Chase.","season":"General","id":"patrulla-v7-347","fact":"patrulla-v7-347","show":"patrulla","kind":"emparejar"},{"block":"Marshall","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Marshall?","a":"Qué cachorro combina uniforme rojo y especialidad de bombero y sanitario — Marshall","d":["Qué cachorro combina uniforme rojo y especialidad de bombero y sanitario — Chase","Qué cachorro combina uniforme rojo y especialidad de bombero y sanitario — Skye","Qué cachorro combina uniforme rojo y especialidad de bombero y sanitario — Rubble"],"x":"Las dos pistas corresponden a Marshall.","season":"General","id":"patrulla-v7-348","fact":"patrulla-v7-348","show":"patrulla","kind":"emparejar"},{"block":"Marshall","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Marshall?","a":"Qué cachorro es dálmata y conduce un/a camión de bomberos — Marshall","d":["Qué cachorro es dálmata y conduce un/a camión de bomberos — Chase","Qué cachorro es dálmata y conduce un/a camión de bomberos — Skye","Qué cachorro es dálmata y conduce un/a camión de bomberos — Rubble"],"x":"La raza y el vehículo identifican a Marshall.","season":"General","id":"patrulla-v7-349","fact":"patrulla-v7-349","show":"patrulla","kind":"emparejar"},{"block":"Skye","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Skye?","a":"Qué cachorro combina uniforme rosa y especialidad de aviación — Skye","d":["Qué cachorro combina uniforme rosa y especialidad de aviación — Chase","Qué cachorro combina uniforme rosa y especialidad de aviación — Marshall","Qué cachorro combina uniforme rosa y especialidad de aviación — Rubble"],"x":"Las dos pistas corresponden a Skye.","season":"General","id":"patrulla-v7-350","fact":"patrulla-v7-350","show":"patrulla","kind":"emparejar"},{"block":"Skye","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Skye?","a":"Qué cachorro es cockapoo y conduce un/a helicóptero — Skye","d":["Qué cachorro es cockapoo y conduce un/a helicóptero — Chase","Qué cachorro es cockapoo y conduce un/a helicóptero — Marshall","Qué cachorro es cockapoo y conduce un/a helicóptero — Rubble"],"x":"La raza y el vehículo identifican a Skye.","season":"General","id":"patrulla-v7-351","fact":"patrulla-v7-351","show":"patrulla","kind":"emparejar"},{"block":"Rubble","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Rubble?","a":"Qué cachorro combina uniforme amarillo y especialidad de construcción — Rubble","d":["Qué cachorro combina uniforme amarillo y especialidad de construcción — Chase","Qué cachorro combina uniforme amarillo y especialidad de construcción — Marshall","Qué cachorro combina uniforme amarillo y especialidad de construcción — Skye"],"x":"Las dos pistas corresponden a Rubble.","season":"General","id":"patrulla-v7-352","fact":"patrulla-v7-352","show":"patrulla","kind":"emparejar"},{"block":"Rubble","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Rubble?","a":"Qué cachorro es bulldog inglés y conduce un/a excavadora — Rubble","d":["Qué cachorro es bulldog inglés y conduce un/a excavadora — Chase","Qué cachorro es bulldog inglés y conduce un/a excavadora — Marshall","Qué cachorro es bulldog inglés y conduce un/a excavadora — Skye"],"x":"La raza y el vehículo identifican a Rubble.","season":"General","id":"patrulla-v7-353","fact":"patrulla-v7-353","show":"patrulla","kind":"emparejar"},{"block":"Rocky","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Rocky?","a":"Qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones — Rocky","d":["Qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones — Chase","Qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones — Marshall","Qué cachorro combina uniforme verde y especialidad de reciclaje y reparaciones — Skye"],"x":"Las dos pistas corresponden a Rocky.","season":"General","id":"patrulla-v7-354","fact":"patrulla-v7-354","show":"patrulla","kind":"emparejar"},{"block":"Rocky","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Rocky?","a":"Qué cachorro es mestizo y conduce un/a camión de reciclaje — Rocky","d":["Qué cachorro es mestizo y conduce un/a camión de reciclaje — Chase","Qué cachorro es mestizo y conduce un/a camión de reciclaje — Marshall","Qué cachorro es mestizo y conduce un/a camión de reciclaje — Skye"],"x":"La raza y el vehículo identifican a Rocky.","season":"General","id":"patrulla-v7-355","fact":"patrulla-v7-355","show":"patrulla","kind":"emparejar"},{"block":"Zuma","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Zuma?","a":"Qué cachorro combina uniforme naranja y especialidad de rescate acuático — Zuma","d":["Qué cachorro combina uniforme naranja y especialidad de rescate acuático — Chase","Qué cachorro combina uniforme naranja y especialidad de rescate acuático — Marshall","Qué cachorro combina uniforme naranja y especialidad de rescate acuático — Skye"],"x":"Las dos pistas corresponden a Zuma.","season":"General","id":"patrulla-v7-356","fact":"patrulla-v7-356","show":"patrulla","kind":"emparejar"},{"block":"Zuma","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Zuma?","a":"Qué cachorro es labrador chocolate y conduce un/a aerodeslizador — Zuma","d":["Qué cachorro es labrador chocolate y conduce un/a aerodeslizador — Chase","Qué cachorro es labrador chocolate y conduce un/a aerodeslizador — Marshall","Qué cachorro es labrador chocolate y conduce un/a aerodeslizador — Skye"],"x":"La raza y el vehículo identifican a Zuma.","season":"General","id":"patrulla-v7-357","fact":"patrulla-v7-357","show":"patrulla","kind":"emparejar"},{"block":"Everest","difficulty":"Media","q":"¿Qué pareja de concepto y respuesta es correcta en Everest?","a":"Qué cachorro combina uniforme turquesa y especialidad de rescate en nieve — Everest","d":["Qué cachorro combina uniforme turquesa y especialidad de rescate en nieve — Chase","Qué cachorro combina uniforme turquesa y especialidad de rescate en nieve — Marshall","Qué cachorro combina uniforme turquesa y especialidad de rescate en nieve — Skye"],"x":"Las dos pistas corresponden a Everest.","season":"General","id":"patrulla-v7-358","fact":"patrulla-v7-358","show":"patrulla","kind":"emparejar"},{"block":"Everest","difficulty":"Difícil","q":"¿Qué pareja de concepto y respuesta es correcta en Everest?","a":"Qué cachorro es husky y conduce un/a moto de nieve — Everest","d":["Qué cachorro es husky y conduce un/a moto de nieve — Chase","Qué cachorro es husky y conduce un/a moto de nieve — Marshall","Qué cachorro es husky y conduce un/a moto de nieve — Skye"],"x":"La raza y el vehículo identifican a Everest.","season":"General","id":"patrulla-v7-359","fact":"patrulla-v7-359","show":"patrulla","kind":"emparejar"},{"block":"Chase","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Chase”?","a":"Pastor alemán","d":["Dálmata","Cockapoo","Bulldog inglés"],"x":"Chase es Pastor alemán.","season":"General","id":"patrulla-v7-360","fact":"patrulla-v7-360","show":"patrulla","kind":"descarte"},{"block":"Chase","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Chase”?","a":"Policía","d":["Bombero y sanitario","Aviación","Construcción"],"x":"Chase se ocupa de Policía.","season":"General","id":"patrulla-v7-361","fact":"patrulla-v7-361","show":"patrulla","kind":"descarte"},{"block":"Chase","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Chase”?","a":"Azul","d":["Rojo","Rosa","Amarillo"],"x":"El uniforme de Chase es Azul.","season":"General","id":"patrulla-v7-362","fact":"patrulla-v7-362","show":"patrulla","kind":"descarte"},{"block":"Chase","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Chase”?","a":"Coche policial","d":["Camión de bomberos","Helicóptero","Excavadora"],"x":"Chase utiliza Coche policial.","season":"General","id":"patrulla-v7-363","fact":"patrulla-v7-363","show":"patrulla","kind":"descarte"},{"block":"Marshall","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Marshall”?","a":"Dálmata","d":["Pastor alemán","Cockapoo","Bulldog inglés"],"x":"Marshall es Dálmata.","season":"General","id":"patrulla-v7-364","fact":"patrulla-v7-364","show":"patrulla","kind":"descarte"},{"block":"Marshall","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Marshall”?","a":"Bombero y sanitario","d":["Policía","Aviación","Construcción"],"x":"Marshall se ocupa de Bombero y sanitario.","season":"General","id":"patrulla-v7-365","fact":"patrulla-v7-365","show":"patrulla","kind":"descarte"},{"block":"Marshall","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Marshall”?","a":"Rojo","d":["Azul","Rosa","Amarillo"],"x":"El uniforme de Marshall es Rojo.","season":"General","id":"patrulla-v7-366","fact":"patrulla-v7-366","show":"patrulla","kind":"descarte"},{"block":"Marshall","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Marshall”?","a":"Camión de bomberos","d":["Coche policial","Helicóptero","Excavadora"],"x":"Marshall utiliza Camión de bomberos.","season":"General","id":"patrulla-v7-367","fact":"patrulla-v7-367","show":"patrulla","kind":"descarte"},{"block":"Skye","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Skye”?","a":"Cockapoo","d":["Pastor alemán","Dálmata","Bulldog inglés"],"x":"Skye es Cockapoo.","season":"General","id":"patrulla-v7-368","fact":"patrulla-v7-368","show":"patrulla","kind":"descarte"},{"block":"Skye","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Skye”?","a":"Aviación","d":["Policía","Bombero y sanitario","Construcción"],"x":"Skye se ocupa de Aviación.","season":"General","id":"patrulla-v7-369","fact":"patrulla-v7-369","show":"patrulla","kind":"descarte"},{"block":"Skye","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Skye”?","a":"Rosa","d":["Azul","Rojo","Amarillo"],"x":"El uniforme de Skye es Rosa.","season":"General","id":"patrulla-v7-370","fact":"patrulla-v7-370","show":"patrulla","kind":"descarte"},{"block":"Skye","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Skye”?","a":"Helicóptero","d":["Coche policial","Camión de bomberos","Excavadora"],"x":"Skye utiliza Helicóptero.","season":"General","id":"patrulla-v7-371","fact":"patrulla-v7-371","show":"patrulla","kind":"descarte"},{"block":"Rubble","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Rubble”?","a":"Bulldog inglés","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Rubble es Bulldog inglés.","season":"General","id":"patrulla-v7-372","fact":"patrulla-v7-372","show":"patrulla","kind":"descarte"},{"block":"Rubble","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Rubble”?","a":"Construcción","d":["Policía","Bombero y sanitario","Aviación"],"x":"Rubble se ocupa de Construcción.","season":"General","id":"patrulla-v7-373","fact":"patrulla-v7-373","show":"patrulla","kind":"descarte"},{"block":"Rubble","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Rubble”?","a":"Amarillo","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Rubble es Amarillo.","season":"General","id":"patrulla-v7-374","fact":"patrulla-v7-374","show":"patrulla","kind":"descarte"},{"block":"Rubble","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Rubble”?","a":"Excavadora","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Rubble utiliza Excavadora.","season":"General","id":"patrulla-v7-375","fact":"patrulla-v7-375","show":"patrulla","kind":"descarte"},{"block":"Rocky","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Rocky”?","a":"Mestizo","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Rocky es Mestizo.","season":"General","id":"patrulla-v7-376","fact":"patrulla-v7-376","show":"patrulla","kind":"descarte"},{"block":"Rocky","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Rocky”?","a":"Reciclaje y reparaciones","d":["Policía","Bombero y sanitario","Aviación"],"x":"Rocky se ocupa de Reciclaje y reparaciones.","season":"General","id":"patrulla-v7-377","fact":"patrulla-v7-377","show":"patrulla","kind":"descarte"},{"block":"Rocky","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Rocky”?","a":"Verde","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Rocky es Verde.","season":"General","id":"patrulla-v7-378","fact":"patrulla-v7-378","show":"patrulla","kind":"descarte"},{"block":"Rocky","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Rocky”?","a":"Camión de reciclaje","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Rocky utiliza Camión de reciclaje.","season":"General","id":"patrulla-v7-379","fact":"patrulla-v7-379","show":"patrulla","kind":"descarte"},{"block":"Zuma","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Zuma”?","a":"Labrador chocolate","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Zuma es Labrador chocolate.","season":"General","id":"patrulla-v7-380","fact":"patrulla-v7-380","show":"patrulla","kind":"descarte"},{"block":"Zuma","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Zuma”?","a":"Rescate acuático","d":["Policía","Bombero y sanitario","Aviación"],"x":"Zuma se ocupa de Rescate acuático.","season":"General","id":"patrulla-v7-381","fact":"patrulla-v7-381","show":"patrulla","kind":"descarte"},{"block":"Zuma","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Zuma”?","a":"Naranja","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Zuma es Naranja.","season":"General","id":"patrulla-v7-382","fact":"patrulla-v7-382","show":"patrulla","kind":"descarte"},{"block":"Zuma","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Zuma”?","a":"Aerodeslizador","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Zuma utiliza Aerodeslizador.","season":"General","id":"patrulla-v7-383","fact":"patrulla-v7-383","show":"patrulla","kind":"descarte"},{"block":"Everest","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué tipo de perro es Everest”?","a":"Husky","d":["Pastor alemán","Dálmata","Cockapoo"],"x":"Everest es Husky.","season":"General","id":"patrulla-v7-384","fact":"patrulla-v7-384","show":"patrulla","kind":"descarte"},{"block":"Everest","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cuál es la especialidad de Everest”?","a":"Rescate en nieve","d":["Policía","Bombero y sanitario","Aviación"],"x":"Everest se ocupa de Rescate en nieve.","season":"General","id":"patrulla-v7-385","fact":"patrulla-v7-385","show":"patrulla","kind":"descarte"},{"block":"Everest","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “De qué color es el uniforme de Everest”?","a":"Turquesa","d":["Azul","Rojo","Rosa"],"x":"El uniforme de Everest es Turquesa.","season":"General","id":"patrulla-v7-386","fact":"patrulla-v7-386","show":"patrulla","kind":"descarte"},{"block":"Everest","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Everest”?","a":"Moto de nieve","d":["Coche policial","Camión de bomberos","Helicóptero"],"x":"Everest utiliza Moto de nieve.","season":"General","id":"patrulla-v7-387","fact":"patrulla-v7-387","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para un incendio”?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall tiene la especialidad adecuada para un incendio.","season":"General","id":"patrulla-v7-388","fact":"patrulla-v7-388","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para un barco averiado”?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma tiene la especialidad adecuada para un barco averiado.","season":"General","id":"patrulla-v7-389","fact":"patrulla-v7-389","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para un puente roto”?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble tiene la especialidad adecuada para un puente roto.","season":"General","id":"patrulla-v7-390","fact":"patrulla-v7-390","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para una carretera nevada”?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest tiene la especialidad adecuada para una carretera nevada.","season":"General","id":"patrulla-v7-391","fact":"patrulla-v7-391","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para un rescate aéreo”?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye tiene la especialidad adecuada para un rescate aéreo.","season":"General","id":"patrulla-v7-392","fact":"patrulla-v7-392","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para una investigación policial”?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase tiene la especialidad adecuada para una investigación policial.","season":"General","id":"patrulla-v7-393","fact":"patrulla-v7-393","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para reutilizar piezas”?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky tiene la especialidad adecuada para reutilizar piezas.","season":"General","id":"patrulla-v7-394","fact":"patrulla-v7-394","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para un gato en un tejado”?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall tiene la especialidad adecuada para un gato en un tejado.","season":"General","id":"patrulla-v7-395","fact":"patrulla-v7-395","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para un vehículo atrapado en barro”?","a":"Rubble","d":["Chase","Marshall","Skye"],"x":"Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.","season":"General","id":"patrulla-v7-396","fact":"patrulla-v7-396","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para una boya a la deriva”?","a":"Zuma","d":["Chase","Marshall","Skye"],"x":"Zuma tiene la especialidad adecuada para una boya a la deriva.","season":"General","id":"patrulla-v7-397","fact":"patrulla-v7-397","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para buscar desde el cielo”?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye tiene la especialidad adecuada para buscar desde el cielo.","season":"General","id":"patrulla-v7-398","fact":"patrulla-v7-398","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para seguir huellas”?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase tiene la especialidad adecuada para seguir huellas.","season":"General","id":"patrulla-v7-399","fact":"patrulla-v7-399","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para arreglar una máquina con chatarra”?","a":"Rocky","d":["Chase","Marshall","Skye"],"x":"Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.","season":"General","id":"patrulla-v7-400","fact":"patrulla-v7-400","show":"patrulla","kind":"descarte"},{"block":"Misiones","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro es la mejor elección para rescatar en una ventisca”?","a":"Everest","d":["Chase","Marshall","Skye"],"x":"Everest tiene la especialidad adecuada para rescatar en una ventisca.","season":"General","id":"patrulla-v7-401","fact":"patrulla-v7-401","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Quién dirige la Patrulla Canina”?","a":"Ryder","d":["Humdinger","Turbot","Jake"],"x":"Ryder es la respuesta correcta.","season":"General","id":"patrulla-v7-402","fact":"patrulla-v7-402","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Quién es la alcaldesa de Bahía Aventura”?","a":"Alcaldesa Goodway","d":["Alcalde Humdinger","Katie","Mandy"],"x":"Alcaldesa Goodway es la respuesta correcta.","season":"General","id":"patrulla-v7-403","fact":"patrulla-v7-403","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cómo se llama la gallina de la alcaldesa”?","a":"Chickaletta","d":["Cali","Mittens","Ella"],"x":"Chickaletta es la respuesta correcta.","season":"General","id":"patrulla-v7-404","fact":"patrulla-v7-404","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Quién es el rival travieso de Goodway”?","a":"Alcalde Humdinger","d":["Capitán Turbot","Jake","Farmer Al"],"x":"Alcalde Humdinger es la respuesta correcta.","season":"General","id":"patrulla-v7-405","fact":"patrulla-v7-405","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Quién cuida animales en su salón”?","a":"Katie","d":["Goodway","Mandy","Julia"],"x":"Katie es la respuesta correcta.","season":"General","id":"patrulla-v7-406","fact":"patrulla-v7-406","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Quién es experto en el mar y el faro”?","a":"Capitán Turbot","d":["Jake","Danny","Travis"],"x":"Capitán Turbot es la respuesta correcta.","season":"General","id":"patrulla-v7-407","fact":"patrulla-v7-407","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Dónde se reúne el equipo”?","a":"En la torre de control","d":["En el ayuntamiento","En una escuela","En un castillo"],"x":"En la torre de control es la respuesta correcta.","season":"General","id":"patrulla-v7-408","fact":"patrulla-v7-408","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cómo se llama la ciudad principal”?","a":"Bahía Aventura","d":["Ciudad Aventura","Bahía Niebla","Hawkins"],"x":"Bahía Aventura es la respuesta correcta.","season":"General","id":"patrulla-v7-409","fact":"patrulla-v7-409","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué vehículo usa Ryder”?","a":"Un quad","d":["Un tren","Un tractor","Un globo"],"x":"Un quad es la respuesta correcta.","season":"General","id":"patrulla-v7-410","fact":"patrulla-v7-410","show":"patrulla","kind":"descarte"},{"block":"General","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Cómo avisa Ryder a los cachorros”?","a":"Con sus Pup-Pads","d":["Con cartas","Con una campana","Con señales de humo"],"x":"Con sus Pup-Pads es la respuesta correcta.","season":"General","id":"patrulla-v7-411","fact":"patrulla-v7-411","show":"patrulla","kind":"descarte"},{"block":"Vehículos","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “A qué cachorro pertenece el vehículo “Coche policial””?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"El Coche policial pertenece a Chase.","season":"General","id":"patrulla-v7-412","fact":"patrulla-v7-412","show":"patrulla","kind":"descarte"},{"block":"Colores","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro viste principalmente de Azul”?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase viste principalmente de Azul.","season":"General","id":"patrulla-v7-413","fact":"patrulla-v7-413","show":"patrulla","kind":"descarte"},{"block":"Especialidades","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro destaca en policía”?","a":"Chase","d":["Marshall","Skye","Rubble"],"x":"Chase destaca en policía.","season":"General","id":"patrulla-v7-414","fact":"patrulla-v7-414","show":"patrulla","kind":"descarte"},{"block":"Vehículos","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “A qué cachorro pertenece el vehículo “Camión de bomberos””?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"El Camión de bomberos pertenece a Marshall.","season":"General","id":"patrulla-v7-415","fact":"patrulla-v7-415","show":"patrulla","kind":"descarte"},{"block":"Colores","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro viste principalmente de Rojo”?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall viste principalmente de Rojo.","season":"General","id":"patrulla-v7-416","fact":"patrulla-v7-416","show":"patrulla","kind":"descarte"},{"block":"Especialidades","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro destaca en bombero y sanitario”?","a":"Marshall","d":["Chase","Skye","Rubble"],"x":"Marshall destaca en bombero y sanitario.","season":"General","id":"patrulla-v7-417","fact":"patrulla-v7-417","show":"patrulla","kind":"descarte"},{"block":"Vehículos","difficulty":"Media","q":"Entre estas opciones, ¿cuál completa correctamente la pista “A qué cachorro pertenece el vehículo “Helicóptero””?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"El Helicóptero pertenece a Skye.","season":"General","id":"patrulla-v7-418","fact":"patrulla-v7-418","show":"patrulla","kind":"descarte"},{"block":"Colores","difficulty":"Fácil","q":"Entre estas opciones, ¿cuál completa correctamente la pista “Qué cachorro viste principalmente de Rosa”?","a":"Skye","d":["Chase","Marshall","Rubble"],"x":"Skye viste principalmente de Rosa.","season":"General","id":"patrulla-v7-419","fact":"patrulla-v7-419","show":"patrulla","kind":"descarte"}];
+window.BANK_PATRULLA=[
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Chase?",
+    "a": "Pastor alemán",
+    "d": [
+      "Dálmata",
+      "Cockapoo",
+      "Bulldog inglés"
+    ],
+    "x": "Chase: Pastor alemán.",
+    "season": "General",
+    "id": "patrulla-v12-0",
+    "fact": "patrulla-v12-0",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Chase es correcta?",
+    "a": "Chase: Pastor alemán.",
+    "d": [
+      "Chase: Dálmata.",
+      "Chase: Cockapoo.",
+      "Chase: Bulldog inglés."
+    ],
+    "x": "Chase: Pastor alemán.",
+    "season": "General",
+    "id": "patrulla-v12-1",
+    "fact": "patrulla-v12-1",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Chase: ________.",
+    "a": "Pastor alemán",
+    "d": [
+      "Dálmata",
+      "Cockapoo",
+      "Bulldog inglés"
+    ],
+    "x": "Chase: Pastor alemán.",
+    "season": "General",
+    "id": "patrulla-v12-2",
+    "fact": "patrulla-v12-2",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Chase?",
+    "a": "Policía",
+    "d": [
+      "Bombero y sanitario",
+      "Aviación",
+      "Construcción"
+    ],
+    "x": "Chase se ocupa de Policía.",
+    "season": "General",
+    "id": "patrulla-v12-3",
+    "fact": "patrulla-v12-3",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Chase es correcta?",
+    "a": "Chase se ocupa de Policía.",
+    "d": [
+      "Chase se ocupa de Bombero y sanitario.",
+      "Chase se ocupa de Aviación.",
+      "Chase se ocupa de Construcción."
+    ],
+    "x": "Chase se ocupa de Policía.",
+    "season": "General",
+    "id": "patrulla-v12-4",
+    "fact": "patrulla-v12-4",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Chase se ocupa de ________.",
+    "a": "Policía",
+    "d": [
+      "Bombero y sanitario",
+      "Aviación",
+      "Construcción"
+    ],
+    "x": "Chase se ocupa de Policía.",
+    "season": "General",
+    "id": "patrulla-v12-5",
+    "fact": "patrulla-v12-5",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Chase?",
+    "a": "Azul",
+    "d": [
+      "Rojo",
+      "Rosa",
+      "Amarillo"
+    ],
+    "x": "El uniforme de Chase: Azul.",
+    "season": "General",
+    "id": "patrulla-v12-6",
+    "fact": "patrulla-v12-6",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Chase es correcta?",
+    "a": "El uniforme de Chase: Azul.",
+    "d": [
+      "El uniforme de Chase: Rojo.",
+      "El uniforme de Chase: Rosa.",
+      "El uniforme de Chase: Amarillo."
+    ],
+    "x": "El uniforme de Chase: Azul.",
+    "season": "General",
+    "id": "patrulla-v12-7",
+    "fact": "patrulla-v12-7",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Chase: ________.",
+    "a": "Azul",
+    "d": [
+      "Rojo",
+      "Rosa",
+      "Amarillo"
+    ],
+    "x": "El uniforme de Chase: Azul.",
+    "season": "General",
+    "id": "patrulla-v12-8",
+    "fact": "patrulla-v12-8",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Chase?",
+    "a": "Coche policial",
+    "d": [
+      "Camión de bomberos",
+      "Helicóptero",
+      "Excavadora"
+    ],
+    "x": "Chase utiliza Coche policial.",
+    "season": "General",
+    "id": "patrulla-v12-9",
+    "fact": "patrulla-v12-9",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Chase es correcta?",
+    "a": "Chase utiliza Coche policial.",
+    "d": [
+      "Chase utiliza Camión de bomberos.",
+      "Chase utiliza Helicóptero.",
+      "Chase utiliza Excavadora."
+    ],
+    "x": "Chase utiliza Coche policial.",
+    "season": "General",
+    "id": "patrulla-v12-10",
+    "fact": "patrulla-v12-10",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chase",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Chase utiliza ________.",
+    "a": "Coche policial",
+    "d": [
+      "Camión de bomberos",
+      "Helicóptero",
+      "Excavadora"
+    ],
+    "x": "Chase utiliza Coche policial.",
+    "season": "General",
+    "id": "patrulla-v12-11",
+    "fact": "patrulla-v12-11",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Marshall?",
+    "a": "Dálmata",
+    "d": [
+      "Pastor alemán",
+      "Cockapoo",
+      "Bulldog inglés"
+    ],
+    "x": "Marshall: Dálmata.",
+    "season": "General",
+    "id": "patrulla-v12-12",
+    "fact": "patrulla-v12-12",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Marshall es correcta?",
+    "a": "Marshall: Dálmata.",
+    "d": [
+      "Marshall: Pastor alemán.",
+      "Marshall: Cockapoo.",
+      "Marshall: Bulldog inglés."
+    ],
+    "x": "Marshall: Dálmata.",
+    "season": "General",
+    "id": "patrulla-v12-13",
+    "fact": "patrulla-v12-13",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Marshall: ________.",
+    "a": "Dálmata",
+    "d": [
+      "Pastor alemán",
+      "Cockapoo",
+      "Bulldog inglés"
+    ],
+    "x": "Marshall: Dálmata.",
+    "season": "General",
+    "id": "patrulla-v12-14",
+    "fact": "patrulla-v12-14",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Marshall?",
+    "a": "Bombero y sanitario",
+    "d": [
+      "Policía",
+      "Aviación",
+      "Construcción"
+    ],
+    "x": "Marshall se ocupa de Bombero y sanitario.",
+    "season": "General",
+    "id": "patrulla-v12-15",
+    "fact": "patrulla-v12-15",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Marshall es correcta?",
+    "a": "Marshall se ocupa de Bombero y sanitario.",
+    "d": [
+      "Marshall se ocupa de Policía.",
+      "Marshall se ocupa de Aviación.",
+      "Marshall se ocupa de Construcción."
+    ],
+    "x": "Marshall se ocupa de Bombero y sanitario.",
+    "season": "General",
+    "id": "patrulla-v12-16",
+    "fact": "patrulla-v12-16",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Marshall se ocupa de ________.",
+    "a": "Bombero y sanitario",
+    "d": [
+      "Policía",
+      "Aviación",
+      "Construcción"
+    ],
+    "x": "Marshall se ocupa de Bombero y sanitario.",
+    "season": "General",
+    "id": "patrulla-v12-17",
+    "fact": "patrulla-v12-17",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Marshall?",
+    "a": "Rojo",
+    "d": [
+      "Azul",
+      "Rosa",
+      "Amarillo"
+    ],
+    "x": "El uniforme de Marshall: Rojo.",
+    "season": "General",
+    "id": "patrulla-v12-18",
+    "fact": "patrulla-v12-18",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Marshall es correcta?",
+    "a": "El uniforme de Marshall: Rojo.",
+    "d": [
+      "El uniforme de Marshall: Azul.",
+      "El uniforme de Marshall: Rosa.",
+      "El uniforme de Marshall: Amarillo."
+    ],
+    "x": "El uniforme de Marshall: Rojo.",
+    "season": "General",
+    "id": "patrulla-v12-19",
+    "fact": "patrulla-v12-19",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Marshall: ________.",
+    "a": "Rojo",
+    "d": [
+      "Azul",
+      "Rosa",
+      "Amarillo"
+    ],
+    "x": "El uniforme de Marshall: Rojo.",
+    "season": "General",
+    "id": "patrulla-v12-20",
+    "fact": "patrulla-v12-20",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Marshall?",
+    "a": "Camión de bomberos",
+    "d": [
+      "Coche policial",
+      "Helicóptero",
+      "Excavadora"
+    ],
+    "x": "Marshall utiliza Camión de bomberos.",
+    "season": "General",
+    "id": "patrulla-v12-21",
+    "fact": "patrulla-v12-21",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Marshall es correcta?",
+    "a": "Marshall utiliza Camión de bomberos.",
+    "d": [
+      "Marshall utiliza Coche policial.",
+      "Marshall utiliza Helicóptero.",
+      "Marshall utiliza Excavadora."
+    ],
+    "x": "Marshall utiliza Camión de bomberos.",
+    "season": "General",
+    "id": "patrulla-v12-22",
+    "fact": "patrulla-v12-22",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Marshall",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Marshall utiliza ________.",
+    "a": "Camión de bomberos",
+    "d": [
+      "Coche policial",
+      "Helicóptero",
+      "Excavadora"
+    ],
+    "x": "Marshall utiliza Camión de bomberos.",
+    "season": "General",
+    "id": "patrulla-v12-23",
+    "fact": "patrulla-v12-23",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Skye?",
+    "a": "Cockapoo",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Bulldog inglés"
+    ],
+    "x": "Skye: Cockapoo.",
+    "season": "General",
+    "id": "patrulla-v12-24",
+    "fact": "patrulla-v12-24",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Skye es correcta?",
+    "a": "Skye: Cockapoo.",
+    "d": [
+      "Skye: Pastor alemán.",
+      "Skye: Dálmata.",
+      "Skye: Bulldog inglés."
+    ],
+    "x": "Skye: Cockapoo.",
+    "season": "General",
+    "id": "patrulla-v12-25",
+    "fact": "patrulla-v12-25",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Skye: ________.",
+    "a": "Cockapoo",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Bulldog inglés"
+    ],
+    "x": "Skye: Cockapoo.",
+    "season": "General",
+    "id": "patrulla-v12-26",
+    "fact": "patrulla-v12-26",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Skye?",
+    "a": "Aviación",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Construcción"
+    ],
+    "x": "Skye se ocupa de Aviación.",
+    "season": "General",
+    "id": "patrulla-v12-27",
+    "fact": "patrulla-v12-27",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Skye es correcta?",
+    "a": "Skye se ocupa de Aviación.",
+    "d": [
+      "Skye se ocupa de Policía.",
+      "Skye se ocupa de Bombero y sanitario.",
+      "Skye se ocupa de Construcción."
+    ],
+    "x": "Skye se ocupa de Aviación.",
+    "season": "General",
+    "id": "patrulla-v12-28",
+    "fact": "patrulla-v12-28",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Skye se ocupa de ________.",
+    "a": "Aviación",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Construcción"
+    ],
+    "x": "Skye se ocupa de Aviación.",
+    "season": "General",
+    "id": "patrulla-v12-29",
+    "fact": "patrulla-v12-29",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Skye?",
+    "a": "Rosa",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Amarillo"
+    ],
+    "x": "El uniforme de Skye: Rosa.",
+    "season": "General",
+    "id": "patrulla-v12-30",
+    "fact": "patrulla-v12-30",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Skye es correcta?",
+    "a": "El uniforme de Skye: Rosa.",
+    "d": [
+      "El uniforme de Skye: Azul.",
+      "El uniforme de Skye: Rojo.",
+      "El uniforme de Skye: Amarillo."
+    ],
+    "x": "El uniforme de Skye: Rosa.",
+    "season": "General",
+    "id": "patrulla-v12-31",
+    "fact": "patrulla-v12-31",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Skye: ________.",
+    "a": "Rosa",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Amarillo"
+    ],
+    "x": "El uniforme de Skye: Rosa.",
+    "season": "General",
+    "id": "patrulla-v12-32",
+    "fact": "patrulla-v12-32",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Skye?",
+    "a": "Helicóptero",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Excavadora"
+    ],
+    "x": "Skye utiliza Helicóptero.",
+    "season": "General",
+    "id": "patrulla-v12-33",
+    "fact": "patrulla-v12-33",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Skye es correcta?",
+    "a": "Skye utiliza Helicóptero.",
+    "d": [
+      "Skye utiliza Coche policial.",
+      "Skye utiliza Camión de bomberos.",
+      "Skye utiliza Excavadora."
+    ],
+    "x": "Skye utiliza Helicóptero.",
+    "season": "General",
+    "id": "patrulla-v12-34",
+    "fact": "patrulla-v12-34",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Skye",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Skye utiliza ________.",
+    "a": "Helicóptero",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Excavadora"
+    ],
+    "x": "Skye utiliza Helicóptero.",
+    "season": "General",
+    "id": "patrulla-v12-35",
+    "fact": "patrulla-v12-35",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Rubble?",
+    "a": "Bulldog inglés",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Rubble: Bulldog inglés.",
+    "season": "General",
+    "id": "patrulla-v12-36",
+    "fact": "patrulla-v12-36",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rubble es correcta?",
+    "a": "Rubble: Bulldog inglés.",
+    "d": [
+      "Rubble: Pastor alemán.",
+      "Rubble: Dálmata.",
+      "Rubble: Cockapoo."
+    ],
+    "x": "Rubble: Bulldog inglés.",
+    "season": "General",
+    "id": "patrulla-v12-37",
+    "fact": "patrulla-v12-37",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Rubble: ________.",
+    "a": "Bulldog inglés",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Rubble: Bulldog inglés.",
+    "season": "General",
+    "id": "patrulla-v12-38",
+    "fact": "patrulla-v12-38",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Rubble?",
+    "a": "Construcción",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Rubble se ocupa de Construcción.",
+    "season": "General",
+    "id": "patrulla-v12-39",
+    "fact": "patrulla-v12-39",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rubble es correcta?",
+    "a": "Rubble se ocupa de Construcción.",
+    "d": [
+      "Rubble se ocupa de Policía.",
+      "Rubble se ocupa de Bombero y sanitario.",
+      "Rubble se ocupa de Aviación."
+    ],
+    "x": "Rubble se ocupa de Construcción.",
+    "season": "General",
+    "id": "patrulla-v12-40",
+    "fact": "patrulla-v12-40",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Rubble se ocupa de ________.",
+    "a": "Construcción",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Rubble se ocupa de Construcción.",
+    "season": "General",
+    "id": "patrulla-v12-41",
+    "fact": "patrulla-v12-41",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Rubble?",
+    "a": "Amarillo",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Rubble: Amarillo.",
+    "season": "General",
+    "id": "patrulla-v12-42",
+    "fact": "patrulla-v12-42",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rubble es correcta?",
+    "a": "El uniforme de Rubble: Amarillo.",
+    "d": [
+      "El uniforme de Rubble: Azul.",
+      "El uniforme de Rubble: Rojo.",
+      "El uniforme de Rubble: Rosa."
+    ],
+    "x": "El uniforme de Rubble: Amarillo.",
+    "season": "General",
+    "id": "patrulla-v12-43",
+    "fact": "patrulla-v12-43",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Rubble: ________.",
+    "a": "Amarillo",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Rubble: Amarillo.",
+    "season": "General",
+    "id": "patrulla-v12-44",
+    "fact": "patrulla-v12-44",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Rubble?",
+    "a": "Excavadora",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Rubble utiliza Excavadora.",
+    "season": "General",
+    "id": "patrulla-v12-45",
+    "fact": "patrulla-v12-45",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Rubble es correcta?",
+    "a": "Rubble utiliza Excavadora.",
+    "d": [
+      "Rubble utiliza Coche policial.",
+      "Rubble utiliza Camión de bomberos.",
+      "Rubble utiliza Helicóptero."
+    ],
+    "x": "Rubble utiliza Excavadora.",
+    "season": "General",
+    "id": "patrulla-v12-46",
+    "fact": "patrulla-v12-46",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rubble",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Rubble utiliza ________.",
+    "a": "Excavadora",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Rubble utiliza Excavadora.",
+    "season": "General",
+    "id": "patrulla-v12-47",
+    "fact": "patrulla-v12-47",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Rocky?",
+    "a": "Mestizo",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Rocky: Mestizo.",
+    "season": "General",
+    "id": "patrulla-v12-48",
+    "fact": "patrulla-v12-48",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rocky es correcta?",
+    "a": "Rocky: Mestizo.",
+    "d": [
+      "Rocky: Pastor alemán.",
+      "Rocky: Dálmata.",
+      "Rocky: Cockapoo."
+    ],
+    "x": "Rocky: Mestizo.",
+    "season": "General",
+    "id": "patrulla-v12-49",
+    "fact": "patrulla-v12-49",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Rocky: ________.",
+    "a": "Mestizo",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Rocky: Mestizo.",
+    "season": "General",
+    "id": "patrulla-v12-50",
+    "fact": "patrulla-v12-50",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Rocky?",
+    "a": "Reciclaje y reparaciones",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Rocky se ocupa de Reciclaje y reparaciones.",
+    "season": "General",
+    "id": "patrulla-v12-51",
+    "fact": "patrulla-v12-51",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rocky es correcta?",
+    "a": "Rocky se ocupa de Reciclaje y reparaciones.",
+    "d": [
+      "Rocky se ocupa de Policía.",
+      "Rocky se ocupa de Bombero y sanitario.",
+      "Rocky se ocupa de Aviación."
+    ],
+    "x": "Rocky se ocupa de Reciclaje y reparaciones.",
+    "season": "General",
+    "id": "patrulla-v12-52",
+    "fact": "patrulla-v12-52",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Rocky se ocupa de ________.",
+    "a": "Reciclaje y reparaciones",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Rocky se ocupa de Reciclaje y reparaciones.",
+    "season": "General",
+    "id": "patrulla-v12-53",
+    "fact": "patrulla-v12-53",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Rocky?",
+    "a": "Verde",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Rocky: Verde.",
+    "season": "General",
+    "id": "patrulla-v12-54",
+    "fact": "patrulla-v12-54",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rocky es correcta?",
+    "a": "El uniforme de Rocky: Verde.",
+    "d": [
+      "El uniforme de Rocky: Azul.",
+      "El uniforme de Rocky: Rojo.",
+      "El uniforme de Rocky: Rosa."
+    ],
+    "x": "El uniforme de Rocky: Verde.",
+    "season": "General",
+    "id": "patrulla-v12-55",
+    "fact": "patrulla-v12-55",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Rocky: ________.",
+    "a": "Verde",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Rocky: Verde.",
+    "season": "General",
+    "id": "patrulla-v12-56",
+    "fact": "patrulla-v12-56",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Rocky?",
+    "a": "Camión de reciclaje",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Rocky utiliza Camión de reciclaje.",
+    "season": "General",
+    "id": "patrulla-v12-57",
+    "fact": "patrulla-v12-57",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Rocky es correcta?",
+    "a": "Rocky utiliza Camión de reciclaje.",
+    "d": [
+      "Rocky utiliza Coche policial.",
+      "Rocky utiliza Camión de bomberos.",
+      "Rocky utiliza Helicóptero."
+    ],
+    "x": "Rocky utiliza Camión de reciclaje.",
+    "season": "General",
+    "id": "patrulla-v12-58",
+    "fact": "patrulla-v12-58",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rocky",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Rocky utiliza ________.",
+    "a": "Camión de reciclaje",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Rocky utiliza Camión de reciclaje.",
+    "season": "General",
+    "id": "patrulla-v12-59",
+    "fact": "patrulla-v12-59",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Zuma?",
+    "a": "Labrador chocolate",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Zuma: Labrador chocolate.",
+    "season": "General",
+    "id": "patrulla-v12-60",
+    "fact": "patrulla-v12-60",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Zuma es correcta?",
+    "a": "Zuma: Labrador chocolate.",
+    "d": [
+      "Zuma: Pastor alemán.",
+      "Zuma: Dálmata.",
+      "Zuma: Cockapoo."
+    ],
+    "x": "Zuma: Labrador chocolate.",
+    "season": "General",
+    "id": "patrulla-v12-61",
+    "fact": "patrulla-v12-61",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Zuma: ________.",
+    "a": "Labrador chocolate",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Zuma: Labrador chocolate.",
+    "season": "General",
+    "id": "patrulla-v12-62",
+    "fact": "patrulla-v12-62",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Zuma?",
+    "a": "Rescate acuático",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Zuma se ocupa de Rescate acuático.",
+    "season": "General",
+    "id": "patrulla-v12-63",
+    "fact": "patrulla-v12-63",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Zuma es correcta?",
+    "a": "Zuma se ocupa de Rescate acuático.",
+    "d": [
+      "Zuma se ocupa de Policía.",
+      "Zuma se ocupa de Bombero y sanitario.",
+      "Zuma se ocupa de Aviación."
+    ],
+    "x": "Zuma se ocupa de Rescate acuático.",
+    "season": "General",
+    "id": "patrulla-v12-64",
+    "fact": "patrulla-v12-64",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Zuma se ocupa de ________.",
+    "a": "Rescate acuático",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Zuma se ocupa de Rescate acuático.",
+    "season": "General",
+    "id": "patrulla-v12-65",
+    "fact": "patrulla-v12-65",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Zuma?",
+    "a": "Naranja",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Zuma: Naranja.",
+    "season": "General",
+    "id": "patrulla-v12-66",
+    "fact": "patrulla-v12-66",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Zuma es correcta?",
+    "a": "El uniforme de Zuma: Naranja.",
+    "d": [
+      "El uniforme de Zuma: Azul.",
+      "El uniforme de Zuma: Rojo.",
+      "El uniforme de Zuma: Rosa."
+    ],
+    "x": "El uniforme de Zuma: Naranja.",
+    "season": "General",
+    "id": "patrulla-v12-67",
+    "fact": "patrulla-v12-67",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Zuma: ________.",
+    "a": "Naranja",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Zuma: Naranja.",
+    "season": "General",
+    "id": "patrulla-v12-68",
+    "fact": "patrulla-v12-68",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Zuma?",
+    "a": "Aerodeslizador",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Zuma utiliza Aerodeslizador.",
+    "season": "General",
+    "id": "patrulla-v12-69",
+    "fact": "patrulla-v12-69",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Zuma es correcta?",
+    "a": "Zuma utiliza Aerodeslizador.",
+    "d": [
+      "Zuma utiliza Coche policial.",
+      "Zuma utiliza Camión de bomberos.",
+      "Zuma utiliza Helicóptero."
+    ],
+    "x": "Zuma utiliza Aerodeslizador.",
+    "season": "General",
+    "id": "patrulla-v12-70",
+    "fact": "patrulla-v12-70",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Zuma",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Zuma utiliza ________.",
+    "a": "Aerodeslizador",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Zuma utiliza Aerodeslizador.",
+    "season": "General",
+    "id": "patrulla-v12-71",
+    "fact": "patrulla-v12-71",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "¿Qué tipo de perro es Everest?",
+    "a": "Husky",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Everest: Husky.",
+    "season": "General",
+    "id": "patrulla-v12-72",
+    "fact": "patrulla-v12-72",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Everest es correcta?",
+    "a": "Everest: Husky.",
+    "d": [
+      "Everest: Pastor alemán.",
+      "Everest: Dálmata.",
+      "Everest: Cockapoo."
+    ],
+    "x": "Everest: Husky.",
+    "season": "General",
+    "id": "patrulla-v12-73",
+    "fact": "patrulla-v12-73",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Everest: ________.",
+    "a": "Husky",
+    "d": [
+      "Pastor alemán",
+      "Dálmata",
+      "Cockapoo"
+    ],
+    "x": "Everest: Husky.",
+    "season": "General",
+    "id": "patrulla-v12-74",
+    "fact": "patrulla-v12-74",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la especialidad de Everest?",
+    "a": "Rescate en nieve",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Everest se ocupa de Rescate en nieve.",
+    "season": "General",
+    "id": "patrulla-v12-75",
+    "fact": "patrulla-v12-75",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Everest es correcta?",
+    "a": "Everest se ocupa de Rescate en nieve.",
+    "d": [
+      "Everest se ocupa de Policía.",
+      "Everest se ocupa de Bombero y sanitario.",
+      "Everest se ocupa de Aviación."
+    ],
+    "x": "Everest se ocupa de Rescate en nieve.",
+    "season": "General",
+    "id": "patrulla-v12-76",
+    "fact": "patrulla-v12-76",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Everest se ocupa de ________.",
+    "a": "Rescate en nieve",
+    "d": [
+      "Policía",
+      "Bombero y sanitario",
+      "Aviación"
+    ],
+    "x": "Everest se ocupa de Rescate en nieve.",
+    "season": "General",
+    "id": "patrulla-v12-77",
+    "fact": "patrulla-v12-77",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es el uniforme de Everest?",
+    "a": "Turquesa",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Everest: Turquesa.",
+    "season": "General",
+    "id": "patrulla-v12-78",
+    "fact": "patrulla-v12-78",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Everest es correcta?",
+    "a": "El uniforme de Everest: Turquesa.",
+    "d": [
+      "El uniforme de Everest: Azul.",
+      "El uniforme de Everest: Rojo.",
+      "El uniforme de Everest: Rosa."
+    ],
+    "x": "El uniforme de Everest: Turquesa.",
+    "season": "General",
+    "id": "patrulla-v12-79",
+    "fact": "patrulla-v12-79",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: El uniforme de Everest: ________.",
+    "a": "Turquesa",
+    "d": [
+      "Azul",
+      "Rojo",
+      "Rosa"
+    ],
+    "x": "El uniforme de Everest: Turquesa.",
+    "season": "General",
+    "id": "patrulla-v12-80",
+    "fact": "patrulla-v12-80",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Media",
+    "q": "¿Qué vehículo usa Everest?",
+    "a": "Moto de nieve",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Everest utiliza Moto de nieve.",
+    "season": "General",
+    "id": "patrulla-v12-81",
+    "fact": "patrulla-v12-81",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Everest es correcta?",
+    "a": "Everest utiliza Moto de nieve.",
+    "d": [
+      "Everest utiliza Coche policial.",
+      "Everest utiliza Camión de bomberos.",
+      "Everest utiliza Helicóptero."
+    ],
+    "x": "Everest utiliza Moto de nieve.",
+    "season": "General",
+    "id": "patrulla-v12-82",
+    "fact": "patrulla-v12-82",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Everest",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Everest utiliza ________.",
+    "a": "Moto de nieve",
+    "d": [
+      "Coche policial",
+      "Camión de bomberos",
+      "Helicóptero"
+    ],
+    "x": "Everest utiliza Moto de nieve.",
+    "season": "General",
+    "id": "patrulla-v12-83",
+    "fact": "patrulla-v12-83",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para un incendio?",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall tiene la especialidad adecuada para un incendio.",
+    "season": "General",
+    "id": "patrulla-v12-84",
+    "fact": "patrulla-v12-84",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Marshall tiene la especialidad adecuada para un incendio.",
+    "d": [
+      "Chase tiene la especialidad adecuada para un incendio.",
+      "Skye tiene la especialidad adecuada para un incendio.",
+      "Rubble tiene la especialidad adecuada para un incendio."
+    ],
+    "x": "Marshall tiene la especialidad adecuada para un incendio.",
+    "season": "General",
+    "id": "patrulla-v12-85",
+    "fact": "patrulla-v12-85",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para un incendio.",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall tiene la especialidad adecuada para un incendio.",
+    "season": "General",
+    "id": "patrulla-v12-86",
+    "fact": "patrulla-v12-86",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para un barco averiado?",
+    "a": "Zuma",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Zuma tiene la especialidad adecuada para un barco averiado.",
+    "season": "General",
+    "id": "patrulla-v12-87",
+    "fact": "patrulla-v12-87",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Zuma tiene la especialidad adecuada para un barco averiado.",
+    "d": [
+      "Chase tiene la especialidad adecuada para un barco averiado.",
+      "Marshall tiene la especialidad adecuada para un barco averiado.",
+      "Skye tiene la especialidad adecuada para un barco averiado."
+    ],
+    "x": "Zuma tiene la especialidad adecuada para un barco averiado.",
+    "season": "General",
+    "id": "patrulla-v12-88",
+    "fact": "patrulla-v12-88",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para un barco averiado.",
+    "a": "Zuma",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Zuma tiene la especialidad adecuada para un barco averiado.",
+    "season": "General",
+    "id": "patrulla-v12-89",
+    "fact": "patrulla-v12-89",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para un puente roto?",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble tiene la especialidad adecuada para un puente roto.",
+    "season": "General",
+    "id": "patrulla-v12-90",
+    "fact": "patrulla-v12-90",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Rubble tiene la especialidad adecuada para un puente roto.",
+    "d": [
+      "Chase tiene la especialidad adecuada para un puente roto.",
+      "Marshall tiene la especialidad adecuada para un puente roto.",
+      "Skye tiene la especialidad adecuada para un puente roto."
+    ],
+    "x": "Rubble tiene la especialidad adecuada para un puente roto.",
+    "season": "General",
+    "id": "patrulla-v12-91",
+    "fact": "patrulla-v12-91",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para un puente roto.",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble tiene la especialidad adecuada para un puente roto.",
+    "season": "General",
+    "id": "patrulla-v12-92",
+    "fact": "patrulla-v12-92",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para una carretera nevada?",
+    "a": "Everest",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Everest tiene la especialidad adecuada para una carretera nevada.",
+    "season": "General",
+    "id": "patrulla-v12-93",
+    "fact": "patrulla-v12-93",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Everest tiene la especialidad adecuada para una carretera nevada.",
+    "d": [
+      "Chase tiene la especialidad adecuada para una carretera nevada.",
+      "Marshall tiene la especialidad adecuada para una carretera nevada.",
+      "Skye tiene la especialidad adecuada para una carretera nevada."
+    ],
+    "x": "Everest tiene la especialidad adecuada para una carretera nevada.",
+    "season": "General",
+    "id": "patrulla-v12-94",
+    "fact": "patrulla-v12-94",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para una carretera nevada.",
+    "a": "Everest",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Everest tiene la especialidad adecuada para una carretera nevada.",
+    "season": "General",
+    "id": "patrulla-v12-95",
+    "fact": "patrulla-v12-95",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para un rescate aéreo?",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye tiene la especialidad adecuada para un rescate aéreo.",
+    "season": "General",
+    "id": "patrulla-v12-96",
+    "fact": "patrulla-v12-96",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Skye tiene la especialidad adecuada para un rescate aéreo.",
+    "d": [
+      "Chase tiene la especialidad adecuada para un rescate aéreo.",
+      "Marshall tiene la especialidad adecuada para un rescate aéreo.",
+      "Rubble tiene la especialidad adecuada para un rescate aéreo."
+    ],
+    "x": "Skye tiene la especialidad adecuada para un rescate aéreo.",
+    "season": "General",
+    "id": "patrulla-v12-97",
+    "fact": "patrulla-v12-97",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para un rescate aéreo.",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye tiene la especialidad adecuada para un rescate aéreo.",
+    "season": "General",
+    "id": "patrulla-v12-98",
+    "fact": "patrulla-v12-98",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para una investigación policial?",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase tiene la especialidad adecuada para una investigación policial.",
+    "season": "General",
+    "id": "patrulla-v12-99",
+    "fact": "patrulla-v12-99",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Chase tiene la especialidad adecuada para una investigación policial.",
+    "d": [
+      "Marshall tiene la especialidad adecuada para una investigación policial.",
+      "Skye tiene la especialidad adecuada para una investigación policial.",
+      "Rubble tiene la especialidad adecuada para una investigación policial."
+    ],
+    "x": "Chase tiene la especialidad adecuada para una investigación policial.",
+    "season": "General",
+    "id": "patrulla-v12-100",
+    "fact": "patrulla-v12-100",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para una investigación policial.",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase tiene la especialidad adecuada para una investigación policial.",
+    "season": "General",
+    "id": "patrulla-v12-101",
+    "fact": "patrulla-v12-101",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para reutilizar piezas?",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky tiene la especialidad adecuada para reutilizar piezas.",
+    "season": "General",
+    "id": "patrulla-v12-102",
+    "fact": "patrulla-v12-102",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Rocky tiene la especialidad adecuada para reutilizar piezas.",
+    "d": [
+      "Chase tiene la especialidad adecuada para reutilizar piezas.",
+      "Marshall tiene la especialidad adecuada para reutilizar piezas.",
+      "Skye tiene la especialidad adecuada para reutilizar piezas."
+    ],
+    "x": "Rocky tiene la especialidad adecuada para reutilizar piezas.",
+    "season": "General",
+    "id": "patrulla-v12-103",
+    "fact": "patrulla-v12-103",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para reutilizar piezas.",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky tiene la especialidad adecuada para reutilizar piezas.",
+    "season": "General",
+    "id": "patrulla-v12-104",
+    "fact": "patrulla-v12-104",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para un gato en un tejado?",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall tiene la especialidad adecuada para un gato en un tejado.",
+    "season": "General",
+    "id": "patrulla-v12-105",
+    "fact": "patrulla-v12-105",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Marshall tiene la especialidad adecuada para un gato en un tejado.",
+    "d": [
+      "Chase tiene la especialidad adecuada para un gato en un tejado.",
+      "Skye tiene la especialidad adecuada para un gato en un tejado.",
+      "Rubble tiene la especialidad adecuada para un gato en un tejado."
+    ],
+    "x": "Marshall tiene la especialidad adecuada para un gato en un tejado.",
+    "season": "General",
+    "id": "patrulla-v12-106",
+    "fact": "patrulla-v12-106",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para un gato en un tejado.",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall tiene la especialidad adecuada para un gato en un tejado.",
+    "season": "General",
+    "id": "patrulla-v12-107",
+    "fact": "patrulla-v12-107",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para un vehículo atrapado en barro?",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.",
+    "season": "General",
+    "id": "patrulla-v12-108",
+    "fact": "patrulla-v12-108",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.",
+    "d": [
+      "Chase tiene la especialidad adecuada para un vehículo atrapado en barro.",
+      "Marshall tiene la especialidad adecuada para un vehículo atrapado en barro.",
+      "Skye tiene la especialidad adecuada para un vehículo atrapado en barro."
+    ],
+    "x": "Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.",
+    "season": "General",
+    "id": "patrulla-v12-109",
+    "fact": "patrulla-v12-109",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para un vehículo atrapado en barro.",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble tiene la especialidad adecuada para un vehículo atrapado en barro.",
+    "season": "General",
+    "id": "patrulla-v12-110",
+    "fact": "patrulla-v12-110",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para una boya a la deriva?",
+    "a": "Zuma",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Zuma tiene la especialidad adecuada para una boya a la deriva.",
+    "season": "General",
+    "id": "patrulla-v12-111",
+    "fact": "patrulla-v12-111",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Zuma tiene la especialidad adecuada para una boya a la deriva.",
+    "d": [
+      "Chase tiene la especialidad adecuada para una boya a la deriva.",
+      "Marshall tiene la especialidad adecuada para una boya a la deriva.",
+      "Skye tiene la especialidad adecuada para una boya a la deriva."
+    ],
+    "x": "Zuma tiene la especialidad adecuada para una boya a la deriva.",
+    "season": "General",
+    "id": "patrulla-v12-112",
+    "fact": "patrulla-v12-112",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para una boya a la deriva.",
+    "a": "Zuma",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Zuma tiene la especialidad adecuada para una boya a la deriva.",
+    "season": "General",
+    "id": "patrulla-v12-113",
+    "fact": "patrulla-v12-113",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para buscar desde el cielo?",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye tiene la especialidad adecuada para buscar desde el cielo.",
+    "season": "General",
+    "id": "patrulla-v12-114",
+    "fact": "patrulla-v12-114",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Skye tiene la especialidad adecuada para buscar desde el cielo.",
+    "d": [
+      "Chase tiene la especialidad adecuada para buscar desde el cielo.",
+      "Marshall tiene la especialidad adecuada para buscar desde el cielo.",
+      "Rubble tiene la especialidad adecuada para buscar desde el cielo."
+    ],
+    "x": "Skye tiene la especialidad adecuada para buscar desde el cielo.",
+    "season": "General",
+    "id": "patrulla-v12-115",
+    "fact": "patrulla-v12-115",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para buscar desde el cielo.",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye tiene la especialidad adecuada para buscar desde el cielo.",
+    "season": "General",
+    "id": "patrulla-v12-116",
+    "fact": "patrulla-v12-116",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para seguir huellas?",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase tiene la especialidad adecuada para seguir huellas.",
+    "season": "General",
+    "id": "patrulla-v12-117",
+    "fact": "patrulla-v12-117",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Chase tiene la especialidad adecuada para seguir huellas.",
+    "d": [
+      "Marshall tiene la especialidad adecuada para seguir huellas.",
+      "Skye tiene la especialidad adecuada para seguir huellas.",
+      "Rubble tiene la especialidad adecuada para seguir huellas."
+    ],
+    "x": "Chase tiene la especialidad adecuada para seguir huellas.",
+    "season": "General",
+    "id": "patrulla-v12-118",
+    "fact": "patrulla-v12-118",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para seguir huellas.",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase tiene la especialidad adecuada para seguir huellas.",
+    "season": "General",
+    "id": "patrulla-v12-119",
+    "fact": "patrulla-v12-119",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para arreglar una máquina con chatarra?",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+    "season": "General",
+    "id": "patrulla-v12-120",
+    "fact": "patrulla-v12-120",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+    "d": [
+      "Chase tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+      "Marshall tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+      "Skye tiene la especialidad adecuada para arreglar una máquina con chatarra."
+    ],
+    "x": "Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+    "season": "General",
+    "id": "patrulla-v12-121",
+    "fact": "patrulla-v12-121",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky tiene la especialidad adecuada para arreglar una máquina con chatarra.",
+    "season": "General",
+    "id": "patrulla-v12-122",
+    "fact": "patrulla-v12-122",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro es la mejor elección para rescatar en una ventisca?",
+    "a": "Everest",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Everest tiene la especialidad adecuada para rescatar en una ventisca.",
+    "season": "General",
+    "id": "patrulla-v12-123",
+    "fact": "patrulla-v12-123",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Misiones es correcta?",
+    "a": "Everest tiene la especialidad adecuada para rescatar en una ventisca.",
+    "d": [
+      "Chase tiene la especialidad adecuada para rescatar en una ventisca.",
+      "Marshall tiene la especialidad adecuada para rescatar en una ventisca.",
+      "Skye tiene la especialidad adecuada para rescatar en una ventisca."
+    ],
+    "x": "Everest tiene la especialidad adecuada para rescatar en una ventisca.",
+    "season": "General",
+    "id": "patrulla-v12-124",
+    "fact": "patrulla-v12-124",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Misiones",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ tiene la especialidad adecuada para rescatar en una ventisca.",
+    "a": "Everest",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Everest tiene la especialidad adecuada para rescatar en una ventisca.",
+    "season": "General",
+    "id": "patrulla-v12-125",
+    "fact": "patrulla-v12-125",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Quién dirige la Patrulla Canina?",
+    "a": "Ryder",
+    "d": [
+      "Humdinger",
+      "Turbot",
+      "Jake"
+    ],
+    "x": "Solución: Ryder.",
+    "season": "General",
+    "id": "patrulla-v12-126",
+    "fact": "patrulla-v12-126",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Ryder.",
+    "d": [
+      "Solución: Humdinger.",
+      "Solución: Turbot.",
+      "Solución: Jake."
+    ],
+    "x": "Solución: Ryder.",
+    "season": "General",
+    "id": "patrulla-v12-127",
+    "fact": "patrulla-v12-127",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Ryder",
+    "d": [
+      "Humdinger",
+      "Turbot",
+      "Jake"
+    ],
+    "x": "Solución: Ryder.",
+    "season": "General",
+    "id": "patrulla-v12-128",
+    "fact": "patrulla-v12-128",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Quién es la alcaldesa de Bahía Aventura?",
+    "a": "Alcaldesa Goodway",
+    "d": [
+      "Alcalde Humdinger",
+      "Katie",
+      "Mandy"
+    ],
+    "x": "Solución: Alcaldesa Goodway.",
+    "season": "General",
+    "id": "patrulla-v12-129",
+    "fact": "patrulla-v12-129",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Alcaldesa Goodway.",
+    "d": [
+      "Solución: Alcalde Humdinger.",
+      "Solución: Katie.",
+      "Solución: Mandy."
+    ],
+    "x": "Solución: Alcaldesa Goodway.",
+    "season": "General",
+    "id": "patrulla-v12-130",
+    "fact": "patrulla-v12-130",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Alcaldesa Goodway",
+    "d": [
+      "Alcalde Humdinger",
+      "Katie",
+      "Mandy"
+    ],
+    "x": "Solución: Alcaldesa Goodway.",
+    "season": "General",
+    "id": "patrulla-v12-131",
+    "fact": "patrulla-v12-131",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la gallina de la alcaldesa?",
+    "a": "Chickaletta",
+    "d": [
+      "Cali",
+      "Mittens",
+      "Ella"
+    ],
+    "x": "Solución: Chickaletta.",
+    "season": "General",
+    "id": "patrulla-v12-132",
+    "fact": "patrulla-v12-132",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Chickaletta.",
+    "d": [
+      "Solución: Cali.",
+      "Solución: Mittens.",
+      "Solución: Ella."
+    ],
+    "x": "Solución: Chickaletta.",
+    "season": "General",
+    "id": "patrulla-v12-133",
+    "fact": "patrulla-v12-133",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Chickaletta",
+    "d": [
+      "Cali",
+      "Mittens",
+      "Ella"
+    ],
+    "x": "Solución: Chickaletta.",
+    "season": "General",
+    "id": "patrulla-v12-134",
+    "fact": "patrulla-v12-134",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Quién es el rival travieso de Goodway?",
+    "a": "Alcalde Humdinger",
+    "d": [
+      "Capitán Turbot",
+      "Jake",
+      "Farmer Al"
+    ],
+    "x": "Solución: Alcalde Humdinger.",
+    "season": "General",
+    "id": "patrulla-v12-135",
+    "fact": "patrulla-v12-135",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Alcalde Humdinger.",
+    "d": [
+      "Solución: Capitán Turbot.",
+      "Solución: Jake.",
+      "Solución: Farmer Al."
+    ],
+    "x": "Solución: Alcalde Humdinger.",
+    "season": "General",
+    "id": "patrulla-v12-136",
+    "fact": "patrulla-v12-136",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Alcalde Humdinger",
+    "d": [
+      "Capitán Turbot",
+      "Jake",
+      "Farmer Al"
+    ],
+    "x": "Solución: Alcalde Humdinger.",
+    "season": "General",
+    "id": "patrulla-v12-137",
+    "fact": "patrulla-v12-137",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Quién cuida animales en su salón?",
+    "a": "Katie",
+    "d": [
+      "Goodway",
+      "Mandy",
+      "Julia"
+    ],
+    "x": "Solución: Katie.",
+    "season": "General",
+    "id": "patrulla-v12-138",
+    "fact": "patrulla-v12-138",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Katie.",
+    "d": [
+      "Solución: Goodway.",
+      "Solución: Mandy.",
+      "Solución: Julia."
+    ],
+    "x": "Solución: Katie.",
+    "season": "General",
+    "id": "patrulla-v12-139",
+    "fact": "patrulla-v12-139",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Katie",
+    "d": [
+      "Goodway",
+      "Mandy",
+      "Julia"
+    ],
+    "x": "Solución: Katie.",
+    "season": "General",
+    "id": "patrulla-v12-140",
+    "fact": "patrulla-v12-140",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Quién es experto en el mar y el faro?",
+    "a": "Capitán Turbot",
+    "d": [
+      "Jake",
+      "Danny",
+      "Travis"
+    ],
+    "x": "Solución: Capitán Turbot.",
+    "season": "General",
+    "id": "patrulla-v12-141",
+    "fact": "patrulla-v12-141",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Capitán Turbot.",
+    "d": [
+      "Solución: Jake.",
+      "Solución: Danny.",
+      "Solución: Travis."
+    ],
+    "x": "Solución: Capitán Turbot.",
+    "season": "General",
+    "id": "patrulla-v12-142",
+    "fact": "patrulla-v12-142",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Capitán Turbot",
+    "d": [
+      "Jake",
+      "Danny",
+      "Travis"
+    ],
+    "x": "Solución: Capitán Turbot.",
+    "season": "General",
+    "id": "patrulla-v12-143",
+    "fact": "patrulla-v12-143",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Dónde se reúne el equipo?",
+    "a": "En la torre de control",
+    "d": [
+      "En el ayuntamiento",
+      "En una escuela",
+      "En un castillo"
+    ],
+    "x": "Solución: En la torre de control.",
+    "season": "General",
+    "id": "patrulla-v12-144",
+    "fact": "patrulla-v12-144",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: En la torre de control.",
+    "d": [
+      "Solución: En el ayuntamiento.",
+      "Solución: En una escuela.",
+      "Solución: En un castillo."
+    ],
+    "x": "Solución: En la torre de control.",
+    "season": "General",
+    "id": "patrulla-v12-145",
+    "fact": "patrulla-v12-145",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "En la torre de control",
+    "d": [
+      "En el ayuntamiento",
+      "En una escuela",
+      "En un castillo"
+    ],
+    "x": "Solución: En la torre de control.",
+    "season": "General",
+    "id": "patrulla-v12-146",
+    "fact": "patrulla-v12-146",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la ciudad principal?",
+    "a": "Bahía Aventura",
+    "d": [
+      "Ciudad Aventura",
+      "Bahía Niebla",
+      "Hawkins"
+    ],
+    "x": "Solución: Bahía Aventura.",
+    "season": "General",
+    "id": "patrulla-v12-147",
+    "fact": "patrulla-v12-147",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Bahía Aventura.",
+    "d": [
+      "Solución: Ciudad Aventura.",
+      "Solución: Bahía Niebla.",
+      "Solución: Hawkins."
+    ],
+    "x": "Solución: Bahía Aventura.",
+    "season": "General",
+    "id": "patrulla-v12-148",
+    "fact": "patrulla-v12-148",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Bahía Aventura",
+    "d": [
+      "Ciudad Aventura",
+      "Bahía Niebla",
+      "Hawkins"
+    ],
+    "x": "Solución: Bahía Aventura.",
+    "season": "General",
+    "id": "patrulla-v12-149",
+    "fact": "patrulla-v12-149",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Qué vehículo usa Ryder?",
+    "a": "Un quad",
+    "d": [
+      "Un tren",
+      "Un tractor",
+      "Un globo"
+    ],
+    "x": "Solución: Un quad.",
+    "season": "General",
+    "id": "patrulla-v12-150",
+    "fact": "patrulla-v12-150",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Un quad.",
+    "d": [
+      "Solución: Un tren.",
+      "Solución: Un tractor.",
+      "Solución: Un globo."
+    ],
+    "x": "Solución: Un quad.",
+    "season": "General",
+    "id": "patrulla-v12-151",
+    "fact": "patrulla-v12-151",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Un quad",
+    "d": [
+      "Un tren",
+      "Un tractor",
+      "Un globo"
+    ],
+    "x": "Solución: Un quad.",
+    "season": "General",
+    "id": "patrulla-v12-152",
+    "fact": "patrulla-v12-152",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cómo avisa Ryder a los cachorros?",
+    "a": "Con sus Pup-Pads",
+    "d": [
+      "Con cartas",
+      "Con una campana",
+      "Con señales de humo"
+    ],
+    "x": "Solución: Con sus Pup-Pads.",
+    "season": "General",
+    "id": "patrulla-v12-153",
+    "fact": "patrulla-v12-153",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre General es correcta?",
+    "a": "Solución: Con sus Pup-Pads.",
+    "d": [
+      "Solución: Con cartas.",
+      "Solución: Con una campana.",
+      "Solución: Con señales de humo."
+    ],
+    "x": "Solución: Con sus Pup-Pads.",
+    "season": "General",
+    "id": "patrulla-v12-154",
+    "fact": "patrulla-v12-154",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "General",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Con sus Pup-Pads",
+    "d": [
+      "Con cartas",
+      "Con una campana",
+      "Con señales de humo"
+    ],
+    "x": "Solución: Con sus Pup-Pads.",
+    "season": "General",
+    "id": "patrulla-v12-155",
+    "fact": "patrulla-v12-155",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿A qué cachorro pertenece el vehículo “Coche policial”?",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "El Coche policial pertenece a Chase.",
+    "season": "General",
+    "id": "patrulla-v12-156",
+    "fact": "patrulla-v12-156",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Vehículos es correcta?",
+    "a": "El Coche policial pertenece a Chase.",
+    "d": [
+      "El Coche policial pertenece a Marshall.",
+      "El Coche policial pertenece a Skye.",
+      "El Coche policial pertenece a Rubble."
+    ],
+    "x": "El Coche policial pertenece a Chase.",
+    "season": "General",
+    "id": "patrulla-v12-157",
+    "fact": "patrulla-v12-157",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: El Coche policial pertenece a ________.",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "El Coche policial pertenece a Chase.",
+    "season": "General",
+    "id": "patrulla-v12-158",
+    "fact": "patrulla-v12-158",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro viste principalmente de Azul?",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase viste principalmente de Azul.",
+    "season": "General",
+    "id": "patrulla-v12-159",
+    "fact": "patrulla-v12-159",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Colores es correcta?",
+    "a": "Chase viste principalmente de Azul.",
+    "d": [
+      "Marshall viste principalmente de Azul.",
+      "Skye viste principalmente de Azul.",
+      "Rubble viste principalmente de Azul."
+    ],
+    "x": "Chase viste principalmente de Azul.",
+    "season": "General",
+    "id": "patrulla-v12-160",
+    "fact": "patrulla-v12-160",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ viste principalmente de Azul.",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase viste principalmente de Azul.",
+    "season": "General",
+    "id": "patrulla-v12-161",
+    "fact": "patrulla-v12-161",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Qué cachorro destaca en policía?",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase destaca en policía.",
+    "season": "General",
+    "id": "patrulla-v12-162",
+    "fact": "patrulla-v12-162",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Especialidades es correcta?",
+    "a": "Chase destaca en policía.",
+    "d": [
+      "Marshall destaca en policía.",
+      "Skye destaca en policía.",
+      "Rubble destaca en policía."
+    ],
+    "x": "Chase destaca en policía.",
+    "season": "General",
+    "id": "patrulla-v12-163",
+    "fact": "patrulla-v12-163",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "Completa correctamente: ________ destaca en policía.",
+    "a": "Chase",
+    "d": [
+      "Marshall",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Chase destaca en policía.",
+    "season": "General",
+    "id": "patrulla-v12-164",
+    "fact": "patrulla-v12-164",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿A qué cachorro pertenece el vehículo “Camión de bomberos”?",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "El Camión de bomberos pertenece a Marshall.",
+    "season": "General",
+    "id": "patrulla-v12-165",
+    "fact": "patrulla-v12-165",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Vehículos es correcta?",
+    "a": "El Camión de bomberos pertenece a Marshall.",
+    "d": [
+      "El Camión de bomberos pertenece a Chase.",
+      "El Camión de bomberos pertenece a Skye.",
+      "El Camión de bomberos pertenece a Rubble."
+    ],
+    "x": "El Camión de bomberos pertenece a Marshall.",
+    "season": "General",
+    "id": "patrulla-v12-166",
+    "fact": "patrulla-v12-166",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: El Camión de bomberos pertenece a ________.",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "El Camión de bomberos pertenece a Marshall.",
+    "season": "General",
+    "id": "patrulla-v12-167",
+    "fact": "patrulla-v12-167",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro viste principalmente de Rojo?",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall viste principalmente de Rojo.",
+    "season": "General",
+    "id": "patrulla-v12-168",
+    "fact": "patrulla-v12-168",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Colores es correcta?",
+    "a": "Marshall viste principalmente de Rojo.",
+    "d": [
+      "Chase viste principalmente de Rojo.",
+      "Skye viste principalmente de Rojo.",
+      "Rubble viste principalmente de Rojo."
+    ],
+    "x": "Marshall viste principalmente de Rojo.",
+    "season": "General",
+    "id": "patrulla-v12-169",
+    "fact": "patrulla-v12-169",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ viste principalmente de Rojo.",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall viste principalmente de Rojo.",
+    "season": "General",
+    "id": "patrulla-v12-170",
+    "fact": "patrulla-v12-170",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Qué cachorro destaca en bombero y sanitario?",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall destaca en bombero y sanitario.",
+    "season": "General",
+    "id": "patrulla-v12-171",
+    "fact": "patrulla-v12-171",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Especialidades es correcta?",
+    "a": "Marshall destaca en bombero y sanitario.",
+    "d": [
+      "Chase destaca en bombero y sanitario.",
+      "Skye destaca en bombero y sanitario.",
+      "Rubble destaca en bombero y sanitario."
+    ],
+    "x": "Marshall destaca en bombero y sanitario.",
+    "season": "General",
+    "id": "patrulla-v12-172",
+    "fact": "patrulla-v12-172",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "Completa correctamente: ________ destaca en bombero y sanitario.",
+    "a": "Marshall",
+    "d": [
+      "Chase",
+      "Skye",
+      "Rubble"
+    ],
+    "x": "Marshall destaca en bombero y sanitario.",
+    "season": "General",
+    "id": "patrulla-v12-173",
+    "fact": "patrulla-v12-173",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿A qué cachorro pertenece el vehículo “Helicóptero”?",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "El Helicóptero pertenece a Skye.",
+    "season": "General",
+    "id": "patrulla-v12-174",
+    "fact": "patrulla-v12-174",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Vehículos es correcta?",
+    "a": "El Helicóptero pertenece a Skye.",
+    "d": [
+      "El Helicóptero pertenece a Chase.",
+      "El Helicóptero pertenece a Marshall.",
+      "El Helicóptero pertenece a Rubble."
+    ],
+    "x": "El Helicóptero pertenece a Skye.",
+    "season": "General",
+    "id": "patrulla-v12-175",
+    "fact": "patrulla-v12-175",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: El Helicóptero pertenece a ________.",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "El Helicóptero pertenece a Skye.",
+    "season": "General",
+    "id": "patrulla-v12-176",
+    "fact": "patrulla-v12-176",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro viste principalmente de Rosa?",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye viste principalmente de Rosa.",
+    "season": "General",
+    "id": "patrulla-v12-177",
+    "fact": "patrulla-v12-177",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Colores es correcta?",
+    "a": "Skye viste principalmente de Rosa.",
+    "d": [
+      "Chase viste principalmente de Rosa.",
+      "Marshall viste principalmente de Rosa.",
+      "Rubble viste principalmente de Rosa."
+    ],
+    "x": "Skye viste principalmente de Rosa.",
+    "season": "General",
+    "id": "patrulla-v12-178",
+    "fact": "patrulla-v12-178",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ viste principalmente de Rosa.",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye viste principalmente de Rosa.",
+    "season": "General",
+    "id": "patrulla-v12-179",
+    "fact": "patrulla-v12-179",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Qué cachorro destaca en aviación?",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye destaca en aviación.",
+    "season": "General",
+    "id": "patrulla-v12-180",
+    "fact": "patrulla-v12-180",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Especialidades es correcta?",
+    "a": "Skye destaca en aviación.",
+    "d": [
+      "Chase destaca en aviación.",
+      "Marshall destaca en aviación.",
+      "Rubble destaca en aviación."
+    ],
+    "x": "Skye destaca en aviación.",
+    "season": "General",
+    "id": "patrulla-v12-181",
+    "fact": "patrulla-v12-181",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "Completa correctamente: ________ destaca en aviación.",
+    "a": "Skye",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Rubble"
+    ],
+    "x": "Skye destaca en aviación.",
+    "season": "General",
+    "id": "patrulla-v12-182",
+    "fact": "patrulla-v12-182",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿A qué cachorro pertenece el vehículo “Excavadora”?",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "El Excavadora pertenece a Rubble.",
+    "season": "General",
+    "id": "patrulla-v12-183",
+    "fact": "patrulla-v12-183",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Vehículos es correcta?",
+    "a": "El Excavadora pertenece a Rubble.",
+    "d": [
+      "El Excavadora pertenece a Chase.",
+      "El Excavadora pertenece a Marshall.",
+      "El Excavadora pertenece a Skye."
+    ],
+    "x": "El Excavadora pertenece a Rubble.",
+    "season": "General",
+    "id": "patrulla-v12-184",
+    "fact": "patrulla-v12-184",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: El Excavadora pertenece a ________.",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "El Excavadora pertenece a Rubble.",
+    "season": "General",
+    "id": "patrulla-v12-185",
+    "fact": "patrulla-v12-185",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro viste principalmente de Amarillo?",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble viste principalmente de Amarillo.",
+    "season": "General",
+    "id": "patrulla-v12-186",
+    "fact": "patrulla-v12-186",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Colores es correcta?",
+    "a": "Rubble viste principalmente de Amarillo.",
+    "d": [
+      "Chase viste principalmente de Amarillo.",
+      "Marshall viste principalmente de Amarillo.",
+      "Skye viste principalmente de Amarillo."
+    ],
+    "x": "Rubble viste principalmente de Amarillo.",
+    "season": "General",
+    "id": "patrulla-v12-187",
+    "fact": "patrulla-v12-187",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ viste principalmente de Amarillo.",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble viste principalmente de Amarillo.",
+    "season": "General",
+    "id": "patrulla-v12-188",
+    "fact": "patrulla-v12-188",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Qué cachorro destaca en construcción?",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble destaca en construcción.",
+    "season": "General",
+    "id": "patrulla-v12-189",
+    "fact": "patrulla-v12-189",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Especialidades es correcta?",
+    "a": "Rubble destaca en construcción.",
+    "d": [
+      "Chase destaca en construcción.",
+      "Marshall destaca en construcción.",
+      "Skye destaca en construcción."
+    ],
+    "x": "Rubble destaca en construcción.",
+    "season": "General",
+    "id": "patrulla-v12-190",
+    "fact": "patrulla-v12-190",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "Completa correctamente: ________ destaca en construcción.",
+    "a": "Rubble",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rubble destaca en construcción.",
+    "season": "General",
+    "id": "patrulla-v12-191",
+    "fact": "patrulla-v12-191",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿A qué cachorro pertenece el vehículo “Camión de reciclaje”?",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "El Camión de reciclaje pertenece a Rocky.",
+    "season": "General",
+    "id": "patrulla-v12-192",
+    "fact": "patrulla-v12-192",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Vehículos es correcta?",
+    "a": "El Camión de reciclaje pertenece a Rocky.",
+    "d": [
+      "El Camión de reciclaje pertenece a Chase.",
+      "El Camión de reciclaje pertenece a Marshall.",
+      "El Camión de reciclaje pertenece a Skye."
+    ],
+    "x": "El Camión de reciclaje pertenece a Rocky.",
+    "season": "General",
+    "id": "patrulla-v12-193",
+    "fact": "patrulla-v12-193",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Vehículos",
+    "difficulty": "Media",
+    "q": "Completa correctamente: El Camión de reciclaje pertenece a ________.",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "El Camión de reciclaje pertenece a Rocky.",
+    "season": "General",
+    "id": "patrulla-v12-194",
+    "fact": "patrulla-v12-194",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Qué cachorro viste principalmente de Verde?",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky viste principalmente de Verde.",
+    "season": "General",
+    "id": "patrulla-v12-195",
+    "fact": "patrulla-v12-195",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Colores es correcta?",
+    "a": "Rocky viste principalmente de Verde.",
+    "d": [
+      "Chase viste principalmente de Verde.",
+      "Marshall viste principalmente de Verde.",
+      "Skye viste principalmente de Verde."
+    ],
+    "x": "Rocky viste principalmente de Verde.",
+    "season": "General",
+    "id": "patrulla-v12-196",
+    "fact": "patrulla-v12-196",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Colores",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: ________ viste principalmente de Verde.",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky viste principalmente de Verde.",
+    "season": "General",
+    "id": "patrulla-v12-197",
+    "fact": "patrulla-v12-197",
+    "show": "patrulla",
+    "kind": "completar"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Qué cachorro destaca en reciclaje y reparaciones?",
+    "a": "Rocky",
+    "d": [
+      "Chase",
+      "Marshall",
+      "Skye"
+    ],
+    "x": "Rocky destaca en reciclaje y reparaciones.",
+    "season": "General",
+    "id": "patrulla-v12-198",
+    "fact": "patrulla-v12-198",
+    "show": "patrulla",
+    "kind": "directa"
+  },
+  {
+    "block": "Especialidades",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Especialidades es correcta?",
+    "a": "Rocky destaca en reciclaje y reparaciones.",
+    "d": [
+      "Chase destaca en reciclaje y reparaciones.",
+      "Marshall destaca en reciclaje y reparaciones.",
+      "Skye destaca en reciclaje y reparaciones."
+    ],
+    "x": "Rocky destaca en reciclaje y reparaciones.",
+    "season": "General",
+    "id": "patrulla-v12-199",
+    "fact": "patrulla-v12-199",
+    "show": "patrulla",
+    "kind": "afirmacion"
+  }
+];

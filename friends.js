@@ -1,1 +1,4252 @@
-window.BANK_FRIENDS=[{"block":"Rachel","difficulty":"Fácil","q":"¿Cuál es apellido de Rachel?","a":"Green","d":["Geller","Buffay","Bing"],"x":"El/la apellido de Rachel es Green.","season":"General","id":"friends-v7-0-directa","fact":"friends-v7-0-directa","show":"friends","kind":"directa"},{"block":"Rachel","difficulty":"Fácil","q":"¿Cuál es primer trabajo de Rachel?","a":"Camarera en Central Perk","d":["Chef","Masajista","Profesora"],"x":"El/la primer trabajo de Rachel es Camarera en Central Perk.","season":"General","id":"friends-v7-1-directa","fact":"friends-v7-1-directa","show":"friends","kind":"directa"},{"block":"Rachel","difficulty":"Media","q":"¿Cuál es hija de Rachel?","a":"Emma","d":["Erica","Jill","Amy"],"x":"El/la hija de Rachel es Emma.","season":"General","id":"friends-v7-2-directa","fact":"friends-v7-2-directa","show":"friends","kind":"directa"},{"block":"Rachel","difficulty":"Media","q":"¿Cuál es sector profesional de Rachel?","a":"Moda","d":["Medicina","Publicidad","Paleontología"],"x":"El/la sector profesional de Rachel es Moda.","season":"General","id":"friends-v7-3-directa","fact":"friends-v7-3-directa","show":"friends","kind":"directa"},{"block":"Rachel","difficulty":"Difícil","q":"¿Cuál es prometido abandonado de Rachel?","a":"Barry Farber","d":["Tag Jones","Joshua Burgin","Mark Robinson"],"x":"El/la prometido abandonado de Rachel es Barry Farber.","season":"General","id":"friends-v7-4-directa","fact":"friends-v7-4-directa","show":"friends","kind":"directa"},{"block":"Rachel","difficulty":"Difícil","q":"¿Cuál es jefa en Bloomingdale’s de Rachel?","a":"Joanna","d":["Sophie","Estelle","Nora"],"x":"El/la jefa en Bloomingdale’s de Rachel es Joanna.","season":"General","id":"friends-v7-5-directa","fact":"friends-v7-5-directa","show":"friends","kind":"directa"},{"block":"Monica","difficulty":"Fácil","q":"¿Cuál es profesión de Monica?","a":"Chef","d":["Actriz","Abogada","Editora"],"x":"El/la profesión de Monica es Chef.","season":"General","id":"friends-v7-6-directa","fact":"friends-v7-6-directa","show":"friends","kind":"directa"},{"block":"Monica","difficulty":"Fácil","q":"¿Cuál es hermano de Monica?","a":"Ross","d":["Joey","Mike","Gunther"],"x":"El/la hermano de Monica es Ross.","season":"General","id":"friends-v7-7-directa","fact":"friends-v7-7-directa","show":"friends","kind":"directa"},{"block":"Monica","difficulty":"Media","q":"¿Cuál es marido de Monica?","a":"Chandler","d":["Richard","Pete","Joey"],"x":"El/la marido de Monica es Chandler.","season":"General","id":"friends-v7-8-directa","fact":"friends-v7-8-directa","show":"friends","kind":"directa"},{"block":"Monica","difficulty":"Media","q":"¿Cuál es número de apartamento de Monica?","a":"20","d":["19","5","12"],"x":"El/la número de apartamento de Monica es 20.","season":"General","id":"friends-v7-9-directa","fact":"friends-v7-9-directa","show":"friends","kind":"directa"},{"block":"Monica","difficulty":"Difícil","q":"¿Cuál es restaurante final de Monica?","a":"Javu","d":["Iridium","Central Perk","Moondance Diner"],"x":"El/la restaurante final de Monica es Javu.","season":"General","id":"friends-v7-10-directa","fact":"friends-v7-10-directa","show":"friends","kind":"directa"},{"block":"Monica","difficulty":"Difícil","q":"¿Cuál es millonario con quien sale de Monica?","a":"Pete Becker","d":["Tag Jones","David","Gary"],"x":"El/la millonario con quien sale de Monica es Pete Becker.","season":"General","id":"friends-v7-11-directa","fact":"friends-v7-11-directa","show":"friends","kind":"directa"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Cuál es instrumento de Phoebe?","a":"Guitarra","d":["Violín","Piano","Saxofón"],"x":"El/la instrumento de Phoebe es Guitarra.","season":"General","id":"friends-v7-12-directa","fact":"friends-v7-12-directa","show":"friends","kind":"directa"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Cuál es hermana gemela de Phoebe?","a":"Ursula","d":["Jill","Amy","Erica"],"x":"El/la hermana gemela de Phoebe es Ursula.","season":"General","id":"friends-v7-13-directa","fact":"friends-v7-13-directa","show":"friends","kind":"directa"},{"block":"Phoebe","difficulty":"Media","q":"¿Cuál es marido de Phoebe?","a":"Mike Hannigan","d":["David","Gary","Roger"],"x":"El/la marido de Phoebe es Mike Hannigan.","season":"General","id":"friends-v7-14-directa","fact":"friends-v7-14-directa","show":"friends","kind":"directa"},{"block":"Phoebe","difficulty":"Media","q":"¿Cuál es profesión de Phoebe?","a":"Masajista","d":["Chef","Editora","Profesora"],"x":"El/la profesión de Phoebe es Masajista.","season":"General","id":"friends-v7-15-directa","fact":"friends-v7-15-directa","show":"friends","kind":"directa"},{"block":"Phoebe","difficulty":"Difícil","q":"¿Cuál es alias habitual de Phoebe?","a":"Regina Phalange","d":["Ken Adams","Erica Bing","Susan Geller"],"x":"El/la alias habitual de Phoebe es Regina Phalange.","season":"General","id":"friends-v7-16-directa","fact":"friends-v7-16-directa","show":"friends","kind":"directa"},{"block":"Phoebe","difficulty":"Difícil","q":"¿Cuál es nombre legal temporal de Phoebe?","a":"Princess Consuela Banana Hammock","d":["Regina Phalange","Phoebe Hannigan","Valerie Thompson"],"x":"El/la nombre legal temporal de Phoebe es Princess Consuela Banana Hammock.","season":"General","id":"friends-v7-17-directa","fact":"friends-v7-17-directa","show":"friends","kind":"directa"},{"block":"Joey","difficulty":"Fácil","q":"¿Cuál es profesión de Joey?","a":"Actor","d":["Chef","Profesor","Abogado"],"x":"El/la profesión de Joey es Actor.","season":"General","id":"friends-v7-18-directa","fact":"friends-v7-18-directa","show":"friends","kind":"directa"},{"block":"Joey","difficulty":"Fácil","q":"¿Cuál es apellido de Joey?","a":"Tribbiani","d":["Bing","Geller","Green"],"x":"El/la apellido de Joey es Tribbiani.","season":"General","id":"friends-v7-19-directa","fact":"friends-v7-19-directa","show":"friends","kind":"directa"},{"block":"Joey","difficulty":"Media","q":"¿Cuál es personaje televisivo de Joey?","a":"Dr. Drake Ramoray","d":["Dr. Burke","Dr. Green","Dr. Geller"],"x":"El/la personaje televisivo de Joey es Dr. Drake Ramoray.","season":"General","id":"friends-v7-20-directa","fact":"friends-v7-20-directa","show":"friends","kind":"directa"},{"block":"Joey","difficulty":"Media","q":"¿Cuál es pingüino de peluche de Joey?","a":"Hugsy","d":["Marcel","Clunkers","Chi-Chi"],"x":"El/la pingüino de peluche de Joey es Hugsy.","season":"General","id":"friends-v7-21-directa","fact":"friends-v7-21-directa","show":"friends","kind":"directa"},{"block":"Joey","difficulty":"Difícil","q":"¿Cuál es agente de Joey?","a":"Estelle Leonard","d":["Joanna","Sophie","Erica"],"x":"El/la agente de Joey es Estelle Leonard.","season":"General","id":"friends-v7-22-directa","fact":"friends-v7-22-directa","show":"friends","kind":"directa"},{"block":"Joey","difficulty":"Difícil","q":"¿Cuál es alias de la historia de Europa de Joey?","a":"Ken Adams","d":["Regina Phalange","Dr. Drake","Paul Stevens"],"x":"El/la alias de la historia de Europa de Joey es Ken Adams.","season":"General","id":"friends-v7-23-directa","fact":"friends-v7-23-directa","show":"friends","kind":"directa"},{"block":"Chandler","difficulty":"Fácil","q":"¿Cuál es apellido de Chandler?","a":"Bing","d":["Green","Geller","Burke"],"x":"El/la apellido de Chandler es Bing.","season":"General","id":"friends-v7-24-directa","fact":"friends-v7-24-directa","show":"friends","kind":"directa"},{"block":"Chandler","difficulty":"Fácil","q":"¿Cuál es compañero de piso de Chandler?","a":"Joey","d":["Ross","Mike","Gunther"],"x":"El/la compañero de piso de Chandler es Joey.","season":"General","id":"friends-v7-25-directa","fact":"friends-v7-25-directa","show":"friends","kind":"directa"},{"block":"Chandler","difficulty":"Media","q":"¿Cuál es segundo nombre de Chandler?","a":"Muriel","d":["Joseph","Francis","Leonard"],"x":"El/la segundo nombre de Chandler es Muriel.","season":"General","id":"friends-v7-26-directa","fact":"friends-v7-26-directa","show":"friends","kind":"directa"},{"block":"Chandler","difficulty":"Media","q":"¿Cuál es nueva profesión de Chandler?","a":"Publicidad","d":["Moda","Medicina","Catering"],"x":"El/la nueva profesión de Chandler es Publicidad.","season":"General","id":"friends-v7-27-directa","fact":"friends-v7-27-directa","show":"friends","kind":"directa"},{"block":"Chandler","difficulty":"Difícil","q":"¿Cuál es ciudad de traslado laboral de Chandler?","a":"Tulsa","d":["Boston","Chicago","Miami"],"x":"El/la ciudad de traslado laboral de Chandler es Tulsa.","season":"General","id":"friends-v7-28-directa","fact":"friends-v7-28-directa","show":"friends","kind":"directa"},{"block":"Chandler","difficulty":"Difícil","q":"¿Cuál es compañero de piso temporal de Chandler?","a":"Eddie Menuek","d":["Tag Jones","Pete Becker","Paolo"],"x":"El/la compañero de piso temporal de Chandler es Eddie Menuek.","season":"General","id":"friends-v7-29-directa","fact":"friends-v7-29-directa","show":"friends","kind":"directa"},{"block":"Ross","difficulty":"Fácil","q":"¿Cuál es profesión de Ross?","a":"Paleontólogo","d":["Abogado","Médico","Economista"],"x":"El/la profesión de Ross es Paleontólogo.","season":"General","id":"friends-v7-30-directa","fact":"friends-v7-30-directa","show":"friends","kind":"directa"},{"block":"Ross","difficulty":"Fácil","q":"¿Cuál es hijo de Ross?","a":"Ben","d":["Jack","Frank","Mike"],"x":"El/la hijo de Ross es Ben.","season":"General","id":"friends-v7-31-directa","fact":"friends-v7-31-directa","show":"friends","kind":"directa"},{"block":"Ross","difficulty":"Media","q":"¿Cuál es mascota exótica de Ross?","a":"Marcel, un mono","d":["Una iguana","Un loro","Una serpiente"],"x":"El/la mascota exótica de Ross es Marcel, un mono.","season":"General","id":"friends-v7-32-directa","fact":"friends-v7-32-directa","show":"friends","kind":"directa"},{"block":"Ross","difficulty":"Media","q":"¿Cuál es número de divorcios de Ross?","a":"Tres","d":["Uno","Dos","Cinco"],"x":"El/la número de divorcios de Ross es Tres.","season":"General","id":"friends-v7-33-directa","fact":"friends-v7-33-directa","show":"friends","kind":"directa"},{"block":"Ross","difficulty":"Difícil","q":"¿Cuál es universidad donde enseña de Ross?","a":"Universidad de Nueva York","d":["Harvard","Yale","Columbia"],"x":"El/la universidad donde enseña de Ross es Universidad de Nueva York.","season":"General","id":"friends-v7-34-directa","fact":"friends-v7-34-directa","show":"friends","kind":"directa"},{"block":"Ross","difficulty":"Difícil","q":"¿Cuál es instrumento que toca de Ross?","a":"Teclado electrónico","d":["Trompeta","Violín","Batería"],"x":"El/la instrumento que toca de Ross es Teclado electrónico.","season":"General","id":"friends-v7-35-directa","fact":"friends-v7-35-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Quién llega vestido de novia a Central Perk en el primer episodio?","a":"Rachel","d":["Monica","Phoebe","Janice"],"x":"Rachel es la respuesta correcta.","season":"T1","id":"friends-v7-36-directa","fact":"friends-v7-36-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Cómo se llama el mono de Ross?","a":"Marcel","d":["Hugsy","Chi-Chi","Clunkers"],"x":"Marcel es la respuesta correcta.","season":"T1","id":"friends-v7-37-directa","fact":"friends-v7-37-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo se llama la mujer con la que Chandler queda encerrado durante el apagón?","a":"Jill Goodacre","d":["Joanna","Aurora","Kathy"],"x":"Jill Goodacre es la respuesta correcta.","season":"T1","id":"friends-v7-38-directa","fact":"friends-v7-38-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué restaurante deja de servir alcohol y contrata a Monica?","a":"Iridium","d":["Javu","Alessandro’s","Moondance Diner"],"x":"Iridium es la respuesta correcta.","season":"T1","id":"friends-v7-39-directa","fact":"friends-v7-39-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué vídeo revela que Ross iba a acompañar a Rachel al baile?","a":"El vídeo del baile de graduación","d":["El vídeo de la boda","Una cinta de Navidad","Un anuncio"],"x":"El vídeo del baile de graduación es la respuesta correcta.","season":"T2","id":"friends-v7-40-directa","fact":"friends-v7-40-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Cómo se llama la novia de Ross que regresa con él de China?","a":"Julie","d":["Emily","Bonnie","Mona"],"x":"Julie es la respuesta correcta.","season":"T2","id":"friends-v7-41-directa","fact":"friends-v7-41-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué actor busca a su doble de trasero en el trabajo de Joey?","a":"Al Pacino","d":["Robert De Niro","Charlton Heston","Jean-Claude Van Damme"],"x":"Al Pacino es la respuesta correcta.","season":"T2","id":"friends-v7-42-directa","fact":"friends-v7-42-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué canción canta Ross a Marcel en el aeropuerto?","a":"The Lion Sleeps Tonight","d":["Copacabana","Africa","With or Without You"],"x":"The Lion Sleeps Tonight es la respuesta correcta.","season":"T2","id":"friends-v7-43-directa","fact":"friends-v7-43-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué frase usa Ross para justificar lo sucedido con Chloe?","a":"Estábamos tomándonos un descanso","d":["Pivota","No comparto comida","Unagi"],"x":"Estábamos tomándonos un descanso es la respuesta correcta.","season":"T3","id":"friends-v7-44-directa","fact":"friends-v7-44-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Quién ayuda a Rachel a conseguir una entrevista en Bloomingdale’s?","a":"Mark","d":["Tag","Joshua","Gavin"],"x":"Mark es la respuesta correcta.","season":"T3","id":"friends-v7-45-directa","fact":"friends-v7-45-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué llevaba Monica de adolescente en el vídeo de Acción de Gracias?","a":"Un cuchillo que termina cortando el dedo de Chandler","d":["Una guitarra","Una cámara","Un pavo"],"x":"Un cuchillo que termina cortando el dedo de Chandler es la respuesta correcta.","season":"T3","id":"friends-v7-46-directa","fact":"friends-v7-46-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo se llama el novio extremadamente rico de Monica?","a":"Pete Becker","d":["Richard Burke","Paul Stevens","David"],"x":"Pete Becker es la respuesta correcta.","season":"T3","id":"friends-v7-47-directa","fact":"friends-v7-47-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué pierden Monica y Rachel en un concurso?","a":"Su apartamento","d":["Su coche","Su trabajo","Sus mascotas"],"x":"Su apartamento es la respuesta correcta.","season":"T4","id":"friends-v7-48-directa","fact":"friends-v7-48-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué pregunta decide el concurso de los apartamentos?","a":"Cuál es el trabajo de Chandler","d":["El apellido de Gunther","La edad de Joey","El nombre de Marcel"],"x":"Cuál es el trabajo de Chandler es la respuesta correcta.","season":"T4","id":"friends-v7-49-directa","fact":"friends-v7-49-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué nombre aparece en el uniforme de animadora de Rachel?","a":"Chip","d":["Joshua","Mark","Ross"],"x":"Chip es la respuesta correcta.","season":"T4","id":"friends-v7-50-directa","fact":"friends-v7-50-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo se llama el juego inventado para decidir los apartamentos?","a":"El concurso de preguntas de Ross","d":["Bamboozled","Cups","Fireball"],"x":"El concurso de preguntas de Ross es la respuesta correcta.","season":"T4","id":"friends-v7-51-directa","fact":"friends-v7-51-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué ciudad comienza la relación de Monica y Chandler?","a":"Londres","d":["París","Roma","Tulsa"],"x":"Londres es la respuesta correcta.","season":"T5","id":"friends-v7-52-directa","fact":"friends-v7-52-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Desde qué apartamento descubren Phoebe y Rachel la relación secreta?","a":"Desde el apartamento de Ross","d":["Desde Central Perk","Desde el pasillo","Desde casa de Joey"],"x":"Desde el apartamento de Ross es la respuesta correcta.","season":"T5","id":"friends-v7-53-directa","fact":"friends-v7-53-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué mentira usa Chandler después de besar a Monica en público?","a":"Besa también a Rachel y Phoebe","d":["Finge un resfriado","Dice que es una apuesta","Se marcha corriendo"],"x":"Besa también a Rachel y Phoebe es la respuesta correcta.","season":"T5","id":"friends-v7-54-directa","fact":"friends-v7-54-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué dato sobre el gas cuenta Ross a la repartidora de pizza?","a":"Que se le añade olor artificial","d":["Que es de color azul","Que viene de Texas","Que no pesa"],"x":"Que se le añade olor artificial es la respuesta correcta.","season":"T5","id":"friends-v7-55-directa","fact":"friends-v7-55-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué postre prepara Rachel mezclando dos recetas?","a":"Trifle con carne y guisantes","d":["Tiramisú con pescado","Helado con pollo","Brownie con pasta"],"x":"Trifle con carne y guisantes es la respuesta correcta.","season":"T6","id":"friends-v7-56-directa","fact":"friends-v7-56-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué les ocurre a los dientes de Ross antes de una cita?","a":"Quedan excesivamente blancos","d":["Se rompen","Se vuelven azules","Pierde uno"],"x":"Quedan excesivamente blancos es la respuesta correcta.","season":"T6","id":"friends-v7-57-directa","fact":"friends-v7-57-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué baile presentan Ross y Monica en Nochevieja?","a":"La rutina","d":["El pivote","El armadillo","El bamboozle"],"x":"La rutina es la respuesta correcta.","season":"T6","id":"friends-v7-58-directa","fact":"friends-v7-58-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué nombre usa Ross como profesor para una falsa alumna británica?","a":"Elizabeth no es falsa; es una alumna real","d":["Emily","Julie","Mona"],"x":"Elizabeth no es falsa; es una alumna real es la respuesta correcta.","season":"T6","id":"friends-v7-59-directa","fact":"friends-v7-59-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Quién oficia la boda de Monica y Chandler?","a":"Joey","d":["Ross","Gunther","Mike"],"x":"Joey es la respuesta correcta.","season":"T7","id":"friends-v7-60-directa","fact":"friends-v7-60-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Cómo consigue Joey autorización para oficiar la boda?","a":"Se ordena por Internet","d":["Estudia Derecho","Llama al alcalde","Pide permiso a un juez"],"x":"Se ordena por Internet es la respuesta correcta.","season":"T7","id":"friends-v7-61-directa","fact":"friends-v7-61-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué banda quiere Monica para su boda?","a":"The Swing Kings","d":["The Rembrandts","Hootie & the Blowfish","Bay City Rollers"],"x":"The Swing Kings es la respuesta correcta.","season":"T7","id":"friends-v7-62-directa","fact":"friends-v7-62-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué objeto cree Rachel que falta cuando Monica enumera cosas de la boda?","a":"Nada; Monica tiene una carpeta perfectamente organizada","d":["El ramo","Los anillos","La tarta"],"x":"Nada; Monica tiene una carpeta perfectamente organizada es la respuesta correcta.","season":"T7","id":"friends-v7-63-directa","fact":"friends-v7-63-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cómo se llama la hija de Ross y Rachel?","a":"Emma","d":["Erica","Susan","Jill"],"x":"Emma es la respuesta correcta.","season":"T8","id":"friends-v7-64-directa","fact":"friends-v7-64-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué nombre propone Ross para el bebé antes de saber que es niña?","a":"Darwin","d":["Marcel","Jack","Leonard"],"x":"Darwin es la respuesta correcta.","season":"T8","id":"friends-v7-65-directa","fact":"friends-v7-65-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Quién recoge el anillo caído después del parto?","a":"Joey","d":["Ross","Phoebe","Chandler"],"x":"Joey es la respuesta correcta.","season":"T8","id":"friends-v7-66-directa","fact":"friends-v7-66-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué prenda provoca que Joey malinterprete las señales de Rachel?","a":"Un sujetador rojo","d":["Un vestido verde","Un abrigo negro","Una camisa de Joey"],"x":"Un sujetador rojo es la respuesta correcta.","season":"T8","id":"friends-v7-67-directa","fact":"friends-v7-67-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué canción hace reír a Emma?","a":"Baby Got Back","d":["Smelly Cat","Copacabana","Africa"],"x":"Baby Got Back es la respuesta correcta.","season":"T9","id":"friends-v7-68-directa","fact":"friends-v7-68-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿Dónde trabaja Chandler lejos de Nueva York?","a":"Tulsa","d":["Chicago","Boston","Miami"],"x":"Tulsa es la respuesta correcta.","season":"T9","id":"friends-v7-69-directa","fact":"friends-v7-69-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué rompe Phoebe durante una cena con los padres de Mike?","a":"Una reliquia familiar","d":["Un piano","Una guitarra","Un jarrón de Monica"],"x":"Una reliquia familiar es la respuesta correcta.","season":"T9","id":"friends-v7-70-directa","fact":"friends-v7-70-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué trabajo acepta Rachel después de Bloomingdale’s?","a":"Ralph Lauren","d":["Gucci","Versace","Prada"],"x":"Ralph Lauren es la respuesta correcta.","season":"T9","id":"friends-v7-71-directa","fact":"friends-v7-71-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué dejan los seis amigos en el apartamento al marcharse?","a":"Las llaves","d":["Las tazas","Los teléfonos","Las fotos"],"x":"Las llaves es la respuesta correcta.","season":"T10","id":"friends-v7-72-directa","fact":"friends-v7-72-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Media","q":"¿A qué ciudad iba a mudarse Rachel?","a":"París","d":["Roma","Londres","Madrid"],"x":"París es la respuesta correcta.","season":"T10","id":"friends-v7-73-directa","fact":"friends-v7-73-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cómo se llama la madre biológica de los gemelos adoptados?","a":"Erica","d":["Emily","Alice","Julie"],"x":"Erica es la respuesta correcta.","season":"T10","id":"friends-v7-74-directa","fact":"friends-v7-74-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué regalo de despedida recibe todo el grupo menos Ross al principio?","a":"Una despedida personal de Rachel","d":["Una taza","Una fotografía","Una carta idéntica"],"x":"Una despedida personal de Rachel es la respuesta correcta.","season":"T10","id":"friends-v7-75-directa","fact":"friends-v7-75-directa","show":"friends","kind":"directa"},{"block":"Objetos","difficulty":"Fácil","q":"¿De qué color es la puerta del apartamento de Monica?","a":"Morada","d":["Roja","Azul","Verde"],"x":"Morada es la respuesta correcta.","season":"General","id":"friends-v7-76-directa","fact":"friends-v7-76-directa","show":"friends","kind":"directa"},{"block":"Objetos","difficulty":"Fácil","q":"¿Qué adorna la mirilla de esa puerta?","a":"Un marco amarillo","d":["Un reloj","Una corona","Un espejo"],"x":"Un marco amarillo es la respuesta correcta.","season":"General","id":"friends-v7-77-directa","fact":"friends-v7-77-directa","show":"friends","kind":"directa"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cómo se llama la cafetería habitual?","a":"Central Perk","d":["Javu","Iridium","Moondance Diner"],"x":"Central Perk es la respuesta correcta.","season":"General","id":"friends-v7-78-directa","fact":"friends-v7-78-directa","show":"friends","kind":"directa"},{"block":"Secundarios","difficulty":"Media","q":"¿Quién trabaja en Central Perk y está enamorado de Rachel?","a":"Gunther","d":["Mike","Richard","David"],"x":"Gunther es la respuesta correcta.","season":"General","id":"friends-v7-79-directa","fact":"friends-v7-79-directa","show":"friends","kind":"directa"},{"block":"Secundarios","difficulty":"Media","q":"¿Cómo se llama la primera exmujer de Ross?","a":"Carol","d":["Emily","Julie","Mona"],"x":"Carol es la respuesta correcta.","season":"General","id":"friends-v7-80-directa","fact":"friends-v7-80-directa","show":"friends","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama la esposa de Carol?","a":"Susan Bunch","d":["Judy Geller","Nora Bing","Alice Knight"],"x":"Susan Bunch es la respuesta correcta.","season":"General","id":"friends-v7-81-directa","fact":"friends-v7-81-directa","show":"friends","kind":"directa"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cómo se llama el científico que viaja a Minsk?","a":"David","d":["Mike","Gary","Roger"],"x":"David es la respuesta correcta.","season":"General","id":"friends-v7-82-directa","fact":"friends-v7-82-directa","show":"friends","kind":"directa"},{"block":"Eventos","difficulty":"Media","q":"¿Qué mascotas tienen Joey y Chandler?","a":"Un pato y un pollito","d":["Dos gatos","Un mono y un loro","Dos conejos"],"x":"Un pato y un pollito es la respuesta correcta.","season":"General","id":"friends-v7-83-directa","fact":"friends-v7-83-directa","show":"friends","kind":"directa"},{"block":"Eventos","difficulty":"Difícil","q":"¿Qué pastel comen Rachel y Chandler después de caer al suelo?","a":"Tarta de queso","d":["Tiramisú","Brownie","Tarta de manzana"],"x":"Tarta de queso es la respuesta correcta.","season":"General","id":"friends-v7-84-directa","fact":"friends-v7-84-directa","show":"friends","kind":"directa"},{"block":"Frases","difficulty":"Fácil","q":"¿Quién dice “How you doin’?”?","a":"Joey","d":["Ross","Chandler","Mike"],"x":"Joey es la respuesta correcta.","season":"General","id":"friends-v7-85-directa","fact":"friends-v7-85-directa","show":"friends","kind":"directa"},{"block":"Frases","difficulty":"Fácil","q":"¿Quién exclama “Oh. My. God.”?","a":"Janice","d":["Monica","Emily","Carol"],"x":"Janice es la respuesta correcta.","season":"General","id":"friends-v7-86-directa","fact":"friends-v7-86-directa","show":"friends","kind":"directa"},{"block":"Frases","difficulty":"Media","q":"¿Quién grita “Pivot!” al mover un sofá?","a":"Ross","d":["Joey","Chandler","Gunther"],"x":"Ross es la respuesta correcta.","season":"General","id":"friends-v7-87-directa","fact":"friends-v7-87-directa","show":"friends","kind":"directa"},{"block":"Frases","difficulty":"Difícil","q":"¿Qué palabra usa Ross para describir la conciencia total en defensa personal?","a":"Unagi","d":["Karate","Sushi","Pivot"],"x":"Unagi es la respuesta correcta.","season":"General","id":"friends-v7-88-directa","fact":"friends-v7-88-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Rachel es la respuesta correcta.","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-89-directa","fact":"friends-v7-89-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Marcel es la respuesta correcta.","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-90-directa","fact":"friends-v7-90-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Jill Goodacre es la respuesta correcta.","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-91-directa","fact":"friends-v7-91-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Iridium es la respuesta correcta.","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-92-directa","fact":"friends-v7-92-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: El vídeo del baile de graduación es la respuesta correcta.","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-93-directa","fact":"friends-v7-93-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Julie es la respuesta correcta.","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-94-directa","fact":"friends-v7-94-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Al Pacino es la respuesta correcta.","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-95-directa","fact":"friends-v7-95-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: The Lion Sleeps Tonight es la respuesta correcta.","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-96-directa","fact":"friends-v7-96-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Estábamos tomándonos un descanso es la respuesta correcta.","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-97-directa","fact":"friends-v7-97-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Mark es la respuesta correcta.","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-98-directa","fact":"friends-v7-98-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Un cuchillo que termina cortando el dedo de Chandler es la respuesta correcta.","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-99-directa","fact":"friends-v7-99-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Pete Becker es la respuesta correcta.","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-100-directa","fact":"friends-v7-100-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Su apartamento es la respuesta correcta.","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-101-directa","fact":"friends-v7-101-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Cuál es el trabajo de Chandler es la respuesta correcta.","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-102-directa","fact":"friends-v7-102-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Chip es la respuesta correcta.","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-103-directa","fact":"friends-v7-103-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: El concurso de preguntas de Ross es la respuesta correcta.","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-104-directa","fact":"friends-v7-104-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Londres es la respuesta correcta.","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-105-directa","fact":"friends-v7-105-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Desde el apartamento de Ross es la respuesta correcta.","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-106-directa","fact":"friends-v7-106-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Besa también a Rachel y Phoebe es la respuesta correcta.","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-107-directa","fact":"friends-v7-107-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Que se le añade olor artificial es la respuesta correcta.","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-108-directa","fact":"friends-v7-108-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Trifle con carne y guisantes es la respuesta correcta.","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-109-directa","fact":"friends-v7-109-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Quedan excesivamente blancos es la respuesta correcta.","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-110-directa","fact":"friends-v7-110-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: La rutina es la respuesta correcta.","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-111-directa","fact":"friends-v7-111-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Elizabeth no es falsa; es una alumna real es la respuesta correcta.","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-112-directa","fact":"friends-v7-112-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Joey es la respuesta correcta.","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-113-directa","fact":"friends-v7-113-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Se ordena por Internet es la respuesta correcta.","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-114-directa","fact":"friends-v7-114-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: The Swing Kings es la respuesta correcta.","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-115-directa","fact":"friends-v7-115-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Nada; Monica tiene una carpeta perfectamente organizada es la respuesta correcta.","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-116-directa","fact":"friends-v7-116-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Emma es la respuesta correcta.","a":"T8","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-117-directa","fact":"friends-v7-117-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Darwin es la respuesta correcta.","a":"T8","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-118-directa","fact":"friends-v7-118-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Un sujetador rojo es la respuesta correcta.","a":"T8","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-120-directa","fact":"friends-v7-120-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Baby Got Back es la respuesta correcta.","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-121-directa","fact":"friends-v7-121-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Tulsa es la respuesta correcta.","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-122-directa","fact":"friends-v7-122-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Una reliquia familiar es la respuesta correcta.","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-123-directa","fact":"friends-v7-123-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Ralph Lauren es la respuesta correcta.","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-124-directa","fact":"friends-v7-124-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Las llaves es la respuesta correcta.","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-125-directa","fact":"friends-v7-125-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: París es la respuesta correcta.","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-126-directa","fact":"friends-v7-126-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Erica es la respuesta correcta.","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-127-directa","fact":"friends-v7-127-directa","show":"friends","kind":"directa"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada ocurre esta escena: Una despedida personal de Rachel es la respuesta correcta.","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-128-directa","fact":"friends-v7-128-directa","show":"friends","kind":"directa"},{"block":"Rachel","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Green” en este quiz de Rachel?","a":"Cuál es apellido de Rachel","d":["Geller","Buffay","Bing"],"x":"El/la apellido de Rachel es Green.","season":"General","id":"friends-v7-0-reconocimiento","fact":"friends-v7-0-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Rachel","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Camarera en Central Perk” en este quiz de Rachel?","a":"Cuál es primer trabajo de Rachel","d":["Chef","Masajista","Profesora"],"x":"El/la primer trabajo de Rachel es Camarera en Central Perk.","season":"General","id":"friends-v7-1-reconocimiento","fact":"friends-v7-1-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Rachel","difficulty":"Media","q":"¿Qué descripción corresponde a “Emma” en este quiz de Rachel?","a":"Cuál es hija de Rachel","d":["Erica","Jill","Amy"],"x":"El/la hija de Rachel es Emma.","season":"General","id":"friends-v7-2-reconocimiento","fact":"friends-v7-2-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Rachel","difficulty":"Media","q":"¿Qué descripción corresponde a “Moda” en este quiz de Rachel?","a":"Cuál es sector profesional de Rachel","d":["Medicina","Publicidad","Paleontología"],"x":"El/la sector profesional de Rachel es Moda.","season":"General","id":"friends-v7-3-reconocimiento","fact":"friends-v7-3-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Rachel","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Barry Farber” en este quiz de Rachel?","a":"Cuál es prometido abandonado de Rachel","d":["Tag Jones","Joshua Burgin","Mark Robinson"],"x":"El/la prometido abandonado de Rachel es Barry Farber.","season":"General","id":"friends-v7-4-reconocimiento","fact":"friends-v7-4-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Rachel","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Joanna” en este quiz de Rachel?","a":"Cuál es jefa en Bloomingdale’s de Rachel","d":["Sophie","Estelle","Nora"],"x":"El/la jefa en Bloomingdale’s de Rachel es Joanna.","season":"General","id":"friends-v7-5-reconocimiento","fact":"friends-v7-5-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Monica","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Chef” en este quiz de Monica?","a":"Cuál es profesión de Monica","d":["Actriz","Abogada","Editora"],"x":"El/la profesión de Monica es Chef.","season":"General","id":"friends-v7-6-reconocimiento","fact":"friends-v7-6-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Monica","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Ross” en este quiz de Monica?","a":"Cuál es hermano de Monica","d":["Joey","Mike","Gunther"],"x":"El/la hermano de Monica es Ross.","season":"General","id":"friends-v7-7-reconocimiento","fact":"friends-v7-7-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Monica","difficulty":"Media","q":"¿Qué descripción corresponde a “Chandler” en este quiz de Monica?","a":"Cuál es marido de Monica","d":["Richard","Pete","Joey"],"x":"El/la marido de Monica es Chandler.","season":"General","id":"friends-v7-8-reconocimiento","fact":"friends-v7-8-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Monica","difficulty":"Media","q":"¿Qué descripción corresponde a “20” en este quiz de Monica?","a":"Cuál es número de apartamento de Monica","d":["19","5","12"],"x":"El/la número de apartamento de Monica es 20.","season":"General","id":"friends-v7-9-reconocimiento","fact":"friends-v7-9-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Monica","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Javu” en este quiz de Monica?","a":"Cuál es restaurante final de Monica","d":["Iridium","Central Perk","Moondance Diner"],"x":"El/la restaurante final de Monica es Javu.","season":"General","id":"friends-v7-10-reconocimiento","fact":"friends-v7-10-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Monica","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Pete Becker” en este quiz de Monica?","a":"Cuál es millonario con quien sale de Monica","d":["Tag Jones","David","Gary"],"x":"El/la millonario con quien sale de Monica es Pete Becker.","season":"General","id":"friends-v7-11-reconocimiento","fact":"friends-v7-11-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Guitarra” en este quiz de Phoebe?","a":"Cuál es instrumento de Phoebe","d":["Violín","Piano","Saxofón"],"x":"El/la instrumento de Phoebe es Guitarra.","season":"General","id":"friends-v7-12-reconocimiento","fact":"friends-v7-12-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Ursula” en este quiz de Phoebe?","a":"Cuál es hermana gemela de Phoebe","d":["Jill","Amy","Erica"],"x":"El/la hermana gemela de Phoebe es Ursula.","season":"General","id":"friends-v7-13-reconocimiento","fact":"friends-v7-13-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Phoebe","difficulty":"Media","q":"¿Qué descripción corresponde a “Mike Hannigan” en este quiz de Phoebe?","a":"Cuál es marido de Phoebe","d":["David","Gary","Roger"],"x":"El/la marido de Phoebe es Mike Hannigan.","season":"General","id":"friends-v7-14-reconocimiento","fact":"friends-v7-14-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Phoebe","difficulty":"Media","q":"¿Qué descripción corresponde a “Masajista” en este quiz de Phoebe?","a":"Cuál es profesión de Phoebe","d":["Chef","Editora","Profesora"],"x":"El/la profesión de Phoebe es Masajista.","season":"General","id":"friends-v7-15-reconocimiento","fact":"friends-v7-15-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Phoebe","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Regina Phalange” en este quiz de Phoebe?","a":"Cuál es alias habitual de Phoebe","d":["Ken Adams","Erica Bing","Susan Geller"],"x":"El/la alias habitual de Phoebe es Regina Phalange.","season":"General","id":"friends-v7-16-reconocimiento","fact":"friends-v7-16-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Phoebe","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Princess Consuela Banana Hammock” en este quiz de Phoebe?","a":"Cuál es nombre legal temporal de Phoebe","d":["Regina Phalange","Phoebe Hannigan","Valerie Thompson"],"x":"El/la nombre legal temporal de Phoebe es Princess Consuela Banana Hammock.","season":"General","id":"friends-v7-17-reconocimiento","fact":"friends-v7-17-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Joey","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Actor” en este quiz de Joey?","a":"Cuál es profesión de Joey","d":["Chef","Profesor","Abogado"],"x":"El/la profesión de Joey es Actor.","season":"General","id":"friends-v7-18-reconocimiento","fact":"friends-v7-18-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Joey","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Tribbiani” en este quiz de Joey?","a":"Cuál es apellido de Joey","d":["Bing","Geller","Green"],"x":"El/la apellido de Joey es Tribbiani.","season":"General","id":"friends-v7-19-reconocimiento","fact":"friends-v7-19-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Joey","difficulty":"Media","q":"¿Qué descripción corresponde a “Dr. Drake Ramoray” en este quiz de Joey?","a":"Cuál es personaje televisivo de Joey","d":["Dr. Burke","Dr. Green","Dr. Geller"],"x":"El/la personaje televisivo de Joey es Dr. Drake Ramoray.","season":"General","id":"friends-v7-20-reconocimiento","fact":"friends-v7-20-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Joey","difficulty":"Media","q":"¿Qué descripción corresponde a “Hugsy” en este quiz de Joey?","a":"Cuál es pingüino de peluche de Joey","d":["Marcel","Clunkers","Chi-Chi"],"x":"El/la pingüino de peluche de Joey es Hugsy.","season":"General","id":"friends-v7-21-reconocimiento","fact":"friends-v7-21-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Joey","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Estelle Leonard” en este quiz de Joey?","a":"Cuál es agente de Joey","d":["Joanna","Sophie","Erica"],"x":"El/la agente de Joey es Estelle Leonard.","season":"General","id":"friends-v7-22-reconocimiento","fact":"friends-v7-22-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Joey","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Ken Adams” en este quiz de Joey?","a":"Cuál es alias de la historia de Europa de Joey","d":["Regina Phalange","Dr. Drake","Paul Stevens"],"x":"El/la alias de la historia de Europa de Joey es Ken Adams.","season":"General","id":"friends-v7-23-reconocimiento","fact":"friends-v7-23-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Chandler","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Bing” en este quiz de Chandler?","a":"Cuál es apellido de Chandler","d":["Green","Geller","Burke"],"x":"El/la apellido de Chandler es Bing.","season":"General","id":"friends-v7-24-reconocimiento","fact":"friends-v7-24-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Chandler","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Joey” en este quiz de Chandler?","a":"Cuál es compañero de piso de Chandler","d":["Ross","Mike","Gunther"],"x":"El/la compañero de piso de Chandler es Joey.","season":"General","id":"friends-v7-25-reconocimiento","fact":"friends-v7-25-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Chandler","difficulty":"Media","q":"¿Qué descripción corresponde a “Muriel” en este quiz de Chandler?","a":"Cuál es segundo nombre de Chandler","d":["Joseph","Francis","Leonard"],"x":"El/la segundo nombre de Chandler es Muriel.","season":"General","id":"friends-v7-26-reconocimiento","fact":"friends-v7-26-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Chandler","difficulty":"Media","q":"¿Qué descripción corresponde a “Publicidad” en este quiz de Chandler?","a":"Cuál es nueva profesión de Chandler","d":["Moda","Medicina","Catering"],"x":"El/la nueva profesión de Chandler es Publicidad.","season":"General","id":"friends-v7-27-reconocimiento","fact":"friends-v7-27-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Chandler","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Tulsa” en este quiz de Chandler?","a":"Cuál es ciudad de traslado laboral de Chandler","d":["Boston","Chicago","Miami"],"x":"El/la ciudad de traslado laboral de Chandler es Tulsa.","season":"General","id":"friends-v7-28-reconocimiento","fact":"friends-v7-28-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Chandler","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Eddie Menuek” en este quiz de Chandler?","a":"Cuál es compañero de piso temporal de Chandler","d":["Tag Jones","Pete Becker","Paolo"],"x":"El/la compañero de piso temporal de Chandler es Eddie Menuek.","season":"General","id":"friends-v7-29-reconocimiento","fact":"friends-v7-29-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Ross","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Paleontólogo” en este quiz de Ross?","a":"Cuál es profesión de Ross","d":["Abogado","Médico","Economista"],"x":"El/la profesión de Ross es Paleontólogo.","season":"General","id":"friends-v7-30-reconocimiento","fact":"friends-v7-30-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Ross","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Ben” en este quiz de Ross?","a":"Cuál es hijo de Ross","d":["Jack","Frank","Mike"],"x":"El/la hijo de Ross es Ben.","season":"General","id":"friends-v7-31-reconocimiento","fact":"friends-v7-31-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Ross","difficulty":"Media","q":"¿Qué descripción corresponde a “Marcel, un mono” en este quiz de Ross?","a":"Cuál es mascota exótica de Ross","d":["Una iguana","Un loro","Una serpiente"],"x":"El/la mascota exótica de Ross es Marcel, un mono.","season":"General","id":"friends-v7-32-reconocimiento","fact":"friends-v7-32-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Ross","difficulty":"Media","q":"¿Qué descripción corresponde a “Tres” en este quiz de Ross?","a":"Cuál es número de divorcios de Ross","d":["Uno","Dos","Cinco"],"x":"El/la número de divorcios de Ross es Tres.","season":"General","id":"friends-v7-33-reconocimiento","fact":"friends-v7-33-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Ross","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Universidad de Nueva York” en este quiz de Ross?","a":"Cuál es universidad donde enseña de Ross","d":["Harvard","Yale","Columbia"],"x":"El/la universidad donde enseña de Ross es Universidad de Nueva York.","season":"General","id":"friends-v7-34-reconocimiento","fact":"friends-v7-34-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Ross","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Teclado electrónico” en este quiz de Ross?","a":"Cuál es instrumento que toca de Ross","d":["Trompeta","Violín","Batería"],"x":"El/la instrumento que toca de Ross es Teclado electrónico.","season":"General","id":"friends-v7-35-reconocimiento","fact":"friends-v7-35-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Rachel” en este quiz de Temporadas?","a":"Quién llega vestido de novia a Central Perk en el primer episodio","d":["Monica","Phoebe","Janice"],"x":"Rachel es la respuesta correcta.","season":"T1","id":"friends-v7-36-reconocimiento","fact":"friends-v7-36-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Marcel” en este quiz de Temporadas?","a":"Cómo se llama el mono de Ross","d":["Hugsy","Chi-Chi","Clunkers"],"x":"Marcel es la respuesta correcta.","season":"T1","id":"friends-v7-37-reconocimiento","fact":"friends-v7-37-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Jill Goodacre” en este quiz de Temporadas?","a":"Cómo se llama la mujer con la que Chandler queda encerrado durante el apagón","d":["Joanna","Aurora","Kathy"],"x":"Jill Goodacre es la respuesta correcta.","season":"T1","id":"friends-v7-38-reconocimiento","fact":"friends-v7-38-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Iridium” en este quiz de Temporadas?","a":"Qué restaurante deja de servir alcohol y contrata a Monica","d":["Javu","Alessandro’s","Moondance Diner"],"x":"Iridium es la respuesta correcta.","season":"T1","id":"friends-v7-39-reconocimiento","fact":"friends-v7-39-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “El vídeo del baile de graduación” en este quiz de Temporadas?","a":"Qué vídeo revela que Ross iba a acompañar a Rachel al baile","d":["El vídeo de la boda","Una cinta de Navidad","Un anuncio"],"x":"El vídeo del baile de graduación es la respuesta correcta.","season":"T2","id":"friends-v7-40-reconocimiento","fact":"friends-v7-40-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Julie” en este quiz de Temporadas?","a":"Cómo se llama la novia de Ross que regresa con él de China","d":["Emily","Bonnie","Mona"],"x":"Julie es la respuesta correcta.","season":"T2","id":"friends-v7-41-reconocimiento","fact":"friends-v7-41-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Al Pacino” en este quiz de Temporadas?","a":"Qué actor busca a su doble de trasero en el trabajo de Joey","d":["Robert De Niro","Charlton Heston","Jean-Claude Van Damme"],"x":"Al Pacino es la respuesta correcta.","season":"T2","id":"friends-v7-42-reconocimiento","fact":"friends-v7-42-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “The Lion Sleeps Tonight” en este quiz de Temporadas?","a":"Qué canción canta Ross a Marcel en el aeropuerto","d":["Copacabana","Africa","With or Without You"],"x":"The Lion Sleeps Tonight es la respuesta correcta.","season":"T2","id":"friends-v7-43-reconocimiento","fact":"friends-v7-43-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Estábamos tomándonos un descanso” en este quiz de Temporadas?","a":"Qué frase usa Ross para justificar lo sucedido con Chloe","d":["Pivota","No comparto comida","Unagi"],"x":"Estábamos tomándonos un descanso es la respuesta correcta.","season":"T3","id":"friends-v7-44-reconocimiento","fact":"friends-v7-44-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Mark” en este quiz de Temporadas?","a":"Quién ayuda a Rachel a conseguir una entrevista en Bloomingdale’s","d":["Tag","Joshua","Gavin"],"x":"Mark es la respuesta correcta.","season":"T3","id":"friends-v7-45-reconocimiento","fact":"friends-v7-45-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Un cuchillo que termina cortando el dedo de Chandler” en este quiz de Temporadas?","a":"Qué llevaba Monica de adolescente en el vídeo de Acción de Gracias","d":["Una guitarra","Una cámara","Un pavo"],"x":"Un cuchillo que termina cortando el dedo de Chandler es la respuesta correcta.","season":"T3","id":"friends-v7-46-reconocimiento","fact":"friends-v7-46-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Pete Becker” en este quiz de Temporadas?","a":"Cómo se llama el novio extremadamente rico de Monica","d":["Richard Burke","Paul Stevens","David"],"x":"Pete Becker es la respuesta correcta.","season":"T3","id":"friends-v7-47-reconocimiento","fact":"friends-v7-47-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Su apartamento” en este quiz de Temporadas?","a":"Qué pierden Monica y Rachel en un concurso","d":["Su coche","Su trabajo","Sus mascotas"],"x":"Su apartamento es la respuesta correcta.","season":"T4","id":"friends-v7-48-reconocimiento","fact":"friends-v7-48-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Cuál es el trabajo de Chandler” en este quiz de Temporadas?","a":"Qué pregunta decide el concurso de los apartamentos","d":["El apellido de Gunther","La edad de Joey","El nombre de Marcel"],"x":"Cuál es el trabajo de Chandler es la respuesta correcta.","season":"T4","id":"friends-v7-49-reconocimiento","fact":"friends-v7-49-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Chip” en este quiz de Temporadas?","a":"Qué nombre aparece en el uniforme de animadora de Rachel","d":["Joshua","Mark","Ross"],"x":"Chip es la respuesta correcta.","season":"T4","id":"friends-v7-50-reconocimiento","fact":"friends-v7-50-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “El concurso de preguntas de Ross” en este quiz de Temporadas?","a":"Cómo se llama el juego inventado para decidir los apartamentos","d":["Bamboozled","Cups","Fireball"],"x":"El concurso de preguntas de Ross es la respuesta correcta.","season":"T4","id":"friends-v7-51-reconocimiento","fact":"friends-v7-51-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Londres” en este quiz de Temporadas?","a":"En qué ciudad comienza la relación de Monica y Chandler","d":["París","Roma","Tulsa"],"x":"Londres es la respuesta correcta.","season":"T5","id":"friends-v7-52-reconocimiento","fact":"friends-v7-52-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Desde el apartamento de Ross” en este quiz de Temporadas?","a":"Desde qué apartamento descubren Phoebe y Rachel la relación secreta","d":["Desde Central Perk","Desde el pasillo","Desde casa de Joey"],"x":"Desde el apartamento de Ross es la respuesta correcta.","season":"T5","id":"friends-v7-53-reconocimiento","fact":"friends-v7-53-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Besa también a Rachel y Phoebe” en este quiz de Temporadas?","a":"Qué mentira usa Chandler después de besar a Monica en público","d":["Finge un resfriado","Dice que es una apuesta","Se marcha corriendo"],"x":"Besa también a Rachel y Phoebe es la respuesta correcta.","season":"T5","id":"friends-v7-54-reconocimiento","fact":"friends-v7-54-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Que se le añade olor artificial” en este quiz de Temporadas?","a":"Qué dato sobre el gas cuenta Ross a la repartidora de pizza","d":["Que es de color azul","Que viene de Texas","Que no pesa"],"x":"Que se le añade olor artificial es la respuesta correcta.","season":"T5","id":"friends-v7-55-reconocimiento","fact":"friends-v7-55-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Trifle con carne y guisantes” en este quiz de Temporadas?","a":"Qué postre prepara Rachel mezclando dos recetas","d":["Tiramisú con pescado","Helado con pollo","Brownie con pasta"],"x":"Trifle con carne y guisantes es la respuesta correcta.","season":"T6","id":"friends-v7-56-reconocimiento","fact":"friends-v7-56-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Quedan excesivamente blancos” en este quiz de Temporadas?","a":"Qué les ocurre a los dientes de Ross antes de una cita","d":["Se rompen","Se vuelven azules","Pierde uno"],"x":"Quedan excesivamente blancos es la respuesta correcta.","season":"T6","id":"friends-v7-57-reconocimiento","fact":"friends-v7-57-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “La rutina” en este quiz de Temporadas?","a":"Qué baile presentan Ross y Monica en Nochevieja","d":["El pivote","El armadillo","El bamboozle"],"x":"La rutina es la respuesta correcta.","season":"T6","id":"friends-v7-58-reconocimiento","fact":"friends-v7-58-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Elizabeth no es falsa; es una alumna real” en este quiz de Temporadas?","a":"Qué nombre usa Ross como profesor para una falsa alumna británica","d":["Emily","Julie","Mona"],"x":"Elizabeth no es falsa; es una alumna real es la respuesta correcta.","season":"T6","id":"friends-v7-59-reconocimiento","fact":"friends-v7-59-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Joey” en este quiz de Temporadas?","a":"Quién oficia la boda de Monica y Chandler","d":["Ross","Gunther","Mike"],"x":"Joey es la respuesta correcta.","season":"T7","id":"friends-v7-60-reconocimiento","fact":"friends-v7-60-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Se ordena por Internet” en este quiz de Temporadas?","a":"Cómo consigue Joey autorización para oficiar la boda","d":["Estudia Derecho","Llama al alcalde","Pide permiso a un juez"],"x":"Se ordena por Internet es la respuesta correcta.","season":"T7","id":"friends-v7-61-reconocimiento","fact":"friends-v7-61-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “The Swing Kings” en este quiz de Temporadas?","a":"Qué banda quiere Monica para su boda","d":["The Rembrandts","Hootie & the Blowfish","Bay City Rollers"],"x":"The Swing Kings es la respuesta correcta.","season":"T7","id":"friends-v7-62-reconocimiento","fact":"friends-v7-62-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Nada; Monica tiene una carpeta perfectamente organizada” en este quiz de Temporadas?","a":"Qué objeto cree Rachel que falta cuando Monica enumera cosas de la boda","d":["El ramo","Los anillos","La tarta"],"x":"Nada; Monica tiene una carpeta perfectamente organizada es la respuesta correcta.","season":"T7","id":"friends-v7-63-reconocimiento","fact":"friends-v7-63-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Emma” en este quiz de Temporadas?","a":"Cómo se llama la hija de Ross y Rachel","d":["Erica","Susan","Jill"],"x":"Emma es la respuesta correcta.","season":"T8","id":"friends-v7-64-reconocimiento","fact":"friends-v7-64-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Darwin” en este quiz de Temporadas?","a":"Qué nombre propone Ross para el bebé antes de saber que es niña","d":["Marcel","Jack","Leonard"],"x":"Darwin es la respuesta correcta.","season":"T8","id":"friends-v7-65-reconocimiento","fact":"friends-v7-65-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Un sujetador rojo” en este quiz de Temporadas?","a":"Qué prenda provoca que Joey malinterprete las señales de Rachel","d":["Un vestido verde","Un abrigo negro","Una camisa de Joey"],"x":"Un sujetador rojo es la respuesta correcta.","season":"T8","id":"friends-v7-67-reconocimiento","fact":"friends-v7-67-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Baby Got Back” en este quiz de Temporadas?","a":"Qué canción hace reír a Emma","d":["Smelly Cat","Copacabana","Africa"],"x":"Baby Got Back es la respuesta correcta.","season":"T9","id":"friends-v7-68-reconocimiento","fact":"friends-v7-68-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “Tulsa” en este quiz de Temporadas?","a":"Dónde trabaja Chandler lejos de Nueva York","d":["Chicago","Boston","Miami"],"x":"Tulsa es la respuesta correcta.","season":"T9","id":"friends-v7-69-reconocimiento","fact":"friends-v7-69-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Una reliquia familiar” en este quiz de Temporadas?","a":"Qué rompe Phoebe durante una cena con los padres de Mike","d":["Un piano","Una guitarra","Un jarrón de Monica"],"x":"Una reliquia familiar es la respuesta correcta.","season":"T9","id":"friends-v7-70-reconocimiento","fact":"friends-v7-70-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Ralph Lauren” en este quiz de Temporadas?","a":"Qué trabajo acepta Rachel después de Bloomingdale’s","d":["Gucci","Versace","Prada"],"x":"Ralph Lauren es la respuesta correcta.","season":"T9","id":"friends-v7-71-reconocimiento","fact":"friends-v7-71-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Las llaves” en este quiz de Temporadas?","a":"Qué dejan los seis amigos en el apartamento al marcharse","d":["Las tazas","Los teléfonos","Las fotos"],"x":"Las llaves es la respuesta correcta.","season":"T10","id":"friends-v7-72-reconocimiento","fact":"friends-v7-72-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Media","q":"¿Qué descripción corresponde a “París” en este quiz de Temporadas?","a":"A qué ciudad iba a mudarse Rachel","d":["Roma","Londres","Madrid"],"x":"París es la respuesta correcta.","season":"T10","id":"friends-v7-73-reconocimiento","fact":"friends-v7-73-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Erica” en este quiz de Temporadas?","a":"Cómo se llama la madre biológica de los gemelos adoptados","d":["Emily","Alice","Julie"],"x":"Erica es la respuesta correcta.","season":"T10","id":"friends-v7-74-reconocimiento","fact":"friends-v7-74-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Una despedida personal de Rachel” en este quiz de Temporadas?","a":"Qué regalo de despedida recibe todo el grupo menos Ross al principio","d":["Una taza","Una fotografía","Una carta idéntica"],"x":"Una despedida personal de Rachel es la respuesta correcta.","season":"T10","id":"friends-v7-75-reconocimiento","fact":"friends-v7-75-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Morada” en este quiz de Objetos?","a":"De qué color es la puerta del apartamento de Monica","d":["Roja","Azul","Verde"],"x":"Morada es la respuesta correcta.","season":"General","id":"friends-v7-76-reconocimiento","fact":"friends-v7-76-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Objetos","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Un marco amarillo” en este quiz de Objetos?","a":"Qué adorna la mirilla de esa puerta","d":["Un reloj","Una corona","Un espejo"],"x":"Un marco amarillo es la respuesta correcta.","season":"General","id":"friends-v7-77-reconocimiento","fact":"friends-v7-77-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Central Perk” en este quiz de Lugares?","a":"Cómo se llama la cafetería habitual","d":["Javu","Iridium","Moondance Diner"],"x":"Central Perk es la respuesta correcta.","season":"General","id":"friends-v7-78-reconocimiento","fact":"friends-v7-78-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué descripción corresponde a “Gunther” en este quiz de Secundarios?","a":"Quién trabaja en Central Perk y está enamorado de Rachel","d":["Mike","Richard","David"],"x":"Gunther es la respuesta correcta.","season":"General","id":"friends-v7-79-reconocimiento","fact":"friends-v7-79-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué descripción corresponde a “Carol” en este quiz de Secundarios?","a":"Cómo se llama la primera exmujer de Ross","d":["Emily","Julie","Mona"],"x":"Carol es la respuesta correcta.","season":"General","id":"friends-v7-80-reconocimiento","fact":"friends-v7-80-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Susan Bunch” en este quiz de Secundarios?","a":"Cómo se llama la esposa de Carol","d":["Judy Geller","Nora Bing","Alice Knight"],"x":"Susan Bunch es la respuesta correcta.","season":"General","id":"friends-v7-81-reconocimiento","fact":"friends-v7-81-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Qué descripción corresponde a “David” en este quiz de Secundarios?","a":"Cómo se llama el científico que viaja a Minsk","d":["Mike","Gary","Roger"],"x":"David es la respuesta correcta.","season":"General","id":"friends-v7-82-reconocimiento","fact":"friends-v7-82-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Eventos","difficulty":"Media","q":"¿Qué descripción corresponde a “Un pato y un pollito” en este quiz de Eventos?","a":"Qué mascotas tienen Joey y Chandler","d":["Dos gatos","Un mono y un loro","Dos conejos"],"x":"Un pato y un pollito es la respuesta correcta.","season":"General","id":"friends-v7-83-reconocimiento","fact":"friends-v7-83-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Eventos","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Tarta de queso” en este quiz de Eventos?","a":"Qué pastel comen Rachel y Chandler después de caer al suelo","d":["Tiramisú","Brownie","Tarta de manzana"],"x":"Tarta de queso es la respuesta correcta.","season":"General","id":"friends-v7-84-reconocimiento","fact":"friends-v7-84-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Frases","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Joey” en este quiz de Frases?","a":"Quién dice “How you doin’?”","d":["Ross","Chandler","Mike"],"x":"Joey es la respuesta correcta.","season":"General","id":"friends-v7-85-reconocimiento","fact":"friends-v7-85-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Frases","difficulty":"Fácil","q":"¿Qué descripción corresponde a “Janice” en este quiz de Frases?","a":"Quién exclama “Oh. My. God.”","d":["Monica","Emily","Carol"],"x":"Janice es la respuesta correcta.","season":"General","id":"friends-v7-86-reconocimiento","fact":"friends-v7-86-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Frases","difficulty":"Media","q":"¿Qué descripción corresponde a “Ross” en este quiz de Frases?","a":"Quién grita “Pivot!” al mover un sofá","d":["Joey","Chandler","Gunther"],"x":"Ross es la respuesta correcta.","season":"General","id":"friends-v7-87-reconocimiento","fact":"friends-v7-87-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Frases","difficulty":"Difícil","q":"¿Qué descripción corresponde a “Unagi” en este quiz de Frases?","a":"Qué palabra usa Ross para describir la conciencia total en defensa personal","d":["Karate","Sushi","Pivot"],"x":"Unagi es la respuesta correcta.","season":"General","id":"friends-v7-88-reconocimiento","fact":"friends-v7-88-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T1” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Rachel es la respuesta correcta.","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-89-reconocimiento","fact":"friends-v7-89-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T2” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: El vídeo del baile de graduación es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-93-reconocimiento","fact":"friends-v7-93-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T3” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Estábamos tomándonos un descanso es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-97-reconocimiento","fact":"friends-v7-97-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T4” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Su apartamento es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-101-reconocimiento","fact":"friends-v7-101-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T5” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Londres es la respuesta correcta.","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-105-reconocimiento","fact":"friends-v7-105-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T6” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Trifle con carne y guisantes es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-109-reconocimiento","fact":"friends-v7-109-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T7” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Joey es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-113-reconocimiento","fact":"friends-v7-113-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T8” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Emma es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-117-reconocimiento","fact":"friends-v7-117-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T9” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Baby Got Back es la respuesta correcta.","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-121-reconocimiento","fact":"friends-v7-121-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Qué descripción corresponde a “T10” en este quiz de Temporadas?","a":"¿En qué temporada ocurre esta escena: Las llaves es la respuesta correcta.","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-125-reconocimiento","fact":"friends-v7-125-reconocimiento","show":"friends","kind":"reconocimiento"},{"block":"Rachel","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de rachel?","a":"Green","d":["Geller","Buffay","Bing"],"x":"El/la apellido de Rachel es Green.","season":"General","id":"friends-v7-0-relacion","fact":"friends-v7-0-relacion","show":"friends","kind":"relacion"},{"block":"Rachel","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es primer trabajo de rachel?","a":"Camarera en Central Perk","d":["Chef","Masajista","Profesora"],"x":"El/la primer trabajo de Rachel es Camarera en Central Perk.","season":"General","id":"friends-v7-1-relacion","fact":"friends-v7-1-relacion","show":"friends","kind":"relacion"},{"block":"Rachel","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hija de rachel?","a":"Emma","d":["Erica","Jill","Amy"],"x":"El/la hija de Rachel es Emma.","season":"General","id":"friends-v7-2-relacion","fact":"friends-v7-2-relacion","show":"friends","kind":"relacion"},{"block":"Rachel","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es sector profesional de rachel?","a":"Moda","d":["Medicina","Publicidad","Paleontología"],"x":"El/la sector profesional de Rachel es Moda.","season":"General","id":"friends-v7-3-relacion","fact":"friends-v7-3-relacion","show":"friends","kind":"relacion"},{"block":"Rachel","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es prometido abandonado de rachel?","a":"Barry Farber","d":["Tag Jones","Joshua Burgin","Mark Robinson"],"x":"El/la prometido abandonado de Rachel es Barry Farber.","season":"General","id":"friends-v7-4-relacion","fact":"friends-v7-4-relacion","show":"friends","kind":"relacion"},{"block":"Rachel","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es jefa en bloomingdale’s de rachel?","a":"Joanna","d":["Sophie","Estelle","Nora"],"x":"El/la jefa en Bloomingdale’s de Rachel es Joanna.","season":"General","id":"friends-v7-5-relacion","fact":"friends-v7-5-relacion","show":"friends","kind":"relacion"},{"block":"Monica","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es profesión de monica?","a":"Chef","d":["Actriz","Abogada","Editora"],"x":"El/la profesión de Monica es Chef.","season":"General","id":"friends-v7-6-relacion","fact":"friends-v7-6-relacion","show":"friends","kind":"relacion"},{"block":"Monica","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hermano de monica?","a":"Ross","d":["Joey","Mike","Gunther"],"x":"El/la hermano de Monica es Ross.","season":"General","id":"friends-v7-7-relacion","fact":"friends-v7-7-relacion","show":"friends","kind":"relacion"},{"block":"Monica","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es marido de monica?","a":"Chandler","d":["Richard","Pete","Joey"],"x":"El/la marido de Monica es Chandler.","season":"General","id":"friends-v7-8-relacion","fact":"friends-v7-8-relacion","show":"friends","kind":"relacion"},{"block":"Monica","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es número de apartamento de monica?","a":"20","d":["19","5","12"],"x":"El/la número de apartamento de Monica es 20.","season":"General","id":"friends-v7-9-relacion","fact":"friends-v7-9-relacion","show":"friends","kind":"relacion"},{"block":"Monica","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es restaurante final de monica?","a":"Javu","d":["Iridium","Central Perk","Moondance Diner"],"x":"El/la restaurante final de Monica es Javu.","season":"General","id":"friends-v7-10-relacion","fact":"friends-v7-10-relacion","show":"friends","kind":"relacion"},{"block":"Monica","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es millonario con quien sale de monica?","a":"Pete Becker","d":["Tag Jones","David","Gary"],"x":"El/la millonario con quien sale de Monica es Pete Becker.","season":"General","id":"friends-v7-11-relacion","fact":"friends-v7-11-relacion","show":"friends","kind":"relacion"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es instrumento de phoebe?","a":"Guitarra","d":["Violín","Piano","Saxofón"],"x":"El/la instrumento de Phoebe es Guitarra.","season":"General","id":"friends-v7-12-relacion","fact":"friends-v7-12-relacion","show":"friends","kind":"relacion"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hermana gemela de phoebe?","a":"Ursula","d":["Jill","Amy","Erica"],"x":"El/la hermana gemela de Phoebe es Ursula.","season":"General","id":"friends-v7-13-relacion","fact":"friends-v7-13-relacion","show":"friends","kind":"relacion"},{"block":"Phoebe","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es marido de phoebe?","a":"Mike Hannigan","d":["David","Gary","Roger"],"x":"El/la marido de Phoebe es Mike Hannigan.","season":"General","id":"friends-v7-14-relacion","fact":"friends-v7-14-relacion","show":"friends","kind":"relacion"},{"block":"Phoebe","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es profesión de phoebe?","a":"Masajista","d":["Chef","Editora","Profesora"],"x":"El/la profesión de Phoebe es Masajista.","season":"General","id":"friends-v7-15-relacion","fact":"friends-v7-15-relacion","show":"friends","kind":"relacion"},{"block":"Phoebe","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es alias habitual de phoebe?","a":"Regina Phalange","d":["Ken Adams","Erica Bing","Susan Geller"],"x":"El/la alias habitual de Phoebe es Regina Phalange.","season":"General","id":"friends-v7-16-relacion","fact":"friends-v7-16-relacion","show":"friends","kind":"relacion"},{"block":"Phoebe","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es nombre legal temporal de phoebe?","a":"Princess Consuela Banana Hammock","d":["Regina Phalange","Phoebe Hannigan","Valerie Thompson"],"x":"El/la nombre legal temporal de Phoebe es Princess Consuela Banana Hammock.","season":"General","id":"friends-v7-17-relacion","fact":"friends-v7-17-relacion","show":"friends","kind":"relacion"},{"block":"Joey","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es profesión de joey?","a":"Actor","d":["Chef","Profesor","Abogado"],"x":"El/la profesión de Joey es Actor.","season":"General","id":"friends-v7-18-relacion","fact":"friends-v7-18-relacion","show":"friends","kind":"relacion"},{"block":"Joey","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de joey?","a":"Tribbiani","d":["Bing","Geller","Green"],"x":"El/la apellido de Joey es Tribbiani.","season":"General","id":"friends-v7-19-relacion","fact":"friends-v7-19-relacion","show":"friends","kind":"relacion"},{"block":"Joey","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es personaje televisivo de joey?","a":"Dr. Drake Ramoray","d":["Dr. Burke","Dr. Green","Dr. Geller"],"x":"El/la personaje televisivo de Joey es Dr. Drake Ramoray.","season":"General","id":"friends-v7-20-relacion","fact":"friends-v7-20-relacion","show":"friends","kind":"relacion"},{"block":"Joey","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es pingüino de peluche de joey?","a":"Hugsy","d":["Marcel","Clunkers","Chi-Chi"],"x":"El/la pingüino de peluche de Joey es Hugsy.","season":"General","id":"friends-v7-21-relacion","fact":"friends-v7-21-relacion","show":"friends","kind":"relacion"},{"block":"Joey","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es agente de joey?","a":"Estelle Leonard","d":["Joanna","Sophie","Erica"],"x":"El/la agente de Joey es Estelle Leonard.","season":"General","id":"friends-v7-22-relacion","fact":"friends-v7-22-relacion","show":"friends","kind":"relacion"},{"block":"Joey","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es alias de la historia de europa de joey?","a":"Ken Adams","d":["Regina Phalange","Dr. Drake","Paul Stevens"],"x":"El/la alias de la historia de Europa de Joey es Ken Adams.","season":"General","id":"friends-v7-23-relacion","fact":"friends-v7-23-relacion","show":"friends","kind":"relacion"},{"block":"Chandler","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es apellido de chandler?","a":"Bing","d":["Green","Geller","Burke"],"x":"El/la apellido de Chandler es Bing.","season":"General","id":"friends-v7-24-relacion","fact":"friends-v7-24-relacion","show":"friends","kind":"relacion"},{"block":"Chandler","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es compañero de piso de chandler?","a":"Joey","d":["Ross","Mike","Gunther"],"x":"El/la compañero de piso de Chandler es Joey.","season":"General","id":"friends-v7-25-relacion","fact":"friends-v7-25-relacion","show":"friends","kind":"relacion"},{"block":"Chandler","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es segundo nombre de chandler?","a":"Muriel","d":["Joseph","Francis","Leonard"],"x":"El/la segundo nombre de Chandler es Muriel.","season":"General","id":"friends-v7-26-relacion","fact":"friends-v7-26-relacion","show":"friends","kind":"relacion"},{"block":"Chandler","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es nueva profesión de chandler?","a":"Publicidad","d":["Moda","Medicina","Catering"],"x":"El/la nueva profesión de Chandler es Publicidad.","season":"General","id":"friends-v7-27-relacion","fact":"friends-v7-27-relacion","show":"friends","kind":"relacion"},{"block":"Chandler","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es ciudad de traslado laboral de chandler?","a":"Tulsa","d":["Boston","Chicago","Miami"],"x":"El/la ciudad de traslado laboral de Chandler es Tulsa.","season":"General","id":"friends-v7-28-relacion","fact":"friends-v7-28-relacion","show":"friends","kind":"relacion"},{"block":"Chandler","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es compañero de piso temporal de chandler?","a":"Eddie Menuek","d":["Tag Jones","Pete Becker","Paolo"],"x":"El/la compañero de piso temporal de Chandler es Eddie Menuek.","season":"General","id":"friends-v7-29-relacion","fact":"friends-v7-29-relacion","show":"friends","kind":"relacion"},{"block":"Ross","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es profesión de ross?","a":"Paleontólogo","d":["Abogado","Médico","Economista"],"x":"El/la profesión de Ross es Paleontólogo.","season":"General","id":"friends-v7-30-relacion","fact":"friends-v7-30-relacion","show":"friends","kind":"relacion"},{"block":"Ross","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es hijo de ross?","a":"Ben","d":["Jack","Frank","Mike"],"x":"El/la hijo de Ross es Ben.","season":"General","id":"friends-v7-31-relacion","fact":"friends-v7-31-relacion","show":"friends","kind":"relacion"},{"block":"Ross","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es mascota exótica de ross?","a":"Marcel, un mono","d":["Una iguana","Un loro","Una serpiente"],"x":"El/la mascota exótica de Ross es Marcel, un mono.","season":"General","id":"friends-v7-32-relacion","fact":"friends-v7-32-relacion","show":"friends","kind":"relacion"},{"block":"Ross","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es número de divorcios de ross?","a":"Tres","d":["Uno","Dos","Cinco"],"x":"El/la número de divorcios de Ross es Tres.","season":"General","id":"friends-v7-33-relacion","fact":"friends-v7-33-relacion","show":"friends","kind":"relacion"},{"block":"Ross","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es universidad donde enseña de ross?","a":"Universidad de Nueva York","d":["Harvard","Yale","Columbia"],"x":"El/la universidad donde enseña de Ross es Universidad de Nueva York.","season":"General","id":"friends-v7-34-relacion","fact":"friends-v7-34-relacion","show":"friends","kind":"relacion"},{"block":"Ross","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cuál es instrumento que toca de ross?","a":"Teclado electrónico","d":["Trompeta","Violín","Batería"],"x":"El/la instrumento que toca de Ross es Teclado electrónico.","season":"General","id":"friends-v7-35-relacion","fact":"friends-v7-35-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién llega vestido de novia a central perk en el primer episodio?","a":"Rachel","d":["Monica","Phoebe","Janice"],"x":"Rachel es la respuesta correcta.","season":"T1","id":"friends-v7-36-relacion","fact":"friends-v7-36-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el mono de ross?","a":"Marcel","d":["Hugsy","Chi-Chi","Clunkers"],"x":"Marcel es la respuesta correcta.","season":"T1","id":"friends-v7-37-relacion","fact":"friends-v7-37-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la mujer con la que chandler queda encerrado durante el apagón?","a":"Jill Goodacre","d":["Joanna","Aurora","Kathy"],"x":"Jill Goodacre es la respuesta correcta.","season":"T1","id":"friends-v7-38-relacion","fact":"friends-v7-38-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué restaurante deja de servir alcohol y contrata a monica?","a":"Iridium","d":["Javu","Alessandro’s","Moondance Diner"],"x":"Iridium es la respuesta correcta.","season":"T1","id":"friends-v7-39-relacion","fact":"friends-v7-39-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué vídeo revela que ross iba a acompañar a rachel al baile?","a":"El vídeo del baile de graduación","d":["El vídeo de la boda","Una cinta de Navidad","Un anuncio"],"x":"El vídeo del baile de graduación es la respuesta correcta.","season":"T2","id":"friends-v7-40-relacion","fact":"friends-v7-40-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la novia de ross que regresa con él de china?","a":"Julie","d":["Emily","Bonnie","Mona"],"x":"Julie es la respuesta correcta.","season":"T2","id":"friends-v7-41-relacion","fact":"friends-v7-41-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué actor busca a su doble de trasero en el trabajo de joey?","a":"Al Pacino","d":["Robert De Niro","Charlton Heston","Jean-Claude Van Damme"],"x":"Al Pacino es la respuesta correcta.","season":"T2","id":"friends-v7-42-relacion","fact":"friends-v7-42-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción canta ross a marcel en el aeropuerto?","a":"The Lion Sleeps Tonight","d":["Copacabana","Africa","With or Without You"],"x":"The Lion Sleeps Tonight es la respuesta correcta.","season":"T2","id":"friends-v7-43-relacion","fact":"friends-v7-43-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué frase usa ross para justificar lo sucedido con chloe?","a":"Estábamos tomándonos un descanso","d":["Pivota","No comparto comida","Unagi"],"x":"Estábamos tomándonos un descanso es la respuesta correcta.","season":"T3","id":"friends-v7-44-relacion","fact":"friends-v7-44-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién ayuda a rachel a conseguir una entrevista en bloomingdale’s?","a":"Mark","d":["Tag","Joshua","Gavin"],"x":"Mark es la respuesta correcta.","season":"T3","id":"friends-v7-45-relacion","fact":"friends-v7-45-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué llevaba monica de adolescente en el vídeo de acción de gracias?","a":"Un cuchillo que termina cortando el dedo de Chandler","d":["Una guitarra","Una cámara","Un pavo"],"x":"Un cuchillo que termina cortando el dedo de Chandler es la respuesta correcta.","season":"T3","id":"friends-v7-46-relacion","fact":"friends-v7-46-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el novio extremadamente rico de monica?","a":"Pete Becker","d":["Richard Burke","Paul Stevens","David"],"x":"Pete Becker es la respuesta correcta.","season":"T3","id":"friends-v7-47-relacion","fact":"friends-v7-47-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué pierden monica y rachel en un concurso?","a":"Su apartamento","d":["Su coche","Su trabajo","Sus mascotas"],"x":"Su apartamento es la respuesta correcta.","season":"T4","id":"friends-v7-48-relacion","fact":"friends-v7-48-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué pregunta decide el concurso de los apartamentos?","a":"Cuál es el trabajo de Chandler","d":["El apellido de Gunther","La edad de Joey","El nombre de Marcel"],"x":"Cuál es el trabajo de Chandler es la respuesta correcta.","season":"T4","id":"friends-v7-49-relacion","fact":"friends-v7-49-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué nombre aparece en el uniforme de animadora de rachel?","a":"Chip","d":["Joshua","Mark","Ross"],"x":"Chip es la respuesta correcta.","season":"T4","id":"friends-v7-50-relacion","fact":"friends-v7-50-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el juego inventado para decidir los apartamentos?","a":"El concurso de preguntas de Ross","d":["Bamboozled","Cups","Fireball"],"x":"El concurso de preguntas de Ross es la respuesta correcta.","season":"T4","id":"friends-v7-51-relacion","fact":"friends-v7-51-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: en qué ciudad comienza la relación de monica y chandler?","a":"Londres","d":["París","Roma","Tulsa"],"x":"Londres es la respuesta correcta.","season":"T5","id":"friends-v7-52-relacion","fact":"friends-v7-52-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: desde qué apartamento descubren phoebe y rachel la relación secreta?","a":"Desde el apartamento de Ross","d":["Desde Central Perk","Desde el pasillo","Desde casa de Joey"],"x":"Desde el apartamento de Ross es la respuesta correcta.","season":"T5","id":"friends-v7-53-relacion","fact":"friends-v7-53-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué mentira usa chandler después de besar a monica en público?","a":"Besa también a Rachel y Phoebe","d":["Finge un resfriado","Dice que es una apuesta","Se marcha corriendo"],"x":"Besa también a Rachel y Phoebe es la respuesta correcta.","season":"T5","id":"friends-v7-54-relacion","fact":"friends-v7-54-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué dato sobre el gas cuenta ross a la repartidora de pizza?","a":"Que se le añade olor artificial","d":["Que es de color azul","Que viene de Texas","Que no pesa"],"x":"Que se le añade olor artificial es la respuesta correcta.","season":"T5","id":"friends-v7-55-relacion","fact":"friends-v7-55-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué postre prepara rachel mezclando dos recetas?","a":"Trifle con carne y guisantes","d":["Tiramisú con pescado","Helado con pollo","Brownie con pasta"],"x":"Trifle con carne y guisantes es la respuesta correcta.","season":"T6","id":"friends-v7-56-relacion","fact":"friends-v7-56-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué les ocurre a los dientes de ross antes de una cita?","a":"Quedan excesivamente blancos","d":["Se rompen","Se vuelven azules","Pierde uno"],"x":"Quedan excesivamente blancos es la respuesta correcta.","season":"T6","id":"friends-v7-57-relacion","fact":"friends-v7-57-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué baile presentan ross y monica en nochevieja?","a":"La rutina","d":["El pivote","El armadillo","El bamboozle"],"x":"La rutina es la respuesta correcta.","season":"T6","id":"friends-v7-58-relacion","fact":"friends-v7-58-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué nombre usa ross como profesor para una falsa alumna británica?","a":"Elizabeth no es falsa; es una alumna real","d":["Emily","Julie","Mona"],"x":"Elizabeth no es falsa; es una alumna real es la respuesta correcta.","season":"T6","id":"friends-v7-59-relacion","fact":"friends-v7-59-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién oficia la boda de monica y chandler?","a":"Joey","d":["Ross","Gunther","Mike"],"x":"Joey es la respuesta correcta.","season":"T7","id":"friends-v7-60-relacion","fact":"friends-v7-60-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo consigue joey autorización para oficiar la boda?","a":"Se ordena por Internet","d":["Estudia Derecho","Llama al alcalde","Pide permiso a un juez"],"x":"Se ordena por Internet es la respuesta correcta.","season":"T7","id":"friends-v7-61-relacion","fact":"friends-v7-61-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué banda quiere monica para su boda?","a":"The Swing Kings","d":["The Rembrandts","Hootie & the Blowfish","Bay City Rollers"],"x":"The Swing Kings es la respuesta correcta.","season":"T7","id":"friends-v7-62-relacion","fact":"friends-v7-62-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué objeto cree rachel que falta cuando monica enumera cosas de la boda?","a":"Nada; Monica tiene una carpeta perfectamente organizada","d":["El ramo","Los anillos","La tarta"],"x":"Nada; Monica tiene una carpeta perfectamente organizada es la respuesta correcta.","season":"T7","id":"friends-v7-63-relacion","fact":"friends-v7-63-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la hija de ross y rachel?","a":"Emma","d":["Erica","Susan","Jill"],"x":"Emma es la respuesta correcta.","season":"T8","id":"friends-v7-64-relacion","fact":"friends-v7-64-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué nombre propone ross para el bebé antes de saber que es niña?","a":"Darwin","d":["Marcel","Jack","Leonard"],"x":"Darwin es la respuesta correcta.","season":"T8","id":"friends-v7-65-relacion","fact":"friends-v7-65-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién recoge el anillo caído después del parto?","a":"Joey","d":["Ross","Phoebe","Chandler"],"x":"Joey es la respuesta correcta.","season":"T8","id":"friends-v7-66-relacion","fact":"friends-v7-66-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué prenda provoca que joey malinterprete las señales de rachel?","a":"Un sujetador rojo","d":["Un vestido verde","Un abrigo negro","Una camisa de Joey"],"x":"Un sujetador rojo es la respuesta correcta.","season":"T8","id":"friends-v7-67-relacion","fact":"friends-v7-67-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué canción hace reír a emma?","a":"Baby Got Back","d":["Smelly Cat","Copacabana","Africa"],"x":"Baby Got Back es la respuesta correcta.","season":"T9","id":"friends-v7-68-relacion","fact":"friends-v7-68-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: dónde trabaja chandler lejos de nueva york?","a":"Tulsa","d":["Chicago","Boston","Miami"],"x":"Tulsa es la respuesta correcta.","season":"T9","id":"friends-v7-69-relacion","fact":"friends-v7-69-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué rompe phoebe durante una cena con los padres de mike?","a":"Una reliquia familiar","d":["Un piano","Una guitarra","Un jarrón de Monica"],"x":"Una reliquia familiar es la respuesta correcta.","season":"T9","id":"friends-v7-70-relacion","fact":"friends-v7-70-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué trabajo acepta rachel después de bloomingdale’s?","a":"Ralph Lauren","d":["Gucci","Versace","Prada"],"x":"Ralph Lauren es la respuesta correcta.","season":"T9","id":"friends-v7-71-relacion","fact":"friends-v7-71-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué dejan los seis amigos en el apartamento al marcharse?","a":"Las llaves","d":["Las tazas","Los teléfonos","Las fotos"],"x":"Las llaves es la respuesta correcta.","season":"T10","id":"friends-v7-72-relacion","fact":"friends-v7-72-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: a qué ciudad iba a mudarse rachel?","a":"París","d":["Roma","Londres","Madrid"],"x":"París es la respuesta correcta.","season":"T10","id":"friends-v7-73-relacion","fact":"friends-v7-73-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la madre biológica de los gemelos adoptados?","a":"Erica","d":["Emily","Alice","Julie"],"x":"Erica es la respuesta correcta.","season":"T10","id":"friends-v7-74-relacion","fact":"friends-v7-74-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué regalo de despedida recibe todo el grupo menos ross al principio?","a":"Una despedida personal de Rachel","d":["Una taza","Una fotografía","Una carta idéntica"],"x":"Una despedida personal de Rachel es la respuesta correcta.","season":"T10","id":"friends-v7-75-relacion","fact":"friends-v7-75-relacion","show":"friends","kind":"relacion"},{"block":"Objetos","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: de qué color es la puerta del apartamento de monica?","a":"Morada","d":["Roja","Azul","Verde"],"x":"Morada es la respuesta correcta.","season":"General","id":"friends-v7-76-relacion","fact":"friends-v7-76-relacion","show":"friends","kind":"relacion"},{"block":"Objetos","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué adorna la mirilla de esa puerta?","a":"Un marco amarillo","d":["Un reloj","Una corona","Un espejo"],"x":"Un marco amarillo es la respuesta correcta.","season":"General","id":"friends-v7-77-relacion","fact":"friends-v7-77-relacion","show":"friends","kind":"relacion"},{"block":"Lugares","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la cafetería habitual?","a":"Central Perk","d":["Javu","Iridium","Moondance Diner"],"x":"Central Perk es la respuesta correcta.","season":"General","id":"friends-v7-78-relacion","fact":"friends-v7-78-relacion","show":"friends","kind":"relacion"},{"block":"Secundarios","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién trabaja en central perk y está enamorado de rachel?","a":"Gunther","d":["Mike","Richard","David"],"x":"Gunther es la respuesta correcta.","season":"General","id":"friends-v7-79-relacion","fact":"friends-v7-79-relacion","show":"friends","kind":"relacion"},{"block":"Secundarios","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la primera exmujer de ross?","a":"Carol","d":["Emily","Julie","Mona"],"x":"Carol es la respuesta correcta.","season":"General","id":"friends-v7-80-relacion","fact":"friends-v7-80-relacion","show":"friends","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama la esposa de carol?","a":"Susan Bunch","d":["Judy Geller","Nora Bing","Alice Knight"],"x":"Susan Bunch es la respuesta correcta.","season":"General","id":"friends-v7-81-relacion","fact":"friends-v7-81-relacion","show":"friends","kind":"relacion"},{"block":"Secundarios","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: cómo se llama el científico que viaja a minsk?","a":"David","d":["Mike","Gary","Roger"],"x":"David es la respuesta correcta.","season":"General","id":"friends-v7-82-relacion","fact":"friends-v7-82-relacion","show":"friends","kind":"relacion"},{"block":"Eventos","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué mascotas tienen joey y chandler?","a":"Un pato y un pollito","d":["Dos gatos","Un mono y un loro","Dos conejos"],"x":"Un pato y un pollito es la respuesta correcta.","season":"General","id":"friends-v7-83-relacion","fact":"friends-v7-83-relacion","show":"friends","kind":"relacion"},{"block":"Eventos","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué pastel comen rachel y chandler después de caer al suelo?","a":"Tarta de queso","d":["Tiramisú","Brownie","Tarta de manzana"],"x":"Tarta de queso es la respuesta correcta.","season":"General","id":"friends-v7-84-relacion","fact":"friends-v7-84-relacion","show":"friends","kind":"relacion"},{"block":"Frases","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién dice “how you doin’?”?","a":"Joey","d":["Ross","Chandler","Mike"],"x":"Joey es la respuesta correcta.","season":"General","id":"friends-v7-85-relacion","fact":"friends-v7-85-relacion","show":"friends","kind":"relacion"},{"block":"Frases","difficulty":"Fácil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién exclama “oh. my. god.”?","a":"Janice","d":["Monica","Emily","Carol"],"x":"Janice es la respuesta correcta.","season":"General","id":"friends-v7-86-relacion","fact":"friends-v7-86-relacion","show":"friends","kind":"relacion"},{"block":"Frases","difficulty":"Media","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: quién grita “pivot!” al mover un sofá?","a":"Ross","d":["Joey","Chandler","Gunther"],"x":"Ross es la respuesta correcta.","season":"General","id":"friends-v7-87-relacion","fact":"friends-v7-87-relacion","show":"friends","kind":"relacion"},{"block":"Frases","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: qué palabra usa ross para describir la conciencia total en defensa personal?","a":"Unagi","d":["Karate","Sushi","Pivot"],"x":"Unagi es la respuesta correcta.","season":"General","id":"friends-v7-88-relacion","fact":"friends-v7-88-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: rachel es la respuesta correcta.?","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-89-relacion","fact":"friends-v7-89-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: marcel es la respuesta correcta.?","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-90-relacion","fact":"friends-v7-90-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: jill goodacre es la respuesta correcta.?","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-91-relacion","fact":"friends-v7-91-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: iridium es la respuesta correcta.?","a":"T1","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-92-relacion","fact":"friends-v7-92-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: el vídeo del baile de graduación es la respuesta correcta.?","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-93-relacion","fact":"friends-v7-93-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: julie es la respuesta correcta.?","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-94-relacion","fact":"friends-v7-94-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: al pacino es la respuesta correcta.?","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-95-relacion","fact":"friends-v7-95-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: the lion sleeps tonight es la respuesta correcta.?","a":"T2","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-96-relacion","fact":"friends-v7-96-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: estábamos tomándonos un descanso es la respuesta correcta.?","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-97-relacion","fact":"friends-v7-97-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: mark es la respuesta correcta.?","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-98-relacion","fact":"friends-v7-98-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: un cuchillo que termina cortando el dedo de chandler es la respuesta correcta.?","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-99-relacion","fact":"friends-v7-99-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: pete becker es la respuesta correcta.?","a":"T3","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-100-relacion","fact":"friends-v7-100-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: su apartamento es la respuesta correcta.?","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-101-relacion","fact":"friends-v7-101-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: cuál es el trabajo de chandler es la respuesta correcta.?","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-102-relacion","fact":"friends-v7-102-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: chip es la respuesta correcta.?","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-103-relacion","fact":"friends-v7-103-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: el concurso de preguntas de ross es la respuesta correcta.?","a":"T4","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-104-relacion","fact":"friends-v7-104-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: londres es la respuesta correcta.?","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-105-relacion","fact":"friends-v7-105-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: desde el apartamento de ross es la respuesta correcta.?","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-106-relacion","fact":"friends-v7-106-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: besa también a rachel y phoebe es la respuesta correcta.?","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-107-relacion","fact":"friends-v7-107-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: que se le añade olor artificial es la respuesta correcta.?","a":"T5","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T5","id":"friends-v7-108-relacion","fact":"friends-v7-108-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: trifle con carne y guisantes es la respuesta correcta.?","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-109-relacion","fact":"friends-v7-109-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: quedan excesivamente blancos es la respuesta correcta.?","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-110-relacion","fact":"friends-v7-110-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: la rutina es la respuesta correcta.?","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-111-relacion","fact":"friends-v7-111-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: elizabeth no es falsa; es una alumna real es la respuesta correcta.?","a":"T6","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T6","id":"friends-v7-112-relacion","fact":"friends-v7-112-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: joey es la respuesta correcta.?","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-113-relacion","fact":"friends-v7-113-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: se ordena por internet es la respuesta correcta.?","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-114-relacion","fact":"friends-v7-114-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: the swing kings es la respuesta correcta.?","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-115-relacion","fact":"friends-v7-115-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: nada; monica tiene una carpeta perfectamente organizada es la respuesta correcta.?","a":"T7","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T7","id":"friends-v7-116-relacion","fact":"friends-v7-116-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: emma es la respuesta correcta.?","a":"T8","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-117-relacion","fact":"friends-v7-117-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: darwin es la respuesta correcta.?","a":"T8","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-118-relacion","fact":"friends-v7-118-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: un sujetador rojo es la respuesta correcta.?","a":"T8","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T8","id":"friends-v7-120-relacion","fact":"friends-v7-120-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: baby got back es la respuesta correcta.?","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-121-relacion","fact":"friends-v7-121-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: tulsa es la respuesta correcta.?","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-122-relacion","fact":"friends-v7-122-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: una reliquia familiar es la respuesta correcta.?","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-123-relacion","fact":"friends-v7-123-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: ralph lauren es la respuesta correcta.?","a":"T9","d":["T1","T5","T10"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T9","id":"friends-v7-124-relacion","fact":"friends-v7-124-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: las llaves es la respuesta correcta.?","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-125-relacion","fact":"friends-v7-125-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: parís es la respuesta correcta.?","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-126-relacion","fact":"friends-v7-126-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: erica es la respuesta correcta.?","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-127-relacion","fact":"friends-v7-127-relacion","show":"friends","kind":"relacion"},{"block":"Temporadas","difficulty":"Difícil","q":"¿Cuál de estas opciones se relaciona correctamente con esta pista: ¿en qué temporada ocurre esta escena: una despedida personal de rachel es la respuesta correcta.?","a":"T10","d":["T2","T6","T9"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T10","id":"friends-v7-128-relacion","fact":"friends-v7-128-relacion","show":"friends","kind":"relacion"},{"block":"Rachel","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Rachel?","a":"Green: cuál es apellido de rachel","d":["Geller: cuál es apellido de rachel","Buffay: cuál es apellido de rachel","Bing: cuál es apellido de rachel"],"x":"El/la apellido de Rachel es Green.","season":"General","id":"friends-v7-0-emparejar","fact":"friends-v7-0-emparejar","show":"friends","kind":"emparejar"},{"block":"Monica","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Monica?","a":"Chef: cuál es profesión de monica","d":["Actriz: cuál es profesión de monica","Abogada: cuál es profesión de monica","Editora: cuál es profesión de monica"],"x":"El/la profesión de Monica es Chef.","season":"General","id":"friends-v7-6-emparejar","fact":"friends-v7-6-emparejar","show":"friends","kind":"emparejar"},{"block":"Phoebe","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Phoebe?","a":"Guitarra: cuál es instrumento de phoebe","d":["Violín: cuál es instrumento de phoebe","Piano: cuál es instrumento de phoebe","Saxofón: cuál es instrumento de phoebe"],"x":"El/la instrumento de Phoebe es Guitarra.","season":"General","id":"friends-v7-12-emparejar","fact":"friends-v7-12-emparejar","show":"friends","kind":"emparejar"},{"block":"Joey","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Joey?","a":"Actor: cuál es profesión de joey","d":["Chef: cuál es profesión de joey","Profesor: cuál es profesión de joey","Abogado: cuál es profesión de joey"],"x":"El/la profesión de Joey es Actor.","season":"General","id":"friends-v7-18-emparejar","fact":"friends-v7-18-emparejar","show":"friends","kind":"emparejar"},{"block":"Chandler","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Chandler?","a":"Bing: cuál es apellido de chandler","d":["Green: cuál es apellido de chandler","Geller: cuál es apellido de chandler","Burke: cuál es apellido de chandler"],"x":"El/la apellido de Chandler es Bing.","season":"General","id":"friends-v7-24-emparejar","fact":"friends-v7-24-emparejar","show":"friends","kind":"emparejar"},{"block":"Ross","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Ross?","a":"Paleontólogo: cuál es profesión de ross","d":["Abogado: cuál es profesión de ross","Médico: cuál es profesión de ross","Economista: cuál es profesión de ross"],"x":"El/la profesión de Ross es Paleontólogo.","season":"General","id":"friends-v7-30-emparejar","fact":"friends-v7-30-emparejar","show":"friends","kind":"emparejar"},{"block":"Temporadas","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Temporadas?","a":"Rachel: quién llega vestido de novia a central perk en el primer episodio","d":["Monica: quién llega vestido de novia a central perk en el primer episodio","Phoebe: quién llega vestido de novia a central perk en el primer episodio","Janice: quién llega vestido de novia a central perk en el primer episodio"],"x":"Rachel es la respuesta correcta.","season":"T1","id":"friends-v7-36-emparejar","fact":"friends-v7-36-emparejar","show":"friends","kind":"emparejar"},{"block":"Objetos","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Objetos?","a":"Morada: de qué color es la puerta del apartamento de monica","d":["Roja: de qué color es la puerta del apartamento de monica","Azul: de qué color es la puerta del apartamento de monica","Verde: de qué color es la puerta del apartamento de monica"],"x":"Morada es la respuesta correcta.","season":"General","id":"friends-v7-76-emparejar","fact":"friends-v7-76-emparejar","show":"friends","kind":"emparejar"},{"block":"Lugares","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Lugares?","a":"Central Perk: cómo se llama la cafetería habitual","d":["Javu: cómo se llama la cafetería habitual","Iridium: cómo se llama la cafetería habitual","Moondance Diner: cómo se llama la cafetería habitual"],"x":"Central Perk es la respuesta correcta.","season":"General","id":"friends-v7-78-emparejar","fact":"friends-v7-78-emparejar","show":"friends","kind":"emparejar"},{"block":"Secundarios","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Secundarios?","a":"Gunther: quién trabaja en central perk y está enamorado de rachel","d":["Mike: quién trabaja en central perk y está enamorado de rachel","Richard: quién trabaja en central perk y está enamorado de rachel","David: quién trabaja en central perk y está enamorado de rachel"],"x":"Gunther es la respuesta correcta.","season":"General","id":"friends-v7-79-emparejar","fact":"friends-v7-79-emparejar","show":"friends","kind":"emparejar"},{"block":"Eventos","difficulty":"Media","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Eventos?","a":"Un pato y un pollito: qué mascotas tienen joey y chandler","d":["Dos gatos: qué mascotas tienen joey y chandler","Un mono y un loro: qué mascotas tienen joey y chandler","Dos conejos: qué mascotas tienen joey y chandler"],"x":"Un pato y un pollito es la respuesta correcta.","season":"General","id":"friends-v7-83-emparejar","fact":"friends-v7-83-emparejar","show":"friends","kind":"emparejar"},{"block":"Frases","difficulty":"Fácil","q":"¿Qué afirmación empareja correctamente la respuesta con la pista de Frases?","a":"Joey: quién dice “how you doin’?”","d":["Ross: quién dice “how you doin’?”","Chandler: quién dice “how you doin’?”","Mike: quién dice “how you doin’?”"],"x":"Joey es la respuesta correcta.","season":"General","id":"friends-v7-85-emparejar","fact":"friends-v7-85-emparejar","show":"friends","kind":"emparejar"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: quién llega vestido de novia a central perk en el primer episodio?","a":"T1","d":["T2","T3","T4"],"x":"Rachel es la respuesta correcta.","season":"T1","id":"friends-v7-36-temporada","fact":"friends-v7-36-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cómo se llama el mono de ross?","a":"T1","d":["T2","T3","T4"],"x":"Marcel es la respuesta correcta.","season":"T1","id":"friends-v7-37-temporada","fact":"friends-v7-37-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama la mujer con la que chandler queda encerrado durante el apagón?","a":"T1","d":["T2","T3","T4"],"x":"Jill Goodacre es la respuesta correcta.","season":"T1","id":"friends-v7-38-temporada","fact":"friends-v7-38-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué restaurante deja de servir alcohol y contrata a monica?","a":"T1","d":["T2","T3","T4"],"x":"Iridium es la respuesta correcta.","season":"T1","id":"friends-v7-39-temporada","fact":"friends-v7-39-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué vídeo revela que ross iba a acompañar a rachel al baile?","a":"T2","d":["T1","T3","T4"],"x":"El vídeo del baile de graduación es la respuesta correcta.","season":"T2","id":"friends-v7-40-temporada","fact":"friends-v7-40-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cómo se llama la novia de ross que regresa con él de china?","a":"T2","d":["T1","T3","T4"],"x":"Julie es la respuesta correcta.","season":"T2","id":"friends-v7-41-temporada","fact":"friends-v7-41-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué actor busca a su doble de trasero en el trabajo de joey?","a":"T2","d":["T1","T3","T4"],"x":"Al Pacino es la respuesta correcta.","season":"T2","id":"friends-v7-42-temporada","fact":"friends-v7-42-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué canción canta ross a marcel en el aeropuerto?","a":"T2","d":["T1","T3","T4"],"x":"The Lion Sleeps Tonight es la respuesta correcta.","season":"T2","id":"friends-v7-43-temporada","fact":"friends-v7-43-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué frase usa ross para justificar lo sucedido con chloe?","a":"T3","d":["T1","T2","T4"],"x":"Estábamos tomándonos un descanso es la respuesta correcta.","season":"T3","id":"friends-v7-44-temporada","fact":"friends-v7-44-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: quién ayuda a rachel a conseguir una entrevista en bloomingdale’s?","a":"T3","d":["T1","T2","T4"],"x":"Mark es la respuesta correcta.","season":"T3","id":"friends-v7-45-temporada","fact":"friends-v7-45-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué llevaba monica de adolescente en el vídeo de acción de gracias?","a":"T3","d":["T1","T2","T4"],"x":"Un cuchillo que termina cortando el dedo de Chandler es la respuesta correcta.","season":"T3","id":"friends-v7-46-temporada","fact":"friends-v7-46-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el novio extremadamente rico de monica?","a":"T3","d":["T1","T2","T4"],"x":"Pete Becker es la respuesta correcta.","season":"T3","id":"friends-v7-47-temporada","fact":"friends-v7-47-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué pierden monica y rachel en un concurso?","a":"T4","d":["T1","T2","T3"],"x":"Su apartamento es la respuesta correcta.","season":"T4","id":"friends-v7-48-temporada","fact":"friends-v7-48-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué pregunta decide el concurso de los apartamentos?","a":"T4","d":["T1","T2","T3"],"x":"Cuál es el trabajo de Chandler es la respuesta correcta.","season":"T4","id":"friends-v7-49-temporada","fact":"friends-v7-49-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué nombre aparece en el uniforme de animadora de rachel?","a":"T4","d":["T1","T2","T3"],"x":"Chip es la respuesta correcta.","season":"T4","id":"friends-v7-50-temporada","fact":"friends-v7-50-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama el juego inventado para decidir los apartamentos?","a":"T4","d":["T1","T2","T3"],"x":"El concurso de preguntas de Ross es la respuesta correcta.","season":"T4","id":"friends-v7-51-temporada","fact":"friends-v7-51-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: en qué ciudad comienza la relación de monica y chandler?","a":"T5","d":["T1","T2","T3"],"x":"Londres es la respuesta correcta.","season":"T5","id":"friends-v7-52-temporada","fact":"friends-v7-52-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: desde qué apartamento descubren phoebe y rachel la relación secreta?","a":"T5","d":["T1","T2","T3"],"x":"Desde el apartamento de Ross es la respuesta correcta.","season":"T5","id":"friends-v7-53-temporada","fact":"friends-v7-53-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué mentira usa chandler después de besar a monica en público?","a":"T5","d":["T1","T2","T3"],"x":"Besa también a Rachel y Phoebe es la respuesta correcta.","season":"T5","id":"friends-v7-54-temporada","fact":"friends-v7-54-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué dato sobre el gas cuenta ross a la repartidora de pizza?","a":"T5","d":["T1","T2","T3"],"x":"Que se le añade olor artificial es la respuesta correcta.","season":"T5","id":"friends-v7-55-temporada","fact":"friends-v7-55-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué postre prepara rachel mezclando dos recetas?","a":"T6","d":["T1","T2","T3"],"x":"Trifle con carne y guisantes es la respuesta correcta.","season":"T6","id":"friends-v7-56-temporada","fact":"friends-v7-56-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué les ocurre a los dientes de ross antes de una cita?","a":"T6","d":["T1","T2","T3"],"x":"Quedan excesivamente blancos es la respuesta correcta.","season":"T6","id":"friends-v7-57-temporada","fact":"friends-v7-57-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué baile presentan ross y monica en nochevieja?","a":"T6","d":["T1","T2","T3"],"x":"La rutina es la respuesta correcta.","season":"T6","id":"friends-v7-58-temporada","fact":"friends-v7-58-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué nombre usa ross como profesor para una falsa alumna británica?","a":"T6","d":["T1","T2","T3"],"x":"Elizabeth no es falsa; es una alumna real es la respuesta correcta.","season":"T6","id":"friends-v7-59-temporada","fact":"friends-v7-59-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: quién oficia la boda de monica y chandler?","a":"T7","d":["T1","T2","T3"],"x":"Joey es la respuesta correcta.","season":"T7","id":"friends-v7-60-temporada","fact":"friends-v7-60-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: cómo consigue joey autorización para oficiar la boda?","a":"T7","d":["T1","T2","T3"],"x":"Se ordena por Internet es la respuesta correcta.","season":"T7","id":"friends-v7-61-temporada","fact":"friends-v7-61-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué banda quiere monica para su boda?","a":"T7","d":["T1","T2","T3"],"x":"The Swing Kings es la respuesta correcta.","season":"T7","id":"friends-v7-62-temporada","fact":"friends-v7-62-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué objeto cree rachel que falta cuando monica enumera cosas de la boda?","a":"T7","d":["T1","T2","T3"],"x":"Nada; Monica tiene una carpeta perfectamente organizada es la respuesta correcta.","season":"T7","id":"friends-v7-63-temporada","fact":"friends-v7-63-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: cómo se llama la hija de ross y rachel?","a":"T8","d":["T1","T2","T3"],"x":"Emma es la respuesta correcta.","season":"T8","id":"friends-v7-64-temporada","fact":"friends-v7-64-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: qué nombre propone ross para el bebé antes de saber que es niña?","a":"T8","d":["T1","T2","T3"],"x":"Darwin es la respuesta correcta.","season":"T8","id":"friends-v7-65-temporada","fact":"friends-v7-65-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: quién recoge el anillo caído después del parto?","a":"T8","d":["T1","T2","T3"],"x":"Joey es la respuesta correcta.","season":"T8","id":"friends-v7-66-temporada","fact":"friends-v7-66-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué prenda provoca que joey malinterprete las señales de rachel?","a":"T8","d":["T1","T2","T3"],"x":"Un sujetador rojo es la respuesta correcta.","season":"T8","id":"friends-v7-67-temporada","fact":"friends-v7-67-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué canción hace reír a emma?","a":"T9","d":["T1","T2","T3"],"x":"Baby Got Back es la respuesta correcta.","season":"T9","id":"friends-v7-68-temporada","fact":"friends-v7-68-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: dónde trabaja chandler lejos de nueva york?","a":"T9","d":["T1","T2","T3"],"x":"Tulsa es la respuesta correcta.","season":"T9","id":"friends-v7-69-temporada","fact":"friends-v7-69-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué rompe phoebe durante una cena con los padres de mike?","a":"T9","d":["T1","T2","T3"],"x":"Una reliquia familiar es la respuesta correcta.","season":"T9","id":"friends-v7-70-temporada","fact":"friends-v7-70-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué trabajo acepta rachel después de bloomingdale’s?","a":"T9","d":["T1","T2","T3"],"x":"Ralph Lauren es la respuesta correcta.","season":"T9","id":"friends-v7-71-temporada","fact":"friends-v7-71-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Fácil","q":"¿En qué temporada se encuadra esta pista: qué dejan los seis amigos en el apartamento al marcharse?","a":"T10","d":["T1","T2","T3"],"x":"Las llaves es la respuesta correcta.","season":"T10","id":"friends-v7-72-temporada","fact":"friends-v7-72-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Media","q":"¿En qué temporada se encuadra esta pista: a qué ciudad iba a mudarse rachel?","a":"T10","d":["T1","T2","T3"],"x":"París es la respuesta correcta.","season":"T10","id":"friends-v7-73-temporada","fact":"friends-v7-73-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: cómo se llama la madre biológica de los gemelos adoptados?","a":"T10","d":["T1","T2","T3"],"x":"Erica es la respuesta correcta.","season":"T10","id":"friends-v7-74-temporada","fact":"friends-v7-74-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: qué regalo de despedida recibe todo el grupo menos ross al principio?","a":"T10","d":["T1","T2","T3"],"x":"Una despedida personal de Rachel es la respuesta correcta.","season":"T10","id":"friends-v7-75-temporada","fact":"friends-v7-75-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: rachel es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-89-temporada","fact":"friends-v7-89-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: marcel es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-90-temporada","fact":"friends-v7-90-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: jill goodacre es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-91-temporada","fact":"friends-v7-91-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: iridium es la respuesta correcta.?","a":"T1","d":["T2","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T1","id":"friends-v7-92-temporada","fact":"friends-v7-92-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: el vídeo del baile de graduación es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-93-temporada","fact":"friends-v7-93-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: julie es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-94-temporada","fact":"friends-v7-94-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: al pacino es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-95-temporada","fact":"friends-v7-95-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: the lion sleeps tonight es la respuesta correcta.?","a":"T2","d":["T1","T3","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T2","id":"friends-v7-96-temporada","fact":"friends-v7-96-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: estábamos tomándonos un descanso es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-97-temporada","fact":"friends-v7-97-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: mark es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-98-temporada","fact":"friends-v7-98-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: un cuchillo que termina cortando el dedo de chandler es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-99-temporada","fact":"friends-v7-99-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: pete becker es la respuesta correcta.?","a":"T3","d":["T1","T2","T4"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T3","id":"friends-v7-100-temporada","fact":"friends-v7-100-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: su apartamento es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-101-temporada","fact":"friends-v7-101-temporada","show":"friends","kind":"temporada"},{"block":"Temporadas","difficulty":"Difícil","q":"¿En qué temporada se encuadra esta pista: ¿en qué temporada ocurre esta escena: cuál es el trabajo de chandler es la respuesta correcta.?","a":"T4","d":["T1","T2","T3"],"x":"Identificar la temporada exige recordar el contexto completo.","season":"T4","id":"friends-v7-102-temporada","fact":"friends-v7-102-temporada","show":"friends","kind":"temporada"}];
+window.BANK_FRIENDS=[
+  {
+    "block": "Rachel",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Rachel?",
+    "a": "Green",
+    "d": [
+      "Geller",
+      "Buffay",
+      "Bing"
+    ],
+    "x": "apellido de Rachel: Green.",
+    "season": "General",
+    "id": "friends-v12-0",
+    "fact": "friends-v12-0",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rachel es correcta?",
+    "a": "apellido de Rachel: Green.",
+    "d": [
+      "apellido de Rachel: Geller.",
+      "apellido de Rachel: Buffay.",
+      "apellido de Rachel: Bing."
+    ],
+    "x": "apellido de Rachel: Green.",
+    "season": "General",
+    "id": "friends-v12-1",
+    "fact": "friends-v12-1",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Rachel: ________.",
+    "a": "Green",
+    "d": [
+      "Geller",
+      "Buffay",
+      "Bing"
+    ],
+    "x": "apellido de Rachel: Green.",
+    "season": "General",
+    "id": "friends-v12-2",
+    "fact": "friends-v12-2",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Fácil",
+    "q": "¿Cuál fue el primer trabajo de Rachel?",
+    "a": "Camarera en Central Perk",
+    "d": [
+      "Chef",
+      "Masajista",
+      "Profesora"
+    ],
+    "x": "primer trabajo de Rachel: Camarera en Central Perk.",
+    "season": "General",
+    "id": "friends-v12-3",
+    "fact": "friends-v12-3",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Rachel es correcta?",
+    "a": "primer trabajo de Rachel: Camarera en Central Perk.",
+    "d": [
+      "primer trabajo de Rachel: Chef.",
+      "primer trabajo de Rachel: Masajista.",
+      "primer trabajo de Rachel: Profesora."
+    ],
+    "x": "primer trabajo de Rachel: Camarera en Central Perk.",
+    "season": "General",
+    "id": "friends-v12-4",
+    "fact": "friends-v12-4",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: primer trabajo de Rachel: ________.",
+    "a": "Camarera en Central Perk",
+    "d": [
+      "Chef",
+      "Masajista",
+      "Profesora"
+    ],
+    "x": "primer trabajo de Rachel: Camarera en Central Perk.",
+    "season": "General",
+    "id": "friends-v12-5",
+    "fact": "friends-v12-5",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la hija de Rachel?",
+    "a": "Emma",
+    "d": [
+      "Erica",
+      "Jill",
+      "Amy"
+    ],
+    "x": "hija de Rachel: Emma.",
+    "season": "General",
+    "id": "friends-v12-6",
+    "fact": "friends-v12-6",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Rachel es correcta?",
+    "a": "hija de Rachel: Emma.",
+    "d": [
+      "hija de Rachel: Erica.",
+      "hija de Rachel: Jill.",
+      "hija de Rachel: Amy."
+    ],
+    "x": "hija de Rachel: Emma.",
+    "season": "General",
+    "id": "friends-v12-7",
+    "fact": "friends-v12-7",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Media",
+    "q": "Completa correctamente: hija de Rachel: ________.",
+    "a": "Emma",
+    "d": [
+      "Erica",
+      "Jill",
+      "Amy"
+    ],
+    "x": "hija de Rachel: Emma.",
+    "season": "General",
+    "id": "friends-v12-8",
+    "fact": "friends-v12-8",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Media",
+    "q": "¿En qué sector profesional trabaja Rachel?",
+    "a": "Moda",
+    "d": [
+      "Medicina",
+      "Publicidad",
+      "Paleontología"
+    ],
+    "x": "sector profesional de Rachel: Moda.",
+    "season": "General",
+    "id": "friends-v12-9",
+    "fact": "friends-v12-9",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Rachel es correcta?",
+    "a": "sector profesional de Rachel: Moda.",
+    "d": [
+      "sector profesional de Rachel: Medicina.",
+      "sector profesional de Rachel: Publicidad.",
+      "sector profesional de Rachel: Paleontología."
+    ],
+    "x": "sector profesional de Rachel: Moda.",
+    "season": "General",
+    "id": "friends-v12-10",
+    "fact": "friends-v12-10",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Media",
+    "q": "Completa correctamente: sector profesional de Rachel: ________.",
+    "a": "Moda",
+    "d": [
+      "Medicina",
+      "Publicidad",
+      "Paleontología"
+    ],
+    "x": "sector profesional de Rachel: Moda.",
+    "season": "General",
+    "id": "friends-v12-11",
+    "fact": "friends-v12-11",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el prometido al que abandonó Rachel?",
+    "a": "Barry Farber",
+    "d": [
+      "Tag Jones",
+      "Joshua Burgin",
+      "Mark Robinson"
+    ],
+    "x": "prometido abandonado de Rachel: Barry Farber.",
+    "season": "General",
+    "id": "friends-v12-12",
+    "fact": "friends-v12-12",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Rachel es correcta?",
+    "a": "prometido abandonado de Rachel: Barry Farber.",
+    "d": [
+      "prometido abandonado de Rachel: Tag Jones.",
+      "prometido abandonado de Rachel: Joshua Burgin.",
+      "prometido abandonado de Rachel: Mark Robinson."
+    ],
+    "x": "prometido abandonado de Rachel: Barry Farber.",
+    "season": "General",
+    "id": "friends-v12-13",
+    "fact": "friends-v12-13",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: prometido abandonado de Rachel: ________.",
+    "a": "Barry Farber",
+    "d": [
+      "Tag Jones",
+      "Joshua Burgin",
+      "Mark Robinson"
+    ],
+    "x": "prometido abandonado de Rachel: Barry Farber.",
+    "season": "General",
+    "id": "friends-v12-14",
+    "fact": "friends-v12-14",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la jefa de Bloomingdale’s de Rachel?",
+    "a": "Joanna",
+    "d": [
+      "Sophie",
+      "Estelle",
+      "Nora"
+    ],
+    "x": "jefa en Bloomingdale’s de Rachel: Joanna.",
+    "season": "General",
+    "id": "friends-v12-15",
+    "fact": "friends-v12-15",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Rachel es correcta?",
+    "a": "jefa en Bloomingdale’s de Rachel: Joanna.",
+    "d": [
+      "jefa en Bloomingdale’s de Rachel: Sophie.",
+      "jefa en Bloomingdale’s de Rachel: Estelle.",
+      "jefa en Bloomingdale’s de Rachel: Nora."
+    ],
+    "x": "jefa en Bloomingdale’s de Rachel: Joanna.",
+    "season": "General",
+    "id": "friends-v12-16",
+    "fact": "friends-v12-16",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Rachel",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: jefa en Bloomingdale’s de Rachel: ________.",
+    "a": "Joanna",
+    "d": [
+      "Sophie",
+      "Estelle",
+      "Nora"
+    ],
+    "x": "jefa en Bloomingdale’s de Rachel: Joanna.",
+    "season": "General",
+    "id": "friends-v12-17",
+    "fact": "friends-v12-17",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la profesión de Monica?",
+    "a": "Chef",
+    "d": [
+      "Actriz",
+      "Abogada",
+      "Editora"
+    ],
+    "x": "profesión de Monica: Chef.",
+    "season": "General",
+    "id": "friends-v12-18",
+    "fact": "friends-v12-18",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Monica es correcta?",
+    "a": "profesión de Monica: Chef.",
+    "d": [
+      "profesión de Monica: Actriz.",
+      "profesión de Monica: Abogada.",
+      "profesión de Monica: Editora."
+    ],
+    "x": "profesión de Monica: Chef.",
+    "season": "General",
+    "id": "friends-v12-19",
+    "fact": "friends-v12-19",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: profesión de Monica: ________.",
+    "a": "Chef",
+    "d": [
+      "Actriz",
+      "Abogada",
+      "Editora"
+    ],
+    "x": "profesión de Monica: Chef.",
+    "season": "General",
+    "id": "friends-v12-20",
+    "fact": "friends-v12-20",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama el hermano de Monica?",
+    "a": "Ross",
+    "d": [
+      "Joey",
+      "Mike",
+      "Gunther"
+    ],
+    "x": "hermano de Monica: Ross.",
+    "season": "General",
+    "id": "friends-v12-21",
+    "fact": "friends-v12-21",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Monica es correcta?",
+    "a": "hermano de Monica: Ross.",
+    "d": [
+      "hermano de Monica: Joey.",
+      "hermano de Monica: Mike.",
+      "hermano de Monica: Gunther."
+    ],
+    "x": "hermano de Monica: Ross.",
+    "season": "General",
+    "id": "friends-v12-22",
+    "fact": "friends-v12-22",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: hermano de Monica: ________.",
+    "a": "Ross",
+    "d": [
+      "Joey",
+      "Mike",
+      "Gunther"
+    ],
+    "x": "hermano de Monica: Ross.",
+    "season": "General",
+    "id": "friends-v12-23",
+    "fact": "friends-v12-23",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el marido de Monica?",
+    "a": "Chandler",
+    "d": [
+      "Richard",
+      "Pete",
+      "Joey"
+    ],
+    "x": "marido de Monica: Chandler.",
+    "season": "General",
+    "id": "friends-v12-24",
+    "fact": "friends-v12-24",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Monica es correcta?",
+    "a": "marido de Monica: Chandler.",
+    "d": [
+      "marido de Monica: Richard.",
+      "marido de Monica: Pete.",
+      "marido de Monica: Joey."
+    ],
+    "x": "marido de Monica: Chandler.",
+    "season": "General",
+    "id": "friends-v12-25",
+    "fact": "friends-v12-25",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Media",
+    "q": "Completa correctamente: marido de Monica: ________.",
+    "a": "Chandler",
+    "d": [
+      "Richard",
+      "Pete",
+      "Joey"
+    ],
+    "x": "marido de Monica: Chandler.",
+    "season": "General",
+    "id": "friends-v12-26",
+    "fact": "friends-v12-26",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Media",
+    "q": "¿Cuál es el número del apartamento de Monica?",
+    "a": "20",
+    "d": [
+      "19",
+      "5",
+      "12"
+    ],
+    "x": "número de apartamento de Monica: 20.",
+    "season": "General",
+    "id": "friends-v12-27",
+    "fact": "friends-v12-27",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Monica es correcta?",
+    "a": "número de apartamento de Monica: 20.",
+    "d": [
+      "número de apartamento de Monica: 19.",
+      "número de apartamento de Monica: 5.",
+      "número de apartamento de Monica: 12."
+    ],
+    "x": "número de apartamento de Monica: 20.",
+    "season": "General",
+    "id": "friends-v12-28",
+    "fact": "friends-v12-28",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Media",
+    "q": "Completa correctamente: número de apartamento de Monica: ________.",
+    "a": "20",
+    "d": [
+      "19",
+      "5",
+      "12"
+    ],
+    "x": "número de apartamento de Monica: 20.",
+    "season": "General",
+    "id": "friends-v12-29",
+    "fact": "friends-v12-29",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el último restaurante donde trabaja Monica?",
+    "a": "Javu",
+    "d": [
+      "Iridium",
+      "Central Perk",
+      "Moondance Diner"
+    ],
+    "x": "restaurante final de Monica: Javu.",
+    "season": "General",
+    "id": "friends-v12-30",
+    "fact": "friends-v12-30",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Monica es correcta?",
+    "a": "restaurante final de Monica: Javu.",
+    "d": [
+      "restaurante final de Monica: Iridium.",
+      "restaurante final de Monica: Central Perk.",
+      "restaurante final de Monica: Moondance Diner."
+    ],
+    "x": "restaurante final de Monica: Javu.",
+    "season": "General",
+    "id": "friends-v12-31",
+    "fact": "friends-v12-31",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: restaurante final de Monica: ________.",
+    "a": "Javu",
+    "d": [
+      "Iridium",
+      "Central Perk",
+      "Moondance Diner"
+    ],
+    "x": "restaurante final de Monica: Javu.",
+    "season": "General",
+    "id": "friends-v12-32",
+    "fact": "friends-v12-32",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el millonario con quien sale Monica?",
+    "a": "Pete Becker",
+    "d": [
+      "Tag Jones",
+      "David",
+      "Gary"
+    ],
+    "x": "millonario con quien sale de Monica: Pete Becker.",
+    "season": "General",
+    "id": "friends-v12-33",
+    "fact": "friends-v12-33",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Monica es correcta?",
+    "a": "millonario con quien sale de Monica: Pete Becker.",
+    "d": [
+      "millonario con quien sale de Monica: Tag Jones.",
+      "millonario con quien sale de Monica: David.",
+      "millonario con quien sale de Monica: Gary."
+    ],
+    "x": "millonario con quien sale de Monica: Pete Becker.",
+    "season": "General",
+    "id": "friends-v12-34",
+    "fact": "friends-v12-34",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Monica",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: millonario con quien sale de Monica: ________.",
+    "a": "Pete Becker",
+    "d": [
+      "Tag Jones",
+      "David",
+      "Gary"
+    ],
+    "x": "millonario con quien sale de Monica: Pete Becker.",
+    "season": "General",
+    "id": "friends-v12-35",
+    "fact": "friends-v12-35",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Fácil",
+    "q": "¿Qué instrumento toca Phoebe?",
+    "a": "Guitarra",
+    "d": [
+      "Violín",
+      "Piano",
+      "Saxofón"
+    ],
+    "x": "instrumento de Phoebe: Guitarra.",
+    "season": "General",
+    "id": "friends-v12-36",
+    "fact": "friends-v12-36",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Phoebe es correcta?",
+    "a": "instrumento de Phoebe: Guitarra.",
+    "d": [
+      "instrumento de Phoebe: Violín.",
+      "instrumento de Phoebe: Piano.",
+      "instrumento de Phoebe: Saxofón."
+    ],
+    "x": "instrumento de Phoebe: Guitarra.",
+    "season": "General",
+    "id": "friends-v12-37",
+    "fact": "friends-v12-37",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: instrumento de Phoebe: ________.",
+    "a": "Guitarra",
+    "d": [
+      "Violín",
+      "Piano",
+      "Saxofón"
+    ],
+    "x": "instrumento de Phoebe: Guitarra.",
+    "season": "General",
+    "id": "friends-v12-38",
+    "fact": "friends-v12-38",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la hermana gemela de Phoebe?",
+    "a": "Ursula",
+    "d": [
+      "Jill",
+      "Amy",
+      "Erica"
+    ],
+    "x": "hermana gemela de Phoebe: Ursula.",
+    "season": "General",
+    "id": "friends-v12-39",
+    "fact": "friends-v12-39",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Phoebe es correcta?",
+    "a": "hermana gemela de Phoebe: Ursula.",
+    "d": [
+      "hermana gemela de Phoebe: Jill.",
+      "hermana gemela de Phoebe: Amy.",
+      "hermana gemela de Phoebe: Erica."
+    ],
+    "x": "hermana gemela de Phoebe: Ursula.",
+    "season": "General",
+    "id": "friends-v12-40",
+    "fact": "friends-v12-40",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: hermana gemela de Phoebe: ________.",
+    "a": "Ursula",
+    "d": [
+      "Jill",
+      "Amy",
+      "Erica"
+    ],
+    "x": "hermana gemela de Phoebe: Ursula.",
+    "season": "General",
+    "id": "friends-v12-41",
+    "fact": "friends-v12-41",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el marido de Phoebe?",
+    "a": "Mike Hannigan",
+    "d": [
+      "David",
+      "Gary",
+      "Roger"
+    ],
+    "x": "marido de Phoebe: Mike Hannigan.",
+    "season": "General",
+    "id": "friends-v12-42",
+    "fact": "friends-v12-42",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Phoebe es correcta?",
+    "a": "marido de Phoebe: Mike Hannigan.",
+    "d": [
+      "marido de Phoebe: David.",
+      "marido de Phoebe: Gary.",
+      "marido de Phoebe: Roger."
+    ],
+    "x": "marido de Phoebe: Mike Hannigan.",
+    "season": "General",
+    "id": "friends-v12-43",
+    "fact": "friends-v12-43",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Media",
+    "q": "Completa correctamente: marido de Phoebe: ________.",
+    "a": "Mike Hannigan",
+    "d": [
+      "David",
+      "Gary",
+      "Roger"
+    ],
+    "x": "marido de Phoebe: Mike Hannigan.",
+    "season": "General",
+    "id": "friends-v12-44",
+    "fact": "friends-v12-44",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Media",
+    "q": "¿Cuál es la profesión de Phoebe?",
+    "a": "Masajista",
+    "d": [
+      "Chef",
+      "Editora",
+      "Profesora"
+    ],
+    "x": "profesión de Phoebe: Masajista.",
+    "season": "General",
+    "id": "friends-v12-45",
+    "fact": "friends-v12-45",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Phoebe es correcta?",
+    "a": "profesión de Phoebe: Masajista.",
+    "d": [
+      "profesión de Phoebe: Chef.",
+      "profesión de Phoebe: Editora.",
+      "profesión de Phoebe: Profesora."
+    ],
+    "x": "profesión de Phoebe: Masajista.",
+    "season": "General",
+    "id": "friends-v12-46",
+    "fact": "friends-v12-46",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Media",
+    "q": "Completa correctamente: profesión de Phoebe: ________.",
+    "a": "Masajista",
+    "d": [
+      "Chef",
+      "Editora",
+      "Profesora"
+    ],
+    "x": "profesión de Phoebe: Masajista.",
+    "season": "General",
+    "id": "friends-v12-47",
+    "fact": "friends-v12-47",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Difícil",
+    "q": "¿Cuál es el alias habitual de Phoebe?",
+    "a": "Regina Phalange",
+    "d": [
+      "Ken Adams",
+      "Erica Bing",
+      "Susan Geller"
+    ],
+    "x": "alias habitual de Phoebe: Regina Phalange.",
+    "season": "General",
+    "id": "friends-v12-48",
+    "fact": "friends-v12-48",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Phoebe es correcta?",
+    "a": "alias habitual de Phoebe: Regina Phalange.",
+    "d": [
+      "alias habitual de Phoebe: Ken Adams.",
+      "alias habitual de Phoebe: Erica Bing.",
+      "alias habitual de Phoebe: Susan Geller."
+    ],
+    "x": "alias habitual de Phoebe: Regina Phalange.",
+    "season": "General",
+    "id": "friends-v12-49",
+    "fact": "friends-v12-49",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: alias habitual de Phoebe: ________.",
+    "a": "Regina Phalange",
+    "d": [
+      "Ken Adams",
+      "Erica Bing",
+      "Susan Geller"
+    ],
+    "x": "alias habitual de Phoebe: Regina Phalange.",
+    "season": "General",
+    "id": "friends-v12-50",
+    "fact": "friends-v12-50",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Difícil",
+    "q": "¿Cuál fue el nombre legal temporal de Phoebe?",
+    "a": "Princess Consuela Banana Hammock",
+    "d": [
+      "Regina Phalange",
+      "Phoebe Hannigan",
+      "Valerie Thompson"
+    ],
+    "x": "nombre legal temporal de Phoebe: Princess Consuela Banana Hammock.",
+    "season": "General",
+    "id": "friends-v12-51",
+    "fact": "friends-v12-51",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Phoebe es correcta?",
+    "a": "nombre legal temporal de Phoebe: Princess Consuela Banana Hammock.",
+    "d": [
+      "nombre legal temporal de Phoebe: Regina Phalange.",
+      "nombre legal temporal de Phoebe: Phoebe Hannigan.",
+      "nombre legal temporal de Phoebe: Valerie Thompson."
+    ],
+    "x": "nombre legal temporal de Phoebe: Princess Consuela Banana Hammock.",
+    "season": "General",
+    "id": "friends-v12-52",
+    "fact": "friends-v12-52",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Phoebe",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: nombre legal temporal de Phoebe: ________.",
+    "a": "Princess Consuela Banana Hammock",
+    "d": [
+      "Regina Phalange",
+      "Phoebe Hannigan",
+      "Valerie Thompson"
+    ],
+    "x": "nombre legal temporal de Phoebe: Princess Consuela Banana Hammock.",
+    "season": "General",
+    "id": "friends-v12-53",
+    "fact": "friends-v12-53",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la profesión de Joey?",
+    "a": "Actor",
+    "d": [
+      "Chef",
+      "Profesor",
+      "Abogado"
+    ],
+    "x": "profesión de Joey: Actor.",
+    "season": "General",
+    "id": "friends-v12-54",
+    "fact": "friends-v12-54",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Joey es correcta?",
+    "a": "profesión de Joey: Actor.",
+    "d": [
+      "profesión de Joey: Chef.",
+      "profesión de Joey: Profesor.",
+      "profesión de Joey: Abogado."
+    ],
+    "x": "profesión de Joey: Actor.",
+    "season": "General",
+    "id": "friends-v12-55",
+    "fact": "friends-v12-55",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: profesión de Joey: ________.",
+    "a": "Actor",
+    "d": [
+      "Chef",
+      "Profesor",
+      "Abogado"
+    ],
+    "x": "profesión de Joey: Actor.",
+    "season": "General",
+    "id": "friends-v12-56",
+    "fact": "friends-v12-56",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Joey?",
+    "a": "Tribbiani",
+    "d": [
+      "Bing",
+      "Geller",
+      "Green"
+    ],
+    "x": "apellido de Joey: Tribbiani.",
+    "season": "General",
+    "id": "friends-v12-57",
+    "fact": "friends-v12-57",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Joey es correcta?",
+    "a": "apellido de Joey: Tribbiani.",
+    "d": [
+      "apellido de Joey: Bing.",
+      "apellido de Joey: Geller.",
+      "apellido de Joey: Green."
+    ],
+    "x": "apellido de Joey: Tribbiani.",
+    "season": "General",
+    "id": "friends-v12-58",
+    "fact": "friends-v12-58",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Joey: ________.",
+    "a": "Tribbiani",
+    "d": [
+      "Bing",
+      "Geller",
+      "Green"
+    ],
+    "x": "apellido de Joey: Tribbiani.",
+    "season": "General",
+    "id": "friends-v12-59",
+    "fact": "friends-v12-59",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Media",
+    "q": "¿Qué personaje interpreta en televisión Joey?",
+    "a": "Dr. Drake Ramoray",
+    "d": [
+      "Dr. Burke",
+      "Dr. Green",
+      "Dr. Geller"
+    ],
+    "x": "personaje televisivo de Joey es Dr. Drake Ramoray.",
+    "season": "General",
+    "id": "friends-v12-60",
+    "fact": "friends-v12-60",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Joey es correcta?",
+    "a": "personaje televisivo de Joey es Dr. Drake Ramoray.",
+    "d": [
+      "personaje televisivo de Joey es Dr. Burke.",
+      "personaje televisivo de Joey es Dr. Green.",
+      "personaje televisivo de Joey es Dr. Geller."
+    ],
+    "x": "personaje televisivo de Joey es Dr. Drake Ramoray.",
+    "season": "General",
+    "id": "friends-v12-61",
+    "fact": "friends-v12-61",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Media",
+    "q": "Completa correctamente: personaje televisivo de Joey es ________.",
+    "a": "Dr. Drake Ramoray",
+    "d": [
+      "Dr. Burke",
+      "Dr. Green",
+      "Dr. Geller"
+    ],
+    "x": "personaje televisivo de Joey es Dr. Drake Ramoray.",
+    "season": "General",
+    "id": "friends-v12-62",
+    "fact": "friends-v12-62",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el pingüino de peluche de Joey?",
+    "a": "Hugsy",
+    "d": [
+      "Marcel",
+      "Clunkers",
+      "Chi-Chi"
+    ],
+    "x": "pingüino de peluche de Joey: Hugsy.",
+    "season": "General",
+    "id": "friends-v12-63",
+    "fact": "friends-v12-63",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Joey es correcta?",
+    "a": "pingüino de peluche de Joey: Hugsy.",
+    "d": [
+      "pingüino de peluche de Joey: Marcel.",
+      "pingüino de peluche de Joey: Clunkers.",
+      "pingüino de peluche de Joey: Chi-Chi."
+    ],
+    "x": "pingüino de peluche de Joey: Hugsy.",
+    "season": "General",
+    "id": "friends-v12-64",
+    "fact": "friends-v12-64",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Media",
+    "q": "Completa correctamente: pingüino de peluche de Joey: ________.",
+    "a": "Hugsy",
+    "d": [
+      "Marcel",
+      "Clunkers",
+      "Chi-Chi"
+    ],
+    "x": "pingüino de peluche de Joey: Hugsy.",
+    "season": "General",
+    "id": "friends-v12-65",
+    "fact": "friends-v12-65",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la agente de Joey?",
+    "a": "Estelle Leonard",
+    "d": [
+      "Joanna",
+      "Sophie",
+      "Erica"
+    ],
+    "x": "agente de Joey: Estelle Leonard.",
+    "season": "General",
+    "id": "friends-v12-66",
+    "fact": "friends-v12-66",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Joey es correcta?",
+    "a": "agente de Joey: Estelle Leonard.",
+    "d": [
+      "agente de Joey: Joanna.",
+      "agente de Joey: Sophie.",
+      "agente de Joey: Erica."
+    ],
+    "x": "agente de Joey: Estelle Leonard.",
+    "season": "General",
+    "id": "friends-v12-67",
+    "fact": "friends-v12-67",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: agente de Joey: ________.",
+    "a": "Estelle Leonard",
+    "d": [
+      "Joanna",
+      "Sophie",
+      "Erica"
+    ],
+    "x": "agente de Joey: Estelle Leonard.",
+    "season": "General",
+    "id": "friends-v12-68",
+    "fact": "friends-v12-68",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Difícil",
+    "q": "¿Qué alias utiliza en la historia de Europa Joey?",
+    "a": "Ken Adams",
+    "d": [
+      "Regina Phalange",
+      "Dr. Drake",
+      "Paul Stevens"
+    ],
+    "x": "alias de la historia de Europa de Joey: Ken Adams.",
+    "season": "General",
+    "id": "friends-v12-69",
+    "fact": "friends-v12-69",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Joey es correcta?",
+    "a": "alias de la historia de Europa de Joey: Ken Adams.",
+    "d": [
+      "alias de la historia de Europa de Joey: Regina Phalange.",
+      "alias de la historia de Europa de Joey: Dr. Drake.",
+      "alias de la historia de Europa de Joey: Paul Stevens."
+    ],
+    "x": "alias de la historia de Europa de Joey: Ken Adams.",
+    "season": "General",
+    "id": "friends-v12-70",
+    "fact": "friends-v12-70",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Joey",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: alias de la historia de Europa de Joey: ________.",
+    "a": "Ken Adams",
+    "d": [
+      "Regina Phalange",
+      "Dr. Drake",
+      "Paul Stevens"
+    ],
+    "x": "alias de la historia de Europa de Joey: Ken Adams.",
+    "season": "General",
+    "id": "friends-v12-71",
+    "fact": "friends-v12-71",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es el apellido de Chandler?",
+    "a": "Bing",
+    "d": [
+      "Green",
+      "Geller",
+      "Burke"
+    ],
+    "x": "apellido de Chandler: Bing.",
+    "season": "General",
+    "id": "friends-v12-72",
+    "fact": "friends-v12-72",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Chandler es correcta?",
+    "a": "apellido de Chandler: Bing.",
+    "d": [
+      "apellido de Chandler: Green.",
+      "apellido de Chandler: Geller.",
+      "apellido de Chandler: Burke."
+    ],
+    "x": "apellido de Chandler: Bing.",
+    "season": "General",
+    "id": "friends-v12-73",
+    "fact": "friends-v12-73",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: apellido de Chandler: ________.",
+    "a": "Bing",
+    "d": [
+      "Green",
+      "Geller",
+      "Burke"
+    ],
+    "x": "apellido de Chandler: Bing.",
+    "season": "General",
+    "id": "friends-v12-74",
+    "fact": "friends-v12-74",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Fácil",
+    "q": "¿Quién es el compañero de piso de Chandler?",
+    "a": "Joey",
+    "d": [
+      "Ross",
+      "Mike",
+      "Gunther"
+    ],
+    "x": "compañero de piso de Chandler: Joey.",
+    "season": "General",
+    "id": "friends-v12-75",
+    "fact": "friends-v12-75",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Chandler es correcta?",
+    "a": "compañero de piso de Chandler: Joey.",
+    "d": [
+      "compañero de piso de Chandler: Ross.",
+      "compañero de piso de Chandler: Mike.",
+      "compañero de piso de Chandler: Gunther."
+    ],
+    "x": "compañero de piso de Chandler: Joey.",
+    "season": "General",
+    "id": "friends-v12-76",
+    "fact": "friends-v12-76",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: compañero de piso de Chandler: ________.",
+    "a": "Joey",
+    "d": [
+      "Ross",
+      "Mike",
+      "Gunther"
+    ],
+    "x": "compañero de piso de Chandler: Joey.",
+    "season": "General",
+    "id": "friends-v12-77",
+    "fact": "friends-v12-77",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Media",
+    "q": "¿Cuál es el segundo nombre de Chandler?",
+    "a": "Muriel",
+    "d": [
+      "Joseph",
+      "Francis",
+      "Leonard"
+    ],
+    "x": "segundo nombre de Chandler: Muriel.",
+    "season": "General",
+    "id": "friends-v12-78",
+    "fact": "friends-v12-78",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Chandler es correcta?",
+    "a": "segundo nombre de Chandler: Muriel.",
+    "d": [
+      "segundo nombre de Chandler: Joseph.",
+      "segundo nombre de Chandler: Francis.",
+      "segundo nombre de Chandler: Leonard."
+    ],
+    "x": "segundo nombre de Chandler: Muriel.",
+    "season": "General",
+    "id": "friends-v12-79",
+    "fact": "friends-v12-79",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Media",
+    "q": "Completa correctamente: segundo nombre de Chandler: ________.",
+    "a": "Muriel",
+    "d": [
+      "Joseph",
+      "Francis",
+      "Leonard"
+    ],
+    "x": "segundo nombre de Chandler: Muriel.",
+    "season": "General",
+    "id": "friends-v12-80",
+    "fact": "friends-v12-80",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Media",
+    "q": "¿Cuál es la nueva profesión de Chandler?",
+    "a": "Publicidad",
+    "d": [
+      "Moda",
+      "Medicina",
+      "Catering"
+    ],
+    "x": "nueva profesión de Chandler: Publicidad.",
+    "season": "General",
+    "id": "friends-v12-81",
+    "fact": "friends-v12-81",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Chandler es correcta?",
+    "a": "nueva profesión de Chandler: Publicidad.",
+    "d": [
+      "nueva profesión de Chandler: Moda.",
+      "nueva profesión de Chandler: Medicina.",
+      "nueva profesión de Chandler: Catering."
+    ],
+    "x": "nueva profesión de Chandler: Publicidad.",
+    "season": "General",
+    "id": "friends-v12-82",
+    "fact": "friends-v12-82",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Media",
+    "q": "Completa correctamente: nueva profesión de Chandler: ________.",
+    "a": "Publicidad",
+    "d": [
+      "Moda",
+      "Medicina",
+      "Catering"
+    ],
+    "x": "nueva profesión de Chandler: Publicidad.",
+    "season": "General",
+    "id": "friends-v12-83",
+    "fact": "friends-v12-83",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Difícil",
+    "q": "¿A qué ciudad se traslada por trabajo Chandler?",
+    "a": "Tulsa",
+    "d": [
+      "Boston",
+      "Chicago",
+      "Miami"
+    ],
+    "x": "ciudad de traslado laboral de Chandler: Tulsa.",
+    "season": "General",
+    "id": "friends-v12-84",
+    "fact": "friends-v12-84",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Chandler es correcta?",
+    "a": "ciudad de traslado laboral de Chandler: Tulsa.",
+    "d": [
+      "ciudad de traslado laboral de Chandler: Boston.",
+      "ciudad de traslado laboral de Chandler: Chicago.",
+      "ciudad de traslado laboral de Chandler: Miami."
+    ],
+    "x": "ciudad de traslado laboral de Chandler: Tulsa.",
+    "season": "General",
+    "id": "friends-v12-85",
+    "fact": "friends-v12-85",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: ciudad de traslado laboral de Chandler: ________.",
+    "a": "Tulsa",
+    "d": [
+      "Boston",
+      "Chicago",
+      "Miami"
+    ],
+    "x": "ciudad de traslado laboral de Chandler: Tulsa.",
+    "season": "General",
+    "id": "friends-v12-86",
+    "fact": "friends-v12-86",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el compañero de piso temporal de Chandler?",
+    "a": "Eddie Menuek",
+    "d": [
+      "Tag Jones",
+      "Pete Becker",
+      "Paolo"
+    ],
+    "x": "compañero de piso temporal de Chandler: Eddie Menuek.",
+    "season": "General",
+    "id": "friends-v12-87",
+    "fact": "friends-v12-87",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Chandler es correcta?",
+    "a": "compañero de piso temporal de Chandler: Eddie Menuek.",
+    "d": [
+      "compañero de piso temporal de Chandler: Tag Jones.",
+      "compañero de piso temporal de Chandler: Pete Becker.",
+      "compañero de piso temporal de Chandler: Paolo."
+    ],
+    "x": "compañero de piso temporal de Chandler: Eddie Menuek.",
+    "season": "General",
+    "id": "friends-v12-88",
+    "fact": "friends-v12-88",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Chandler",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: compañero de piso temporal de Chandler: ________.",
+    "a": "Eddie Menuek",
+    "d": [
+      "Tag Jones",
+      "Pete Becker",
+      "Paolo"
+    ],
+    "x": "compañero de piso temporal de Chandler: Eddie Menuek.",
+    "season": "General",
+    "id": "friends-v12-89",
+    "fact": "friends-v12-89",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Fácil",
+    "q": "¿Cuál es la profesión de Ross?",
+    "a": "Paleontólogo",
+    "d": [
+      "Abogado",
+      "Médico",
+      "Economista"
+    ],
+    "x": "profesión de Ross: Paleontólogo.",
+    "season": "General",
+    "id": "friends-v12-90",
+    "fact": "friends-v12-90",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Ross es correcta?",
+    "a": "profesión de Ross: Paleontólogo.",
+    "d": [
+      "profesión de Ross: Abogado.",
+      "profesión de Ross: Médico.",
+      "profesión de Ross: Economista."
+    ],
+    "x": "profesión de Ross: Paleontólogo.",
+    "season": "General",
+    "id": "friends-v12-91",
+    "fact": "friends-v12-91",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: profesión de Ross: ________.",
+    "a": "Paleontólogo",
+    "d": [
+      "Abogado",
+      "Médico",
+      "Economista"
+    ],
+    "x": "profesión de Ross: Paleontólogo.",
+    "season": "General",
+    "id": "friends-v12-92",
+    "fact": "friends-v12-92",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama el hijo de Ross?",
+    "a": "Ben",
+    "d": [
+      "Jack",
+      "Frank",
+      "Mike"
+    ],
+    "x": "hijo de Ross: Ben.",
+    "season": "General",
+    "id": "friends-v12-93",
+    "fact": "friends-v12-93",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Ross es correcta?",
+    "a": "hijo de Ross: Ben.",
+    "d": [
+      "hijo de Ross: Jack.",
+      "hijo de Ross: Frank.",
+      "hijo de Ross: Mike."
+    ],
+    "x": "hijo de Ross: Ben.",
+    "season": "General",
+    "id": "friends-v12-94",
+    "fact": "friends-v12-94",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: hijo de Ross: ________.",
+    "a": "Ben",
+    "d": [
+      "Jack",
+      "Frank",
+      "Mike"
+    ],
+    "x": "hijo de Ross: Ben.",
+    "season": "General",
+    "id": "friends-v12-95",
+    "fact": "friends-v12-95",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Media",
+    "q": "¿Cuál es la mascota exótica de Ross?",
+    "a": "Marcel, un mono",
+    "d": [
+      "Una iguana",
+      "Un loro",
+      "Una serpiente"
+    ],
+    "x": "mascota exótica de Ross: Marcel, un mono.",
+    "season": "General",
+    "id": "friends-v12-96",
+    "fact": "friends-v12-96",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Ross es correcta?",
+    "a": "mascota exótica de Ross: Marcel, un mono.",
+    "d": [
+      "mascota exótica de Ross: Una iguana.",
+      "mascota exótica de Ross: Un loro.",
+      "mascota exótica de Ross: Una serpiente."
+    ],
+    "x": "mascota exótica de Ross: Marcel, un mono.",
+    "season": "General",
+    "id": "friends-v12-97",
+    "fact": "friends-v12-97",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Media",
+    "q": "Completa correctamente: mascota exótica de Ross: ________.",
+    "a": "Marcel, un mono",
+    "d": [
+      "Una iguana",
+      "Un loro",
+      "Una serpiente"
+    ],
+    "x": "mascota exótica de Ross: Marcel, un mono.",
+    "season": "General",
+    "id": "friends-v12-98",
+    "fact": "friends-v12-98",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Media",
+    "q": "¿Cuántos divorcios tiene Ross?",
+    "a": "Tres",
+    "d": [
+      "Uno",
+      "Dos",
+      "Cinco"
+    ],
+    "x": "número de divorcios de Ross: Tres.",
+    "season": "General",
+    "id": "friends-v12-99",
+    "fact": "friends-v12-99",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Ross es correcta?",
+    "a": "número de divorcios de Ross: Tres.",
+    "d": [
+      "número de divorcios de Ross: Uno.",
+      "número de divorcios de Ross: Dos.",
+      "número de divorcios de Ross: Cinco."
+    ],
+    "x": "número de divorcios de Ross: Tres.",
+    "season": "General",
+    "id": "friends-v12-100",
+    "fact": "friends-v12-100",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Media",
+    "q": "Completa correctamente: número de divorcios de Ross: ________.",
+    "a": "Tres",
+    "d": [
+      "Uno",
+      "Dos",
+      "Cinco"
+    ],
+    "x": "número de divorcios de Ross: Tres.",
+    "season": "General",
+    "id": "friends-v12-101",
+    "fact": "friends-v12-101",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Difícil",
+    "q": "¿En qué universidad enseña Ross?",
+    "a": "Universidad de Nueva York",
+    "d": [
+      "Harvard",
+      "Yale",
+      "Columbia"
+    ],
+    "x": "universidad donde enseña de Ross: Universidad de Nueva York.",
+    "season": "General",
+    "id": "friends-v12-102",
+    "fact": "friends-v12-102",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Ross es correcta?",
+    "a": "universidad donde enseña de Ross: Universidad de Nueva York.",
+    "d": [
+      "universidad donde enseña de Ross: Harvard.",
+      "universidad donde enseña de Ross: Yale.",
+      "universidad donde enseña de Ross: Columbia."
+    ],
+    "x": "universidad donde enseña de Ross: Universidad de Nueva York.",
+    "season": "General",
+    "id": "friends-v12-103",
+    "fact": "friends-v12-103",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: universidad donde enseña de Ross: ________.",
+    "a": "Universidad de Nueva York",
+    "d": [
+      "Harvard",
+      "Yale",
+      "Columbia"
+    ],
+    "x": "universidad donde enseña de Ross: Universidad de Nueva York.",
+    "season": "General",
+    "id": "friends-v12-104",
+    "fact": "friends-v12-104",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Difícil",
+    "q": "¿Qué instrumento toca Ross?",
+    "a": "Teclado electrónico",
+    "d": [
+      "Trompeta",
+      "Violín",
+      "Batería"
+    ],
+    "x": "instrumento que toca de Ross: Teclado electrónico.",
+    "season": "General",
+    "id": "friends-v12-105",
+    "fact": "friends-v12-105",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Ross es correcta?",
+    "a": "instrumento que toca de Ross: Teclado electrónico.",
+    "d": [
+      "instrumento que toca de Ross: Trompeta.",
+      "instrumento que toca de Ross: Violín.",
+      "instrumento que toca de Ross: Batería."
+    ],
+    "x": "instrumento que toca de Ross: Teclado electrónico.",
+    "season": "General",
+    "id": "friends-v12-106",
+    "fact": "friends-v12-106",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Ross",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: instrumento que toca de Ross: ________.",
+    "a": "Teclado electrónico",
+    "d": [
+      "Trompeta",
+      "Violín",
+      "Batería"
+    ],
+    "x": "instrumento que toca de Ross: Teclado electrónico.",
+    "season": "General",
+    "id": "friends-v12-107",
+    "fact": "friends-v12-107",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Quién llega vestido de novia a Central Perk en el primer episodio?",
+    "a": "Rachel",
+    "d": [
+      "Monica",
+      "Phoebe",
+      "Janice"
+    ],
+    "x": "Solución: Rachel.",
+    "season": "T1",
+    "id": "friends-v12-108",
+    "fact": "friends-v12-108",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Rachel.",
+    "d": [
+      "Solución: Monica.",
+      "Solución: Phoebe.",
+      "Solución: Janice."
+    ],
+    "x": "Solución: Rachel.",
+    "season": "T1",
+    "id": "friends-v12-109",
+    "fact": "friends-v12-109",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Rachel",
+    "d": [
+      "Monica",
+      "Phoebe",
+      "Janice"
+    ],
+    "x": "Solución: Rachel.",
+    "season": "T1",
+    "id": "friends-v12-110",
+    "fact": "friends-v12-110",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama el mono de Ross?",
+    "a": "Marcel",
+    "d": [
+      "Hugsy",
+      "Chi-Chi",
+      "Clunkers"
+    ],
+    "x": "Solución: Marcel.",
+    "season": "T1",
+    "id": "friends-v12-111",
+    "fact": "friends-v12-111",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Marcel.",
+    "d": [
+      "Solución: Hugsy.",
+      "Solución: Chi-Chi.",
+      "Solución: Clunkers."
+    ],
+    "x": "Solución: Marcel.",
+    "season": "T1",
+    "id": "friends-v12-112",
+    "fact": "friends-v12-112",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Marcel",
+    "d": [
+      "Hugsy",
+      "Chi-Chi",
+      "Clunkers"
+    ],
+    "x": "Solución: Marcel.",
+    "season": "T1",
+    "id": "friends-v12-113",
+    "fact": "friends-v12-113",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la mujer con la que Chandler queda encerrado durante el apagón?",
+    "a": "Jill Goodacre",
+    "d": [
+      "Joanna",
+      "Aurora",
+      "Kathy"
+    ],
+    "x": "Solución: Jill Goodacre.",
+    "season": "T1",
+    "id": "friends-v12-114",
+    "fact": "friends-v12-114",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Jill Goodacre.",
+    "d": [
+      "Solución: Joanna.",
+      "Solución: Aurora.",
+      "Solución: Kathy."
+    ],
+    "x": "Solución: Jill Goodacre.",
+    "season": "T1",
+    "id": "friends-v12-115",
+    "fact": "friends-v12-115",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Jill Goodacre",
+    "d": [
+      "Joanna",
+      "Aurora",
+      "Kathy"
+    ],
+    "x": "Solución: Jill Goodacre.",
+    "season": "T1",
+    "id": "friends-v12-116",
+    "fact": "friends-v12-116",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué restaurante deja de servir alcohol y contrata a Monica?",
+    "a": "Iridium",
+    "d": [
+      "Javu",
+      "Alessandro’s",
+      "Moondance Diner"
+    ],
+    "x": "Solución: Iridium.",
+    "season": "T1",
+    "id": "friends-v12-117",
+    "fact": "friends-v12-117",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Iridium.",
+    "d": [
+      "Solución: Javu.",
+      "Solución: Alessandro’s.",
+      "Solución: Moondance Diner."
+    ],
+    "x": "Solución: Iridium.",
+    "season": "T1",
+    "id": "friends-v12-118",
+    "fact": "friends-v12-118",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Iridium",
+    "d": [
+      "Javu",
+      "Alessandro’s",
+      "Moondance Diner"
+    ],
+    "x": "Solución: Iridium.",
+    "season": "T1",
+    "id": "friends-v12-119",
+    "fact": "friends-v12-119",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué vídeo revela que Ross iba a acompañar a Rachel al baile?",
+    "a": "El vídeo del baile de graduación",
+    "d": [
+      "El vídeo de la boda",
+      "Una cinta de Navidad",
+      "Un anuncio"
+    ],
+    "x": "Solución: El vídeo del baile de graduación.",
+    "season": "T2",
+    "id": "friends-v12-120",
+    "fact": "friends-v12-120",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: El vídeo del baile de graduación.",
+    "d": [
+      "Solución: El vídeo de la boda.",
+      "Solución: Una cinta de Navidad.",
+      "Solución: Un anuncio."
+    ],
+    "x": "Solución: El vídeo del baile de graduación.",
+    "season": "T2",
+    "id": "friends-v12-121",
+    "fact": "friends-v12-121",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "El vídeo del baile de graduación",
+    "d": [
+      "El vídeo de la boda",
+      "Una cinta de Navidad",
+      "Un anuncio"
+    ],
+    "x": "Solución: El vídeo del baile de graduación.",
+    "season": "T2",
+    "id": "friends-v12-122",
+    "fact": "friends-v12-122",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la novia de Ross que regresa con él de China?",
+    "a": "Julie",
+    "d": [
+      "Emily",
+      "Bonnie",
+      "Mona"
+    ],
+    "x": "Solución: Julie.",
+    "season": "T2",
+    "id": "friends-v12-123",
+    "fact": "friends-v12-123",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Julie.",
+    "d": [
+      "Solución: Emily.",
+      "Solución: Bonnie.",
+      "Solución: Mona."
+    ],
+    "x": "Solución: Julie.",
+    "season": "T2",
+    "id": "friends-v12-124",
+    "fact": "friends-v12-124",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Julie",
+    "d": [
+      "Emily",
+      "Bonnie",
+      "Mona"
+    ],
+    "x": "Solución: Julie.",
+    "season": "T2",
+    "id": "friends-v12-125",
+    "fact": "friends-v12-125",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué actor busca a su doble de trasero en el trabajo de Joey?",
+    "a": "Al Pacino",
+    "d": [
+      "Robert De Niro",
+      "Charlton Heston",
+      "Jean-Claude Van Damme"
+    ],
+    "x": "Solución: Al Pacino.",
+    "season": "T2",
+    "id": "friends-v12-126",
+    "fact": "friends-v12-126",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Al Pacino.",
+    "d": [
+      "Solución: Robert De Niro.",
+      "Solución: Charlton Heston.",
+      "Solución: Jean-Claude Van Damme."
+    ],
+    "x": "Solución: Al Pacino.",
+    "season": "T2",
+    "id": "friends-v12-127",
+    "fact": "friends-v12-127",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Al Pacino",
+    "d": [
+      "Robert De Niro",
+      "Charlton Heston",
+      "Jean-Claude Van Damme"
+    ],
+    "x": "Solución: Al Pacino.",
+    "season": "T2",
+    "id": "friends-v12-128",
+    "fact": "friends-v12-128",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué canción canta Ross a Marcel en el aeropuerto?",
+    "a": "The Lion Sleeps Tonight",
+    "d": [
+      "Copacabana",
+      "Africa",
+      "With or Without You"
+    ],
+    "x": "Solución: The Lion Sleeps Tonight.",
+    "season": "T2",
+    "id": "friends-v12-129",
+    "fact": "friends-v12-129",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: The Lion Sleeps Tonight.",
+    "d": [
+      "Solución: Copacabana.",
+      "Solución: Africa.",
+      "Solución: With or Without You."
+    ],
+    "x": "Solución: The Lion Sleeps Tonight.",
+    "season": "T2",
+    "id": "friends-v12-130",
+    "fact": "friends-v12-130",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "The Lion Sleeps Tonight",
+    "d": [
+      "Copacabana",
+      "Africa",
+      "With or Without You"
+    ],
+    "x": "Solución: The Lion Sleeps Tonight.",
+    "season": "T2",
+    "id": "friends-v12-131",
+    "fact": "friends-v12-131",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué frase usa Ross para justificar lo sucedido con Chloe?",
+    "a": "Estábamos tomándonos un descanso",
+    "d": [
+      "Pivota",
+      "No comparto comida",
+      "Unagi"
+    ],
+    "x": "Solución: Estábamos tomándonos un descanso.",
+    "season": "T3",
+    "id": "friends-v12-132",
+    "fact": "friends-v12-132",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Estábamos tomándonos un descanso.",
+    "d": [
+      "Solución: Pivota.",
+      "Solución: No comparto comida.",
+      "Solución: Unagi."
+    ],
+    "x": "Solución: Estábamos tomándonos un descanso.",
+    "season": "T3",
+    "id": "friends-v12-133",
+    "fact": "friends-v12-133",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Estábamos tomándonos un descanso",
+    "d": [
+      "Pivota",
+      "No comparto comida",
+      "Unagi"
+    ],
+    "x": "Solución: Estábamos tomándonos un descanso.",
+    "season": "T3",
+    "id": "friends-v12-134",
+    "fact": "friends-v12-134",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Quién ayuda a Rachel a conseguir una entrevista en Bloomingdale’s?",
+    "a": "Mark",
+    "d": [
+      "Tag",
+      "Joshua",
+      "Gavin"
+    ],
+    "x": "Solución: Mark.",
+    "season": "T3",
+    "id": "friends-v12-135",
+    "fact": "friends-v12-135",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Mark.",
+    "d": [
+      "Solución: Tag.",
+      "Solución: Joshua.",
+      "Solución: Gavin."
+    ],
+    "x": "Solución: Mark.",
+    "season": "T3",
+    "id": "friends-v12-136",
+    "fact": "friends-v12-136",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Mark",
+    "d": [
+      "Tag",
+      "Joshua",
+      "Gavin"
+    ],
+    "x": "Solución: Mark.",
+    "season": "T3",
+    "id": "friends-v12-137",
+    "fact": "friends-v12-137",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué llevaba Monica de adolescente en el vídeo de Acción de Gracias?",
+    "a": "Un cuchillo que termina cortando el dedo de Chandler",
+    "d": [
+      "Una guitarra",
+      "Una cámara",
+      "Un pavo"
+    ],
+    "x": "Solución: Un cuchillo que termina cortando el dedo de Chandler.",
+    "season": "T3",
+    "id": "friends-v12-138",
+    "fact": "friends-v12-138",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Un cuchillo que termina cortando el dedo de Chandler.",
+    "d": [
+      "Solución: Una guitarra.",
+      "Solución: Una cámara.",
+      "Solución: Un pavo."
+    ],
+    "x": "Solución: Un cuchillo que termina cortando el dedo de Chandler.",
+    "season": "T3",
+    "id": "friends-v12-139",
+    "fact": "friends-v12-139",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Un cuchillo que termina cortando el dedo de Chandler",
+    "d": [
+      "Una guitarra",
+      "Una cámara",
+      "Un pavo"
+    ],
+    "x": "Solución: Un cuchillo que termina cortando el dedo de Chandler.",
+    "season": "T3",
+    "id": "friends-v12-140",
+    "fact": "friends-v12-140",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el novio extremadamente rico de Monica?",
+    "a": "Pete Becker",
+    "d": [
+      "Richard Burke",
+      "Paul Stevens",
+      "David"
+    ],
+    "x": "Solución: Pete Becker.",
+    "season": "T3",
+    "id": "friends-v12-141",
+    "fact": "friends-v12-141",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Pete Becker.",
+    "d": [
+      "Solución: Richard Burke.",
+      "Solución: Paul Stevens.",
+      "Solución: David."
+    ],
+    "x": "Solución: Pete Becker.",
+    "season": "T3",
+    "id": "friends-v12-142",
+    "fact": "friends-v12-142",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Pete Becker",
+    "d": [
+      "Richard Burke",
+      "Paul Stevens",
+      "David"
+    ],
+    "x": "Solución: Pete Becker.",
+    "season": "T3",
+    "id": "friends-v12-143",
+    "fact": "friends-v12-143",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué pierden Monica y Rachel en un concurso?",
+    "a": "Su apartamento",
+    "d": [
+      "Su coche",
+      "Su trabajo",
+      "Sus mascotas"
+    ],
+    "x": "Solución: Su apartamento.",
+    "season": "T4",
+    "id": "friends-v12-144",
+    "fact": "friends-v12-144",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Su apartamento.",
+    "d": [
+      "Solución: Su coche.",
+      "Solución: Su trabajo.",
+      "Solución: Sus mascotas."
+    ],
+    "x": "Solución: Su apartamento.",
+    "season": "T4",
+    "id": "friends-v12-145",
+    "fact": "friends-v12-145",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Su apartamento",
+    "d": [
+      "Su coche",
+      "Su trabajo",
+      "Sus mascotas"
+    ],
+    "x": "Solución: Su apartamento.",
+    "season": "T4",
+    "id": "friends-v12-146",
+    "fact": "friends-v12-146",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Qué pregunta decide el concurso de los apartamentos?",
+    "a": "Cuál es el trabajo de Chandler",
+    "d": [
+      "El apellido de Gunther",
+      "La edad de Joey",
+      "El nombre de Marcel"
+    ],
+    "x": "Solución: Cuál es el trabajo de Chandler.",
+    "season": "T4",
+    "id": "friends-v12-147",
+    "fact": "friends-v12-147",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Cuál es el trabajo de Chandler.",
+    "d": [
+      "Solución: El apellido de Gunther.",
+      "Solución: La edad de Joey.",
+      "Solución: El nombre de Marcel."
+    ],
+    "x": "Solución: Cuál es el trabajo de Chandler.",
+    "season": "T4",
+    "id": "friends-v12-148",
+    "fact": "friends-v12-148",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Cuál es el trabajo de Chandler",
+    "d": [
+      "El apellido de Gunther",
+      "La edad de Joey",
+      "El nombre de Marcel"
+    ],
+    "x": "Solución: Cuál es el trabajo de Chandler.",
+    "season": "T4",
+    "id": "friends-v12-149",
+    "fact": "friends-v12-149",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué nombre aparece en el uniforme de animadora de Rachel?",
+    "a": "Chip",
+    "d": [
+      "Joshua",
+      "Mark",
+      "Ross"
+    ],
+    "x": "Solución: Chip.",
+    "season": "T4",
+    "id": "friends-v12-150",
+    "fact": "friends-v12-150",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Chip.",
+    "d": [
+      "Solución: Joshua.",
+      "Solución: Mark.",
+      "Solución: Ross."
+    ],
+    "x": "Solución: Chip.",
+    "season": "T4",
+    "id": "friends-v12-151",
+    "fact": "friends-v12-151",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Chip",
+    "d": [
+      "Joshua",
+      "Mark",
+      "Ross"
+    ],
+    "x": "Solución: Chip.",
+    "season": "T4",
+    "id": "friends-v12-152",
+    "fact": "friends-v12-152",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el juego inventado para decidir los apartamentos?",
+    "a": "El concurso de preguntas de Ross",
+    "d": [
+      "Bamboozled",
+      "Cups",
+      "Fireball"
+    ],
+    "x": "Solución: El concurso de preguntas de Ross.",
+    "season": "T4",
+    "id": "friends-v12-153",
+    "fact": "friends-v12-153",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: El concurso de preguntas de Ross.",
+    "d": [
+      "Solución: Bamboozled.",
+      "Solución: Cups.",
+      "Solución: Fireball."
+    ],
+    "x": "Solución: El concurso de preguntas de Ross.",
+    "season": "T4",
+    "id": "friends-v12-154",
+    "fact": "friends-v12-154",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "El concurso de preguntas de Ross",
+    "d": [
+      "Bamboozled",
+      "Cups",
+      "Fireball"
+    ],
+    "x": "Solución: El concurso de preguntas de Ross.",
+    "season": "T4",
+    "id": "friends-v12-155",
+    "fact": "friends-v12-155",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿En qué ciudad comienza la relación de Monica y Chandler?",
+    "a": "Londres",
+    "d": [
+      "París",
+      "Roma",
+      "Tulsa"
+    ],
+    "x": "Solución: Londres.",
+    "season": "T5",
+    "id": "friends-v12-156",
+    "fact": "friends-v12-156",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Londres.",
+    "d": [
+      "Solución: París.",
+      "Solución: Roma.",
+      "Solución: Tulsa."
+    ],
+    "x": "Solución: Londres.",
+    "season": "T5",
+    "id": "friends-v12-157",
+    "fact": "friends-v12-157",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Londres",
+    "d": [
+      "París",
+      "Roma",
+      "Tulsa"
+    ],
+    "x": "Solución: Londres.",
+    "season": "T5",
+    "id": "friends-v12-158",
+    "fact": "friends-v12-158",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Desde qué apartamento descubren Phoebe y Rachel la relación secreta?",
+    "a": "Desde el apartamento de Ross",
+    "d": [
+      "Desde Central Perk",
+      "Desde el pasillo",
+      "Desde casa de Joey"
+    ],
+    "x": "Solución: Desde el apartamento de Ross.",
+    "season": "T5",
+    "id": "friends-v12-159",
+    "fact": "friends-v12-159",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Desde el apartamento de Ross.",
+    "d": [
+      "Solución: Desde Central Perk.",
+      "Solución: Desde el pasillo.",
+      "Solución: Desde casa de Joey."
+    ],
+    "x": "Solución: Desde el apartamento de Ross.",
+    "season": "T5",
+    "id": "friends-v12-160",
+    "fact": "friends-v12-160",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Desde el apartamento de Ross",
+    "d": [
+      "Desde Central Perk",
+      "Desde el pasillo",
+      "Desde casa de Joey"
+    ],
+    "x": "Solución: Desde el apartamento de Ross.",
+    "season": "T5",
+    "id": "friends-v12-161",
+    "fact": "friends-v12-161",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué mentira usa Chandler después de besar a Monica en público?",
+    "a": "Besa también a Rachel y Phoebe",
+    "d": [
+      "Finge un resfriado",
+      "Dice que es una apuesta",
+      "Se marcha corriendo"
+    ],
+    "x": "Solución: Besa también a Rachel y Phoebe.",
+    "season": "T5",
+    "id": "friends-v12-162",
+    "fact": "friends-v12-162",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Besa también a Rachel y Phoebe.",
+    "d": [
+      "Solución: Finge un resfriado.",
+      "Solución: Dice que es una apuesta.",
+      "Solución: Se marcha corriendo."
+    ],
+    "x": "Solución: Besa también a Rachel y Phoebe.",
+    "season": "T5",
+    "id": "friends-v12-163",
+    "fact": "friends-v12-163",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Besa también a Rachel y Phoebe",
+    "d": [
+      "Finge un resfriado",
+      "Dice que es una apuesta",
+      "Se marcha corriendo"
+    ],
+    "x": "Solución: Besa también a Rachel y Phoebe.",
+    "season": "T5",
+    "id": "friends-v12-164",
+    "fact": "friends-v12-164",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué dato sobre el gas cuenta Ross a la repartidora de pizza?",
+    "a": "Que se le añade olor artificial",
+    "d": [
+      "Que es de color azul",
+      "Que viene de Texas",
+      "Que no pesa"
+    ],
+    "x": "Solución: Que se le añade olor artificial.",
+    "season": "T5",
+    "id": "friends-v12-165",
+    "fact": "friends-v12-165",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Que se le añade olor artificial.",
+    "d": [
+      "Solución: Que es de color azul.",
+      "Solución: Que viene de Texas.",
+      "Solución: Que no pesa."
+    ],
+    "x": "Solución: Que se le añade olor artificial.",
+    "season": "T5",
+    "id": "friends-v12-166",
+    "fact": "friends-v12-166",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Que se le añade olor artificial",
+    "d": [
+      "Que es de color azul",
+      "Que viene de Texas",
+      "Que no pesa"
+    ],
+    "x": "Solución: Que se le añade olor artificial.",
+    "season": "T5",
+    "id": "friends-v12-167",
+    "fact": "friends-v12-167",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué postre prepara Rachel mezclando dos recetas?",
+    "a": "Trifle con carne y guisantes",
+    "d": [
+      "Tiramisú con pescado",
+      "Helado con pollo",
+      "Brownie con pasta"
+    ],
+    "x": "Solución: Trifle con carne y guisantes.",
+    "season": "T6",
+    "id": "friends-v12-168",
+    "fact": "friends-v12-168",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Trifle con carne y guisantes.",
+    "d": [
+      "Solución: Tiramisú con pescado.",
+      "Solución: Helado con pollo.",
+      "Solución: Brownie con pasta."
+    ],
+    "x": "Solución: Trifle con carne y guisantes.",
+    "season": "T6",
+    "id": "friends-v12-169",
+    "fact": "friends-v12-169",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Trifle con carne y guisantes",
+    "d": [
+      "Tiramisú con pescado",
+      "Helado con pollo",
+      "Brownie con pasta"
+    ],
+    "x": "Solución: Trifle con carne y guisantes.",
+    "season": "T6",
+    "id": "friends-v12-170",
+    "fact": "friends-v12-170",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Qué les ocurre a los dientes de Ross antes de una cita?",
+    "a": "Quedan excesivamente blancos",
+    "d": [
+      "Se rompen",
+      "Se vuelven azules",
+      "Pierde uno"
+    ],
+    "x": "Solución: Quedan excesivamente blancos.",
+    "season": "T6",
+    "id": "friends-v12-171",
+    "fact": "friends-v12-171",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Quedan excesivamente blancos.",
+    "d": [
+      "Solución: Se rompen.",
+      "Solución: Se vuelven azules.",
+      "Solución: Pierde uno."
+    ],
+    "x": "Solución: Quedan excesivamente blancos.",
+    "season": "T6",
+    "id": "friends-v12-172",
+    "fact": "friends-v12-172",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Quedan excesivamente blancos",
+    "d": [
+      "Se rompen",
+      "Se vuelven azules",
+      "Pierde uno"
+    ],
+    "x": "Solución: Quedan excesivamente blancos.",
+    "season": "T6",
+    "id": "friends-v12-173",
+    "fact": "friends-v12-173",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué baile presentan Ross y Monica en Nochevieja?",
+    "a": "La rutina",
+    "d": [
+      "El pivote",
+      "El armadillo",
+      "El bamboozle"
+    ],
+    "x": "Solución: La rutina.",
+    "season": "T6",
+    "id": "friends-v12-174",
+    "fact": "friends-v12-174",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: La rutina.",
+    "d": [
+      "Solución: El pivote.",
+      "Solución: El armadillo.",
+      "Solución: El bamboozle."
+    ],
+    "x": "Solución: La rutina.",
+    "season": "T6",
+    "id": "friends-v12-175",
+    "fact": "friends-v12-175",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "La rutina",
+    "d": [
+      "El pivote",
+      "El armadillo",
+      "El bamboozle"
+    ],
+    "x": "Solución: La rutina.",
+    "season": "T6",
+    "id": "friends-v12-176",
+    "fact": "friends-v12-176",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué nombre usa Ross como profesor para una falsa alumna británica?",
+    "a": "Elizabeth no es falsa; es una alumna real",
+    "d": [
+      "Emily",
+      "Julie",
+      "Mona"
+    ],
+    "x": "Solución: Elizabeth no es falsa; es una alumna real.",
+    "season": "T6",
+    "id": "friends-v12-177",
+    "fact": "friends-v12-177",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Elizabeth no es falsa; es una alumna real.",
+    "d": [
+      "Solución: Emily.",
+      "Solución: Julie.",
+      "Solución: Mona."
+    ],
+    "x": "Solución: Elizabeth no es falsa; es una alumna real.",
+    "season": "T6",
+    "id": "friends-v12-178",
+    "fact": "friends-v12-178",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Elizabeth no es falsa; es una alumna real",
+    "d": [
+      "Emily",
+      "Julie",
+      "Mona"
+    ],
+    "x": "Solución: Elizabeth no es falsa; es una alumna real.",
+    "season": "T6",
+    "id": "friends-v12-179",
+    "fact": "friends-v12-179",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Quién oficia la boda de Monica y Chandler?",
+    "a": "Joey",
+    "d": [
+      "Ross",
+      "Gunther",
+      "Mike"
+    ],
+    "x": "Solución: Joey.",
+    "season": "T7",
+    "id": "friends-v12-180",
+    "fact": "friends-v12-180",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Joey.",
+    "d": [
+      "Solución: Ross.",
+      "Solución: Gunther.",
+      "Solución: Mike."
+    ],
+    "x": "Solución: Joey.",
+    "season": "T7",
+    "id": "friends-v12-181",
+    "fact": "friends-v12-181",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Joey",
+    "d": [
+      "Ross",
+      "Gunther",
+      "Mike"
+    ],
+    "x": "Solución: Joey.",
+    "season": "T7",
+    "id": "friends-v12-182",
+    "fact": "friends-v12-182",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cómo consigue Joey autorización para oficiar la boda?",
+    "a": "Se ordena por Internet",
+    "d": [
+      "Estudia Derecho",
+      "Llama al alcalde",
+      "Pide permiso a un juez"
+    ],
+    "x": "Solución: Se ordena por Internet.",
+    "season": "T7",
+    "id": "friends-v12-183",
+    "fact": "friends-v12-183",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Se ordena por Internet.",
+    "d": [
+      "Solución: Estudia Derecho.",
+      "Solución: Llama al alcalde.",
+      "Solución: Pide permiso a un juez."
+    ],
+    "x": "Solución: Se ordena por Internet.",
+    "season": "T7",
+    "id": "friends-v12-184",
+    "fact": "friends-v12-184",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Se ordena por Internet",
+    "d": [
+      "Estudia Derecho",
+      "Llama al alcalde",
+      "Pide permiso a un juez"
+    ],
+    "x": "Solución: Se ordena por Internet.",
+    "season": "T7",
+    "id": "friends-v12-185",
+    "fact": "friends-v12-185",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué banda quiere Monica para su boda?",
+    "a": "The Swing Kings",
+    "d": [
+      "The Rembrandts",
+      "Hootie & the Blowfish",
+      "Bay City Rollers"
+    ],
+    "x": "Solución: The Swing Kings.",
+    "season": "T7",
+    "id": "friends-v12-186",
+    "fact": "friends-v12-186",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: The Swing Kings.",
+    "d": [
+      "Solución: The Rembrandts.",
+      "Solución: Hootie & the Blowfish.",
+      "Solución: Bay City Rollers."
+    ],
+    "x": "Solución: The Swing Kings.",
+    "season": "T7",
+    "id": "friends-v12-187",
+    "fact": "friends-v12-187",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "The Swing Kings",
+    "d": [
+      "The Rembrandts",
+      "Hootie & the Blowfish",
+      "Bay City Rollers"
+    ],
+    "x": "Solución: The Swing Kings.",
+    "season": "T7",
+    "id": "friends-v12-188",
+    "fact": "friends-v12-188",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué objeto cree Rachel que falta cuando Monica enumera cosas de la boda?",
+    "a": "Nada; Monica tiene una carpeta perfectamente organizada",
+    "d": [
+      "El ramo",
+      "Los anillos",
+      "La tarta"
+    ],
+    "x": "Solución: Nada; Monica tiene una carpeta perfectamente organizada.",
+    "season": "T7",
+    "id": "friends-v12-189",
+    "fact": "friends-v12-189",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Nada; Monica tiene una carpeta perfectamente organizada.",
+    "d": [
+      "Solución: El ramo.",
+      "Solución: Los anillos.",
+      "Solución: La tarta."
+    ],
+    "x": "Solución: Nada; Monica tiene una carpeta perfectamente organizada.",
+    "season": "T7",
+    "id": "friends-v12-190",
+    "fact": "friends-v12-190",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Nada; Monica tiene una carpeta perfectamente organizada",
+    "d": [
+      "El ramo",
+      "Los anillos",
+      "La tarta"
+    ],
+    "x": "Solución: Nada; Monica tiene una carpeta perfectamente organizada.",
+    "season": "T7",
+    "id": "friends-v12-191",
+    "fact": "friends-v12-191",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la hija de Ross y Rachel?",
+    "a": "Emma",
+    "d": [
+      "Erica",
+      "Susan",
+      "Jill"
+    ],
+    "x": "Solución: Emma.",
+    "season": "T8",
+    "id": "friends-v12-192",
+    "fact": "friends-v12-192",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Emma.",
+    "d": [
+      "Solución: Erica.",
+      "Solución: Susan.",
+      "Solución: Jill."
+    ],
+    "x": "Solución: Emma.",
+    "season": "T8",
+    "id": "friends-v12-193",
+    "fact": "friends-v12-193",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Emma",
+    "d": [
+      "Erica",
+      "Susan",
+      "Jill"
+    ],
+    "x": "Solución: Emma.",
+    "season": "T8",
+    "id": "friends-v12-194",
+    "fact": "friends-v12-194",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Qué nombre propone Ross para el bebé antes de saber que es niña?",
+    "a": "Darwin",
+    "d": [
+      "Marcel",
+      "Jack",
+      "Leonard"
+    ],
+    "x": "Solución: Darwin.",
+    "season": "T8",
+    "id": "friends-v12-195",
+    "fact": "friends-v12-195",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Darwin.",
+    "d": [
+      "Solución: Marcel.",
+      "Solución: Jack.",
+      "Solución: Leonard."
+    ],
+    "x": "Solución: Darwin.",
+    "season": "T8",
+    "id": "friends-v12-196",
+    "fact": "friends-v12-196",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Darwin",
+    "d": [
+      "Marcel",
+      "Jack",
+      "Leonard"
+    ],
+    "x": "Solución: Darwin.",
+    "season": "T8",
+    "id": "friends-v12-197",
+    "fact": "friends-v12-197",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Quién recoge el anillo caído después del parto?",
+    "a": "Joey",
+    "d": [
+      "Ross",
+      "Phoebe",
+      "Chandler"
+    ],
+    "x": "Solución: Joey.",
+    "season": "T8",
+    "id": "friends-v12-198",
+    "fact": "friends-v12-198",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Joey.",
+    "d": [
+      "Solución: Ross.",
+      "Solución: Phoebe.",
+      "Solución: Chandler."
+    ],
+    "x": "Solución: Joey.",
+    "season": "T8",
+    "id": "friends-v12-199",
+    "fact": "friends-v12-199",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Joey",
+    "d": [
+      "Ross",
+      "Phoebe",
+      "Chandler"
+    ],
+    "x": "Solución: Joey.",
+    "season": "T8",
+    "id": "friends-v12-200",
+    "fact": "friends-v12-200",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué prenda provoca que Joey malinterprete las señales de Rachel?",
+    "a": "Un sujetador rojo",
+    "d": [
+      "Un vestido verde",
+      "Un abrigo negro",
+      "Una camisa de Joey"
+    ],
+    "x": "Solución: Un sujetador rojo.",
+    "season": "T8",
+    "id": "friends-v12-201",
+    "fact": "friends-v12-201",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Un sujetador rojo.",
+    "d": [
+      "Solución: Un vestido verde.",
+      "Solución: Un abrigo negro.",
+      "Solución: Una camisa de Joey."
+    ],
+    "x": "Solución: Un sujetador rojo.",
+    "season": "T8",
+    "id": "friends-v12-202",
+    "fact": "friends-v12-202",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Un sujetador rojo",
+    "d": [
+      "Un vestido verde",
+      "Un abrigo negro",
+      "Una camisa de Joey"
+    ],
+    "x": "Solución: Un sujetador rojo.",
+    "season": "T8",
+    "id": "friends-v12-203",
+    "fact": "friends-v12-203",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué canción hace reír a Emma?",
+    "a": "Baby Got Back",
+    "d": [
+      "Smelly Cat",
+      "Copacabana",
+      "Africa"
+    ],
+    "x": "Solución: Baby Got Back.",
+    "season": "T9",
+    "id": "friends-v12-204",
+    "fact": "friends-v12-204",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Baby Got Back.",
+    "d": [
+      "Solución: Smelly Cat.",
+      "Solución: Copacabana.",
+      "Solución: Africa."
+    ],
+    "x": "Solución: Baby Got Back.",
+    "season": "T9",
+    "id": "friends-v12-205",
+    "fact": "friends-v12-205",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Baby Got Back",
+    "d": [
+      "Smelly Cat",
+      "Copacabana",
+      "Africa"
+    ],
+    "x": "Solución: Baby Got Back.",
+    "season": "T9",
+    "id": "friends-v12-206",
+    "fact": "friends-v12-206",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Dónde trabaja Chandler lejos de Nueva York?",
+    "a": "Tulsa",
+    "d": [
+      "Chicago",
+      "Boston",
+      "Miami"
+    ],
+    "x": "Solución: Tulsa.",
+    "season": "T9",
+    "id": "friends-v12-207",
+    "fact": "friends-v12-207",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Tulsa.",
+    "d": [
+      "Solución: Chicago.",
+      "Solución: Boston.",
+      "Solución: Miami."
+    ],
+    "x": "Solución: Tulsa.",
+    "season": "T9",
+    "id": "friends-v12-208",
+    "fact": "friends-v12-208",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Tulsa",
+    "d": [
+      "Chicago",
+      "Boston",
+      "Miami"
+    ],
+    "x": "Solución: Tulsa.",
+    "season": "T9",
+    "id": "friends-v12-209",
+    "fact": "friends-v12-209",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué rompe Phoebe durante una cena con los padres de Mike?",
+    "a": "Una reliquia familiar",
+    "d": [
+      "Un piano",
+      "Una guitarra",
+      "Un jarrón de Monica"
+    ],
+    "x": "Solución: Una reliquia familiar.",
+    "season": "T9",
+    "id": "friends-v12-210",
+    "fact": "friends-v12-210",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Una reliquia familiar.",
+    "d": [
+      "Solución: Un piano.",
+      "Solución: Una guitarra.",
+      "Solución: Un jarrón de Monica."
+    ],
+    "x": "Solución: Una reliquia familiar.",
+    "season": "T9",
+    "id": "friends-v12-211",
+    "fact": "friends-v12-211",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Una reliquia familiar",
+    "d": [
+      "Un piano",
+      "Una guitarra",
+      "Un jarrón de Monica"
+    ],
+    "x": "Solución: Una reliquia familiar.",
+    "season": "T9",
+    "id": "friends-v12-212",
+    "fact": "friends-v12-212",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué trabajo acepta Rachel después de Bloomingdale’s?",
+    "a": "Ralph Lauren",
+    "d": [
+      "Gucci",
+      "Versace",
+      "Prada"
+    ],
+    "x": "Solución: Ralph Lauren.",
+    "season": "T9",
+    "id": "friends-v12-213",
+    "fact": "friends-v12-213",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Ralph Lauren.",
+    "d": [
+      "Solución: Gucci.",
+      "Solución: Versace.",
+      "Solución: Prada."
+    ],
+    "x": "Solución: Ralph Lauren.",
+    "season": "T9",
+    "id": "friends-v12-214",
+    "fact": "friends-v12-214",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Ralph Lauren",
+    "d": [
+      "Gucci",
+      "Versace",
+      "Prada"
+    ],
+    "x": "Solución: Ralph Lauren.",
+    "season": "T9",
+    "id": "friends-v12-215",
+    "fact": "friends-v12-215",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Qué dejan los seis amigos en el apartamento al marcharse?",
+    "a": "Las llaves",
+    "d": [
+      "Las tazas",
+      "Los teléfonos",
+      "Las fotos"
+    ],
+    "x": "Solución: Las llaves.",
+    "season": "T10",
+    "id": "friends-v12-216",
+    "fact": "friends-v12-216",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Las llaves.",
+    "d": [
+      "Solución: Las tazas.",
+      "Solución: Los teléfonos.",
+      "Solución: Las fotos."
+    ],
+    "x": "Solución: Las llaves.",
+    "season": "T10",
+    "id": "friends-v12-217",
+    "fact": "friends-v12-217",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Las llaves",
+    "d": [
+      "Las tazas",
+      "Los teléfonos",
+      "Las fotos"
+    ],
+    "x": "Solución: Las llaves.",
+    "season": "T10",
+    "id": "friends-v12-218",
+    "fact": "friends-v12-218",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿A qué ciudad iba a mudarse Rachel?",
+    "a": "París",
+    "d": [
+      "Roma",
+      "Londres",
+      "Madrid"
+    ],
+    "x": "Solución: París.",
+    "season": "T10",
+    "id": "friends-v12-219",
+    "fact": "friends-v12-219",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: París.",
+    "d": [
+      "Solución: Roma.",
+      "Solución: Londres.",
+      "Solución: Madrid."
+    ],
+    "x": "Solución: París.",
+    "season": "T10",
+    "id": "friends-v12-220",
+    "fact": "friends-v12-220",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "París",
+    "d": [
+      "Roma",
+      "Londres",
+      "Madrid"
+    ],
+    "x": "Solución: París.",
+    "season": "T10",
+    "id": "friends-v12-221",
+    "fact": "friends-v12-221",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la madre biológica de los gemelos adoptados?",
+    "a": "Erica",
+    "d": [
+      "Emily",
+      "Alice",
+      "Julie"
+    ],
+    "x": "Solución: Erica.",
+    "season": "T10",
+    "id": "friends-v12-222",
+    "fact": "friends-v12-222",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Erica.",
+    "d": [
+      "Solución: Emily.",
+      "Solución: Alice.",
+      "Solución: Julie."
+    ],
+    "x": "Solución: Erica.",
+    "season": "T10",
+    "id": "friends-v12-223",
+    "fact": "friends-v12-223",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Erica",
+    "d": [
+      "Emily",
+      "Alice",
+      "Julie"
+    ],
+    "x": "Solución: Erica.",
+    "season": "T10",
+    "id": "friends-v12-224",
+    "fact": "friends-v12-224",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Qué regalo de despedida recibe todo el grupo menos Ross al principio?",
+    "a": "Una despedida personal de Rachel",
+    "d": [
+      "Una taza",
+      "Una fotografía",
+      "Una carta idéntica"
+    ],
+    "x": "Solución: Una despedida personal de Rachel.",
+    "season": "T10",
+    "id": "friends-v12-225",
+    "fact": "friends-v12-225",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Temporadas es correcta?",
+    "a": "Solución: Una despedida personal de Rachel.",
+    "d": [
+      "Solución: Una taza.",
+      "Solución: Una fotografía.",
+      "Solución: Una carta idéntica."
+    ],
+    "x": "Solución: Una despedida personal de Rachel.",
+    "season": "T10",
+    "id": "friends-v12-226",
+    "fact": "friends-v12-226",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Temporadas",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Una despedida personal de Rachel",
+    "d": [
+      "Una taza",
+      "Una fotografía",
+      "Una carta idéntica"
+    ],
+    "x": "Solución: Una despedida personal de Rachel.",
+    "season": "T10",
+    "id": "friends-v12-227",
+    "fact": "friends-v12-227",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Fácil",
+    "q": "¿De qué color es la puerta del apartamento de Monica?",
+    "a": "Morada",
+    "d": [
+      "Roja",
+      "Azul",
+      "Verde"
+    ],
+    "x": "Solución: Morada.",
+    "season": "General",
+    "id": "friends-v12-228",
+    "fact": "friends-v12-228",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Objetos es correcta?",
+    "a": "Solución: Morada.",
+    "d": [
+      "Solución: Roja.",
+      "Solución: Azul.",
+      "Solución: Verde."
+    ],
+    "x": "Solución: Morada.",
+    "season": "General",
+    "id": "friends-v12-229",
+    "fact": "friends-v12-229",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Morada",
+    "d": [
+      "Roja",
+      "Azul",
+      "Verde"
+    ],
+    "x": "Solución: Morada.",
+    "season": "General",
+    "id": "friends-v12-230",
+    "fact": "friends-v12-230",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Fácil",
+    "q": "¿Qué adorna la mirilla de esa puerta?",
+    "a": "Un marco amarillo",
+    "d": [
+      "Un reloj",
+      "Una corona",
+      "Un espejo"
+    ],
+    "x": "Solución: Un marco amarillo.",
+    "season": "General",
+    "id": "friends-v12-231",
+    "fact": "friends-v12-231",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Objetos es correcta?",
+    "a": "Solución: Un marco amarillo.",
+    "d": [
+      "Solución: Un reloj.",
+      "Solución: Una corona.",
+      "Solución: Un espejo."
+    ],
+    "x": "Solución: Un marco amarillo.",
+    "season": "General",
+    "id": "friends-v12-232",
+    "fact": "friends-v12-232",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Objetos",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Un marco amarillo",
+    "d": [
+      "Un reloj",
+      "Una corona",
+      "Un espejo"
+    ],
+    "x": "Solución: Un marco amarillo.",
+    "season": "General",
+    "id": "friends-v12-233",
+    "fact": "friends-v12-233",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Fácil",
+    "q": "¿Cómo se llama la cafetería habitual?",
+    "a": "Central Perk",
+    "d": [
+      "Javu",
+      "Iridium",
+      "Moondance Diner"
+    ],
+    "x": "Solución: Central Perk.",
+    "season": "General",
+    "id": "friends-v12-234",
+    "fact": "friends-v12-234",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Fácil",
+    "q": "¿Cuál de estas afirmaciones sobre Lugares es correcta?",
+    "a": "Solución: Central Perk.",
+    "d": [
+      "Solución: Javu.",
+      "Solución: Iridium.",
+      "Solución: Moondance Diner."
+    ],
+    "x": "Solución: Central Perk.",
+    "season": "General",
+    "id": "friends-v12-235",
+    "fact": "friends-v12-235",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Lugares",
+    "difficulty": "Fácil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Central Perk",
+    "d": [
+      "Javu",
+      "Iridium",
+      "Moondance Diner"
+    ],
+    "x": "Solución: Central Perk.",
+    "season": "General",
+    "id": "friends-v12-236",
+    "fact": "friends-v12-236",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Quién trabaja en Central Perk y está enamorado de Rachel?",
+    "a": "Gunther",
+    "d": [
+      "Mike",
+      "Richard",
+      "David"
+    ],
+    "x": "Solución: Gunther.",
+    "season": "General",
+    "id": "friends-v12-237",
+    "fact": "friends-v12-237",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Gunther.",
+    "d": [
+      "Solución: Mike.",
+      "Solución: Richard.",
+      "Solución: David."
+    ],
+    "x": "Solución: Gunther.",
+    "season": "General",
+    "id": "friends-v12-238",
+    "fact": "friends-v12-238",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Gunther",
+    "d": [
+      "Mike",
+      "Richard",
+      "David"
+    ],
+    "x": "Solución: Gunther.",
+    "season": "General",
+    "id": "friends-v12-239",
+    "fact": "friends-v12-239",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cómo se llama la primera exmujer de Ross?",
+    "a": "Carol",
+    "d": [
+      "Emily",
+      "Julie",
+      "Mona"
+    ],
+    "x": "Solución: Carol.",
+    "season": "General",
+    "id": "friends-v12-240",
+    "fact": "friends-v12-240",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Carol.",
+    "d": [
+      "Solución: Emily.",
+      "Solución: Julie.",
+      "Solución: Mona."
+    ],
+    "x": "Solución: Carol.",
+    "season": "General",
+    "id": "friends-v12-241",
+    "fact": "friends-v12-241",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Media",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Carol",
+    "d": [
+      "Emily",
+      "Julie",
+      "Mona"
+    ],
+    "x": "Solución: Carol.",
+    "season": "General",
+    "id": "friends-v12-242",
+    "fact": "friends-v12-242",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama la esposa de Carol?",
+    "a": "Susan Bunch",
+    "d": [
+      "Judy Geller",
+      "Nora Bing",
+      "Alice Knight"
+    ],
+    "x": "Solución: Susan Bunch.",
+    "season": "General",
+    "id": "friends-v12-243",
+    "fact": "friends-v12-243",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: Susan Bunch.",
+    "d": [
+      "Solución: Judy Geller.",
+      "Solución: Nora Bing.",
+      "Solución: Alice Knight."
+    ],
+    "x": "Solución: Susan Bunch.",
+    "season": "General",
+    "id": "friends-v12-244",
+    "fact": "friends-v12-244",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "Susan Bunch",
+    "d": [
+      "Judy Geller",
+      "Nora Bing",
+      "Alice Knight"
+    ],
+    "x": "Solución: Susan Bunch.",
+    "season": "General",
+    "id": "friends-v12-245",
+    "fact": "friends-v12-245",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cómo se llama el científico que viaja a Minsk?",
+    "a": "David",
+    "d": [
+      "Mike",
+      "Gary",
+      "Roger"
+    ],
+    "x": "Solución: David.",
+    "season": "General",
+    "id": "friends-v12-246",
+    "fact": "friends-v12-246",
+    "show": "friends",
+    "kind": "directa"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "¿Cuál de estas afirmaciones sobre Secundarios es correcta?",
+    "a": "Solución: David.",
+    "d": [
+      "Solución: Mike.",
+      "Solución: Gary.",
+      "Solución: Roger."
+    ],
+    "x": "Solución: David.",
+    "season": "General",
+    "id": "friends-v12-247",
+    "fact": "friends-v12-247",
+    "show": "friends",
+    "kind": "afirmacion"
+  },
+  {
+    "block": "Secundarios",
+    "difficulty": "Difícil",
+    "q": "Completa correctamente: Solución: ________.",
+    "a": "David",
+    "d": [
+      "Mike",
+      "Gary",
+      "Roger"
+    ],
+    "x": "Solución: David.",
+    "season": "General",
+    "id": "friends-v12-248",
+    "fact": "friends-v12-248",
+    "show": "friends",
+    "kind": "completar"
+  },
+  {
+    "block": "Eventos",
+    "difficulty": "Media",
+    "q": "¿Qué mascotas tienen Joey y Chandler?",
+    "a": "Un pato y un pollito",
+    "d": [
+      "Dos gatos",
+      "Un mono y un loro",
+      "Dos conejos"
+    ],
+    "x": "Solución: Un pato y un pollito.",
+    "season": "General",
+    "id": "friends-v12-249",
+    "fact": "friends-v12-249",
+    "show": "friends",
+    "kind": "directa"
+  }
+];

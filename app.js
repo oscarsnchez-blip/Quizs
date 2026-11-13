@@ -3,7 +3,7 @@ const cfg={friends:{t:'Friends',i:'friends.webp',b:()=>BANK_FRIENDS},stranger:{t
 let key,bank,diff='Fácil',mode='solo',count=10,blocks=new Set(),game=[],idx=0,players=[];
 const mix=a=>{a=[...a];for(let i=a.length-1;i;i--){let j=crypto.getRandomValues(new Uint32Array(1))[0]%(i+1);[a[i],a[j]]=[a[j],a[i]]}return a};
 function show(id){$$('main>section').forEach(x=>x.hidden=x.id!==id);window.scrollTo({top:0,behavior:'instant'})}
-function deckKey(){return`deck-v16:${key}:${diff}:${[...blocks].sort().join('|')}`}
+function deckKey(){return`deck-v17:${key}:${diff}:${[...blocks].sort().join('|')}`}
 function pick(pool,n){let map=new Map(pool.map(x=>[x.fact,x])),ids=[...map.keys()],deck;try{deck=JSON.parse(localStorage.getItem(deckKey())||'[]').filter(x=>map.has(x))}catch{deck=[]}if(deck.length<n)deck.push(...mix(ids.filter(x=>!deck.includes(x))));let chosen=deck.splice(0,Math.min(n,ids.length));localStorage.setItem(deckKey(),JSON.stringify(deck));return chosen.map(x=>map.get(x))}
 function setSelected(selector,match){$$(selector).forEach(b=>{const active=match(b);b.classList.toggle('selected',active);b.setAttribute('aria-pressed',String(active))})}
 function info(){const total=bank.filter(x=>x.difficulty===diff&&blocks.has(x.block)).length;$('#available').textContent=`${total} preguntas disponibles`;$('#start').disabled=total===0;$('#toggle-all').textContent=blocks.size?'Desmarcar todas':'Seleccionar todas'}
